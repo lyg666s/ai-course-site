@@ -1,0 +1,96 @@
+/* 代码高亮 · Xcode 风格浅/深双主题（由 build_site.py 生成） */
+.k,
+.kn,
+.kr,
+.kd,
+.kc,
+.ow { color: #AD3DA4; }
+.nf,
+.fm,
+.nb,
+.bp { color: #3E8087; }
+.nc,
+.nn,
+.ne { color: #3E1E81; }
+.s,
+.sa,
+.sb,
+.sc,
+.dl,
+.sd,
+.s1,
+.s2,
+.se,
+.si,
+.sh,
+.sx,
+.sr { color: #C41A16; }
+.mi,
+.mf,
+.mb,
+.mh,
+.il { color: #272AD8; }
+.c,
+.c1,
+.ch,
+.cm,
+.cp,
+.cpf,
+.cs { color: #707F8C; }
+.nd { color: #78492A; }
+.c,
+.c1,
+.ch,
+.cm,
+.cp,
+.cpf,
+.cs { font-style: italic; }
+
+@media (prefers-color-scheme: dark) {
+.k,
+.kn,
+.kr,
+.kd,
+.kc,
+.ow { color: #FC5FA3; }
+.nf,
+.fm,
+.nb,
+.bp { color: #67B7A4; }
+.nc,
+.nn,
+.ne { color: #D0A8FF; }
+.s,
+.sa,
+.sb,
+.sc,
+.dl,
+.sd,
+.s1,
+.s2,
+.se,
+.si,
+.sh,
+.sx,
+.sr { color: #FC6A5D; }
+.mi,
+.mf,
+.mb,
+.mh,
+.il { color: #D0BF69; }
+.c,
+.c1,
+.ch,
+.cm,
+.cp,
+.cpf,
+.cs { color: #6C7986; }
+.nd { color: #BF5AF2; }
+.c,
+.c1,
+.ch,
+.cm,
+.cp,
+.cpf,
+.cs { font-style: italic; }
+}

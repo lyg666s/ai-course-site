@@ -1,0 +1,32 @@
+# mac
+.DS_Store
+
+# temp
+/temp
+
+# cache
+__pycache__
+
+# env
+.env
+
+# frontend
+node_modules
+
+# build
+__pycache__/
+*.py[cod]
+build/
+*.egg-info/
+.venv/
+.env
+
+# 本地工具
+.claude/
+.codegraph/
+.vscode/
+
+# 课件源目录（各课程内容已在上游 gitee/github 公开；本仓库只发布生成的站点）
+/[0-9]*/
+HTML/
+.github/
