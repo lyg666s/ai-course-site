@@ -25,8 +25,9 @@
     if (bar) bar.style.width = (total ? (count / total) * 100 : 0) + "%";
     if (text) text.textContent = "已学 " + count + " / " + total;
   }
-  var learnBtn = $(".learn");
-  if (learnBtn) {
+  function initLearn() {
+    var learnBtn = $(".learn");
+    if (!learnBtn) return;
     var n = learnBtn.dataset.ch;
     var paint = function () {
       var on = !!getDone()[n];
@@ -56,23 +57,26 @@
     var head = el.querySelector(".fold-head");
     if (head) head.setAttribute("aria-expanded", open ? "true" : "false");
   }
-  $$(".fold").forEach(function (el) {
-    var head = el.querySelector(".fold-head");
-    if (!head) return;
-    if (head.hasAttribute("data-pinned")) { setFold(el, true); }
-    else if (treeOpen[el.dataset.fold]) { setFold(el, true); }
-    head.addEventListener("click", function () {
-      var open = !el.classList.contains("open");
-      setFold(el, open);
-      if (open) treeOpen[el.dataset.fold] = true;
-      else delete treeOpen[el.dataset.fold];
-      try {
-        localStorage.setItem(TREE_KEY, JSON.stringify(Object.keys(treeOpen)));
-      } catch (e) {}
+  function initFolds() {
+    $$(".fold").forEach(function (el) {
+      var head = el.querySelector(".fold-head");
+      if (!head) return;
+      if (head.hasAttribute("data-pinned")) { setFold(el, true); }
+      else if (treeOpen[el.dataset.fold]) { setFold(el, true); }
+      head.addEventListener("click", function () {
+        var open = !el.classList.contains("open");
+        setFold(el, open);
+        if (open) treeOpen[el.dataset.fold] = true;
+        else delete treeOpen[el.dataset.fold];
+        try {
+          localStorage.setItem(TREE_KEY, JSON.stringify(Object.keys(treeOpen)));
+        } catch (e) {}
+      });
     });
-  });
+  }
 
   /* ---------- 代码复制（非 Python 块） ---------- */
+  function initCopy() {
   $$(".md .codehilite:not(.lang-python), .md > pre").forEach(function (block) {
     var pre = block.querySelector("pre") || block;
     var btn = document.createElement("button");
@@ -87,6 +91,7 @@
     });
     block.appendChild(btn);
   });
+  }
 
   /* ---------- 轻量 Python 高亮（编辑后自动重新着色） ---------- */
   var PY_KW = /^(?:def|return|class|if|elif|else|for|while|in|not|and|or|import|from|as|with|try|except|finally|raise|pass|break|continue|lambda|global|nonlocal|yield|del|assert|async|await|is|None|True|False)\b/;
@@ -183,7 +188,8 @@
     return pyodideReady;
   }
 
-  $$(".md .codehilite.lang-python:not(.lang-norun)").forEach(function (block) {
+  function initCodeCards() {
+    $$(".md .codehilite.lang-python:not(.lang-norun)").forEach(function (block) {
     var pre = block.querySelector("pre");
     if (!pre) return;
     var card = document.createElement("div");
@@ -282,17 +288,21 @@
       });
     });
   });
+  }
 
   /* ---------- 右栏目录 scrollspy ---------- */
-  var tocLinks = $$(".toc-list a");
-  if (tocLinks.length && "IntersectionObserver" in window) {
+  var pageSpy = null;
+  function initScrollspy() {
+    if (pageSpy) { pageSpy.disconnect(); pageSpy = null; }
+    var tocLinks = $$(".toc-list a");
+    if (!tocLinks.length || !("IntersectionObserver" in window)) return;
     var byId = {};
     tocLinks.forEach(function (a) { byId[a.getAttribute("href").slice(1)] = a; });
     var headings = Object.keys(byId)
       .map(function (id) { return document.getElementById(id); })
       .filter(Boolean);
     var active = null;
-    var spy = new IntersectionObserver(function (entries) {
+    pageSpy = new IntersectionObserver(function (entries) {
       entries.forEach(function (en) {
         if (en.isIntersecting) {
           if (active) active.classList.remove("active");
@@ -301,7 +311,7 @@
         }
       });
     }, { rootMargin: "-10% 0px -75% 0px", threshold: 0 });
-    headings.forEach(function (h) { spy.observe(h); });
+    headings.forEach(function (h) { pageSpy.observe(h); });
   }
 
   /* ---------- 搜索 ---------- */
@@ -388,24 +398,25 @@
   }
 
   /* ---------- 侧栏滚动定位：跳转后让当前章节保持可见 ---------- */
-  var sideNav = document.querySelector(".side-nav");
-  if (sideNav) {
+  function jumpToActive() {
+    var sideNav = $(".side-nav");
+    if (!sideNav) return;
+    var active = sideNav.querySelector(".side-link.active");
+    if (!active) return;
+    active.scrollIntoView({ block: "nearest", inline: "nearest" });
+    // 贴着底边时上移一点，让当前章节和它的下一章都能看到
+    var nb = sideNav.getBoundingClientRect().bottom;
+    var ab = active.getBoundingClientRect().bottom;
+    if (nb - ab < 32) sideNav.scrollTop -= 32 - (nb - ab);
+  }
+  function bindSideNavScroll() {
+    var sideNav = $(".side-nav");
+    if (!sideNav) return;
     var savedScroll = NaN;
     try {
       savedScroll = parseInt(sessionStorage.getItem("pycourse-side-scroll"), 10);
     } catch (e) {}
     if (!isNaN(savedScroll)) sideNav.scrollTop = savedScroll;
-    var jumpToActive = function () {
-      var active = sideNav.querySelector(".side-link.active");
-      if (!active) return;
-      active.scrollIntoView({ block: "nearest", inline: "nearest" });
-      // 贴着底边时上移一点，让当前章节和它的下一章都能看到
-      var nb = sideNav.getBoundingClientRect().bottom;
-      var ab = active.getBoundingClientRect().bottom;
-      if (nb - ab < 32) sideNav.scrollTop -= 32 - (nb - ab);
-    };
-    jumpToActive();
-    setTimeout(jumpToActive, 300); // 等折叠展开动画结束再校准一次
     var scrollTimer = null;
     sideNav.addEventListener("scroll", function () {
       if (scrollTimer) clearTimeout(scrollTimer);
@@ -416,6 +427,9 @@
       }, 120);
     });
   }
+  bindSideNavScroll();
+  jumpToActive();
+  setTimeout(jumpToActive, 300); // 等折叠展开动画结束再校准一次
 
   /* ---------- 移动端抽屉 ---------- */
   var burger = $("#burger");
@@ -434,7 +448,69 @@
     if (e.target.matches("input, textarea") || e.target.isContentEditable ||
         e.metaKey || e.ctrlKey || e.altKey) return;
     var prev = $(".pager-prev"), next = $(".pager-next");
-    if (e.key === "ArrowLeft" && prev) location.href = prev.href;
-    if (e.key === "ArrowRight" && next) location.href = next.href;
+    if (e.key === "ArrowLeft" && prev) navigate(prev.href, true);
+    if (e.key === "ArrowRight" && next) navigate(next.href, true);
   });
+
+  /* ---------- 客户端路由：站内跳转无刷新 ---------- */
+  function applyPage(doc) {
+    document.title = doc.title;
+    var newLayout = doc.querySelector(".layout");
+    var oldLayout = document.querySelector(".layout");
+    if (newLayout && oldLayout) oldLayout.replaceWith(newLayout);
+    var newNav = doc.querySelector(".side-nav");
+    var oldNav = document.querySelector(".side-nav");
+    if (newNav && oldNav) oldNav.replaceWith(newNav);
+    var input = $("#search-input"), panel = $("#search-panel");
+    if (input) input.value = "";
+    if (panel) panel.hidden = true;
+    document.body.classList.remove("nav-open");
+    bindSideNavScroll();
+    initFolds();
+    initLearn();
+    initCopy();
+    initCodeCards();
+    initScrollspy();
+    refreshProgress();
+    jumpToActive();
+    setTimeout(jumpToActive, 300);
+  }
+  function navigate(href, push) {
+    var u = new URL(href, location.href);
+    if (u.origin !== location.origin) { location.href = href; return; }
+    fetch(u.pathname + u.search)
+      .then(function (r) {
+        if (!r.ok) throw new Error("HTTP " + r.status);
+        return r.text();
+      })
+      .then(function (text) {
+        var doc = new DOMParser().parseFromString(text, "text/html");
+        applyPage(doc);
+        if (push) history.pushState({}, "", u.pathname + u.search + u.hash);
+        var target = u.hash ? document.getElementById(decodeURIComponent(u.hash.slice(1))) : null;
+        if (target) target.scrollIntoView();
+        else window.scrollTo(0, 0);
+      })
+      .catch(function () { location.href = href; });
+  }
+  document.addEventListener("click", function (e) {
+    if (e.defaultPrevented || e.button !== 0 || e.metaKey || e.ctrlKey || e.shiftKey || e.altKey) return;
+    var a = e.target.closest ? e.target.closest("a") : null;
+    if (!a || a.target === "_blank" || a.hasAttribute("download")) return;
+    if (a.origin !== location.origin || !/\.html$/.test(a.pathname)) return;
+    if (a.pathname === location.pathname && a.hash) return; // 同页锚点走浏览器默认
+    if (a.pathname + a.search === location.pathname + location.search) { e.preventDefault(); return; }
+    e.preventDefault();
+    navigate(a.href, true);
+  });
+  window.addEventListener("popstate", function () {
+    navigate(location.href, false);
+  });
+
+  /* ---------- 启动 ---------- */
+  initFolds();
+  initLearn();
+  initCopy();
+  initCodeCards();
+  initScrollspy();
 })();
