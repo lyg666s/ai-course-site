@@ -2,6 +2,7 @@
 
 import Link from "next/link";
 import { useEffect, useState } from "react";
+import { usePathname } from "next/navigation";
 import { getDone, type DoneMap } from "@/lib/progress";
 
 export type ChMeta = {
@@ -60,6 +61,12 @@ export default function Sidebar({
       window.removeEventListener("pycourse-progress", update);
     };
   }, []);
+
+  // 跳转后自动收起移动端抽屉
+  const pathname = usePathname();
+  useEffect(() => {
+    document.body.classList.remove("nav-open");
+  }, [pathname]);
 
   const toggle = (id: string) =>
     setOpen((prev) => {
