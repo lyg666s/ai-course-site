@@ -150,7 +150,6 @@ body:not(.has-sidebar) .burger-btn { display: none; }
 @media (max-width: 920px) {
   .burger-btn { display: inline-flex; }
   .topnav .tabs { display: none; }
-  .doc-wrap { margin-left: 0; }
   .sidebar {
     transform: translateX(-100%);
     transition: transform 0.28s cubic-bezier(0.32, 0.72, 0, 1);
@@ -158,7 +157,6 @@ body:not(.has-sidebar) .burger-btn { display: none; }
   }
   body.nav-open .sidebar { transform: none; box-shadow: 0 0 70px rgba(0, 0, 0, 0.35); }
   body.nav-open .backdrop { display: block; position: fixed; inset: 57px 0 0 0; z-index: 35; background: rgba(0, 0, 0, 0.4); }
-  .doc-wrap { margin-left: 0; }
 }
 
 /* ===== 顶栏 ===== */
@@ -430,7 +428,7 @@ pre[contenteditable="true"] { outline: none; caret-color: var(--blue); -webkit-u
 }
 
 @media (max-width: 920px) {
-  .doc-wrap { padding: 76px 14px 70px; }
+  .doc-wrap { margin-left: 0; padding: 76px 14px 70px; }
   .doc { padding: 28px 22px 30px; border-radius: 16px; }
   .hero { padding: 32px 24px; border-radius: 16px; }
   .toc { display: none; }
