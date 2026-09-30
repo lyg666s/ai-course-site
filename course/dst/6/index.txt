@@ -1,0 +1,631 @@
+1:"$Sreact.fragment"
+2:I[9130,["619","static/chunks/619-ba102abea3e3d0e4.js","177","static/chunks/app/layout-f06582a541a082fb.js"],"default"]
+3:I[9766,[],""]
+4:I[8924,[],""]
+6:I[4431,[],"OutletBoundary"]
+8:I[5278,[],"AsyncMetadataOutlet"]
+a:I[4431,[],"ViewportBoundary"]
+c:I[4431,[],"MetadataBoundary"]
+d:"$Sreact.suspense"
+f:I[7150,[],""]
+:HL["/ai-course-site/_next/static/css/e17dd95ac0dd78dc.css","style"]
+0:{"P":null,"b":"eFCLH0M-aOlbibikUsuSf","p":"/ai-course-site","c":["","course","dst","6",""],"i":false,"f":[[["",{"children":["course",{"children":[["key","dst","d"],{"children":[["ch","6","d"],{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/ai-course-site/_next/static/css/e17dd95ac0dd78dc.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"zh-CN","suppressHydrationWarning":true,"children":[["$","head",null,{"children":["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var t=localStorage.getItem(\"theme\");var d=t?t===\"dark\":window.matchMedia(\"(prefers-color-scheme: dark)\").matches;if(d)document.documentElement.classList.add(\"dark\");}catch(e){}})();"}}]}],["$","body",null,{"children":[["$","$L2",null,{"families":[{"key":"agent","name":"AI · Agent 开发"},{"key":"dev","name":"编程与工程基础"}]}],["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","footer",null,{"className":"mx-auto max-w-[52rem] px-6 pb-10 text-center text-xs text-label3","children":"AI大全栈 · 课程手册 — 由课件自动生成，仅供学习使用"}]]}]]}]]}],{"children":["course",["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["key","dst","d"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["ch","6","d"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L5",null,["$","$L6",null,{"children":["$L7",["$","$L8",null,{"promise":"$@9"}]]}]]}],{},null,false]},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$La",null,{"children":"$Lb"}],null],["$","$Lc",null,{"children":["$","div",null,{"hidden":true,"children":["$","$d",null,{"fallback":null,"children":"$Le"}]}]}]]}],false]],"m":"$undefined","G":["$f",[]],"s":false,"S":true}
+10:I[7010,["619","static/chunks/619-ba102abea3e3d0e4.js","526","static/chunks/app/course/%5Bkey%5D/%5Bch%5D/page-166c66fba529f17a.js"],"default"]
+11:I[6710,["619","static/chunks/619-ba102abea3e3d0e4.js","526","static/chunks/app/course/%5Bkey%5D/%5Bch%5D/page-166c66fba529f17a.js"],"default"]
+5:[["$","$L10",null,{"url":"/course/dst/6/","title":"Pandas - 数据清洗","course":"数据科学工具包"}],["$","div",null,{"className":"doc-wrap","children":[["$","$L11",null,{"courses":[{"key":"py","title":"Python语言核心精讲","glyph":"Py","cls":"b1","coming_soon":false,"modules":[{"name":"语言基础","chapters":[{"n":1,"slug":"1","title":"必看导言","group":"语言基础","progress_key":"1"},{"n":2,"slug":"2","title":"python环境安装","group":"语言基础","progress_key":"2"},{"n":3,"slug":"3","title":"python基本语法","group":"语言基础","progress_key":"3"},{"n":4,"slug":"4","title":"容器类型","group":"语言基础","progress_key":"4"},{"n":5,"slug":"5","title":"函数","group":"语言基础","progress_key":"5"},{"n":6,"slug":"6","title":"作用域","group":"语言基础","progress_key":"6"},{"n":7,"slug":"7","title":"lambda表达式","group":"语言基础","progress_key":"7"}]},{"name":"面向对象","chapters":[{"n":8,"slug":"8","title":"类和对象","group":"面向对象","progress_key":"8"},{"n":9,"slug":"9","title":"对象的类型","group":"面向对象","progress_key":"9"},{"n":10,"slug":"10","title":"对象的创建过程","group":"面向对象","progress_key":"10"},{"n":11,"slug":"11","title":"可调用对象","group":"面向对象","progress_key":"11"},{"n":12,"slug":"12","title":"元类","group":"面向对象","progress_key":"12"},{"n":13,"slug":"13","title":"装饰器","group":"面向对象","progress_key":"13"},{"n":14,"slug":"14","title":"魔术方法","group":"面向对象","progress_key":"14"},{"n":15,"slug":"15","title":"描述符","group":"面向对象","progress_key":"15"}]},{"name":"语言进阶","chapters":[{"n":16,"slug":"16","title":"异常处理","group":"语言进阶","progress_key":"16"},{"n":17,"slug":"17","title":"迭代器与生成器","group":"语言进阶","progress_key":"17"},{"n":18,"slug":"18","title":"上下文管理器","group":"语言进阶","progress_key":"18"},{"n":19,"slug":"19","title":"ABC","group":"语言进阶","progress_key":"19"},{"n":20,"slug":"20","title":"类型标注","group":"语言进阶","progress_key":"20"},{"n":21,"slug":"21","title":"模块化","group":"语言进阶","progress_key":"21"},{"n":22,"slug":"22","title":"标准库","group":"语言进阶","progress_key":"22"},{"n":23,"slug":"23","title":"第三方库","group":"语言进阶","progress_key":"23"}]},{"name":"异步与并发","chapters":[{"n":24,"slug":"24","title":"事件循环","group":"异步与并发","progress_key":"24"},{"n":25,"slug":"25","title":"Future类","group":"异步与并发","progress_key":"25"},{"n":26,"slug":"26","title":"协程 Coroutine","group":"异步与并发","progress_key":"26"},{"n":27,"slug":"27","title":"异步编程","group":"异步与并发","progress_key":"27"},{"n":28,"slug":"28","title":"多线程与多进程","group":"异步与并发","progress_key":"28"}]},{"name":"工程化实践","chapters":[{"n":29,"slug":"29","title":"构建发布","group":"工程化实践","progress_key":"29"},{"n":30,"slug":"30","title":"项目管理工具","group":"工程化实践","progress_key":"30"},{"n":31,"slug":"31","title":"monorepo","group":"工程化实践","progress_key":"31"},{"n":32,"slug":"32","title":"断点调试","group":"工程化实践","progress_key":"32"}]},{"name":"项目案例","chapters":[{"n":null,"slug":"proj-async-agents","title":"多智能体协同调研系统","group":"项目案例","progress_key":""},{"n":null,"slug":"proj-duyi-utils","title":"duyi-utils 构建发布示例","group":"项目案例","progress_key":""}]}]},{"key":"fw","title":"Python框架","glyph":"架","cls":"b-fw","coming_soon":false,"modules":[{"name":"课程内容","chapters":[{"n":1,"slug":"1","title":"Web服务框架","group":"课程内容","progress_key":"fw-1"},{"n":2,"slug":"2","title":"优化包结构","group":"课程内容","progress_key":"fw-2"},{"n":3,"slug":"3","title":"初识SQLAlchemy","group":"课程内容","progress_key":"fw-3"},{"n":4,"slug":"4","title":"ORM","group":"课程内容","progress_key":"fw-4"},{"n":5,"slug":"5","title":"数据操作","group":"课程内容","progress_key":"fw-5"},{"n":6,"slug":"6","title":"数据迁移","group":"课程内容","progress_key":"fw-6"},{"n":7,"slug":"7","title":"业务逻辑","group":"课程内容","progress_key":"fw-7"},{"n":8,"slug":"8","title":"依赖注入","group":"课程内容","progress_key":"fw-8"},{"n":9,"slug":"9","title":"统一异常处理","group":"课程内容","progress_key":"fw-9"},{"n":10,"slug":"10","title":"中间件","group":"课程内容","progress_key":"fw-10"},{"n":11,"slug":"11","title":"测试框架","group":"课程内容","progress_key":"fw-11"},{"n":12,"slug":"12","title":"测试方案","group":"课程内容","progress_key":"fw-12"},{"n":13,"slug":"13","title":"三层架构","group":"课程内容","progress_key":"fw-13"},{"n":14,"slug":"14","title":"文件上传","group":"课程内容","progress_key":"fw-14"},{"n":15,"slug":"15","title":"系统设置","group":"课程内容","progress_key":"fw-15"},{"n":17,"slug":"17","title":"用户系统","group":"课程内容","progress_key":"fw-17"},{"n":18,"slug":"18","title":"日志","group":"课程内容","progress_key":"fw-18"},{"n":20,"slug":"20","title":"流式响应","group":"课程内容","progress_key":"fw-20"},{"n":26,"slug":"26","title":"python收官检验","group":"课程内容","progress_key":"fw-26"}]},{"name":"部署","chapters":[{"n":21,"slug":"21","title":"部署-认识Docker","group":"部署","progress_key":"fw-21"},{"n":22,"slug":"22","title":"部署-云资产","group":"部署","progress_key":"fw-22"},{"n":23,"slug":"23","title":"部署-k8s","group":"部署","progress_key":"fw-23"},{"n":24,"slug":"24","title":"部署-CICD","group":"部署","progress_key":"fw-24"},{"n":25,"slug":"25","title":"部署-总结","group":"部署","progress_key":"fw-25"}]}]},{"key":"db","title":"数据库","glyph":"库","cls":"b-db","coming_soon":false,"modules":[{"name":"课程内容","chapters":[{"n":1,"slug":"1","title":"PostgreSQL安装","group":"课程内容","progress_key":"db-1"},{"n":2,"slug":"2","title":"DDL","group":"课程内容","progress_key":"db-2"},{"n":3,"slug":"3","title":"表间关系","group":"课程内容","progress_key":"db-3"},{"n":4,"slug":"4","title":"DML","group":"课程内容","progress_key":"db-4"},{"n":5,"slug":"5","title":"事务","group":"课程内容","progress_key":"db-5"},{"n":6,"slug":"6","title":"索引","group":"课程内容","progress_key":"db-6"},{"n":7,"slug":"7","title":"拓展知识","group":"课程内容","progress_key":"db-7"}]}]},{"key":"dst","title":"数据科学工具包","glyph":"数","cls":"b-ds","coming_soon":false,"modules":[{"name":"课程内容","chapters":[{"n":1,"slug":"1","title":"课程导言","group":"课程内容","progress_key":"dst-1","sections":[]},{"n":2,"slug":"2","title":"Jupyter","group":"课程内容","progress_key":"dst-2","sections":[]},{"n":10,"slug":"10","title":"Seaborn","group":"课程内容","progress_key":"dst-10","sections":[{"name":"1. 薪资分布 — 单变量分析","anchor":"1-薪资分布-单变量分析"},{"name":"2. 学历与薪资 — 分类对比","anchor":"2-学历与薪资-分类对比"},{"name":"3. 经验与薪资 — 回归分析","anchor":"3-经验与薪资-回归分析"}]}]},{"name":"Numpy","chapters":[{"n":3,"slug":"3","title":"Numpy - 核心概念","group":"Numpy","progress_key":"dst-3","sections":[{"name":"ndarray","anchor":"ndarray"},{"name":"核心概念","anchor":"核心概念"}]},{"n":4,"slug":"4","title":"Numpy - 数据操作","group":"Numpy","progress_key":"dst-4","sections":[{"name":"数组创建","anchor":"数组创建"},{"name":"索引与切片","anchor":"索引与切片"},{"name":"变形与重塑","anchor":"变形与重塑"},{"name":"数学运算","anchor":"数学运算"},{"name":"统计运算","anchor":"统计运算"},{"name":"条件筛选与 np.where","anchor":"条件筛选与-npwhere"},{"name":"拼接与分割","anchor":"拼接与分割"},{"name":"排序","anchor":"排序"},{"name":"广播（Broadcasting）","anchor":"广播Broadcasting"},{"name":"总结","anchor":"总结"}]}]},{"name":"Pandas","chapters":[{"n":5,"slug":"5","title":"Pandas - 数据类型","group":"Pandas","progress_key":"dst-5","sections":[{"name":"Series","anchor":"Series"},{"name":"DataFrame 创建","anchor":"DataFrame-创建"},{"name":"DataFrame 的组成结构","anchor":"DataFrame-的组成结构"}]},{"n":6,"slug":"6","title":"Pandas - 数据清洗","group":"Pandas","progress_key":"dst-6","sections":[{"name":"1. 数据初探","anchor":"1-数据初探"},{"name":"2. 应届信息提取","anchor":"2-应届信息提取"},{"name":"3. 学历清洗","anchor":"3-学历清洗"},{"name":"4. 城市清洗","anchor":"4-城市清洗"},{"name":"5. 经验清洗","anchor":"5-经验清洗"},{"name":"6. 薪资清洗","anchor":"6-薪资清洗"},{"name":"7. 清洗结果验证","anchor":"7-清洗结果验证"}]}]},{"name":"Matplotlib","chapters":[{"n":7,"slug":"7","title":"Matplotlib - 核心概念","group":"Matplotlib","progress_key":"dst-7","sections":[{"name":"1. Figure — 画布","anchor":"1-Figure-画布"},{"name":"2. Axes — 绘图区","anchor":"2-Axes-绘图区"},{"name":"3. Artist — 绘制元素","anchor":"3-Artist-绘制元素"},{"name":"总结：三层架构","anchor":"总结三层架构"}]},{"n":8,"slug":"8","title":"Matplotlib - 动画","group":"Matplotlib","progress_key":"dst-8","sections":[{"name":"1. FuncAnimation — 函数驱动动画","anchor":"1-FuncAnimation-函数驱动动画"},{"name":"2. ArtistAnimation — 预生成帧","anchor":"2-ArtistAnimation-预生成帧"},{"name":"3. 保存动画","anchor":"3-保存动画"}]},{"n":9,"slug":"9","title":"Matplotlib - 交互式组件","group":"Matplotlib","progress_key":"dst-9","sections":[{"name":"1. Slider — 滑块","anchor":"1-Slider-滑块"},{"name":"2. Button — 按钮","anchor":"2-Button-按钮"},{"name":"3. CheckButtons — 复选框","anchor":"3-CheckButtons-复选框"},{"name":"4. RadioButtons — 单选按钮","anchor":"4-RadioButtons-单选按钮"},{"name":"5. TextBox — 文本框","anchor":"5-TextBox-文本框"}]}]}]},{"key":"java","title":"Java","glyph":"J","cls":"b-java","coming_soon":true,"modules":[]},{"key":"cloud","title":"云计算","glyph":"云","cls":"b-cloud","coming_soon":true,"modules":[]}],"currentKey":"dst","currentSlug":"6"}],"$L12","$L13"]}]]
+14:I[756,["619","static/chunks/619-ba102abea3e3d0e4.js","526","static/chunks/app/course/%5Bkey%5D/%5Bch%5D/page-166c66fba529f17a.js"],"default"]
+15:I[1599,["619","static/chunks/619-ba102abea3e3d0e4.js","526","static/chunks/app/course/%5Bkey%5D/%5Bch%5D/page-166c66fba529f17a.js"],"default"]
+18:I[5340,["619","static/chunks/619-ba102abea3e3d0e4.js","526","static/chunks/app/course/%5Bkey%5D/%5Bch%5D/page-166c66fba529f17a.js"],"default"]
+16:Tb6bd,<h1 id="Pandas-数据清洗">Pandas 数据清洗</h1>
+<p>数据清洗是数据分析中最耗时但也最重要的环节。
+真实世界的数据往往是「脏」的——类型不统一、格式不一致、缺失值、异常值……</p>
+<p>本节课我们以一份真实的程序员薪资调查数据为例，动手做一次完整的数据清洗。</p>
+<p><strong>核心目标</strong>：统一各列数据类型，让数据「干净、可用」。</p>
+<div class="nb-cell"><div class="codehilite lang-nb"><pre><span></span><span class="kn">import</span><span class="w"> </span><span class="nn">pandas</span><span class="w"> </span><span class="k">as</span><span class="w"> </span><span class="nn">pd</span>
+<span class="kn">import</span><span class="w"> </span><span class="nn">numpy</span><span class="w"> </span><span class="k">as</span><span class="w"> </span><span class="nn">np</span>
+<span class="kn">import</span><span class="w"> </span><span class="nn">re</span>
+
+<span class="n">df</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">read_excel</span><span class="p">(</span><span class="s1">'../linking.xlsx'</span><span class="p">)</span>
+</pre></div>
+</div>
+<div class="nb-cell"><div class="codehilite lang-nb"><pre><span></span><span class="c1"># loc: 按索引标签名定位（行名、列名）</span>
+<span class="c1"># 语法: df.loc[行, 列]</span>
+<span class="c1"># df.loc[0:5]  # 索引0到5的所有行</span>
+<span class="c1"># df.loc[0:5, "城市"]  # 取前5行的城市列</span>
+<span class="c1"># df["城市"] == "北京"</span>
+<span class="c1"># df.loc[df["城市"] == "北京"]  # 条件筛选所有列</span>
+
+<span class="c1"># # iloc: 按整数位置定位</span>
+<span class="c1"># # 语法: df.iloc[行位置, 列位置]</span>
+<span class="c1"># df.iloc[0:5]  # 前5行</span>
+<span class="c1"># df.iloc[0:5, 0:3]  # 前5行、前3列</span>
+<span class="c1"># df.iloc[0, 0]  # 第一行第一列的值</span>
+</pre></div>
+<div class="nb-out"><pre class="nb-result">0    北京
+1    杭州
+2    长沙
+3    北京
+4    济南
+Name: 城市, dtype: str</pre></div></div>
+<h2 id="1-数据初探">1. 数据初探</h2>
+<p>拿到一份新数据，先别急着动手——先「观察」。</p>
+<p><code>df.info()</code> 可以快速了解：数据量、各列类型、缺失情况。</p>
+<div class="nb-cell"><div class="codehilite lang-nb"><pre><span></span><span class="n">df</span><span class="o">.</span><span class="n">info</span><span class="p">()</span>
+</pre></div>
+<div class="nb-out"><pre class="nb-stream">&lt;class &#x27;pandas.DataFrame&#x27;&gt;
+RangeIndex: 679 entries, 0 to 678
+Data columns (total 6 columns):
+ #   Column  Non-Null Count  Dtype 
+---  ------  --------------  ----- 
+ 0   昵称      676 non-null    object
+ 1   学历      677 non-null    str   
+ 2   城市      658 non-null    str   
+ 3   经验      662 non-null    object
+ 4   薪资      578 non-null    str   
+ 5   备注      222 non-null    object
+dtypes: object(3), str(3)
+memory usage: 32.0+ KB
+</pre></div></div>
+<p><code>df.head()</code> 看一下前几行，对数据内容有个直观感受。</p>
+<div class="nb-cell"><div class="codehilite lang-nb"><pre><span></span><span class="n">df</span><span class="o">.</span><span class="n">head</span><span class="p">()</span>
+</pre></div>
+<div class="nb-out"><pre class="nb-result">       昵称  学历  城市          经验              薪资                            备注
+0     Map   本  北京        26应届              实习                           NaN
+1  yanni*   本  杭州  6年前端\n2年转行  前端：20k\n转行：28k        新能源企业前端--&gt;产品--&gt;销售--&gt;售前
+2     边牧*   本  长沙          5年              9k  离职，空窗期2年，北京17k，React，Flutter
+3     决堤*  本科  北京        25应届              9k                           被辞退
+4     月亮*   专  济南          3年              9k                           NaN</pre></div></div>
+<p>再单独看看每列的类型和缺失值数量。</p>
+<p>这里我们发现：虽然有 679 行，但很多列都有缺失值；而且<strong>类型全是 object/str</strong>——
+数值型的字段（经验、薪资）被读成了字符串，这是我们今天要解决的核心问题。</p>
+<div class="nb-cell"><div class="codehilite lang-nb"><pre><span></span><span class="n">df</span><span class="o">.</span><span class="n">dtypes</span>
+</pre></div>
+<div class="nb-out"><pre class="nb-result">昵称    object
+学历       str
+城市       str
+经验    object
+薪资       str
+备注    object
+dtype: object</pre></div></div>
+<div class="nb-cell"><div class="codehilite lang-nb"><pre><span></span><span class="n">df</span><span class="o">.</span><span class="n">isna</span><span class="p">()</span><span class="o">.</span><span class="n">sum</span><span class="p">()</span>
+</pre></div>
+<div class="nb-out"><pre class="nb-result">昵称      3
+学历      2
+城市     21
+经验     17
+薪资    101
+备注    457
+dtype: int64</pre></div></div>
+<h2 id="2-应届信息提取">2. 应届信息提取</h2>
+<p>很多列都混入了「26应届」「25应届」这类值——它其实是「毕业年份」信息，不是该列的正常数据。
+统一做法：把「X应届」提取为独立的一列「毕业年份」，原列留空（经验列写 0）。</p>
+<p>先看看「应届」值分布在哪些列：</p>
+<div class="nb-cell"><div class="codehilite lang-nb"><pre><span></span><span class="n">col_name</span> <span class="o">=</span> <span class="s1">'学历'</span>
+<span class="n">temp_mask</span> <span class="o">=</span> <span class="n">df</span><span class="p">[</span><span class="n">col_name</span><span class="p">]</span><span class="o">.</span><span class="n">astype</span><span class="p">(</span><span class="nb">str</span><span class="p">)</span><span class="o">.</span><span class="n">str</span><span class="o">.</span><span class="n">contains</span><span class="p">(</span><span class="s1">'应届'</span><span class="p">,</span> <span class="n">na</span><span class="o">=</span><span class="kc">False</span><span class="p">)</span>
+<span class="c1"># temp_mask</span>
+<span class="n">df</span><span class="o">.</span><span class="n">loc</span><span class="p">[</span><span class="n">temp_mask</span><span class="p">,</span> <span class="n">col_name</span><span class="p">]</span><span class="o">.</span><span class="n">head</span><span class="p">(</span><span class="mi">10</span><span class="p">)</span>
+<span class="c1"># df[temp_mask][['城市','经验','薪资','学历']].head(10)</span>
+</pre></div>
+<div class="nb-out"><pre class="nb-result">Series([], Name: 学历, dtype: str)</pre></div></div>
+<p>用 <code>str.extract()</code> 可以从字符串中提取正则匹配的部分。先试试一列：</p>
+<div class="nb-cell"><div class="codehilite lang-nb"><pre><span></span><span class="n">df</span><span class="o">.</span><span class="n">loc</span><span class="p">[</span><span class="n">temp_mask</span><span class="p">,</span> <span class="s1">'城市'</span><span class="p">]</span><span class="o">.</span><span class="n">astype</span><span class="p">(</span><span class="nb">str</span><span class="p">)</span><span class="o">.</span><span class="n">str</span><span class="o">.</span><span class="n">extract</span><span class="p">(</span><span class="sa">r</span><span class="s1">'(\d+)\s*应届'</span><span class="p">)</span>
+</pre></div>
+<div class="nb-out"><pre class="nb-result">      0
+51   26
+171  26
+191  29
+197  26
+198  26
+199  27
+202  27
+203  25
+207  27
+263  26
+377  27
+381  26
+382  27
+416  26
+658  26</pre></div></div>
+<p>拿到数字后加上 2000 就是真实的毕业年份。现在统一处理所有列：</p>
+<div class="nb-cell"><div class="codehilite lang-nb"><pre><span></span><span class="n">df</span><span class="p">[</span><span class="s1">'毕业年份'</span><span class="p">]</span> <span class="o">=</span> <span class="n">np</span><span class="o">.</span><span class="n">nan</span>
+
+<span class="k">for</span> <span class="n">col</span> <span class="ow">in</span> <span class="p">[</span><span class="s1">'城市'</span><span class="p">,</span> <span class="s1">'经验'</span><span class="p">]:</span>
+    <span class="n">mask</span> <span class="o">=</span> <span class="n">df</span><span class="p">[</span><span class="n">col</span><span class="p">]</span><span class="o">.</span><span class="n">astype</span><span class="p">(</span><span class="nb">str</span><span class="p">)</span><span class="o">.</span><span class="n">str</span><span class="o">.</span><span class="n">contains</span><span class="p">(</span><span class="sa">r</span><span class="s1">'应届'</span><span class="p">,</span> <span class="n">na</span><span class="o">=</span><span class="kc">False</span><span class="p">)</span>
+    <span class="n">year</span> <span class="o">=</span> <span class="n">df</span><span class="o">.</span><span class="n">loc</span><span class="p">[</span><span class="n">mask</span><span class="p">,</span> <span class="n">col</span><span class="p">]</span><span class="o">.</span><span class="n">astype</span><span class="p">(</span><span class="nb">str</span><span class="p">)</span><span class="o">.</span><span class="n">str</span><span class="o">.</span><span class="n">extract</span><span class="p">(</span><span class="sa">r</span><span class="s1">'(\d+)\s*应届'</span><span class="p">)</span>
+    <span class="k">if</span> <span class="ow">not</span> <span class="n">year</span><span class="o">.</span><span class="n">empty</span><span class="p">:</span>
+        <span class="n">df</span><span class="o">.</span><span class="n">loc</span><span class="p">[</span><span class="n">mask</span><span class="p">,</span> <span class="s1">'毕业年份'</span><span class="p">]</span> <span class="o">=</span> <span class="mi">2000</span> <span class="o">+</span> <span class="n">year</span><span class="p">[</span><span class="mi">0</span><span class="p">]</span><span class="o">.</span><span class="n">dropna</span><span class="p">()</span><span class="o">.</span><span class="n">astype</span><span class="p">(</span><span class="nb">int</span><span class="p">)</span>
+    <span class="k">if</span> <span class="n">col</span> <span class="o">==</span> <span class="s1">'经验'</span><span class="p">:</span>
+        <span class="n">df</span><span class="o">.</span><span class="n">loc</span><span class="p">[</span><span class="n">mask</span><span class="p">,</span> <span class="n">col</span><span class="p">]</span> <span class="o">=</span> <span class="mf">0.0</span>
+    <span class="k">else</span><span class="p">:</span>
+        <span class="n">df</span><span class="o">.</span><span class="n">loc</span><span class="p">[</span><span class="n">mask</span><span class="p">,</span> <span class="n">col</span><span class="p">]</span> <span class="o">=</span> <span class="kc">None</span>
+</pre></div>
+</div>
+<div class="nb-cell"><div class="codehilite lang-nb"><pre><span></span><span class="n">df</span><span class="p">[</span><span class="s1">'毕业年份'</span><span class="p">]</span><span class="o">.</span><span class="n">value_counts</span><span class="p">(</span><span class="n">dropna</span><span class="o">=</span><span class="kc">False</span><span class="p">)</span>
+</pre></div>
+<div class="nb-out"><pre class="nb-result">毕业年份
+NaN       570
+2026.0     62
+2027.0     34
+2025.0      8
+2028.0      4
+2029.0      1
+Name: count, dtype: int64</pre></div></div>
+<div class="nb-cell"><div class="codehilite lang-nb"><pre><span></span><span class="n">df</span><span class="p">[</span><span class="s1">'城市'</span><span class="p">]</span><span class="o">.</span><span class="n">value_counts</span><span class="p">(</span><span class="n">dropna</span><span class="o">=</span><span class="kc">False</span><span class="p">)</span>
+</pre></div>
+<div class="nb-out"><pre class="nb-result">城市
+北京      128
+深圳       77
+上海       68
+成都       62
+杭州       60
+       ... 
+广西柳州      1
+河北        1
+鄂州        1
+江西        1
+保定        1
+Name: count, Length: 70, dtype: int64</pre></div></div>
+<div class="nb-cell"><div class="codehilite lang-nb"><pre><span></span><span class="n">df</span><span class="p">[</span><span class="s1">'经验'</span><span class="p">]</span><span class="o">.</span><span class="n">value_counts</span><span class="p">(</span><span class="n">dropna</span><span class="o">=</span><span class="kc">False</span><span class="p">)</span>
+</pre></div>
+<div class="nb-out"><pre class="nb-result">经验
+0.0           99
+3年            77
+4年            68
+5年            65
+6年            39
+7年            35
+2年            32
+1年            31
+3.5年          30
+1.5年          25
+2.5年          23
+0.5年          23
+8年            18
+4.5年          17
+NaN           17
+10年           16
+9年            15
+5.5年           8
+11年            6
+0年             5
+7.5年           3
+9.5年           2
+13年            2
+12年            2
+-              2
+&lt;1年            2
+6年前端\n2年转行     1
+4个月            1
+上海             1
+14年            1
+15年+           1
+&lt;3年            1
+17年            1
+大一             1
+大三             1
+23年毕业          1
+10+年           1
+8年+            1
+3个月            1
+创业9年           1
+转行             1
+读研             1
+6.5年           1
+Name: count, dtype: int64</pre></div></div>
+<div class="nb-cell"><div class="codehilite lang-nb"><pre><span></span><span class="n">df</span>
+</pre></div>
+<div class="nb-out"><pre class="nb-result">         昵称  学历  城市          经验              薪资                            备注  \
+0       Map   本  北京         0.0              实习                           NaN   
+1    yanni*   本  杭州  6年前端\n2年转行  前端：20k\n转行：28k        新能源企业前端--&gt;产品--&gt;销售--&gt;售前   
+2       边牧*   本  长沙          5年              9k  离职，空窗期2年，北京17k，React，Flutter   
+3       决堤*  本科  北京         0.0              9k                           被辞退   
+4       月亮*   专  济南          3年              9k                           NaN   
+..      ...  ..  ..         ...             ...                           ...   
+674     lh*  初中  上海          8年             18k                            前端   
+675     微斯*   本  北京        3.5年             17k                           NaN   
+676     海盐*   专  北京        6.5年   25k-&gt;22k-&gt;18k                            前端   
+677    wah*   专  上海          7年             20k                            前端   
+678      渔*   本  武汉          2年              6k                            前端   
+
+       毕业年份  
+0    2026.0  
+1       NaN  
+2       NaN  
+3    2025.0  
+4       NaN  
+..      ...  
+674     NaN  
+675     NaN  
+676     NaN  
+677     NaN  
+678     NaN  
+
+[679 rows x 7 columns]</pre></div></div>
+<h2 id="3-学历清洗">3. 学历清洗</h2>
+<p>先看「学历」列——它是分类数据，但写法很不统一。</p>
+<div class="nb-cell"><div class="codehilite lang-nb"><pre><span></span><span class="n">df</span><span class="p">[</span><span class="s1">'学历'</span><span class="p">]</span><span class="o">.</span><span class="n">value_counts</span><span class="p">()</span>
+</pre></div>
+<div class="nb-out"><pre class="nb-result">学历
+本        374
+专        207
+硕         28
+高中        14
+本科         8
+高          8
+初          7
+硕士         6
+初中         5
+本211       4
+中专         4
+中          2
+985硕士      2
+大专         2
+小学         1
+招人         1
+高二         1
+专科         1
+留美         1
+985本       1
+Name: count, dtype: int64</pre></div></div>
+<p>问题很明显：
+- 「本」「本科」「本211」「985本」本质都是「本科」
+- 「专」「专科」「大专」本质都是「大专」
+- 「硕」「硕士」「985硕士」本质都是「硕士」
+- 「招人」「留美」等是异常值</p>
+<p>我们用 <code>map()</code> 做<strong>分类映射</strong>，不认识的统一设为 <code>NaN</code>。</p>
+<div class="nb-cell"><div class="codehilite lang-nb"><pre><span></span><span class="n">edu_map</span> <span class="o">=</span> <span class="p">{</span>
+    <span class="s1">'本'</span><span class="p">:</span> <span class="s1">'本科'</span><span class="p">,</span> 
+    <span class="s1">'本科'</span><span class="p">:</span> <span class="s1">'本科'</span><span class="p">,</span> 
+    <span class="s1">'本211'</span><span class="p">:</span> <span class="s1">'本科'</span><span class="p">,</span> 
+    <span class="s1">'985本'</span><span class="p">:</span> <span class="s1">'本科'</span><span class="p">,</span>
+    <span class="s1">'专'</span><span class="p">:</span> <span class="s1">'大专'</span><span class="p">,</span> 
+    <span class="s1">'专科'</span><span class="p">:</span> <span class="s1">'大专'</span><span class="p">,</span> 
+    <span class="s1">'大专'</span><span class="p">:</span> <span class="s1">'大专'</span><span class="p">,</span>
+    <span class="s1">'硕'</span><span class="p">:</span> <span class="s1">'硕士'</span><span class="p">,</span> 
+    <span class="s1">'硕士'</span><span class="p">:</span> <span class="s1">'硕士'</span><span class="p">,</span> 
+    <span class="s1">'985硕士'</span><span class="p">:</span> <span class="s1">'硕士'</span><span class="p">,</span>
+    <span class="s1">'高中'</span><span class="p">:</span> <span class="s1">'高中'</span><span class="p">,</span> 
+    <span class="s1">'高'</span><span class="p">:</span> <span class="s1">'高中'</span><span class="p">,</span> 
+    <span class="s1">'高二'</span><span class="p">:</span> <span class="s1">'高中'</span><span class="p">,</span>
+    <span class="s1">'初'</span><span class="p">:</span> <span class="s1">'初中'</span><span class="p">,</span> 
+    <span class="s1">'初中'</span><span class="p">:</span> <span class="s1">'初中'</span><span class="p">,</span>
+    <span class="s1">'中专'</span><span class="p">:</span> <span class="s1">'中专'</span><span class="p">,</span>
+    <span class="s1">'小学'</span><span class="p">:</span> <span class="s1">'小学'</span><span class="p">,</span>
+<span class="p">}</span>
+<span class="n">df</span><span class="p">[</span><span class="s1">'学历'</span><span class="p">]</span> <span class="o">=</span> <span class="n">df</span><span class="p">[</span><span class="s1">'学历'</span><span class="p">]</span><span class="o">.</span><span class="n">map</span><span class="p">(</span><span class="n">edu_map</span><span class="p">)</span>
+</pre></div>
+</div>
+<div class="nb-cell"><div class="codehilite lang-nb"><pre><span></span><span class="n">df</span><span class="p">[</span><span class="s1">'学历'</span><span class="p">]</span><span class="o">.</span><span class="n">value_counts</span><span class="p">(</span><span class="n">dropna</span><span class="o">=</span><span class="kc">False</span><span class="p">)</span>
+</pre></div>
+<div class="nb-out"><pre class="nb-result">学历
+本科     387
+大专     210
+硕士      36
+高中      23
+初中      12
+NaN      6
+中专       4
+小学       1
+Name: count, dtype: int64</pre></div></div>
+<p>清洗后类别清晰多了。还可以进一步把 <code>object</code> 转为 <code>category</code> 类型——
+既节省内存，也明确这是分类数据。</p>
+<div class="nb-cell"><div class="codehilite lang-nb"><pre><span></span><span class="n">df</span><span class="p">[</span><span class="s1">'学历'</span><span class="p">]</span> <span class="o">=</span> <span class="n">df</span><span class="p">[</span><span class="s1">'学历'</span><span class="p">]</span><span class="o">.</span><span class="n">astype</span><span class="p">(</span><span class="s1">'category'</span><span class="p">)</span>
+<span class="n">df</span><span class="p">[</span><span class="s1">'学历'</span><span class="p">]</span><span class="o">.</span><span class="n">dtype</span>
+</pre></div>
+<div class="nb-out"><pre class="nb-result">CategoricalDtype(categories=[&#x27;中专&#x27;, &#x27;初中&#x27;, &#x27;大专&#x27;, &#x27;小学&#x27;, &#x27;本科&#x27;, &#x27;硕士&#x27;, &#x27;高中&#x27;], ordered=False, categories_dtype=str)</pre></div></div>
+<h2 id="4-城市清洗">4. 城市清洗</h2>
+<p>城市列的主要问题是<strong>混入了不属于城市的数据</strong>。</p>
+<div class="nb-cell"><div class="codehilite lang-nb"><pre><span></span><span class="n">df</span><span class="p">[</span><span class="s1">'城市'</span><span class="p">]</span><span class="o">.</span><span class="n">value_counts</span><span class="p">()</span>
+</pre></div>
+<div class="nb-out"><pre class="nb-result">城市
+北京      128
+深圳       77
+上海       68
+成都       62
+杭州       60
+       ... 
+广西柳州      1
+河北        1
+鄂州        1
+江西        1
+保定        1
+Name: count, Length: 69, dtype: int64</pre></div></div>
+<p>可以看到「焦虑型人格」「在读」「-」等明显不是城市名。</p>
+<p>处理方法：先 <code>str.strip()</code> 去空格，再用布尔索引剔除非城市值。
+（「应届」相关值已在上述预处理中提走，不会再出现在这里。）</p>
+<div class="nb-cell"><div class="codehilite lang-nb"><pre><span></span><span class="c1"># 去空格</span>
+<span class="n">df</span><span class="p">[</span><span class="s1">'城市'</span><span class="p">]</span> <span class="o">=</span> <span class="n">df</span><span class="p">[</span><span class="s1">'城市'</span><span class="p">]</span><span class="o">.</span><span class="n">str</span><span class="o">.</span><span class="n">strip</span><span class="p">()</span>
+
+<span class="c1"># 省/市格式，保留斜杠后的城市名</span>
+<span class="c1"># 如「湖南/株洲」→「株洲」</span>
+<span class="n">df</span><span class="p">[</span><span class="s1">'城市'</span><span class="p">]</span> <span class="o">=</span> <span class="n">df</span><span class="p">[</span><span class="s1">'城市'</span><span class="p">]</span><span class="o">.</span><span class="n">str</span><span class="o">.</span><span class="n">split</span><span class="p">(</span><span class="s1">'/'</span><span class="p">)</span><span class="o">.</span><span class="n">str</span><span class="p">[</span><span class="o">-</span><span class="mi">1</span><span class="p">]</span><span class="o">.</span><span class="n">str</span><span class="o">.</span><span class="n">strip</span><span class="p">()</span>
+
+<span class="c1"># 剔除异常值</span>
+<span class="n">not_cities</span> <span class="o">=</span> <span class="p">[</span><span class="s1">'焦虑型人格'</span><span class="p">,</span> <span class="s1">'在读'</span><span class="p">,</span> <span class="s1">'-'</span><span class="p">]</span>
+<span class="n">df</span><span class="o">.</span><span class="n">loc</span><span class="p">[</span><span class="n">df</span><span class="p">[</span><span class="s1">'城市'</span><span class="p">]</span><span class="o">.</span><span class="n">isin</span><span class="p">(</span><span class="n">not_cities</span><span class="p">),</span> <span class="s1">'城市'</span><span class="p">]</span> <span class="o">=</span> <span class="kc">None</span>
+<span class="n">df</span><span class="o">.</span><span class="n">loc</span><span class="p">[</span><span class="n">df</span><span class="p">[</span><span class="s1">'城市'</span><span class="p">]</span> <span class="o">==</span> <span class="s1">'广西柳州'</span><span class="p">,</span> <span class="s1">'城市'</span><span class="p">]</span> <span class="o">=</span> <span class="s1">'柳州'</span>
+<span class="n">df</span><span class="p">[</span><span class="s1">'城市'</span><span class="p">]</span><span class="o">.</span><span class="n">value_counts</span><span class="p">()</span>
+</pre></div>
+<div class="nb-out"><pre class="nb-result">城市
+北京    129
+深圳     77
+上海     68
+成都     62
+杭州     60
+     ... 
+柳州      1
+河北      1
+鄂州      1
+江西      1
+保定      1
+Name: count, Length: 64, dtype: int64</pre></div></div>
+<h2 id="5-经验清洗">5. 经验清洗</h2>
+<p>经验列的目标是转为<strong>数值（年）</strong>。但现有的值五花八门——</p>
+<div class="nb-cell"><div class="codehilite lang-nb"><pre><span></span><span class="n">df</span><span class="p">[</span><span class="s1">'经验'</span><span class="p">]</span><span class="o">.</span><span class="n">value_counts</span><span class="p">()</span>
+</pre></div>
+<div class="nb-out"><pre class="nb-result">经验
+0.0           99
+3年            77
+4年            68
+5年            65
+6年            39
+7年            35
+2年            32
+1年            31
+3.5年          30
+1.5年          25
+2.5年          23
+0.5年          23
+8年            18
+4.5年          17
+10年           16
+9年            15
+5.5年           8
+11年            6
+0年             5
+7.5年           3
+9.5年           2
+13年            2
+12年            2
+-              2
+&lt;1年            2
+6年前端\n2年转行     1
+4个月            1
+上海             1
+14年            1
+15年+           1
+&lt;3年            1
+17年            1
+大一             1
+大三             1
+23年毕业          1
+10+年           1
+8年+            1
+3个月            1
+创业9年           1
+转行             1
+读研             1
+6.5年           1
+Name: count, dtype: int64</pre></div></div>
+<p>我们需要处理的情况：
+- <code>「3年」「2.5年」</code> → 提取数字
+- <code>「3个月」「4个月」</code> → 转为年
+- （应届已在预处理中统一处理为 0）
+- <code>「&lt;1年」「&lt;3年」</code> → 取中间值
+- <code>「10+年」</code> → 取下限
+- <code>「转行」「读研」「上海」</code> → 无法解析为经验值，设为 NaN</p>
+<p>这些规则适合用 <strong>自定义函数 + <code>apply()</code></strong> 来实现。</p>
+<div class="nb-cell"><div class="codehilite lang-nb"><pre><span></span><span class="k">def</span><span class="w"> </span><span class="nf">parse_experience</span><span class="p">(</span><span class="n">val</span><span class="p">):</span>
+    <span class="k">if</span> <span class="n">pd</span><span class="o">.</span><span class="n">isna</span><span class="p">(</span><span class="n">val</span><span class="p">):</span>
+        <span class="k">return</span> <span class="n">np</span><span class="o">.</span><span class="n">nan</span>
+    <span class="k">if</span> <span class="nb">isinstance</span><span class="p">(</span><span class="n">val</span><span class="p">,</span> <span class="p">(</span><span class="nb">int</span><span class="p">,</span> <span class="nb">float</span><span class="p">)):</span>
+        <span class="k">return</span> <span class="nb">float</span><span class="p">(</span><span class="n">val</span><span class="p">)</span>
+    <span class="n">s</span> <span class="o">=</span> <span class="nb">str</span><span class="p">(</span><span class="n">val</span><span class="p">)</span><span class="o">.</span><span class="n">strip</span><span class="p">()</span>
+    <span class="k">if</span> <span class="n">s</span> <span class="ow">in</span> <span class="p">[</span><span class="s1">'-'</span><span class="p">,</span> <span class="s1">''</span><span class="p">]:</span>
+        <span class="k">return</span> <span class="n">np</span><span class="o">.</span><span class="n">nan</span>
+    <span class="k">if</span> <span class="n">s</span> <span class="ow">in</span> <span class="p">[</span><span class="s1">'转行'</span><span class="p">,</span> <span class="s1">'读研'</span><span class="p">,</span> <span class="s1">'上海'</span><span class="p">]:</span>
+        <span class="k">return</span> <span class="n">np</span><span class="o">.</span><span class="n">nan</span>
+    <span class="k">if</span> <span class="s1">'应届'</span> <span class="ow">in</span> <span class="n">s</span> <span class="ow">or</span> <span class="s1">'毕业'</span> <span class="ow">in</span> <span class="n">s</span><span class="p">:</span>
+        <span class="k">return</span> <span class="mf">0.0</span>
+    <span class="k">if</span> <span class="n">s</span> <span class="ow">in</span> <span class="p">[</span><span class="s1">'大一'</span><span class="p">,</span> <span class="s1">'大三'</span><span class="p">]:</span>
+        <span class="k">return</span> <span class="mf">0.0</span>
+    <span class="n">plus_match</span> <span class="o">=</span> <span class="n">re</span><span class="o">.</span><span class="n">search</span><span class="p">(</span><span class="sa">r</span><span class="s1">'(\d+(?:\.\d+)?)\s*\+\s*年'</span><span class="p">,</span> <span class="n">s</span><span class="p">)</span>
+    <span class="k">if</span> <span class="n">plus_match</span><span class="p">:</span>
+        <span class="k">return</span> <span class="nb">float</span><span class="p">(</span><span class="n">plus_match</span><span class="o">.</span><span class="n">group</span><span class="p">(</span><span class="mi">1</span><span class="p">))</span>
+    <span class="n">lt_match</span> <span class="o">=</span> <span class="n">re</span><span class="o">.</span><span class="n">search</span><span class="p">(</span><span class="sa">r</span><span class="s1">'&lt;(\d+(?:\.\d+)?)\s*年'</span><span class="p">,</span> <span class="n">s</span><span class="p">)</span>
+    <span class="k">if</span> <span class="n">lt_match</span><span class="p">:</span>
+        <span class="n">v</span> <span class="o">=</span> <span class="nb">float</span><span class="p">(</span><span class="n">lt_match</span><span class="o">.</span><span class="n">group</span><span class="p">(</span><span class="mi">1</span><span class="p">))</span>
+        <span class="k">return</span> <span class="nb">max</span><span class="p">(</span><span class="n">v</span> <span class="o">-</span> <span class="mf">0.5</span><span class="p">,</span> <span class="mi">0</span><span class="p">)</span>
+    <span class="n">years</span> <span class="o">=</span> <span class="n">re</span><span class="o">.</span><span class="n">findall</span><span class="p">(</span><span class="sa">r</span><span class="s1">'(\d+(?:\.\d+)?)\s*年'</span><span class="p">,</span> <span class="n">s</span><span class="p">)</span>
+    <span class="k">if</span> <span class="n">years</span><span class="p">:</span>
+        <span class="k">return</span> <span class="nb">sum</span><span class="p">(</span><span class="nb">float</span><span class="p">(</span><span class="n">y</span><span class="p">)</span> <span class="k">for</span> <span class="n">y</span> <span class="ow">in</span> <span class="n">years</span><span class="p">)</span>
+    <span class="n">months</span> <span class="o">=</span> <span class="n">re</span><span class="o">.</span><span class="n">findall</span><span class="p">(</span><span class="sa">r</span><span class="s1">'(\d+)\s*个月'</span><span class="p">,</span> <span class="n">s</span><span class="p">)</span>
+    <span class="k">if</span> <span class="n">months</span><span class="p">:</span>
+        <span class="k">return</span> <span class="nb">round</span><span class="p">(</span><span class="nb">sum</span><span class="p">(</span><span class="nb">float</span><span class="p">(</span><span class="n">m</span><span class="p">)</span> <span class="k">for</span> <span class="n">m</span> <span class="ow">in</span> <span class="n">months</span><span class="p">)</span> <span class="o">/</span> <span class="mi">12</span><span class="p">,</span> <span class="mi">1</span><span class="p">)</span>
+    <span class="k">return</span> <span class="n">np</span><span class="o">.</span><span class="n">nan</span>
+
+<span class="n">df</span><span class="p">[</span><span class="s1">'经验'</span><span class="p">]</span> <span class="o">=</span> <span class="n">df</span><span class="p">[</span><span class="s1">'经验'</span><span class="p">]</span><span class="o">.</span><span class="n">apply</span><span class="p">(</span><span class="n">parse_experience</span><span class="p">)</span>
+</pre></div>
+</div>
+<div class="nb-cell"><div class="codehilite lang-nb"><pre><span></span><span class="n">df</span><span class="p">[</span><span class="s1">'经验'</span><span class="p">]</span><span class="o">.</span><span class="n">describe</span><span class="p">()</span>
+</pre></div>
+<div class="nb-out"><pre class="nb-result">count    657.000000
+mean       3.686454
+std        2.935093
+min        0.000000
+25%        1.000000
+50%        3.500000
+75%        5.000000
+max       17.000000
+Name: 经验, dtype: float64</pre></div></div>
+<div class="nb-cell"><div class="codehilite lang-nb"><pre><span></span><span class="n">df</span><span class="p">[</span><span class="s1">'经验'</span><span class="p">]</span><span class="o">.</span><span class="n">value_counts</span><span class="p">(</span><span class="n">dropna</span><span class="o">=</span><span class="kc">False</span><span class="p">)</span>
+</pre></div>
+<div class="nb-out"><pre class="nb-result">经验
+0.0     107
+3.0      77
+4.0      68
+5.0      65
+6.0      39
+7.0      35
+2.0      32
+1.0      31
+3.5      30
+0.5      25
+1.5      25
+2.5      24
+NaN      22
+8.0      20
+4.5      17
+10.0     17
+9.0      16
+5.5       8
+11.0      6
+7.5       3
+9.5       2
+13.0      2
+12.0      2
+0.3       1
+14.0      1
+15.0      1
+17.0      1
+0.2       1
+6.5       1
+Name: count, dtype: int64</pre></div></div>
+<p>经验被成功转为了 <code>float64</code> 类型。</p>
+<h2 id="6-薪资清洗">6. 薪资清洗</h2>
+<p>薪资是最复杂的一列——来看看它有多少种写法。</p>
+<div class="nb-cell"><div class="codehilite lang-nb"><pre><span></span><span class="n">df</span><span class="p">[</span><span class="s1">'薪资'</span><span class="p">]</span><span class="o">.</span><span class="n">value_counts</span><span class="p">()</span>
+</pre></div>
+<div class="nb-out"><pre class="nb-result">薪资
+15k              52
+12k              38
+10k              37
+14k              32
+13k              30
+                 ..
+12.5k             1
+3.5k              1
+13k*15            1
+49w/年             1
+25k-&gt;22k-&gt;18k     1
+Name: count, Length: 97, dtype: int64</pre></div></div>
+<p>薪资列的情况：
+- <code>9k</code>、<code>10k</code> → 标准千元月薪
+- <code>20w/年</code> → 年薪，需转月薪
+- <code>13k*15</code> → 带月数，取基本月薪
+- <code>30k+</code>、<code>25+k</code> → 带加号
+- <code>前端：20k\n转行：28k</code> → 多行，取最后一行
+- <code>25k-&gt;22k-&gt;18k</code> → 变动历史，取最新值
+- <code>16k（广州）</code> → 带地点说明
+- <code>50k~60k</code> → 薪资范围
+- <code>实习</code>、<code>？？</code> → 异常值</p>
+<p>还是用 <strong>自定义函数 + <code>apply()</code></strong> 处理。</p>
+<div class="nb-cell"><div class="codehilite lang-nb"><pre><span></span><span class="k">def</span><span class="w"> </span><span class="nf">parse_salary</span><span class="p">(</span><span class="n">val</span><span class="p">):</span>
+    <span class="k">if</span> <span class="n">pd</span><span class="o">.</span><span class="n">isna</span><span class="p">(</span><span class="n">val</span><span class="p">):</span>
+        <span class="k">return</span> <span class="n">np</span><span class="o">.</span><span class="n">nan</span>
+    <span class="n">s</span> <span class="o">=</span> <span class="nb">str</span><span class="p">(</span><span class="n">val</span><span class="p">)</span><span class="o">.</span><span class="n">strip</span><span class="p">()</span>
+    <span class="k">if</span> <span class="n">s</span> <span class="ow">in</span> <span class="p">[</span><span class="s1">'实习'</span><span class="p">,</span> <span class="s1">'-'</span><span class="p">,</span> <span class="s1">'？？'</span><span class="p">,</span> <span class="s1">''</span><span class="p">]:</span>
+        <span class="k">return</span> <span class="n">np</span><span class="o">.</span><span class="n">nan</span>
+    <span class="k">if</span> <span class="s1">'</span><span class="se">\n</span><span class="s1">'</span> <span class="ow">in</span> <span class="n">s</span><span class="p">:</span>
+        <span class="n">s</span> <span class="o">=</span> <span class="n">s</span><span class="o">.</span><span class="n">split</span><span class="p">(</span><span class="s1">'</span><span class="se">\n</span><span class="s1">'</span><span class="p">)[</span><span class="o">-</span><span class="mi">1</span><span class="p">]</span><span class="o">.</span><span class="n">strip</span><span class="p">()</span>
+    <span class="k">if</span> <span class="s1">'-&gt;'</span> <span class="ow">in</span> <span class="n">s</span><span class="p">:</span>
+        <span class="n">s</span> <span class="o">=</span> <span class="n">s</span><span class="o">.</span><span class="n">split</span><span class="p">(</span><span class="s1">'-&gt;'</span><span class="p">)[</span><span class="o">-</span><span class="mi">1</span><span class="p">]</span><span class="o">.</span><span class="n">strip</span><span class="p">()</span>
+    <span class="n">s</span> <span class="o">=</span> <span class="n">re</span><span class="o">.</span><span class="n">sub</span><span class="p">(</span><span class="sa">r</span><span class="s1">'[（(][^)）]*[)）]'</span><span class="p">,</span> <span class="s1">''</span><span class="p">,</span> <span class="n">s</span><span class="p">)</span><span class="o">.</span><span class="n">strip</span><span class="p">()</span>
+    <span class="n">w_match</span> <span class="o">=</span> <span class="n">re</span><span class="o">.</span><span class="n">search</span><span class="p">(</span><span class="sa">r</span><span class="s1">'(\d+(?:\.\d+)?)\s*w'</span><span class="p">,</span> <span class="n">s</span><span class="p">,</span> <span class="n">re</span><span class="o">.</span><span class="n">IGNORECASE</span><span class="p">)</span>
+    <span class="k">if</span> <span class="n">w_match</span><span class="p">:</span>
+        <span class="k">return</span> <span class="nb">round</span><span class="p">(</span><span class="nb">float</span><span class="p">(</span><span class="n">w_match</span><span class="o">.</span><span class="n">group</span><span class="p">(</span><span class="mi">1</span><span class="p">))</span> <span class="o">*</span> <span class="mi">10</span> <span class="o">/</span> <span class="mi">12</span><span class="p">,</span> <span class="mi">1</span><span class="p">)</span>
+    <span class="n">slash_match</span> <span class="o">=</span> <span class="n">re</span><span class="o">.</span><span class="n">search</span><span class="p">(</span><span class="sa">r</span><span class="s1">'(\d+(?:\.\d+)?)\s*k\s*/\s*(\d+(?:\.\d+)?)\s*k'</span><span class="p">,</span> <span class="n">s</span><span class="p">,</span> <span class="n">re</span><span class="o">.</span><span class="n">IGNORECASE</span><span class="p">)</span>
+    <span class="k">if</span> <span class="n">slash_match</span><span class="p">:</span>
+        <span class="k">return</span> <span class="nb">float</span><span class="p">(</span><span class="n">slash_match</span><span class="o">.</span><span class="n">group</span><span class="p">(</span><span class="mi">2</span><span class="p">))</span>
+    <span class="n">k_match</span> <span class="o">=</span> <span class="n">re</span><span class="o">.</span><span class="n">search</span><span class="p">(</span><span class="sa">r</span><span class="s1">'(\d+(?:\.\d+)?)\s*\+?\s*k'</span><span class="p">,</span> <span class="n">s</span><span class="p">,</span> <span class="n">re</span><span class="o">.</span><span class="n">IGNORECASE</span><span class="p">)</span>
+    <span class="k">if</span> <span class="n">k_match</span><span class="p">:</span>
+        <span class="k">return</span> <span class="nb">float</span><span class="p">(</span><span class="n">k_match</span><span class="o">.</span><span class="n">group</span><span class="p">(</span><span class="mi">1</span><span class="p">))</span>
+    <span class="k">return</span> <span class="n">np</span><span class="o">.</span><span class="n">nan</span>
+
+<span class="n">df</span><span class="p">[</span><span class="s1">'薪资'</span><span class="p">]</span> <span class="o">=</span> <span class="n">df</span><span class="p">[</span><span class="s1">'薪资'</span><span class="p">]</span><span class="o">.</span><span class="n">apply</span><span class="p">(</span><span class="n">parse_salary</span><span class="p">)</span>
+</pre></div>
+</div>
+<div class="nb-cell"><div class="codehilite lang-nb"><pre><span></span><span class="n">df</span><span class="p">[</span><span class="s1">'薪资'</span><span class="p">]</span><span class="o">.</span><span class="n">value_counts</span><span class="p">(</span><span class="n">dropna</span><span class="o">=</span><span class="kc">False</span><span class="p">)</span>
+</pre></div>
+<div class="nb-out"><pre class="nb-result">薪资
+NaN     106
+15.0     52
+12.0     38
+10.0     37
+14.0     32
+       ... 
+18.3      1
+4.5       1
+12.5      1
+3.5       1
+40.8      1
+Name: count, Length: 72, dtype: int64</pre></div></div>
+<div class="nb-cell"><div class="codehilite lang-nb"><pre><span></span><span class="n">df</span><span class="p">[</span><span class="s1">'薪资'</span><span class="p">]</span><span class="o">.</span><span class="n">describe</span><span class="p">()</span>
+</pre></div>
+<div class="nb-out"><pre class="nb-result">count    573.000000
+mean      16.479756
+std       11.007336
+min        2.000000
+25%       10.000000
+50%       15.000000
+75%       20.000000
+max      166.700000
+Name: 薪资, dtype: float64</pre></div></div>
+<p>清洗后薪资变为 <code>float64</code>，单位统一为<strong>千元/月</strong>，可以正常做统计分析了。</p>
+<p>（注：<code>200w/年</code> 等个例被正确转为月薪约 166.7k。个别极端值可根据业务需要后续处理。）</p>
+<div class="nb-cell"><div class="codehilite lang-nb"><pre><span></span><span class="n">df</span> <span class="o">=</span> <span class="n">df</span><span class="o">.</span><span class="n">rename</span><span class="p">(</span><span class="n">columns</span><span class="o">=</span><span class="p">{</span><span class="s1">'薪资'</span><span class="p">:</span> <span class="s1">'薪资(k)'</span><span class="p">,</span> <span class="s1">'经验'</span><span class="p">:</span> <span class="s1">'经验(年)'</span><span class="p">})</span>
+</pre></div>
+</div>
+<h2 id="7-清洗结果验证">7. 清洗结果验证</h2>
+<p>最后整体检查一遍清洗成果。</p>
+<div class="nb-cell"><div class="codehilite lang-nb"><pre><span></span><span class="n">df</span><span class="o">.</span><span class="n">info</span><span class="p">()</span>
+</pre></div>
+<div class="nb-out"><pre class="nb-stream">&lt;class &#x27;pandas.DataFrame&#x27;&gt;
+RangeIndex: 679 entries, 0 to 678
+Data columns (total 7 columns):
+ #   Column  Non-Null Count  Dtype   
+---  ------  --------------  -----   
+ 0   昵称      676 non-null    object  
+ 1   学历      673 non-null    category
+ 2   城市      638 non-null    object  
+ 3   经验(年)   657 non-null    float64 
+ 4   薪资(k)   573 non-null    float64 
+ 5   备注      222 non-null    object  
+ 6   毕业年份    109 non-null    float64 
+dtypes: category(1), float64(3), object(3)
+memory usage: 32.7+ KB
+</pre></div></div>
+<div class="nb-cell"><div class="codehilite lang-nb"><pre><span></span><span class="n">df</span><span class="o">.</span><span class="n">dtypes</span>
+</pre></div>
+<div class="nb-out"><pre class="nb-result">昵称         object
+学历       category
+城市         object
+经验(年)     float64
+薪资(k)     float64
+备注         object
+毕业年份      float64
+dtype: object</pre></div></div>
+<div class="nb-cell"><div class="codehilite lang-nb"><pre><span></span><span class="n">df</span><span class="o">.</span><span class="n">head</span><span class="p">()</span>
+</pre></div>
+<div class="nb-out"><pre class="nb-result">       昵称  学历  城市  经验(年)  薪资(k)                            备注    毕业年份
+0     Map  本科  北京    0.0    NaN                           NaN  2026.0
+1  yanni*  本科  杭州    8.0   28.0        新能源企业前端--&gt;产品--&gt;销售--&gt;售前     NaN
+2     边牧*  本科  长沙    5.0    9.0  离职，空窗期2年，北京17k，React，Flutter     NaN
+3     决堤*  本科  北京    0.0    9.0                           被辞退  2025.0
+4     月亮*  大专  济南    3.0    9.0                           NaN     NaN</pre></div></div>
+<div class="nb-cell"><div class="codehilite lang-nb"><pre><span></span><span class="n">df</span> <span class="o">=</span> <span class="n">df</span><span class="p">[[</span><span class="s1">'昵称'</span><span class="p">,</span> <span class="s1">'学历'</span><span class="p">,</span> <span class="s1">'城市'</span><span class="p">,</span> <span class="s1">'经验(年)'</span><span class="p">,</span> <span class="s1">'薪资(k)'</span><span class="p">,</span> <span class="s1">'毕业年份'</span><span class="p">,</span> <span class="s1">'备注'</span><span class="p">]]</span>
+<span class="n">df</span><span class="p">[</span><span class="s1">'毕业年份'</span><span class="p">]</span> <span class="o">=</span> <span class="n">df</span><span class="p">[</span><span class="s1">'毕业年份'</span><span class="p">]</span><span class="o">.</span><span class="n">astype</span><span class="p">(</span><span class="s1">'Int32'</span><span class="p">)</span>
+<span class="c1"># 保存到 Excel</span>
+<span class="n">df</span><span class="o">.</span><span class="n">to_excel</span><span class="p">(</span><span class="s1">'../linking_clean.xlsx'</span><span class="p">,</span> <span class="n">index</span><span class="o">=</span><span class="kc">False</span><span class="p">)</span>
+
+<span class="c1"># 保存到 CSV</span>
+<span class="n">df</span><span class="o">.</span><span class="n">to_csv</span><span class="p">(</span><span class="s1">'../linking_clean.csv'</span><span class="p">,</span> <span class="n">index</span><span class="o">=</span><span class="kc">False</span><span class="p">,</span> <span class="n">encoding</span><span class="o">=</span><span class="s1">'utf-8-sig'</span><span class="p">)</span>
+</pre></div>
+</div>12:["$","article",null,{"className":"doc","id":"content","children":[["$","div",null,{"className":"doc-head-row mb-2 flex items-center justify-between gap-4","children":[["$","p",null,{"className":"kicker","children":[["$","span",null,{"className":"kicker-num","children":"第 6 章"}],["$","span",null,{"className":"kicker-mod","children":"数据科学工具包"}]]}],["$","$L14",null,{"progressKey":"dst-6"}]]}],["$","h1",null,{"className":"doc-h1","children":"Pandas - 数据清洗"}],["$","$L15",null,{"html":"$16"}],"$L17"]}]
+13:["$","$L18",null,{"sections":"$5:1:props:children:0:props:courses:3:modules:2:chapters:1:sections"}]
+19:I[2619,["619","static/chunks/619-ba102abea3e3d0e4.js","526","static/chunks/app/course/%5Bkey%5D/%5Bch%5D/page-166c66fba529f17a.js"],""]
+17:["$","nav",null,{"className":"pager","aria-label":"章节导航","children":[["$","$L19",null,{"className":"pager-link pager-prev","href":"/course/dst/5/","children":[["$","span",null,{"className":"pager-dir","children":"上一章"}],["$","span",null,{"className":"pager-name","children":"Pandas - 数据类型"}]]}],["$","$L19",null,{"className":"pager-link pager-next","href":"/course/dst/7/","children":[["$","span",null,{"className":"pager-dir","children":"下一章"}],["$","span",null,{"className":"pager-name","children":"Matplotlib - 核心概念"}]]}]]}]
+b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+7:null
+9:{"metadata":[["$","title","0",{"children":"第 6 章  · 数据科学工具包 · AI大全栈"}],["$","meta","1",{"name":"description","content":"袁进主讲的系列课程手册：Python 语言核心精讲、数据科学工具包、数据库、Python 框架、Agents 底层逻辑、LangGraph、LangChain + DeepAgent。iOS 风格阅读体验，内置可运行的 Python 代码块。"}]],"error":null,"digest":"$undefined"}
+e:"$9:metadata"

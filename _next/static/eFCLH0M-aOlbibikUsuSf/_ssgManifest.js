@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["\u002F[family]","\u002Fcourse\u002F[key]","\u002Fcourse\u002F[key]\u002F[ch]"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[397],{6397:e=>{e.exports=JSON.parse('{"key":"java","title":"Java","desc":"Java 语言与 Web 开发课程，内容更新中，敬请期待。","glyph":"J","cls":"b-java","coming_soon":true,"modules":[]}')}}]);

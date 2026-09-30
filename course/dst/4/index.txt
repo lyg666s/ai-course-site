@@ -1,0 +1,683 @@
+1:"$Sreact.fragment"
+2:I[9130,["619","static/chunks/619-ba102abea3e3d0e4.js","177","static/chunks/app/layout-f06582a541a082fb.js"],"default"]
+3:I[9766,[],""]
+4:I[8924,[],""]
+6:I[4431,[],"OutletBoundary"]
+8:I[5278,[],"AsyncMetadataOutlet"]
+a:I[4431,[],"ViewportBoundary"]
+c:I[4431,[],"MetadataBoundary"]
+d:"$Sreact.suspense"
+f:I[7150,[],""]
+:HL["/ai-course-site/_next/static/css/e17dd95ac0dd78dc.css","style"]
+0:{"P":null,"b":"eFCLH0M-aOlbibikUsuSf","p":"/ai-course-site","c":["","course","dst","4",""],"i":false,"f":[[["",{"children":["course",{"children":[["key","dst","d"],{"children":[["ch","4","d"],{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/ai-course-site/_next/static/css/e17dd95ac0dd78dc.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"zh-CN","suppressHydrationWarning":true,"children":[["$","head",null,{"children":["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var t=localStorage.getItem(\"theme\");var d=t?t===\"dark\":window.matchMedia(\"(prefers-color-scheme: dark)\").matches;if(d)document.documentElement.classList.add(\"dark\");}catch(e){}})();"}}]}],["$","body",null,{"children":[["$","$L2",null,{"families":[{"key":"agent","name":"AI · Agent 开发"},{"key":"dev","name":"编程与工程基础"}]}],["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","footer",null,{"className":"mx-auto max-w-[52rem] px-6 pb-10 text-center text-xs text-label3","children":"AI大全栈 · 课程手册 — 由课件自动生成，仅供学习使用"}]]}]]}]]}],{"children":["course",["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["key","dst","d"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["ch","4","d"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L5",null,["$","$L6",null,{"children":["$L7",["$","$L8",null,{"promise":"$@9"}]]}]]}],{},null,false]},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$La",null,{"children":"$Lb"}],null],["$","$Lc",null,{"children":["$","div",null,{"hidden":true,"children":["$","$d",null,{"fallback":null,"children":"$Le"}]}]}]]}],false]],"m":"$undefined","G":["$f",[]],"s":false,"S":true}
+10:I[7010,["619","static/chunks/619-ba102abea3e3d0e4.js","526","static/chunks/app/course/%5Bkey%5D/%5Bch%5D/page-166c66fba529f17a.js"],"default"]
+11:I[6710,["619","static/chunks/619-ba102abea3e3d0e4.js","526","static/chunks/app/course/%5Bkey%5D/%5Bch%5D/page-166c66fba529f17a.js"],"default"]
+5:[["$","$L10",null,{"url":"/course/dst/4/","title":"Numpy - 数据操作","course":"数据科学工具包"}],["$","div",null,{"className":"doc-wrap","children":[["$","$L11",null,{"courses":[{"key":"py","title":"Python语言核心精讲","glyph":"Py","cls":"b1","coming_soon":false,"modules":[{"name":"语言基础","chapters":[{"n":1,"slug":"1","title":"必看导言","group":"语言基础","progress_key":"1"},{"n":2,"slug":"2","title":"python环境安装","group":"语言基础","progress_key":"2"},{"n":3,"slug":"3","title":"python基本语法","group":"语言基础","progress_key":"3"},{"n":4,"slug":"4","title":"容器类型","group":"语言基础","progress_key":"4"},{"n":5,"slug":"5","title":"函数","group":"语言基础","progress_key":"5"},{"n":6,"slug":"6","title":"作用域","group":"语言基础","progress_key":"6"},{"n":7,"slug":"7","title":"lambda表达式","group":"语言基础","progress_key":"7"}]},{"name":"面向对象","chapters":[{"n":8,"slug":"8","title":"类和对象","group":"面向对象","progress_key":"8"},{"n":9,"slug":"9","title":"对象的类型","group":"面向对象","progress_key":"9"},{"n":10,"slug":"10","title":"对象的创建过程","group":"面向对象","progress_key":"10"},{"n":11,"slug":"11","title":"可调用对象","group":"面向对象","progress_key":"11"},{"n":12,"slug":"12","title":"元类","group":"面向对象","progress_key":"12"},{"n":13,"slug":"13","title":"装饰器","group":"面向对象","progress_key":"13"},{"n":14,"slug":"14","title":"魔术方法","group":"面向对象","progress_key":"14"},{"n":15,"slug":"15","title":"描述符","group":"面向对象","progress_key":"15"}]},{"name":"语言进阶","chapters":[{"n":16,"slug":"16","title":"异常处理","group":"语言进阶","progress_key":"16"},{"n":17,"slug":"17","title":"迭代器与生成器","group":"语言进阶","progress_key":"17"},{"n":18,"slug":"18","title":"上下文管理器","group":"语言进阶","progress_key":"18"},{"n":19,"slug":"19","title":"ABC","group":"语言进阶","progress_key":"19"},{"n":20,"slug":"20","title":"类型标注","group":"语言进阶","progress_key":"20"},{"n":21,"slug":"21","title":"模块化","group":"语言进阶","progress_key":"21"},{"n":22,"slug":"22","title":"标准库","group":"语言进阶","progress_key":"22"},{"n":23,"slug":"23","title":"第三方库","group":"语言进阶","progress_key":"23"}]},{"name":"异步与并发","chapters":[{"n":24,"slug":"24","title":"事件循环","group":"异步与并发","progress_key":"24"},{"n":25,"slug":"25","title":"Future类","group":"异步与并发","progress_key":"25"},{"n":26,"slug":"26","title":"协程 Coroutine","group":"异步与并发","progress_key":"26"},{"n":27,"slug":"27","title":"异步编程","group":"异步与并发","progress_key":"27"},{"n":28,"slug":"28","title":"多线程与多进程","group":"异步与并发","progress_key":"28"}]},{"name":"工程化实践","chapters":[{"n":29,"slug":"29","title":"构建发布","group":"工程化实践","progress_key":"29"},{"n":30,"slug":"30","title":"项目管理工具","group":"工程化实践","progress_key":"30"},{"n":31,"slug":"31","title":"monorepo","group":"工程化实践","progress_key":"31"},{"n":32,"slug":"32","title":"断点调试","group":"工程化实践","progress_key":"32"}]},{"name":"项目案例","chapters":[{"n":null,"slug":"proj-async-agents","title":"多智能体协同调研系统","group":"项目案例","progress_key":""},{"n":null,"slug":"proj-duyi-utils","title":"duyi-utils 构建发布示例","group":"项目案例","progress_key":""}]}]},{"key":"fw","title":"Python框架","glyph":"架","cls":"b-fw","coming_soon":false,"modules":[{"name":"课程内容","chapters":[{"n":1,"slug":"1","title":"Web服务框架","group":"课程内容","progress_key":"fw-1"},{"n":2,"slug":"2","title":"优化包结构","group":"课程内容","progress_key":"fw-2"},{"n":3,"slug":"3","title":"初识SQLAlchemy","group":"课程内容","progress_key":"fw-3"},{"n":4,"slug":"4","title":"ORM","group":"课程内容","progress_key":"fw-4"},{"n":5,"slug":"5","title":"数据操作","group":"课程内容","progress_key":"fw-5"},{"n":6,"slug":"6","title":"数据迁移","group":"课程内容","progress_key":"fw-6"},{"n":7,"slug":"7","title":"业务逻辑","group":"课程内容","progress_key":"fw-7"},{"n":8,"slug":"8","title":"依赖注入","group":"课程内容","progress_key":"fw-8"},{"n":9,"slug":"9","title":"统一异常处理","group":"课程内容","progress_key":"fw-9"},{"n":10,"slug":"10","title":"中间件","group":"课程内容","progress_key":"fw-10"},{"n":11,"slug":"11","title":"测试框架","group":"课程内容","progress_key":"fw-11"},{"n":12,"slug":"12","title":"测试方案","group":"课程内容","progress_key":"fw-12"},{"n":13,"slug":"13","title":"三层架构","group":"课程内容","progress_key":"fw-13"},{"n":14,"slug":"14","title":"文件上传","group":"课程内容","progress_key":"fw-14"},{"n":15,"slug":"15","title":"系统设置","group":"课程内容","progress_key":"fw-15"},{"n":17,"slug":"17","title":"用户系统","group":"课程内容","progress_key":"fw-17"},{"n":18,"slug":"18","title":"日志","group":"课程内容","progress_key":"fw-18"},{"n":20,"slug":"20","title":"流式响应","group":"课程内容","progress_key":"fw-20"},{"n":26,"slug":"26","title":"python收官检验","group":"课程内容","progress_key":"fw-26"}]},{"name":"部署","chapters":[{"n":21,"slug":"21","title":"部署-认识Docker","group":"部署","progress_key":"fw-21"},{"n":22,"slug":"22","title":"部署-云资产","group":"部署","progress_key":"fw-22"},{"n":23,"slug":"23","title":"部署-k8s","group":"部署","progress_key":"fw-23"},{"n":24,"slug":"24","title":"部署-CICD","group":"部署","progress_key":"fw-24"},{"n":25,"slug":"25","title":"部署-总结","group":"部署","progress_key":"fw-25"}]}]},{"key":"db","title":"数据库","glyph":"库","cls":"b-db","coming_soon":false,"modules":[{"name":"课程内容","chapters":[{"n":1,"slug":"1","title":"PostgreSQL安装","group":"课程内容","progress_key":"db-1"},{"n":2,"slug":"2","title":"DDL","group":"课程内容","progress_key":"db-2"},{"n":3,"slug":"3","title":"表间关系","group":"课程内容","progress_key":"db-3"},{"n":4,"slug":"4","title":"DML","group":"课程内容","progress_key":"db-4"},{"n":5,"slug":"5","title":"事务","group":"课程内容","progress_key":"db-5"},{"n":6,"slug":"6","title":"索引","group":"课程内容","progress_key":"db-6"},{"n":7,"slug":"7","title":"拓展知识","group":"课程内容","progress_key":"db-7"}]}]},{"key":"dst","title":"数据科学工具包","glyph":"数","cls":"b-ds","coming_soon":false,"modules":[{"name":"课程内容","chapters":[{"n":1,"slug":"1","title":"课程导言","group":"课程内容","progress_key":"dst-1","sections":[]},{"n":2,"slug":"2","title":"Jupyter","group":"课程内容","progress_key":"dst-2","sections":[]},{"n":10,"slug":"10","title":"Seaborn","group":"课程内容","progress_key":"dst-10","sections":[{"name":"1. 薪资分布 — 单变量分析","anchor":"1-薪资分布-单变量分析"},{"name":"2. 学历与薪资 — 分类对比","anchor":"2-学历与薪资-分类对比"},{"name":"3. 经验与薪资 — 回归分析","anchor":"3-经验与薪资-回归分析"}]}]},{"name":"Numpy","chapters":[{"n":3,"slug":"3","title":"Numpy - 核心概念","group":"Numpy","progress_key":"dst-3","sections":[{"name":"ndarray","anchor":"ndarray"},{"name":"核心概念","anchor":"核心概念"}]},{"n":4,"slug":"4","title":"Numpy - 数据操作","group":"Numpy","progress_key":"dst-4","sections":[{"name":"数组创建","anchor":"数组创建"},{"name":"索引与切片","anchor":"索引与切片"},{"name":"变形与重塑","anchor":"变形与重塑"},{"name":"数学运算","anchor":"数学运算"},{"name":"统计运算","anchor":"统计运算"},{"name":"条件筛选与 np.where","anchor":"条件筛选与-npwhere"},{"name":"拼接与分割","anchor":"拼接与分割"},{"name":"排序","anchor":"排序"},{"name":"广播（Broadcasting）","anchor":"广播Broadcasting"},{"name":"总结","anchor":"总结"}]}]},{"name":"Pandas","chapters":[{"n":5,"slug":"5","title":"Pandas - 数据类型","group":"Pandas","progress_key":"dst-5","sections":[{"name":"Series","anchor":"Series"},{"name":"DataFrame 创建","anchor":"DataFrame-创建"},{"name":"DataFrame 的组成结构","anchor":"DataFrame-的组成结构"}]},{"n":6,"slug":"6","title":"Pandas - 数据清洗","group":"Pandas","progress_key":"dst-6","sections":[{"name":"1. 数据初探","anchor":"1-数据初探"},{"name":"2. 应届信息提取","anchor":"2-应届信息提取"},{"name":"3. 学历清洗","anchor":"3-学历清洗"},{"name":"4. 城市清洗","anchor":"4-城市清洗"},{"name":"5. 经验清洗","anchor":"5-经验清洗"},{"name":"6. 薪资清洗","anchor":"6-薪资清洗"},{"name":"7. 清洗结果验证","anchor":"7-清洗结果验证"}]}]},{"name":"Matplotlib","chapters":[{"n":7,"slug":"7","title":"Matplotlib - 核心概念","group":"Matplotlib","progress_key":"dst-7","sections":[{"name":"1. Figure — 画布","anchor":"1-Figure-画布"},{"name":"2. Axes — 绘图区","anchor":"2-Axes-绘图区"},{"name":"3. Artist — 绘制元素","anchor":"3-Artist-绘制元素"},{"name":"总结：三层架构","anchor":"总结三层架构"}]},{"n":8,"slug":"8","title":"Matplotlib - 动画","group":"Matplotlib","progress_key":"dst-8","sections":[{"name":"1. FuncAnimation — 函数驱动动画","anchor":"1-FuncAnimation-函数驱动动画"},{"name":"2. ArtistAnimation — 预生成帧","anchor":"2-ArtistAnimation-预生成帧"},{"name":"3. 保存动画","anchor":"3-保存动画"}]},{"n":9,"slug":"9","title":"Matplotlib - 交互式组件","group":"Matplotlib","progress_key":"dst-9","sections":[{"name":"1. Slider — 滑块","anchor":"1-Slider-滑块"},{"name":"2. Button — 按钮","anchor":"2-Button-按钮"},{"name":"3. CheckButtons — 复选框","anchor":"3-CheckButtons-复选框"},{"name":"4. RadioButtons — 单选按钮","anchor":"4-RadioButtons-单选按钮"},{"name":"5. TextBox — 文本框","anchor":"5-TextBox-文本框"}]}]}]},{"key":"java","title":"Java","glyph":"J","cls":"b-java","coming_soon":true,"modules":[]},{"key":"cloud","title":"云计算","glyph":"云","cls":"b-cloud","coming_soon":true,"modules":[]}],"currentKey":"dst","currentSlug":"4"}],"$L12","$L13"]}]]
+14:I[756,["619","static/chunks/619-ba102abea3e3d0e4.js","526","static/chunks/app/course/%5Bkey%5D/%5Bch%5D/page-166c66fba529f17a.js"],"default"]
+15:I[1599,["619","static/chunks/619-ba102abea3e3d0e4.js","526","static/chunks/app/course/%5Bkey%5D/%5Bch%5D/page-166c66fba529f17a.js"],"default"]
+18:I[5340,["619","static/chunks/619-ba102abea3e3d0e4.js","526","static/chunks/app/course/%5Bkey%5D/%5Bch%5D/page-166c66fba529f17a.js"],"default"]
+16:T109c6,<div class="nb-cell"><div class="codehilite lang-nb"><pre><span></span><span class="c1"># 导入 NumPy 库</span>
+<span class="kn">import</span><span class="w"> </span><span class="nn">numpy</span><span class="w"> </span><span class="k">as</span><span class="w"> </span><span class="nn">np</span>
+</pre></div>
+</div>
+<h1 id="NumPy-数据操作">NumPy 数据操作</h1>
+<p>上一节课我们理解了 ndarray 的核心概念（shape、dtype、strides、axis），本节课聚焦于<strong>如何操作数组中的数据</strong>。</p>
+<p>先说明一下，这节课我们只讲基础操作。以后讲到具体应用（模型推理、数据预处理等）时，涉及到的 NumPy 操作会再拿出来细讲，到时候理解起来也更具体。</p>
+<h2 id="数组创建">数组创建</h2>
+<p>除了从列表直接创建，NumPy 提供了很多便捷的构造方法。</p>
+<div class="nb-cell"><div class="codehilite lang-nb"><pre><span></span><span class="c1"># np.zeros: 创建全零数组</span>
+<span class="nb">print</span><span class="p">(</span><span class="s1">'zeros(2,3):</span><span class="se">\n</span><span class="s1">'</span><span class="p">,</span> <span class="n">np</span><span class="o">.</span><span class="n">zeros</span><span class="p">((</span><span class="mi">2</span><span class="p">,</span><span class="mi">3</span><span class="p">)),</span> <span class="s1">'</span><span class="se">\n</span><span class="s1">'</span><span class="p">)</span>
+<span class="c1"># np.ones: 创建全一数组</span>
+<span class="nb">print</span><span class="p">(</span><span class="s1">'ones(2,3):</span><span class="se">\n</span><span class="s1">'</span><span class="p">,</span> <span class="n">np</span><span class="o">.</span><span class="n">ones</span><span class="p">((</span><span class="mi">2</span><span class="p">,</span><span class="mi">3</span><span class="p">),</span> <span class="n">dtype</span><span class="o">=</span><span class="n">np</span><span class="o">.</span><span class="n">float32</span><span class="p">),</span> <span class="s1">'</span><span class="se">\n</span><span class="s1">'</span><span class="p">)</span>
+<span class="c1"># np.eye: 创建单位矩阵</span>
+<span class="nb">print</span><span class="p">(</span><span class="s1">'eye(3):</span><span class="se">\n</span><span class="s1">'</span><span class="p">,</span> <span class="n">np</span><span class="o">.</span><span class="n">eye</span><span class="p">(</span><span class="mi">3</span><span class="p">))</span>
+</pre></div>
+<div class="nb-out"><pre class="nb-stream">zeros(2,3):
+ [[0. 0. 0.]
+ [0. 0. 0.]] 
+
+ones(2,3):
+ [[1. 1. 1.]
+ [1. 1. 1.]] 
+
+eye(3):
+ [[1. 0. 0.]
+ [0. 1. 0.]
+ [0. 0. 1.]]
+</pre></div></div>
+<div class="nb-cell"><div class="codehilite lang-nb"><pre><span></span><span class="c1"># np.arange: 创建等差数组</span>
+<span class="nb">print</span><span class="p">(</span><span class="s1">'arange(0, 10, 2):'</span><span class="p">,</span> <span class="n">np</span><span class="o">.</span><span class="n">arange</span><span class="p">(</span><span class="mi">0</span><span class="p">,</span> <span class="mi">10</span><span class="p">,</span> <span class="mi">2</span><span class="p">))</span>
+<span class="c1"># np.linspace: 创建等间隔数组</span>
+<span class="nb">print</span><span class="p">(</span><span class="s1">'linspace(0, 1, 5):'</span><span class="p">,</span> <span class="n">np</span><span class="o">.</span><span class="n">linspace</span><span class="p">(</span><span class="mi">0</span><span class="p">,</span> <span class="mi">1</span><span class="p">,</span> <span class="mi">5</span><span class="p">))</span>
+<span class="c1"># np.linspace: 创建等间隔数组</span>
+<span class="nb">print</span><span class="p">(</span><span class="s1">'linspace(0, 1, 5, endpoint=False):'</span><span class="p">,</span> <span class="n">np</span><span class="o">.</span><span class="n">linspace</span><span class="p">(</span><span class="mi">0</span><span class="p">,</span> <span class="mi">1</span><span class="p">,</span> <span class="mi">5</span><span class="p">,</span> <span class="n">endpoint</span><span class="o">=</span><span class="kc">False</span><span class="p">))</span>
+</pre></div>
+<div class="nb-out"><pre class="nb-stream">arange(0, 10, 2): [0 2 4 6 8]
+linspace(0, 1, 5): [0.   0.25 0.5  0.75 1.  ]
+linspace(0, 1, 5, endpoint=False): [0.  0.2 0.4 0.6 0.8]
+</pre></div></div>
+<div class="nb-cell"><div class="codehilite lang-nb"><pre><span></span><span class="c1"># default_rng: 创建随机数生成器</span>
+<span class="n">rng</span> <span class="o">=</span> <span class="n">np</span><span class="o">.</span><span class="n">random</span><span class="o">.</span><span class="n">default_rng</span><span class="p">(</span><span class="mi">41</span><span class="p">)</span>
+<span class="c1"># uniform: 生成均匀分布随机数</span>
+<span class="nb">print</span><span class="p">(</span><span class="s1">'uniform(0, 1, (2,3)):</span><span class="se">\n</span><span class="s1">'</span><span class="p">,</span> <span class="n">rng</span><span class="o">.</span><span class="n">uniform</span><span class="p">(</span><span class="mi">0</span><span class="p">,</span> <span class="mi">1</span><span class="p">,</span> <span class="p">(</span><span class="mi">2</span><span class="p">,</span><span class="mi">3</span><span class="p">)),</span> <span class="s1">'</span><span class="se">\n</span><span class="s1">'</span><span class="p">)</span>
+<span class="c1"># normal: 生成正态分布随机数</span>
+<span class="nb">print</span><span class="p">(</span><span class="s1">'normal(0, 1, (2,3)):</span><span class="se">\n</span><span class="s1">'</span><span class="p">,</span> <span class="n">rng</span><span class="o">.</span><span class="n">normal</span><span class="p">(</span><span class="mi">0</span><span class="p">,</span> <span class="mi">1</span><span class="p">,</span> <span class="p">(</span><span class="mi">2</span><span class="p">,</span><span class="mi">3</span><span class="p">)),</span> <span class="s1">'</span><span class="se">\n</span><span class="s1">'</span><span class="p">)</span>
+<span class="c1"># integers: 生成随机整数</span>
+<span class="nb">print</span><span class="p">(</span><span class="s1">'integers(0, 10, (2,3)):</span><span class="se">\n</span><span class="s1">'</span><span class="p">,</span> <span class="n">rng</span><span class="o">.</span><span class="n">integers</span><span class="p">(</span><span class="mi">0</span><span class="p">,</span> <span class="mi">10</span><span class="p">,</span> <span class="p">(</span><span class="mi">2</span><span class="p">,</span><span class="mi">3</span><span class="p">)))</span>
+</pre></div>
+<div class="nb-out"><pre class="nb-stream">uniform(0, 1, (2,3)):
+ [[0.9541511  0.76793209 0.12597075]
+ [0.82698809 0.84907207 0.34978284]] 
+
+normal(0, 1, (2,3)):
+ [[  0.93754881 -11.70818076 -13.58240395]
+ [-13.06564025  -7.17615282  11.85621358]] 
+
+integers(0, 10, (2,3)):
+ [[4 3 0]
+ [4 2 5]]
+</pre></div></div>
+<h4 id="场景">💡<strong>场景</strong></h4>
+<p>快速造一批模拟数据来测试逻辑。比如模拟 10 个商品的价格和销量，测试排序或筛选功能。</p>
+<div class="nb-cell"><div class="codehilite lang-nb"><pre><span></span><span class="c1"># default_rng: 创建随机数生成器</span>
+<span class="n">rng</span> <span class="o">=</span> <span class="n">np</span><span class="o">.</span><span class="n">random</span><span class="o">.</span><span class="n">default_rng</span><span class="p">(</span><span class="mi">42</span><span class="p">)</span>
+<span class="c1"># uniform: 生成均匀分布随机数</span>
+<span class="n">prices</span> <span class="o">=</span> <span class="n">rng</span><span class="o">.</span><span class="n">uniform</span><span class="p">(</span><span class="mi">10</span><span class="p">,</span> <span class="mi">100</span><span class="p">,</span> <span class="mi">10</span><span class="p">)</span><span class="o">.</span><span class="n">round</span><span class="p">(</span><span class="mi">2</span><span class="p">)</span>
+<span class="c1"># integers: 生成随机整数</span>
+<span class="n">sales</span> <span class="o">=</span> <span class="n">rng</span><span class="o">.</span><span class="n">integers</span><span class="p">(</span><span class="mi">0</span><span class="p">,</span> <span class="mi">1000</span><span class="p">,</span> <span class="mi">10</span><span class="p">)</span>
+<span class="nb">print</span><span class="p">(</span><span class="s1">'价格:'</span><span class="p">,</span> <span class="n">prices</span><span class="p">)</span>
+<span class="nb">print</span><span class="p">(</span><span class="s1">'销量:'</span><span class="p">,</span> <span class="n">sales</span><span class="p">)</span>
+</pre></div>
+<div class="nb-out"><pre class="nb-stream">价格: [79.66 49.5  87.27 72.76 18.48 97.81 78.5  80.75 21.53 50.53]
+销量: [500 370 182 926 781 643 402 822 545 443]
+</pre></div></div>
+<h2 id="索引与切片">索引与切片</h2>
+<p>NumPy 的索引语法与 Python 列表类似，但支持多维操作。</p>
+<h3 id="基本索引与切片">基本索引与切片</h3>
+<p>语法：<code>arr[start:stop:step]</code>，多维就用逗号分隔。</p>
+<ul>
+<li>start：起始索引，默认 0</li>
+<li>stop：结束索引（不包含），默认数组长度</li>
+<li>step：步长，默认 1</li>
+</ul>
+<p><strong>注意：切片返回的是视图（view），不是拷贝</strong>——改切片会影响原数组。</p>
+<div class="nb-cell"><div class="codehilite lang-nb"><pre><span></span><span class="c1"># np.arange: 创建等差数组</span>
+<span class="n">arr</span> <span class="o">=</span> <span class="n">np</span><span class="o">.</span><span class="n">arange</span><span class="p">(</span><span class="mi">12</span><span class="p">)</span><span class="o">.</span><span class="n">reshape</span><span class="p">(</span><span class="mi">3</span><span class="p">,</span> <span class="mi">4</span><span class="p">)</span>
+<span class="nb">print</span><span class="p">(</span><span class="s1">'原数组:</span><span class="se">\n</span><span class="s1">'</span><span class="p">,</span> <span class="n">arr</span><span class="p">,</span> <span class="s1">'</span><span class="se">\n</span><span class="s1">'</span><span class="p">)</span>
+<span class="nb">print</span><span class="p">(</span><span class="s1">'arr[0]:'</span><span class="p">,</span> <span class="n">arr</span><span class="p">[</span><span class="mi">0</span><span class="p">])</span>
+<span class="nb">print</span><span class="p">(</span><span class="s1">'arr[:, 1]:</span><span class="se">\n</span><span class="s1">'</span><span class="p">,</span> <span class="n">arr</span><span class="p">[:,</span> <span class="mi">1</span><span class="p">:])</span>
+<span class="nb">print</span><span class="p">(</span><span class="s1">'arr[1:, 2:]:</span><span class="se">\n</span><span class="s1">'</span><span class="p">,</span> <span class="n">arr</span><span class="p">[</span><span class="mi">1</span><span class="p">:,</span> <span class="mi">2</span><span class="p">:])</span>
+</pre></div>
+<div class="nb-out"><pre class="nb-stream">原数组:
+ [[ 0  1  2  3]
+ [ 4  5  6  7]
+ [ 8  9 10 11]] 
+
+arr[0]: [0 1 2 3]
+arr[:, 1]:
+ [[ 1  2  3]
+ [ 5  6  7]
+ [ 9 10 11]]
+arr[1:, 2:]:
+ [[ 6  7]
+ [10 11]]
+</pre></div></div>
+<div class="nb-cell"><div class="codehilite lang-nb"><pre><span></span><span class="n">view</span> <span class="o">=</span> <span class="n">arr</span><span class="p">[</span><span class="mi">1</span><span class="p">:,</span> <span class="mi">2</span><span class="p">:]</span>
+<span class="n">view</span><span class="p">[</span><span class="mi">0</span><span class="p">,</span> <span class="mi">0</span><span class="p">]</span> <span class="o">=</span> <span class="mi">99</span>
+<span class="nb">print</span><span class="p">(</span><span class="s1">'修改视图后原数组:</span><span class="se">\n</span><span class="s1">'</span><span class="p">,</span> <span class="n">arr</span><span class="p">)</span>
+<span class="c1"># copy: 创建数组的副本</span>
+<span class="n">copy</span> <span class="o">=</span> <span class="n">arr</span><span class="p">[</span><span class="mi">1</span><span class="p">:,</span> <span class="mi">2</span><span class="p">:]</span><span class="o">.</span><span class="n">copy</span><span class="p">()</span>
+</pre></div>
+<div class="nb-out"><pre class="nb-stream">修改视图后原数组:
+ [[ 0  1  2  3]
+ [ 4  5 99  7]
+ [ 8  9 10 11]]
+</pre></div></div>
+<h3 id="花式索引Fancy-Indexing">花式索引（Fancy Indexing）</h3>
+<p>用整数数组选取不连续的行/列。<strong>返回的是拷贝。</strong></p>
+<div class="nb-cell"><div class="codehilite lang-nb"><pre><span></span><span class="c1"># np.arange: 创建等差数组</span>
+<span class="n">arr</span> <span class="o">=</span> <span class="n">np</span><span class="o">.</span><span class="n">arange</span><span class="p">(</span><span class="mi">12</span><span class="p">)</span><span class="o">.</span><span class="n">reshape</span><span class="p">(</span><span class="mi">4</span><span class="p">,</span> <span class="mi">3</span><span class="p">)</span>
+<span class="nb">print</span><span class="p">(</span><span class="s1">'数组:</span><span class="se">\n</span><span class="s1">'</span><span class="p">,</span> <span class="n">arr</span><span class="p">,</span> <span class="s1">'</span><span class="se">\n</span><span class="s1">'</span><span class="p">)</span>
+<span class="nb">print</span><span class="p">(</span><span class="s1">'arr[[0, 2]]:</span><span class="se">\n</span><span class="s1">'</span><span class="p">,</span> <span class="n">arr</span><span class="p">[[</span><span class="mi">0</span><span class="p">,</span> <span class="mi">2</span><span class="p">]],</span> <span class="s1">'</span><span class="se">\n</span><span class="s1">'</span><span class="p">)</span>
+<span class="n">rows</span> <span class="o">=</span> <span class="p">[</span><span class="mi">0</span><span class="p">,</span> <span class="mi">1</span><span class="p">,</span> <span class="mi">3</span><span class="p">]</span>
+<span class="n">cols</span> <span class="o">=</span> <span class="p">[</span><span class="mi">2</span><span class="p">,</span> <span class="mi">1</span><span class="p">,</span> <span class="mi">0</span><span class="p">]</span>
+<span class="nb">print</span><span class="p">(</span><span class="s1">'arr[rows, cols]:'</span><span class="p">,</span> <span class="n">arr</span><span class="p">[</span><span class="n">rows</span><span class="p">,</span> <span class="n">cols</span><span class="p">])</span>
+</pre></div>
+<div class="nb-out"><pre class="nb-stream">数组:
+ [[ 0  1  2]
+ [ 3  4  5]
+ [ 6  7  8]
+ [ 9 10 11]] 
+
+arr[[0, 2]]:
+ [[0 1 2]
+ [6 7 8]] 
+
+arr[rows, cols]: [2 4 9]
+</pre></div></div>
+<h3 id="布尔索引Boolean-Indexing">布尔索引（Boolean Indexing）</h3>
+<p>用布尔数组作为掩码（mask），选取满足条件的元素。<strong>返回的是拷贝。</strong></p>
+<div class="nb-cell"><div class="codehilite lang-nb"><pre><span></span><span class="c1"># np.array: 从列表创建 NumPy 数组</span>
+<span class="n">arr</span> <span class="o">=</span> <span class="n">np</span><span class="o">.</span><span class="n">array</span><span class="p">([</span><span class="mi">10</span><span class="p">,</span> <span class="mi">25</span><span class="p">,</span> <span class="mi">3</span><span class="p">,</span> <span class="mi">47</span><span class="p">,</span> <span class="mi">8</span><span class="p">,</span> <span class="mi">19</span><span class="p">])</span>
+<span class="n">mask</span> <span class="o">=</span> <span class="n">arr</span> <span class="o">&gt;</span> <span class="mi">15</span>
+<span class="nb">print</span><span class="p">(</span><span class="s1">'mask:'</span><span class="p">,</span> <span class="n">mask</span><span class="p">)</span>
+<span class="nb">print</span><span class="p">(</span><span class="s1">'arr[arr &gt; 15]:'</span><span class="p">,</span> <span class="n">arr</span><span class="p">[</span><span class="n">mask</span><span class="p">])</span>
+<span class="nb">print</span><span class="p">(</span><span class="s1">'arr[arr % 2 == 0]:'</span><span class="p">,</span> <span class="n">arr</span><span class="p">[</span><span class="n">arr</span> <span class="o">%</span> <span class="mi">2</span> <span class="o">==</span> <span class="mi">0</span><span class="p">])</span>
+</pre></div>
+<div class="nb-out"><pre class="nb-stream">mask: [False  True False  True False  True]
+arr[arr &gt; 15]: [25 47 19]
+arr[arr % 2 == 0]: [10  8]
+</pre></div></div>
+<div class="nb-cell"><div class="codehilite lang-nb"><pre><span></span><span class="n">arr</span> <span class="o">=</span> <span class="n">np</span><span class="o">.</span><span class="n">array</span><span class="p">([</span><span class="mi">5</span><span class="p">,</span> <span class="mi">12</span><span class="p">,</span> <span class="mi">18</span><span class="p">,</span> <span class="mi">25</span><span class="p">,</span> <span class="mi">30</span><span class="p">,</span> <span class="mi">7</span><span class="p">,</span> <span class="mi">42</span><span class="p">])</span>
+<span class="nb">print</span><span class="p">(</span><span class="s1">'(&gt;10) &amp; (&lt;30):'</span><span class="p">,</span> <span class="n">arr</span><span class="p">[(</span><span class="n">arr</span> <span class="o">&gt;</span> <span class="mi">10</span><span class="p">)</span> <span class="o">&amp;</span> <span class="p">(</span><span class="n">arr</span> <span class="o">&lt;</span> <span class="mi">30</span><span class="p">)])</span>
+<span class="nb">print</span><span class="p">(</span><span class="s1">'(&lt;10) | (&gt;30):'</span><span class="p">,</span> <span class="n">arr</span><span class="p">[(</span><span class="n">arr</span> <span class="o">&lt;</span> <span class="mi">10</span><span class="p">)</span> <span class="o">|</span> <span class="p">(</span><span class="n">arr</span> <span class="o">&gt;</span> <span class="mi">30</span><span class="p">)])</span>
+</pre></div>
+<div class="nb-out"><pre class="nb-stream">(&gt;10) &amp; (&lt;30): [12 18 25]
+(&lt;10) | (&gt;30): [ 5  7 42]
+</pre></div></div>
+<h2 id="变形与重塑">变形与重塑</h2>
+<p>改变数组的形状而不改数据。总元素数必须一致，用 <code>-1</code> 让 NumPy 自动算。</p>
+<div class="nb-cell"><div class="codehilite lang-nb"><pre><span></span><span class="c1"># np.arange: 创建等差数组</span>
+<span class="n">arr</span> <span class="o">=</span> <span class="n">np</span><span class="o">.</span><span class="n">arange</span><span class="p">(</span><span class="mi">12</span><span class="p">)</span>
+<span class="nb">print</span><span class="p">(</span><span class="s1">'原始:'</span><span class="p">,</span> <span class="n">arr</span><span class="p">,</span> <span class="s1">'</span><span class="se">\n</span><span class="s1">'</span><span class="p">)</span>
+<span class="c1"># reshape: 重塑数组形状</span>
+<span class="nb">print</span><span class="p">(</span><span class="s1">'reshape(3, 4):</span><span class="se">\n</span><span class="s1">'</span><span class="p">,</span> <span class="n">arr</span><span class="o">.</span><span class="n">reshape</span><span class="p">(</span><span class="mi">3</span><span class="p">,</span> <span class="mi">4</span><span class="p">),</span> <span class="s1">'</span><span class="se">\n</span><span class="s1">'</span><span class="p">)</span>
+<span class="c1"># reshape: 重塑数组形状</span>
+<span class="nb">print</span><span class="p">(</span><span class="s1">'reshape(2, -1):</span><span class="se">\n</span><span class="s1">'</span><span class="p">,</span> <span class="n">arr</span><span class="o">.</span><span class="n">reshape</span><span class="p">(</span><span class="mi">2</span><span class="p">,</span> <span class="o">-</span><span class="mi">1</span><span class="p">),</span> <span class="s1">'</span><span class="se">\n</span><span class="s1">'</span><span class="p">)</span>
+<span class="c1"># reshape: 重塑数组形状</span>
+<span class="nb">print</span><span class="p">(</span><span class="s1">'reshape(2, 2, 3):</span><span class="se">\n</span><span class="s1">'</span><span class="p">,</span> <span class="n">arr</span><span class="o">.</span><span class="n">reshape</span><span class="p">(</span><span class="mi">2</span><span class="p">,</span> <span class="mi">2</span><span class="p">,</span> <span class="mi">3</span><span class="p">))</span>
+</pre></div>
+<div class="nb-out"><pre class="nb-stream">原始: [ 0  1  2  3  4  5  6  7  8  9 10 11] 
+
+reshape(3, 4):
+ [[ 0  1  2  3]
+ [ 4  5  6  7]
+ [ 8  9 10 11]] 
+
+reshape(2, -1):
+ [[ 0  1  2  3  4  5]
+ [ 6  7  8  9 10 11]] 
+
+reshape(2, 2, 3):
+ [[[ 0  1  2]
+  [ 3  4  5]]
+
+ [[ 6  7  8]
+  [ 9 10 11]]]
+</pre></div></div>
+<div class="nb-cell"><div class="codehilite lang-nb"><pre><span></span><span class="c1"># np.array: 从列表创建 NumPy 数组</span>
+<span class="n">arr</span> <span class="o">=</span> <span class="n">np</span><span class="o">.</span><span class="n">array</span><span class="p">([</span><span class="mi">1</span><span class="p">,</span> <span class="mi">2</span><span class="p">,</span> <span class="mi">3</span><span class="p">,</span> <span class="mi">4</span><span class="p">])</span>
+<span class="c1"># np.resize: 改变数组大小（可重复填充）</span>
+<span class="nb">print</span><span class="p">(</span><span class="s1">'np.resize(arr, (2, 3)):</span><span class="se">\n</span><span class="s1">'</span><span class="p">,</span> <span class="n">np</span><span class="o">.</span><span class="n">resize</span><span class="p">(</span><span class="n">arr</span><span class="p">,</span> <span class="p">(</span><span class="mi">2</span><span class="p">,</span> <span class="mi">3</span><span class="p">)))</span>
+<span class="c1"># np.resize: 改变数组大小（可重复填充）</span>
+<span class="nb">print</span><span class="p">(</span><span class="s1">'np.resize(arr, (2, 2)):</span><span class="se">\n</span><span class="s1">'</span><span class="p">,</span> <span class="n">np</span><span class="o">.</span><span class="n">resize</span><span class="p">(</span><span class="n">arr</span><span class="p">,</span> <span class="p">(</span><span class="mi">2</span><span class="p">,</span> <span class="mi">2</span><span class="p">)))</span>
+</pre></div>
+<div class="nb-out"><pre class="nb-stream">np.resize(arr, (2, 3)):
+ [[1 2 3]
+ [4 1 2]]
+np.resize(arr, (2, 2)):
+ [[1 2]
+ [3 4]]
+</pre></div></div>
+<h4 id="场景">💡<strong>场景</strong></h4>
+<p>API 返回的数据是一维的，但你需要按行列组织成表格，用 reshape 搞定。</p>
+<div class="nb-cell"><div class="codehilite lang-nb"><pre><span></span><span class="c1"># np.array: 从列表创建 NumPy 数组</span>
+<span class="n">data</span> <span class="o">=</span> <span class="n">np</span><span class="o">.</span><span class="n">array</span><span class="p">([</span><span class="mi">1</span><span class="p">,</span> <span class="mi">2</span><span class="p">,</span> <span class="mi">3</span><span class="p">,</span> <span class="mi">4</span><span class="p">,</span> <span class="mi">5</span><span class="p">,</span> <span class="mi">6</span><span class="p">,</span> <span class="mi">7</span><span class="p">,</span> <span class="mi">8</span><span class="p">,</span> <span class="mi">9</span><span class="p">,</span> <span class="mi">10</span><span class="p">,</span> <span class="mi">11</span><span class="p">,</span> <span class="mi">12</span><span class="p">])</span>
+<span class="c1"># reshape: 重塑数组形状</span>
+<span class="n">table</span> <span class="o">=</span> <span class="n">data</span><span class="o">.</span><span class="n">reshape</span><span class="p">(</span><span class="mi">4</span><span class="p">,</span> <span class="mi">3</span><span class="p">)</span>
+<span class="nb">print</span><span class="p">(</span><span class="s1">'转换为 4行3列的表格:</span><span class="se">\n</span><span class="s1">'</span><span class="p">,</span> <span class="n">table</span><span class="p">)</span>
+</pre></div>
+<div class="nb-out"><pre class="nb-stream">转换为 4行3列的表格:
+ [[ 1  2  3]
+ [ 4  5  6]
+ [ 7  8  9]
+ [10 11 12]]
+</pre></div></div>
+<h2 id="数学运算">数学运算</h2>
+<p>NumPy 的所有运算符都是<strong>向量化</strong>的——对整个数组一次性操作，不用写循环。</p>
+<div class="nb-cell"><div class="codehilite lang-nb"><pre><span></span><span class="c1"># np.array: 从列表创建 NumPy 数组</span>
+<span class="n">arr</span> <span class="o">=</span> <span class="n">np</span><span class="o">.</span><span class="n">array</span><span class="p">([</span><span class="mi">1</span><span class="p">,</span> <span class="mi">2</span><span class="p">,</span> <span class="mi">3</span><span class="p">,</span> <span class="mi">4</span><span class="p">])</span>
+<span class="nb">print</span><span class="p">(</span><span class="s1">'原数组:'</span><span class="p">,</span> <span class="n">arr</span><span class="p">)</span>
+<span class="nb">print</span><span class="p">(</span><span class="s1">'arr + 10:'</span><span class="p">,</span> <span class="n">arr</span> <span class="o">+</span> <span class="mi">10</span><span class="p">)</span>
+<span class="nb">print</span><span class="p">(</span><span class="s1">'arr * 2:'</span><span class="p">,</span> <span class="n">arr</span> <span class="o">*</span> <span class="mi">2</span><span class="p">)</span>
+<span class="nb">print</span><span class="p">(</span><span class="s1">'arr ** 2:'</span><span class="p">,</span> <span class="n">arr</span> <span class="o">**</span> <span class="mi">2</span><span class="p">)</span>
+<span class="nb">print</span><span class="p">(</span><span class="s1">'arr &gt; 2:'</span><span class="p">,</span> <span class="n">arr</span> <span class="o">&gt;</span> <span class="mi">2</span><span class="p">)</span>
+</pre></div>
+<div class="nb-out"><pre class="nb-stream">原数组: [1 2 3 4]
+arr + 10: [11 12 13 14]
+arr * 2: [2 4 6 8]
+arr ** 2: [ 1  4  9 16]
+arr &gt; 2: [False False  True  True]
+</pre></div></div>
+<div class="nb-cell"><div class="codehilite lang-nb"><pre><span></span><span class="c1"># np.array: 从列表创建 NumPy 数组</span>
+<span class="n">a</span> <span class="o">=</span> <span class="n">np</span><span class="o">.</span><span class="n">array</span><span class="p">([</span><span class="mi">10</span><span class="p">,</span> <span class="mi">20</span><span class="p">,</span> <span class="mi">30</span><span class="p">])</span>
+<span class="c1"># np.array: 从列表创建 NumPy 数组</span>
+<span class="n">b</span> <span class="o">=</span> <span class="n">np</span><span class="o">.</span><span class="n">array</span><span class="p">([</span><span class="mi">1</span><span class="p">,</span> <span class="mi">2</span><span class="p">,</span> <span class="mi">3</span><span class="p">])</span>
+<span class="nb">print</span><span class="p">(</span><span class="s1">'a + b:'</span><span class="p">,</span> <span class="n">a</span> <span class="o">+</span> <span class="n">b</span><span class="p">)</span>
+<span class="nb">print</span><span class="p">(</span><span class="s1">'a - b:'</span><span class="p">,</span> <span class="n">a</span> <span class="o">-</span> <span class="n">b</span><span class="p">)</span>
+<span class="nb">print</span><span class="p">(</span><span class="s1">'a * b:'</span><span class="p">,</span> <span class="n">a</span> <span class="o">*</span> <span class="n">b</span><span class="p">)</span>
+<span class="nb">print</span><span class="p">(</span><span class="s1">'a / b:'</span><span class="p">,</span> <span class="n">a</span> <span class="o">/</span> <span class="n">b</span><span class="p">)</span>
+</pre></div>
+<div class="nb-out"><pre class="nb-stream">a + b: [11 22 33]
+a - b: [ 9 18 27]
+a * b: [10 40 90]
+a / b: [10. 10. 10.]
+</pre></div></div>
+<h4 id="场景">💡<strong>场景</strong></h4>
+<p>对一批数据做批量转换。比如商品价格全部打八折，温度从摄氏度转华氏度。</p>
+<div class="nb-cell"><div class="codehilite lang-nb"><pre><span></span><span class="c1"># np.array: 从列表创建 NumPy 数组</span>
+<span class="n">prices</span> <span class="o">=</span> <span class="n">np</span><span class="o">.</span><span class="n">array</span><span class="p">([</span><span class="mi">99</span><span class="p">,</span> <span class="mi">199</span><span class="p">,</span> <span class="mi">299</span><span class="p">,</span> <span class="mi">399</span><span class="p">],</span> <span class="n">dtype</span><span class="o">=</span><span class="nb">float</span><span class="p">)</span>
+<span class="n">discounted</span> <span class="o">=</span> <span class="n">prices</span> <span class="o">*</span> <span class="mf">0.8</span>
+<span class="nb">print</span><span class="p">(</span><span class="s1">'原价:'</span><span class="p">,</span> <span class="n">prices</span><span class="p">)</span>
+<span class="nb">print</span><span class="p">(</span><span class="s1">'打八折:'</span><span class="p">,</span> <span class="n">discounted</span><span class="p">)</span>
+
+<span class="c1"># np.array: 从列表创建 NumPy 数组</span>
+<span class="n">celsius</span> <span class="o">=</span> <span class="n">np</span><span class="o">.</span><span class="n">array</span><span class="p">([</span><span class="mi">0</span><span class="p">,</span> <span class="mi">10</span><span class="p">,</span> <span class="mi">20</span><span class="p">,</span> <span class="mi">30</span><span class="p">,</span> <span class="mi">40</span><span class="p">])</span>
+<span class="n">fahrenheit</span> <span class="o">=</span> <span class="n">celsius</span> <span class="o">*</span> <span class="mi">9</span> <span class="o">/</span> <span class="mi">5</span> <span class="o">+</span> <span class="mi">32</span>
+<span class="nb">print</span><span class="p">(</span><span class="s1">'摄氏:'</span><span class="p">,</span> <span class="n">celsius</span><span class="p">)</span>
+<span class="nb">print</span><span class="p">(</span><span class="s1">'华氏:'</span><span class="p">,</span> <span class="n">fahrenheit</span><span class="p">)</span>
+</pre></div>
+<div class="nb-out"><pre class="nb-stream">原价: [ 99. 199. 299. 399.]
+打八折: [ 79.2 159.2 239.2 319.2]
+摄氏: [ 0 10 20 30 40]
+华氏: [ 32.  50.  68.  86. 104.]
+</pre></div></div>
+<h2 id="统计运算">统计运算</h2>
+<p>对数组做聚合统计，可以用 <code>axis</code> 指定沿哪个方向算。</p>
+<div class="nb-cell"><div class="codehilite lang-nb"><pre><span></span><span class="c1"># np.arange: 创建等差数组</span>
+<span class="n">arr</span> <span class="o">=</span> <span class="n">np</span><span class="o">.</span><span class="n">arange</span><span class="p">(</span><span class="mi">12</span><span class="p">)</span><span class="o">.</span><span class="n">reshape</span><span class="p">(</span><span class="mi">3</span><span class="p">,</span> <span class="mi">4</span><span class="p">)</span><span class="o">.</span><span class="n">astype</span><span class="p">(</span><span class="nb">float</span><span class="p">)</span>
+<span class="nb">print</span><span class="p">(</span><span class="s1">'数组:</span><span class="se">\n</span><span class="s1">'</span><span class="p">,</span> <span class="n">arr</span><span class="p">,</span> <span class="s1">'</span><span class="se">\n</span><span class="s1">'</span><span class="p">)</span>
+<span class="c1"># sum: 计算所有元素之和</span>
+<span class="nb">print</span><span class="p">(</span><span class="s1">'sum:'</span><span class="p">,</span> <span class="n">arr</span><span class="o">.</span><span class="n">sum</span><span class="p">())</span>
+<span class="c1"># mean: 计算算术平均值</span>
+<span class="nb">print</span><span class="p">(</span><span class="s1">'mean:'</span><span class="p">,</span> <span class="n">arr</span><span class="o">.</span><span class="n">mean</span><span class="p">())</span>
+<span class="c1"># sum: 计算所有元素之和</span>
+<span class="nb">print</span><span class="p">(</span><span class="s1">'sum(axis=0) 按列求和:'</span><span class="p">,</span> <span class="n">arr</span><span class="o">.</span><span class="n">sum</span><span class="p">(</span><span class="n">axis</span><span class="o">=</span><span class="mi">0</span><span class="p">))</span>
+<span class="c1"># sum: 计算所有元素之和</span>
+<span class="nb">print</span><span class="p">(</span><span class="s1">'sum(axis=1) 按行求和:'</span><span class="p">,</span> <span class="n">arr</span><span class="o">.</span><span class="n">sum</span><span class="p">(</span><span class="n">axis</span><span class="o">=</span><span class="mi">1</span><span class="p">))</span>
+<span class="c1"># min: 找出最小值</span>
+<span class="nb">print</span><span class="p">(</span><span class="s1">'min:'</span><span class="p">,</span> <span class="n">arr</span><span class="o">.</span><span class="n">min</span><span class="p">(),</span> <span class="s1">', max:'</span><span class="p">,</span> <span class="n">arr</span><span class="o">.</span><span class="n">max</span><span class="p">())</span>
+<span class="c1"># argmin: 找出最小值所在的索引</span>
+<span class="nb">print</span><span class="p">(</span><span class="s1">'argmin:'</span><span class="p">,</span> <span class="n">arr</span><span class="o">.</span><span class="n">argmin</span><span class="p">(),</span> <span class="s1">', argmax:'</span><span class="p">,</span> <span class="n">arr</span><span class="o">.</span><span class="n">argmax</span><span class="p">())</span>
+</pre></div>
+<div class="nb-out"><pre class="nb-stream">数组:
+ [[ 0.  1.  2.  3.]
+ [ 4.  5.  6.  7.]
+ [ 8.  9. 10. 11.]] 
+
+sum: 66.0
+mean: 5.5
+sum(axis=0) 按列求和: [12. 15. 18. 21.]
+sum(axis=1) 按行求和: [ 6. 22. 38.]
+min: 0.0 , max: 11.0
+argmin: 0 , argmax: 11
+</pre></div></div>
+<h4 id="标准差">标准差</h4>
+<p>标准差（Standard Deviation）是统计学中衡量数据波动程度（即离散程度）最常用的指标。简单来说，它告诉你数据围绕平均值有多“散”。</p>
+<p>标准差越小：说明数据越集中，平均值越有代表性（大家成绩都差不多）。</p>
+<p>标准差越大：说明数据越分散，平均值越不靠谱（有人考100分，有人考0分）。</p>
+<p>$$ 
+\textbf{1. 总体标准差（Population Standard Deviation）}\[1em]
+\sigma = \sqrt{\frac{\sum_{i=1}^{N} (x_i - \mu)^2}{N}}\[2em]
+\textbf{2. 样本标准差（Sample Standard Deviation）}\[1em]
+s = \sqrt{\frac{\sum_{i=1}^{n} (x_i - \bar{x})^2}{n-1}}\[1em]
+$$</p>
+<div class="nb-cell"><div class="codehilite lang-nb"><pre><span></span><span class="nb">print</span><span class="p">(</span><span class="s2">"arr"</span><span class="p">,</span> <span class="n">arr</span><span class="p">)</span>
+<span class="nb">print</span><span class="p">(</span><span class="s2">"mean"</span><span class="p">,</span> <span class="n">arr</span><span class="o">.</span><span class="n">mean</span><span class="p">())</span>
+<span class="c1"># std: 计算总体标准差</span>
+<span class="nb">print</span><span class="p">(</span><span class="s1">'std总体标准差:'</span><span class="p">,</span> <span class="n">arr</span><span class="o">.</span><span class="n">std</span><span class="p">())</span>
+<span class="c1"># std: 计算样本标准差</span>
+<span class="nb">print</span><span class="p">(</span><span class="s1">'std(ddof=1)样本标准差:'</span><span class="p">,</span> <span class="n">arr</span><span class="o">.</span><span class="n">std</span><span class="p">(</span><span class="n">ddof</span><span class="o">=</span><span class="mi">1</span><span class="p">))</span>
+<span class="c1"># 变异系数</span>
+<span class="nb">print</span><span class="p">(</span><span class="s1">'变异系数CV:'</span><span class="p">,</span> <span class="n">arr</span><span class="o">.</span><span class="n">std</span><span class="p">()</span> <span class="o">/</span> <span class="n">arr</span><span class="o">.</span><span class="n">mean</span><span class="p">())</span>
+</pre></div>
+<div class="nb-out"><pre class="nb-stream">arr [[ 0.  1.  2.  3.]
+ [ 4.  5.  6.  7.]
+ [ 8.  9. 10. 11.]]
+mean 5.5
+std总体标准差: 3.452052529534663
+std(ddof=1)样本标准差: 3.605551275463989
+变异系数CV: 0.6276459144608478
+</pre></div></div>
+<table>
+<thead>
+<tr>
+<th style="text-align: left;">CV 范围</th>
+<th style="text-align: left;">离散程度</th>
+<th style="text-align: left;">直观感受</th>
+<th style="text-align: left;">典型场景举例</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;"><strong>&lt; 10%</strong></td>
+<td style="text-align: left;"><strong>非常小</strong></td>
+<td style="text-align: left;">数据极度集中，几乎一模一样</td>
+<td style="text-align: left;">工厂自动化生产的零件尺寸、精密仪器读数</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>10% ~ 20%</strong></td>
+<td style="text-align: left;"><strong>较小</strong></td>
+<td style="text-align: left;">有波动但很稳定，平均值可靠</td>
+<td style="text-align: left;">成年人的身高、体重、日常气温</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>20% ~ 30%</strong></td>
+<td style="text-align: left;"><strong>中等</strong></td>
+<td style="text-align: left;">正常波动范围，尚可接受</td>
+<td style="text-align: left;">学生考试成绩、员工绩效评分</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>30% ~ 50%</strong></td>
+<td style="text-align: left;"><strong>较大</strong></td>
+<td style="text-align: left;">数据比较分散，平均值代表性下降</td>
+<td style="text-align: left;">城市房价、不同地区的薪资水平</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>&gt; 50%</strong></td>
+<td style="text-align: left;"><strong>非常大</strong></td>
+<td style="text-align: left;">极度分散，平均值几乎没意义</td>
+<td style="text-align: left;">股票日收益率、创业公司估值、个人消费支出</td>
+</tr>
+</tbody>
+</table>
+<h2 id="条件筛选与-npwhere">条件筛选与 np.where</h2>
+<p><code>np.where(condition, x, y)</code> —— 如果条件成立取 x 的值，否则取 y 的值。类似向量化的 if-else。</p>
+<div class="nb-cell"><div class="codehilite lang-nb"><pre><span></span><span class="c1"># np.array: 从列表创建 NumPy 数组</span>
+<span class="n">arr</span> <span class="o">=</span> <span class="n">np</span><span class="o">.</span><span class="n">array</span><span class="p">([</span><span class="mi">10</span><span class="p">,</span> <span class="o">-</span><span class="mi">5</span><span class="p">,</span> <span class="mi">3</span><span class="p">,</span> <span class="o">-</span><span class="mi">8</span><span class="p">,</span> <span class="mi">0</span><span class="p">,</span> <span class="mi">15</span><span class="p">])</span>
+<span class="c1"># np.where: 根据条件筛选或替换值</span>
+<span class="n">result</span> <span class="o">=</span> <span class="n">np</span><span class="o">.</span><span class="n">where</span><span class="p">(</span><span class="n">arr</span> <span class="o">&lt;</span> <span class="mi">0</span><span class="p">,</span> <span class="mi">0</span><span class="p">,</span> <span class="n">arr</span><span class="p">)</span>
+<span class="nb">print</span><span class="p">(</span><span class="s1">'原数组:'</span><span class="p">,</span> <span class="n">arr</span><span class="p">)</span>
+<span class="nb">print</span><span class="p">(</span><span class="s1">'负数变 0:'</span><span class="p">,</span> <span class="n">result</span><span class="p">)</span>
+</pre></div>
+<div class="nb-out"><pre class="nb-stream">原数组: [10 -5  3 -8  0 15]
+负数变 0: [10  0  3  0  0 15]
+</pre></div></div>
+<div class="nb-cell"><div class="codehilite lang-nb"><pre><span></span><span class="c1"># np.array: 从列表创建 NumPy 数组</span>
+<span class="n">arr</span> <span class="o">=</span> <span class="n">np</span><span class="o">.</span><span class="n">array</span><span class="p">([</span><span class="mi">10</span><span class="p">,</span> <span class="mi">20</span><span class="p">,</span> <span class="mi">30</span><span class="p">,</span> <span class="mi">40</span><span class="p">,</span> <span class="mi">50</span><span class="p">])</span>
+<span class="c1"># np.where: 根据条件筛选或替换值</span>
+<span class="n">indices</span> <span class="o">=</span> <span class="n">np</span><span class="o">.</span><span class="n">where</span><span class="p">(</span><span class="n">arr</span> <span class="o">&gt;</span> <span class="mi">25</span><span class="p">)</span>
+<span class="nb">print</span><span class="p">(</span><span class="s1">'arr &gt; 25 的位置:'</span><span class="p">,</span> <span class="n">indices</span><span class="p">)</span>
+<span class="nb">print</span><span class="p">(</span><span class="s1">'对应值:'</span><span class="p">,</span> <span class="n">arr</span><span class="p">[</span><span class="n">indices</span><span class="p">])</span>
+</pre></div>
+<div class="nb-out"><pre class="nb-stream">arr &gt; 25 的位置: (array([2, 3, 4]),)
+对应值: [30 40 50]
+</pre></div></div>
+<h4 id="场景">💡<strong>场景</strong></h4>
+<p>对数据进行分类处理。比如成绩单中，60 分以上标记为「通过」，否则为「不通过」。</p>
+<div class="nb-cell"><div class="codehilite lang-nb"><pre><span></span><span class="c1"># np.array: 从列表创建 NumPy 数组</span>
+<span class="n">scores</span> <span class="o">=</span> <span class="n">np</span><span class="o">.</span><span class="n">array</span><span class="p">([</span><span class="mi">85</span><span class="p">,</span> <span class="mi">42</span><span class="p">,</span> <span class="mi">73</span><span class="p">,</span> <span class="mi">59</span><span class="p">,</span> <span class="mi">90</span><span class="p">,</span> <span class="mi">31</span><span class="p">,</span> <span class="mi">68</span><span class="p">])</span>
+<span class="c1"># np.where: 根据条件筛选或替换值</span>
+<span class="n">result</span> <span class="o">=</span> <span class="n">np</span><span class="o">.</span><span class="n">where</span><span class="p">(</span><span class="n">scores</span> <span class="o">&gt;=</span> <span class="mi">60</span><span class="p">,</span> <span class="s1">'通过'</span><span class="p">,</span> <span class="s1">'不通过'</span><span class="p">)</span>
+<span class="nb">print</span><span class="p">(</span><span class="s1">'成绩:'</span><span class="p">,</span> <span class="n">scores</span><span class="p">)</span>
+<span class="nb">print</span><span class="p">(</span><span class="s1">'结果:'</span><span class="p">,</span> <span class="n">result</span><span class="p">)</span>
+</pre></div>
+<div class="nb-out"><pre class="nb-stream">成绩: [85 42 73 59 90 31 68]
+结果: [&#x27;通过&#x27; &#x27;不通过&#x27; &#x27;通过&#x27; &#x27;不通过&#x27; &#x27;通过&#x27; &#x27;不通过&#x27; &#x27;通过&#x27;]
+</pre></div></div>
+<h2 id="拼接与分割">拼接与分割</h2>
+<p>把多个数组合并，或把一个数组拆成多份。</p>
+<div class="nb-cell"><div class="codehilite lang-nb"><pre><span></span><span class="c1"># np.array: 从列表创建 NumPy 数组</span>
+<span class="n">a</span> <span class="o">=</span> <span class="n">np</span><span class="o">.</span><span class="n">array</span><span class="p">([[</span><span class="mi">1</span><span class="p">,</span> <span class="mi">2</span><span class="p">],</span> <span class="p">[</span><span class="mi">3</span><span class="p">,</span> <span class="mi">4</span><span class="p">]])</span>
+<span class="c1"># np.array: 从列表创建 NumPy 数组</span>
+<span class="n">b</span> <span class="o">=</span> <span class="n">np</span><span class="o">.</span><span class="n">array</span><span class="p">([[</span><span class="mi">5</span><span class="p">,</span> <span class="mi">6</span><span class="p">]])</span>
+<span class="c1"># np.vstack: 垂直堆叠数组</span>
+<span class="nb">print</span><span class="p">(</span><span class="s1">'vstack (垂直拼):</span><span class="se">\n</span><span class="s1">'</span><span class="p">,</span> <span class="n">np</span><span class="o">.</span><span class="n">vstack</span><span class="p">([</span><span class="n">a</span><span class="p">,</span> <span class="n">b</span><span class="p">]),</span> <span class="s1">'</span><span class="se">\n</span><span class="s1">'</span><span class="p">)</span>
+<span class="c1"># np.concatenate: 沿指定轴拼接数组</span>
+<span class="nb">print</span><span class="p">(</span><span class="s1">'concatenate axis=0:</span><span class="se">\n</span><span class="s1">'</span><span class="p">,</span> <span class="n">np</span><span class="o">.</span><span class="n">concatenate</span><span class="p">([</span><span class="n">a</span><span class="p">,</span> <span class="n">b</span><span class="p">],</span> <span class="n">axis</span><span class="o">=</span><span class="mi">0</span><span class="p">))</span>
+</pre></div>
+<div class="nb-out"><pre class="nb-stream">vstack (垂直拼):
+ [[1 2]
+ [3 4]
+ [5 6]] 
+
+concatenate axis=0:
+ [[1 2]
+ [3 4]
+ [5 6]]
+</pre></div></div>
+<div class="nb-cell"><div class="codehilite lang-nb"><pre><span></span><span class="c1"># np.array: 从列表创建 NumPy 数组</span>
+<span class="n">a</span> <span class="o">=</span> <span class="n">np</span><span class="o">.</span><span class="n">array</span><span class="p">([[</span><span class="mi">1</span><span class="p">,</span> <span class="mi">2</span><span class="p">],</span> <span class="p">[</span><span class="mi">3</span><span class="p">,</span> <span class="mi">4</span><span class="p">]])</span>
+<span class="c1"># np.array: 从列表创建 NumPy 数组</span>
+<span class="n">b</span> <span class="o">=</span> <span class="n">np</span><span class="o">.</span><span class="n">array</span><span class="p">([[</span><span class="mi">5</span><span class="p">],</span> <span class="p">[</span><span class="mi">6</span><span class="p">]])</span>
+<span class="c1"># np.hstack: 水平堆叠数组</span>
+<span class="nb">print</span><span class="p">(</span><span class="s1">'hstack (水平拼):</span><span class="se">\n</span><span class="s1">'</span><span class="p">,</span> <span class="n">np</span><span class="o">.</span><span class="n">hstack</span><span class="p">([</span><span class="n">a</span><span class="p">,</span> <span class="n">b</span><span class="p">]),</span> <span class="s1">'</span><span class="se">\n</span><span class="s1">'</span><span class="p">)</span>
+<span class="c1"># np.concatenate: 沿指定轴拼接数组</span>
+<span class="nb">print</span><span class="p">(</span><span class="s1">'concatenate axis=1:</span><span class="se">\n</span><span class="s1">'</span><span class="p">,</span> <span class="n">np</span><span class="o">.</span><span class="n">concatenate</span><span class="p">([</span><span class="n">a</span><span class="p">,</span> <span class="n">b</span><span class="p">],</span> <span class="n">axis</span><span class="o">=</span><span class="mi">1</span><span class="p">))</span>
+</pre></div>
+</div>
+<div class="nb-cell"><div class="codehilite lang-nb"><pre><span></span><span class="c1"># np.arange: 创建等差数组</span>
+<span class="n">arr</span> <span class="o">=</span> <span class="n">np</span><span class="o">.</span><span class="n">arange</span><span class="p">(</span><span class="mi">16</span><span class="p">)</span><span class="o">.</span><span class="n">reshape</span><span class="p">(</span><span class="mi">4</span><span class="p">,</span> <span class="mi">4</span><span class="p">)</span>
+<span class="nb">print</span><span class="p">(</span><span class="s1">'数组:</span><span class="se">\n</span><span class="s1">'</span><span class="p">,</span> <span class="n">arr</span><span class="p">,</span> <span class="s1">'</span><span class="se">\n</span><span class="s1">'</span><span class="p">)</span>
+<span class="c1"># np.split: 沿行方向分割数组</span>
+<span class="n">first</span><span class="p">,</span> <span class="n">second</span><span class="p">,</span> <span class="n">rest</span> <span class="o">=</span> <span class="n">np</span><span class="o">.</span><span class="n">split</span><span class="p">(</span><span class="n">arr</span><span class="p">,</span> <span class="p">[</span><span class="mi">1</span><span class="p">,</span> <span class="mi">3</span><span class="p">])</span>
+<span class="nb">print</span><span class="p">(</span><span class="s1">'[:1]:</span><span class="se">\n</span><span class="s1">'</span><span class="p">,</span> <span class="n">first</span><span class="p">,</span> <span class="s1">'</span><span class="se">\n</span><span class="s1">'</span><span class="p">)</span>
+<span class="nb">print</span><span class="p">(</span><span class="s1">'[1:3]:</span><span class="se">\n</span><span class="s1">'</span><span class="p">,</span> <span class="n">second</span><span class="p">,</span> <span class="s1">'</span><span class="se">\n</span><span class="s1">'</span><span class="p">)</span>
+<span class="nb">print</span><span class="p">(</span><span class="s1">'[3:]:</span><span class="se">\n</span><span class="s1">'</span><span class="p">,</span> <span class="n">rest</span><span class="p">)</span>
+</pre></div>
+<div class="nb-out"><pre class="nb-stream">数组:
+ [[ 0  1  2  3]
+ [ 4  5  6  7]
+ [ 8  9 10 11]
+ [12 13 14 15]] 
+
+[:1]:
+ [[0 1 2 3]] 
+
+[1:3]:
+ [[ 4  5  6  7]
+ [ 8  9 10 11]] 
+
+[3:]:
+ [[12 13 14 15]]
+</pre></div></div>
+<div class="nb-cell"><div class="codehilite lang-nb"><pre><span></span><span class="c1"># np.arange: 创建等差数组</span>
+<span class="n">arr</span> <span class="o">=</span> <span class="n">np</span><span class="o">.</span><span class="n">arange</span><span class="p">(</span><span class="mi">12</span><span class="p">)</span><span class="o">.</span><span class="n">reshape</span><span class="p">(</span><span class="mi">3</span><span class="p">,</span> <span class="mi">4</span><span class="p">)</span>
+<span class="nb">print</span><span class="p">(</span><span class="s1">'数组:</span><span class="se">\n</span><span class="s1">'</span><span class="p">,</span> <span class="n">arr</span><span class="p">,</span> <span class="s1">'</span><span class="se">\n</span><span class="s1">'</span><span class="p">)</span>
+<span class="c1"># np.hsplit: 沿列方向分割数组</span>
+<span class="n">left</span><span class="p">,</span> <span class="n">right</span> <span class="o">=</span> <span class="n">np</span><span class="o">.</span><span class="n">hsplit</span><span class="p">(</span><span class="n">arr</span><span class="p">,</span> <span class="mi">2</span><span class="p">)</span>
+<span class="nb">print</span><span class="p">(</span><span class="s1">'左:</span><span class="se">\n</span><span class="s1">'</span><span class="p">,</span> <span class="n">left</span><span class="p">,</span> <span class="s1">'</span><span class="se">\n</span><span class="s1">'</span><span class="p">)</span>
+<span class="nb">print</span><span class="p">(</span><span class="s1">'右:</span><span class="se">\n</span><span class="s1">'</span><span class="p">,</span> <span class="n">right</span><span class="p">)</span>
+</pre></div>
+<div class="nb-out"><pre class="nb-stream">数组:
+ [[ 0  1  2  3]
+ [ 4  5  6  7]
+ [ 8  9 10 11]] 
+
+左:
+ [[0 1]
+ [4 5]
+ [8 9]] 
+
+右:
+ [[ 2  3]
+ [ 6  7]
+ [10 11]]
+</pre></div></div>
+<h2 id="排序">排序</h2>
+<p>排序在很多场景中都会用到。</p>
+<div class="nb-cell"><div class="codehilite lang-nb"><pre><span></span><span class="c1"># np.array: 从列表创建 NumPy 数组</span>
+<span class="n">arr</span> <span class="o">=</span> <span class="n">np</span><span class="o">.</span><span class="n">array</span><span class="p">([</span><span class="mi">3</span><span class="p">,</span> <span class="mi">1</span><span class="p">,</span> <span class="mi">4</span><span class="p">,</span> <span class="mi">1</span><span class="p">,</span> <span class="mi">5</span><span class="p">,</span> <span class="mi">9</span><span class="p">,</span> <span class="mi">2</span><span class="p">,</span> <span class="mi">6</span><span class="p">])</span>
+<span class="nb">print</span><span class="p">(</span><span class="s1">'原数组:'</span><span class="p">,</span> <span class="n">arr</span><span class="p">)</span>
+<span class="c1"># np.sort: 返回排序后的数组</span>
+<span class="nb">print</span><span class="p">(</span><span class="s1">'np.sort(arr):'</span><span class="p">,</span> <span class="n">np</span><span class="o">.</span><span class="n">sort</span><span class="p">(</span><span class="n">arr</span><span class="p">))</span>
+<span class="c1"># np.argsort: 返回排序后的索引数组</span>
+<span class="nb">print</span><span class="p">(</span><span class="s1">'np.argsort(arr):'</span><span class="p">,</span> <span class="n">np</span><span class="o">.</span><span class="n">argsort</span><span class="p">(</span><span class="n">arr</span><span class="p">))</span>
+<span class="c1"># np.unique: 返回唯一值</span>
+<span class="nb">print</span><span class="p">(</span><span class="s1">'np.unique(arr):'</span><span class="p">,</span> <span class="n">np</span><span class="o">.</span><span class="n">unique</span><span class="p">(</span><span class="n">arr</span><span class="p">))</span>
+</pre></div>
+<div class="nb-out"><pre class="nb-stream">原数组: [3 1 4 1 5 9 2 6]
+np.sort(arr): [1 1 2 3 4 5 6 9]
+np.argsort(arr): [1 3 6 0 2 4 7 5]
+np.unique(arr): [1 2 3 4 5 6 9]
+</pre></div></div>
+<div class="nb-cell"><div class="codehilite lang-nb"><pre><span></span><span class="c1"># np.array: 从列表创建 NumPy 数组</span>
+<span class="n">matrix</span> <span class="o">=</span> <span class="n">np</span><span class="o">.</span><span class="n">array</span><span class="p">([[</span><span class="mi">3</span><span class="p">,</span> <span class="mi">1</span><span class="p">,</span> <span class="mi">2</span><span class="p">],</span> <span class="p">[</span><span class="mi">6</span><span class="p">,</span> <span class="mi">5</span><span class="p">,</span> <span class="mi">4</span><span class="p">]])</span>
+<span class="nb">print</span><span class="p">(</span><span class="s1">'矩阵:</span><span class="se">\n</span><span class="s1">'</span><span class="p">,</span> <span class="n">matrix</span><span class="p">,</span> <span class="s1">'</span><span class="se">\n</span><span class="s1">'</span><span class="p">)</span>
+<span class="c1"># np.sort: 返回排序后的数组</span>
+<span class="nb">print</span><span class="p">(</span><span class="s1">'每行排序:</span><span class="se">\n</span><span class="s1">'</span><span class="p">,</span> <span class="n">np</span><span class="o">.</span><span class="n">sort</span><span class="p">(</span><span class="n">matrix</span><span class="p">,</span> <span class="n">axis</span><span class="o">=</span><span class="mi">1</span><span class="p">))</span>
+<span class="c1"># np.sort: 返回排序后的数组</span>
+<span class="nb">print</span><span class="p">(</span><span class="s1">'每列排序:</span><span class="se">\n</span><span class="s1">'</span><span class="p">,</span> <span class="n">np</span><span class="o">.</span><span class="n">sort</span><span class="p">(</span><span class="n">matrix</span><span class="p">,</span> <span class="n">axis</span><span class="o">=</span><span class="mi">0</span><span class="p">))</span>
+</pre></div>
+<div class="nb-out"><pre class="nb-stream">矩阵:
+ [[3 1 2]
+ [6 5 4]] 
+
+每行排序:
+ [[1 2 3]
+ [4 5 6]]
+每列排序:
+ [[3 1 2]
+ [6 5 4]]
+</pre></div></div>
+<div class="nb-cell"><div class="codehilite lang-nb"><pre><span></span><span class="c1"># np.array: 从列表创建 NumPy 数组</span>
+<span class="n">arr</span> <span class="o">=</span> <span class="n">np</span><span class="o">.</span><span class="n">array</span><span class="p">([</span><span class="mi">3</span><span class="p">,</span> <span class="mi">1</span><span class="p">,</span> <span class="mi">4</span><span class="p">,</span> <span class="mi">1</span><span class="p">,</span> <span class="mi">5</span><span class="p">])</span>
+<span class="c1"># sort: 原地排序数组</span>
+<span class="n">arr</span><span class="o">.</span><span class="n">sort</span><span class="p">()</span>
+<span class="c1"># sort: 原地排序数组</span>
+<span class="nb">print</span><span class="p">(</span><span class="s1">'arr.sort() 后:'</span><span class="p">,</span> <span class="n">arr</span><span class="p">)</span>
+</pre></div>
+<div class="nb-out"><pre class="nb-stream">arr.sort() 后: [1 1 3 4 5]
+</pre></div></div>
+<h4 id="场景">💡<strong>场景</strong></h4>
+<p>找出数据中最大/最小的前几个。比如找出销量最高的前 3 个商品。</p>
+<div class="nb-cell"><div class="codehilite lang-nb"><pre><span></span><span class="c1"># np.array: 从列表创建 NumPy 数组</span>
+<span class="n">sales</span> <span class="o">=</span> <span class="n">np</span><span class="o">.</span><span class="n">array</span><span class="p">([</span><span class="mi">230</span><span class="p">,</span> <span class="mi">150</span><span class="p">,</span> <span class="mi">890</span><span class="p">,</span> <span class="mi">340</span><span class="p">,</span> <span class="mi">560</span><span class="p">,</span> <span class="mi">120</span><span class="p">,</span> <span class="mi">670</span><span class="p">])</span>
+<span class="c1"># np.argsort: 返回排序后的索引数组</span>
+<span class="n">top3_idx</span> <span class="o">=</span> <span class="n">np</span><span class="o">.</span><span class="n">argsort</span><span class="p">(</span><span class="n">sales</span><span class="p">)[::</span><span class="o">-</span><span class="mi">1</span><span class="p">][:</span><span class="mi">3</span><span class="p">]</span>
+<span class="nb">print</span><span class="p">(</span><span class="s1">'销量:'</span><span class="p">,</span> <span class="n">sales</span><span class="p">)</span>
+<span class="nb">print</span><span class="p">(</span><span class="s1">'前 3 名索引:'</span><span class="p">,</span> <span class="n">top3_idx</span><span class="p">)</span>
+<span class="nb">print</span><span class="p">(</span><span class="s1">'前 3 名销量:'</span><span class="p">,</span> <span class="n">sales</span><span class="p">[</span><span class="n">top3_idx</span><span class="p">])</span>
+</pre></div>
+<div class="nb-out"><pre class="nb-stream">销量: [230 150 890 340 560 120 670]
+前 3 名索引: [2 6 4]
+前 3 名销量: [890 670 560]
+</pre></div></div>
+<h2 id="广播Broadcasting">广播（Broadcasting）</h2>
+<p>广播是 NumPy 的特色：<strong>对不同形状的数组做运算时，NumPy 会自动把小数组「扩展」成和大数组一样的形状</strong>，无需手动复制。</p>
+<p>规则：从尾部维度开始比，维度相同或有一个是 1 就能广播。</p>
+<div class="nb-cell"><div class="codehilite lang-nb"><pre><span></span><span class="c1"># np.array: 从列表创建 NumPy 数组</span>
+<span class="n">arr</span> <span class="o">=</span> <span class="n">np</span><span class="o">.</span><span class="n">array</span><span class="p">([</span><span class="mi">1</span><span class="p">,</span> <span class="mi">2</span><span class="p">,</span> <span class="mi">3</span><span class="p">])</span>
+<span class="nb">print</span><span class="p">(</span><span class="s1">'arr + 10:'</span><span class="p">,</span> <span class="n">arr</span> <span class="o">+</span> <span class="mi">10</span><span class="p">)</span>
+<span class="nb">print</span><span class="p">(</span><span class="s1">'arr * 5:'</span><span class="p">,</span> <span class="n">arr</span> <span class="o">*</span> <span class="mi">5</span><span class="p">)</span>
+</pre></div>
+<div class="nb-out"><pre class="nb-stream">arr + 10: [11 12 13]
+arr * 5: [ 5 10 15]
+</pre></div></div>
+<div class="nb-cell"><div class="codehilite lang-nb"><pre><span></span><span class="c1"># np.arange: 创建等差数组</span>
+<span class="n">matrix</span> <span class="o">=</span> <span class="n">np</span><span class="o">.</span><span class="n">arange</span><span class="p">(</span><span class="mi">12</span><span class="p">)</span><span class="o">.</span><span class="n">reshape</span><span class="p">(</span><span class="mi">3</span><span class="p">,</span> <span class="mi">4</span><span class="p">)</span>
+<span class="c1"># np.array: 从列表创建 NumPy 数组</span>
+<span class="n">row</span> <span class="o">=</span> <span class="n">np</span><span class="o">.</span><span class="n">array</span><span class="p">([</span><span class="mi">10</span><span class="p">,</span> <span class="mi">20</span><span class="p">,</span> <span class="mi">30</span><span class="p">,</span> <span class="mi">40</span><span class="p">])</span>
+<span class="c1"># np.array: 从列表创建 NumPy 数组</span>
+<span class="n">col</span> <span class="o">=</span> <span class="n">np</span><span class="o">.</span><span class="n">array</span><span class="p">([[</span><span class="mi">100</span><span class="p">],</span> <span class="p">[</span><span class="mi">200</span><span class="p">],</span> <span class="p">[</span><span class="mi">300</span><span class="p">]])</span>
+
+<span class="nb">print</span><span class="p">(</span><span class="s1">'matrix:</span><span class="se">\n</span><span class="s1">'</span><span class="p">,</span> <span class="n">matrix</span><span class="p">,</span> <span class="s1">'</span><span class="se">\n</span><span class="s1">'</span><span class="p">)</span>
+<span class="nb">print</span><span class="p">(</span><span class="s1">'matrix + row (行广播):</span><span class="se">\n</span><span class="s1">'</span><span class="p">,</span> <span class="n">matrix</span> <span class="o">+</span> <span class="n">row</span><span class="p">,</span> <span class="s1">'</span><span class="se">\n</span><span class="s1">'</span><span class="p">)</span>
+<span class="c1"># reshape: 重塑数组形状</span>
+<span class="nb">print</span><span class="p">(</span><span class="s1">'matrix + col[:, None] (列广播):</span><span class="se">\n</span><span class="s1">'</span><span class="p">,</span> <span class="n">matrix</span> <span class="o">+</span> <span class="n">col</span><span class="p">)</span>
+</pre></div>
+<div class="nb-out"><pre class="nb-stream">matrix:
+ [[ 0  1  2  3]
+ [ 4  5  6  7]
+ [ 8  9 10 11]] 
+
+[[110 120 130 140]
+ [210 220 230 240]
+ [310 320 330 340]]
+matrix + row (行广播):
+ [[10 21 32 43]
+ [14 25 36 47]
+ [18 29 40 51]] 
+
+matrix + col[:, None] (列广播):
+ [[100 101 102 103]
+ [204 205 206 207]
+ [308 309 310 311]]
+</pre></div></div>
+<div class="nb-cell"><div class="codehilite lang-nb"><pre><span></span><span class="c1"># np.array: 从列表创建 NumPy 数组</span>
+<span class="n">a</span> <span class="o">=</span> <span class="n">np</span><span class="o">.</span><span class="n">array</span><span class="p">([[</span><span class="mi">1</span><span class="p">],</span> <span class="p">[</span><span class="mi">2</span><span class="p">],</span> <span class="p">[</span><span class="mi">3</span><span class="p">]])</span>
+<span class="c1"># np.array: 从列表创建 NumPy 数组</span>
+<span class="n">b</span> <span class="o">=</span> <span class="n">np</span><span class="o">.</span><span class="n">array</span><span class="p">([</span><span class="mi">10</span><span class="p">,</span> <span class="mi">20</span><span class="p">,</span> <span class="mi">30</span><span class="p">,</span> <span class="mi">40</span><span class="p">])</span>
+<span class="nb">print</span><span class="p">(</span><span class="s1">'(3,1) + (4,) -&gt; (3,4):</span><span class="se">\n</span><span class="s1">'</span><span class="p">,</span> <span class="n">a</span> <span class="o">+</span> <span class="n">b</span><span class="p">)</span>
+</pre></div>
+<div class="nb-out"><pre class="nb-stream">(3,1) + (4,) -&gt; (3,4):
+ [[11 21 31 41]
+ [12 22 32 42]
+ [13 23 33 43]]
+</pre></div></div>
+<h4 id="场景">💡<strong>场景</strong></h4>
+<p>给一个二维表格的每一列加上不同的偏移量，或者每行乘以不同的系数。</p>
+<div class="nb-cell"><div class="codehilite lang-nb"><pre><span></span><span class="c1"># np.array: 从列表创建 NumPy 数组</span>
+<span class="n">data</span> <span class="o">=</span> <span class="n">np</span><span class="o">.</span><span class="n">array</span><span class="p">([[</span><span class="mi">80</span><span class="p">,</span> <span class="mi">90</span><span class="p">,</span> <span class="mi">85</span><span class="p">],</span>
+                 <span class="p">[</span><span class="mi">70</span><span class="p">,</span> <span class="mi">75</span><span class="p">,</span> <span class="mi">80</span><span class="p">],</span>
+                 <span class="p">[</span><span class="mi">60</span><span class="p">,</span> <span class="mi">65</span><span class="p">,</span> <span class="mi">70</span><span class="p">]])</span>
+<span class="c1"># np.array: 从列表创建 NumPy 数组</span>
+<span class="n">bonus</span> <span class="o">=</span> <span class="n">np</span><span class="o">.</span><span class="n">array</span><span class="p">([</span><span class="mi">5</span><span class="p">,</span> <span class="mi">10</span><span class="p">,</span> <span class="mi">3</span><span class="p">])</span>
+<span class="nb">print</span><span class="p">(</span><span class="s1">'原始成绩:</span><span class="se">\n</span><span class="s1">'</span><span class="p">,</span> <span class="n">data</span><span class="p">,</span> <span class="s1">'</span><span class="se">\n</span><span class="s1">'</span><span class="p">)</span>
+<span class="nb">print</span><span class="p">(</span><span class="s1">'加上加分 (每人加的不同):</span><span class="se">\n</span><span class="s1">'</span><span class="p">,</span> <span class="n">data</span> <span class="o">+</span> <span class="n">bonus</span><span class="p">)</span>
+</pre></div>
+<div class="nb-out"><pre class="nb-stream">原始成绩:
+ [[80 90 85]
+ [70 75 80]
+ [60 65 70]] 
+
+加上加分 (每人加的不同):
+ [[ 85 100  88]
+ [ 75  85  83]
+ [ 65  75  73]]
+</pre></div></div>
+<h2 id="总结">总结</h2>
+<p>本节课覆盖了 NumPy 最常用的数据操作：</p>
+<table>
+<thead>
+<tr>
+<th>操作</th>
+<th>常用方法</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>创建</strong></td>
+<td><code>array</code>, <code>zeros</code>, <code>ones</code>, <code>arange</code>, <code>linspace</code>, <code>random</code></td>
+</tr>
+<tr>
+<td><strong>索引</strong></td>
+<td><code>arr[i]</code>, <code>arr[i:j]</code>, 花式索引, 布尔索引</td>
+</tr>
+<tr>
+<td><strong>变形</strong></td>
+<td><code>reshape</code>, <code>resize</code></td>
+</tr>
+<tr>
+<td><strong>数学运算</strong></td>
+<td><code>+</code>, <code>-</code>, <code>*</code>, <code>/</code>, <code>**</code>, <code>sin</code>, <code>cos</code>, <code>exp</code>, <code>sqrt</code></td>
+</tr>
+<tr>
+<td><strong>统计运算</strong></td>
+<td><code>sum</code>, <code>mean</code>, <code>std</code>, <code>min</code>, <code>max</code>, <code>cumsum</code></td>
+</tr>
+<tr>
+<td><strong>条件筛选</strong></td>
+<td><code>np.where</code>, 布尔掩码</td>
+</tr>
+<tr>
+<td><strong>拼接分割</strong></td>
+<td><code>concatenate</code>, <code>vstack</code>, <code>hstack</code>, <code>split</code></td>
+</tr>
+<tr>
+<td><strong>排序</strong></td>
+<td><code>sort</code>, <code>argsort</code>, <code>unique</code></td>
+</tr>
+<tr>
+<td><strong>广播</strong></td>
+<td>自动维度扩展</td>
+</tr>
+</tbody>
+</table>12:["$","article",null,{"className":"doc","id":"content","children":[["$","div",null,{"className":"doc-head-row mb-2 flex items-center justify-between gap-4","children":[["$","p",null,{"className":"kicker","children":[["$","span",null,{"className":"kicker-num","children":"第 4 章"}],["$","span",null,{"className":"kicker-mod","children":"数据科学工具包"}]]}],["$","$L14",null,{"progressKey":"dst-4"}]]}],["$","h1",null,{"className":"doc-h1","children":"Numpy - 数据操作"}],["$","$L15",null,{"html":"$16"}],"$L17"]}]
+13:["$","$L18",null,{"sections":"$5:1:props:children:0:props:courses:3:modules:1:chapters:1:sections"}]
+19:I[2619,["619","static/chunks/619-ba102abea3e3d0e4.js","526","static/chunks/app/course/%5Bkey%5D/%5Bch%5D/page-166c66fba529f17a.js"],""]
+17:["$","nav",null,{"className":"pager","aria-label":"章节导航","children":[["$","$L19",null,{"className":"pager-link pager-prev","href":"/course/dst/3/","children":[["$","span",null,{"className":"pager-dir","children":"上一章"}],["$","span",null,{"className":"pager-name","children":"Numpy - 核心概念"}]]}],["$","$L19",null,{"className":"pager-link pager-next","href":"/course/dst/5/","children":[["$","span",null,{"className":"pager-dir","children":"下一章"}],["$","span",null,{"className":"pager-name","children":"Pandas - 数据类型"}]]}]]}]
+b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+7:null
+9:{"metadata":[["$","title","0",{"children":"第 4 章  · 数据科学工具包 · AI大全栈"}],["$","meta","1",{"name":"description","content":"袁进主讲的系列课程手册：Python 语言核心精讲、数据科学工具包、数据库、Python 框架、Agents 底层逻辑、LangGraph、LangChain + DeepAgent。iOS 风格阅读体验，内置可运行的 Python 代码块。"}]],"error":null,"digest":"$undefined"}
+e:"$9:metadata"

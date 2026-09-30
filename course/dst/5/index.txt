@@ -1,0 +1,278 @@
+1:"$Sreact.fragment"
+2:I[9130,["619","static/chunks/619-ba102abea3e3d0e4.js","177","static/chunks/app/layout-f06582a541a082fb.js"],"default"]
+3:I[9766,[],""]
+4:I[8924,[],""]
+6:I[4431,[],"OutletBoundary"]
+8:I[5278,[],"AsyncMetadataOutlet"]
+a:I[4431,[],"ViewportBoundary"]
+c:I[4431,[],"MetadataBoundary"]
+d:"$Sreact.suspense"
+f:I[7150,[],""]
+:HL["/ai-course-site/_next/static/css/e17dd95ac0dd78dc.css","style"]
+0:{"P":null,"b":"eFCLH0M-aOlbibikUsuSf","p":"/ai-course-site","c":["","course","dst","5",""],"i":false,"f":[[["",{"children":["course",{"children":[["key","dst","d"],{"children":[["ch","5","d"],{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/ai-course-site/_next/static/css/e17dd95ac0dd78dc.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"zh-CN","suppressHydrationWarning":true,"children":[["$","head",null,{"children":["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var t=localStorage.getItem(\"theme\");var d=t?t===\"dark\":window.matchMedia(\"(prefers-color-scheme: dark)\").matches;if(d)document.documentElement.classList.add(\"dark\");}catch(e){}})();"}}]}],["$","body",null,{"children":[["$","$L2",null,{"families":[{"key":"agent","name":"AI · Agent 开发"},{"key":"dev","name":"编程与工程基础"}]}],["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","footer",null,{"className":"mx-auto max-w-[52rem] px-6 pb-10 text-center text-xs text-label3","children":"AI大全栈 · 课程手册 — 由课件自动生成，仅供学习使用"}]]}]]}]]}],{"children":["course",["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["key","dst","d"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["ch","5","d"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L5",null,["$","$L6",null,{"children":["$L7",["$","$L8",null,{"promise":"$@9"}]]}]]}],{},null,false]},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$La",null,{"children":"$Lb"}],null],["$","$Lc",null,{"children":["$","div",null,{"hidden":true,"children":["$","$d",null,{"fallback":null,"children":"$Le"}]}]}]]}],false]],"m":"$undefined","G":["$f",[]],"s":false,"S":true}
+10:I[7010,["619","static/chunks/619-ba102abea3e3d0e4.js","526","static/chunks/app/course/%5Bkey%5D/%5Bch%5D/page-166c66fba529f17a.js"],"default"]
+11:I[6710,["619","static/chunks/619-ba102abea3e3d0e4.js","526","static/chunks/app/course/%5Bkey%5D/%5Bch%5D/page-166c66fba529f17a.js"],"default"]
+5:[["$","$L10",null,{"url":"/course/dst/5/","title":"Pandas - 数据类型","course":"数据科学工具包"}],["$","div",null,{"className":"doc-wrap","children":[["$","$L11",null,{"courses":[{"key":"py","title":"Python语言核心精讲","glyph":"Py","cls":"b1","coming_soon":false,"modules":[{"name":"语言基础","chapters":[{"n":1,"slug":"1","title":"必看导言","group":"语言基础","progress_key":"1"},{"n":2,"slug":"2","title":"python环境安装","group":"语言基础","progress_key":"2"},{"n":3,"slug":"3","title":"python基本语法","group":"语言基础","progress_key":"3"},{"n":4,"slug":"4","title":"容器类型","group":"语言基础","progress_key":"4"},{"n":5,"slug":"5","title":"函数","group":"语言基础","progress_key":"5"},{"n":6,"slug":"6","title":"作用域","group":"语言基础","progress_key":"6"},{"n":7,"slug":"7","title":"lambda表达式","group":"语言基础","progress_key":"7"}]},{"name":"面向对象","chapters":[{"n":8,"slug":"8","title":"类和对象","group":"面向对象","progress_key":"8"},{"n":9,"slug":"9","title":"对象的类型","group":"面向对象","progress_key":"9"},{"n":10,"slug":"10","title":"对象的创建过程","group":"面向对象","progress_key":"10"},{"n":11,"slug":"11","title":"可调用对象","group":"面向对象","progress_key":"11"},{"n":12,"slug":"12","title":"元类","group":"面向对象","progress_key":"12"},{"n":13,"slug":"13","title":"装饰器","group":"面向对象","progress_key":"13"},{"n":14,"slug":"14","title":"魔术方法","group":"面向对象","progress_key":"14"},{"n":15,"slug":"15","title":"描述符","group":"面向对象","progress_key":"15"}]},{"name":"语言进阶","chapters":[{"n":16,"slug":"16","title":"异常处理","group":"语言进阶","progress_key":"16"},{"n":17,"slug":"17","title":"迭代器与生成器","group":"语言进阶","progress_key":"17"},{"n":18,"slug":"18","title":"上下文管理器","group":"语言进阶","progress_key":"18"},{"n":19,"slug":"19","title":"ABC","group":"语言进阶","progress_key":"19"},{"n":20,"slug":"20","title":"类型标注","group":"语言进阶","progress_key":"20"},{"n":21,"slug":"21","title":"模块化","group":"语言进阶","progress_key":"21"},{"n":22,"slug":"22","title":"标准库","group":"语言进阶","progress_key":"22"},{"n":23,"slug":"23","title":"第三方库","group":"语言进阶","progress_key":"23"}]},{"name":"异步与并发","chapters":[{"n":24,"slug":"24","title":"事件循环","group":"异步与并发","progress_key":"24"},{"n":25,"slug":"25","title":"Future类","group":"异步与并发","progress_key":"25"},{"n":26,"slug":"26","title":"协程 Coroutine","group":"异步与并发","progress_key":"26"},{"n":27,"slug":"27","title":"异步编程","group":"异步与并发","progress_key":"27"},{"n":28,"slug":"28","title":"多线程与多进程","group":"异步与并发","progress_key":"28"}]},{"name":"工程化实践","chapters":[{"n":29,"slug":"29","title":"构建发布","group":"工程化实践","progress_key":"29"},{"n":30,"slug":"30","title":"项目管理工具","group":"工程化实践","progress_key":"30"},{"n":31,"slug":"31","title":"monorepo","group":"工程化实践","progress_key":"31"},{"n":32,"slug":"32","title":"断点调试","group":"工程化实践","progress_key":"32"}]},{"name":"项目案例","chapters":[{"n":null,"slug":"proj-async-agents","title":"多智能体协同调研系统","group":"项目案例","progress_key":""},{"n":null,"slug":"proj-duyi-utils","title":"duyi-utils 构建发布示例","group":"项目案例","progress_key":""}]}]},{"key":"fw","title":"Python框架","glyph":"架","cls":"b-fw","coming_soon":false,"modules":[{"name":"课程内容","chapters":[{"n":1,"slug":"1","title":"Web服务框架","group":"课程内容","progress_key":"fw-1"},{"n":2,"slug":"2","title":"优化包结构","group":"课程内容","progress_key":"fw-2"},{"n":3,"slug":"3","title":"初识SQLAlchemy","group":"课程内容","progress_key":"fw-3"},{"n":4,"slug":"4","title":"ORM","group":"课程内容","progress_key":"fw-4"},{"n":5,"slug":"5","title":"数据操作","group":"课程内容","progress_key":"fw-5"},{"n":6,"slug":"6","title":"数据迁移","group":"课程内容","progress_key":"fw-6"},{"n":7,"slug":"7","title":"业务逻辑","group":"课程内容","progress_key":"fw-7"},{"n":8,"slug":"8","title":"依赖注入","group":"课程内容","progress_key":"fw-8"},{"n":9,"slug":"9","title":"统一异常处理","group":"课程内容","progress_key":"fw-9"},{"n":10,"slug":"10","title":"中间件","group":"课程内容","progress_key":"fw-10"},{"n":11,"slug":"11","title":"测试框架","group":"课程内容","progress_key":"fw-11"},{"n":12,"slug":"12","title":"测试方案","group":"课程内容","progress_key":"fw-12"},{"n":13,"slug":"13","title":"三层架构","group":"课程内容","progress_key":"fw-13"},{"n":14,"slug":"14","title":"文件上传","group":"课程内容","progress_key":"fw-14"},{"n":15,"slug":"15","title":"系统设置","group":"课程内容","progress_key":"fw-15"},{"n":17,"slug":"17","title":"用户系统","group":"课程内容","progress_key":"fw-17"},{"n":18,"slug":"18","title":"日志","group":"课程内容","progress_key":"fw-18"},{"n":20,"slug":"20","title":"流式响应","group":"课程内容","progress_key":"fw-20"},{"n":26,"slug":"26","title":"python收官检验","group":"课程内容","progress_key":"fw-26"}]},{"name":"部署","chapters":[{"n":21,"slug":"21","title":"部署-认识Docker","group":"部署","progress_key":"fw-21"},{"n":22,"slug":"22","title":"部署-云资产","group":"部署","progress_key":"fw-22"},{"n":23,"slug":"23","title":"部署-k8s","group":"部署","progress_key":"fw-23"},{"n":24,"slug":"24","title":"部署-CICD","group":"部署","progress_key":"fw-24"},{"n":25,"slug":"25","title":"部署-总结","group":"部署","progress_key":"fw-25"}]}]},{"key":"db","title":"数据库","glyph":"库","cls":"b-db","coming_soon":false,"modules":[{"name":"课程内容","chapters":[{"n":1,"slug":"1","title":"PostgreSQL安装","group":"课程内容","progress_key":"db-1"},{"n":2,"slug":"2","title":"DDL","group":"课程内容","progress_key":"db-2"},{"n":3,"slug":"3","title":"表间关系","group":"课程内容","progress_key":"db-3"},{"n":4,"slug":"4","title":"DML","group":"课程内容","progress_key":"db-4"},{"n":5,"slug":"5","title":"事务","group":"课程内容","progress_key":"db-5"},{"n":6,"slug":"6","title":"索引","group":"课程内容","progress_key":"db-6"},{"n":7,"slug":"7","title":"拓展知识","group":"课程内容","progress_key":"db-7"}]}]},{"key":"dst","title":"数据科学工具包","glyph":"数","cls":"b-ds","coming_soon":false,"modules":[{"name":"课程内容","chapters":[{"n":1,"slug":"1","title":"课程导言","group":"课程内容","progress_key":"dst-1","sections":[]},{"n":2,"slug":"2","title":"Jupyter","group":"课程内容","progress_key":"dst-2","sections":[]},{"n":10,"slug":"10","title":"Seaborn","group":"课程内容","progress_key":"dst-10","sections":[{"name":"1. 薪资分布 — 单变量分析","anchor":"1-薪资分布-单变量分析"},{"name":"2. 学历与薪资 — 分类对比","anchor":"2-学历与薪资-分类对比"},{"name":"3. 经验与薪资 — 回归分析","anchor":"3-经验与薪资-回归分析"}]}]},{"name":"Numpy","chapters":[{"n":3,"slug":"3","title":"Numpy - 核心概念","group":"Numpy","progress_key":"dst-3","sections":[{"name":"ndarray","anchor":"ndarray"},{"name":"核心概念","anchor":"核心概念"}]},{"n":4,"slug":"4","title":"Numpy - 数据操作","group":"Numpy","progress_key":"dst-4","sections":[{"name":"数组创建","anchor":"数组创建"},{"name":"索引与切片","anchor":"索引与切片"},{"name":"变形与重塑","anchor":"变形与重塑"},{"name":"数学运算","anchor":"数学运算"},{"name":"统计运算","anchor":"统计运算"},{"name":"条件筛选与 np.where","anchor":"条件筛选与-npwhere"},{"name":"拼接与分割","anchor":"拼接与分割"},{"name":"排序","anchor":"排序"},{"name":"广播（Broadcasting）","anchor":"广播Broadcasting"},{"name":"总结","anchor":"总结"}]}]},{"name":"Pandas","chapters":[{"n":5,"slug":"5","title":"Pandas - 数据类型","group":"Pandas","progress_key":"dst-5","sections":[{"name":"Series","anchor":"Series"},{"name":"DataFrame 创建","anchor":"DataFrame-创建"},{"name":"DataFrame 的组成结构","anchor":"DataFrame-的组成结构"}]},{"n":6,"slug":"6","title":"Pandas - 数据清洗","group":"Pandas","progress_key":"dst-6","sections":[{"name":"1. 数据初探","anchor":"1-数据初探"},{"name":"2. 应届信息提取","anchor":"2-应届信息提取"},{"name":"3. 学历清洗","anchor":"3-学历清洗"},{"name":"4. 城市清洗","anchor":"4-城市清洗"},{"name":"5. 经验清洗","anchor":"5-经验清洗"},{"name":"6. 薪资清洗","anchor":"6-薪资清洗"},{"name":"7. 清洗结果验证","anchor":"7-清洗结果验证"}]}]},{"name":"Matplotlib","chapters":[{"n":7,"slug":"7","title":"Matplotlib - 核心概念","group":"Matplotlib","progress_key":"dst-7","sections":[{"name":"1. Figure — 画布","anchor":"1-Figure-画布"},{"name":"2. Axes — 绘图区","anchor":"2-Axes-绘图区"},{"name":"3. Artist — 绘制元素","anchor":"3-Artist-绘制元素"},{"name":"总结：三层架构","anchor":"总结三层架构"}]},{"n":8,"slug":"8","title":"Matplotlib - 动画","group":"Matplotlib","progress_key":"dst-8","sections":[{"name":"1. FuncAnimation — 函数驱动动画","anchor":"1-FuncAnimation-函数驱动动画"},{"name":"2. ArtistAnimation — 预生成帧","anchor":"2-ArtistAnimation-预生成帧"},{"name":"3. 保存动画","anchor":"3-保存动画"}]},{"n":9,"slug":"9","title":"Matplotlib - 交互式组件","group":"Matplotlib","progress_key":"dst-9","sections":[{"name":"1. Slider — 滑块","anchor":"1-Slider-滑块"},{"name":"2. Button — 按钮","anchor":"2-Button-按钮"},{"name":"3. CheckButtons — 复选框","anchor":"3-CheckButtons-复选框"},{"name":"4. RadioButtons — 单选按钮","anchor":"4-RadioButtons-单选按钮"},{"name":"5. TextBox — 文本框","anchor":"5-TextBox-文本框"}]}]}]},{"key":"java","title":"Java","glyph":"J","cls":"b-java","coming_soon":true,"modules":[]},{"key":"cloud","title":"云计算","glyph":"云","cls":"b-cloud","coming_soon":true,"modules":[]}],"currentKey":"dst","currentSlug":"5"}],"$L12","$L13"]}]]
+14:I[756,["619","static/chunks/619-ba102abea3e3d0e4.js","526","static/chunks/app/course/%5Bkey%5D/%5Bch%5D/page-166c66fba529f17a.js"],"default"]
+15:I[1599,["619","static/chunks/619-ba102abea3e3d0e4.js","526","static/chunks/app/course/%5Bkey%5D/%5Bch%5D/page-166c66fba529f17a.js"],"default"]
+18:I[5340,["619","static/chunks/619-ba102abea3e3d0e4.js","526","static/chunks/app/course/%5Bkey%5D/%5Bch%5D/page-166c66fba529f17a.js"],"default"]
+16:T6175,<p>其他竞品：Polars、Dask、DuckDB、Modin、FireDucks、Datatable</p>
+<div class="nb-cell"><div class="codehilite lang-nb"><pre><span></span><span class="err">!</span><span class="n">uv</span> <span class="n">add</span> <span class="n">pandas</span><span class="o">==</span><span class="mf">3.0.3</span> <span class="n">openpyxl</span><span class="o">==</span><span class="mf">3.1.5</span>
+<span class="c1"># 导入 Pandas 库</span>
+<span class="kn">import</span><span class="w"> </span><span class="nn">pandas</span><span class="w"> </span><span class="k">as</span><span class="w"> </span><span class="nn">pd</span>
+<span class="kn">import</span><span class="w"> </span><span class="nn">numpy</span><span class="w"> </span><span class="k">as</span><span class="w"> </span><span class="nn">np</span>
+</pre></div>
+<div class="nb-out"><pre class="nb-stream">[2mResolved [1m135 packages[0m [2min 16ms[0m[0m
+[2mChecked [1m41 packages[0m [2min 8ms[0m[0m
+</pre></div></div>
+<h1 id="Pandas-核心数据结构">Pandas 核心数据结构</h1>
+<p>Pandas 是 Python 数据分析的核心库，它提供了两种核心数据结构：<strong>Series</strong> 和 <strong>DataFrame</strong>。</p>
+<p>简单来说：
+- <strong>Series</strong> → 一列带标签的数据（类似一个带索引的数组或 Excel 中的一列）
+- <strong>DataFrame</strong> → 一个带标签的二维表格（类似 Excel 工作表或 SQL 表）</p>
+<h2 id="Series">Series</h2>
+<p>Series 可以理解为「带标签的一维数组」。它由两个核心部分组成：
+- <code>values</code>：数据本身（类似 NumPy 数组）
+- <code>index</code>：每个数据点的标签</p>
+<div class="nb-cell"><div class="codehilite lang-nb"><pre><span></span><span class="c1"># pd.Series: 从列表创建 Series</span>
+<span class="n">pd</span><span class="o">.</span><span class="n">Series</span><span class="p">([</span><span class="mi">10</span><span class="p">,</span> <span class="mi">20</span><span class="p">,</span> <span class="mi">30</span><span class="p">,</span> <span class="mi">40</span><span class="p">])</span>
+</pre></div>
+<div class="nb-out"><pre class="nb-result">0    10
+1    20
+2    30
+3    40
+dtype: int64</pre></div></div>
+<div class="nb-cell"><div class="codehilite lang-nb"><pre><span></span><span class="c1"># 从列表创建，指定索引</span>
+<span class="n">pd</span><span class="o">.</span><span class="n">Series</span><span class="p">([</span><span class="mi">10</span><span class="p">,</span> <span class="mi">20</span><span class="p">,</span> <span class="mi">30</span><span class="p">,</span> <span class="mi">40</span><span class="p">],</span> <span class="n">index</span><span class="o">=</span><span class="p">[</span><span class="s1">'a'</span><span class="p">,</span> <span class="s1">'b'</span><span class="p">,</span> <span class="s1">'c'</span><span class="p">,</span> <span class="s1">'d'</span><span class="p">])</span>
+</pre></div>
+<div class="nb-out"><pre class="nb-result">a    10
+b    20
+c    30
+d    40
+dtype: int64</pre></div></div>
+<div class="nb-cell"><div class="codehilite lang-nb"><pre><span></span><span class="c1"># 从字典创建，key 自动成为索引</span>
+<span class="n">pd</span><span class="o">.</span><span class="n">Series</span><span class="p">({</span><span class="s1">'a'</span><span class="p">:</span> <span class="mi">10</span><span class="p">,</span> <span class="s1">'b'</span><span class="p">:</span> <span class="mi">20</span><span class="p">,</span> <span class="s1">'c'</span><span class="p">:</span> <span class="mi">30</span><span class="p">})</span>
+</pre></div>
+<div class="nb-out"><pre class="nb-result">a    10
+b    20
+c    30
+dtype: int64</pre></div></div>
+<div class="nb-cell"><div class="codehilite lang-nb"><pre><span></span><span class="c1"># 核心属性</span>
+<span class="n">s</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">Series</span><span class="p">([</span><span class="mi">10</span><span class="p">,</span> <span class="mi">20</span><span class="p">,</span> <span class="mi">30</span><span class="p">,</span> <span class="mi">40</span><span class="p">],</span> <span class="n">index</span><span class="o">=</span><span class="p">[</span><span class="s1">'a'</span><span class="p">,</span> <span class="s1">'b'</span><span class="p">,</span> <span class="s1">'c'</span><span class="p">,</span> <span class="s1">'d'</span><span class="p">])</span>
+<span class="nb">print</span><span class="p">(</span><span class="s1">'values:'</span><span class="p">,</span> <span class="n">s</span><span class="o">.</span><span class="n">values</span><span class="p">,</span> <span class="nb">type</span><span class="p">(</span><span class="n">s</span><span class="o">.</span><span class="n">values</span><span class="p">))</span>
+<span class="nb">print</span><span class="p">(</span><span class="s1">'index:'</span><span class="p">,</span> <span class="n">s</span><span class="o">.</span><span class="n">index</span><span class="p">,</span> <span class="nb">type</span><span class="p">(</span><span class="n">s</span><span class="o">.</span><span class="n">index</span><span class="p">))</span>
+<span class="nb">print</span><span class="p">(</span><span class="s1">'dtype:'</span><span class="p">,</span> <span class="n">s</span><span class="o">.</span><span class="n">dtype</span><span class="p">)</span>
+<span class="nb">print</span><span class="p">(</span><span class="s1">'shape:'</span><span class="p">,</span> <span class="n">s</span><span class="o">.</span><span class="n">shape</span><span class="p">)</span>
+</pre></div>
+<div class="nb-out"><pre class="nb-stream">values: [10 20 30 40] &lt;class &#x27;numpy.ndarray&#x27;&gt;
+index: Index([&#x27;a&#x27;, &#x27;b&#x27;, &#x27;c&#x27;, &#x27;d&#x27;], dtype=&#x27;str&#x27;) &lt;class &#x27;pandas.Index&#x27;&gt;
+dtype: int64
+shape: (4,)
+</pre></div></div>
+<h2 id="DataFrame-创建">DataFrame 创建</h2>
+<p>DataFrame 是一个二维表格结构，可以来自多种数据源。</p>
+<div class="nb-cell"><div class="codehilite lang-nb"><pre><span></span><span class="c1"># pd.DataFrame: 从字典创建——key 是列名，value 是列数据</span>
+<span class="n">pd</span><span class="o">.</span><span class="n">DataFrame</span><span class="p">({</span>
+    <span class="s1">'姓名'</span><span class="p">:</span> <span class="p">[</span><span class="s1">'张三'</span><span class="p">,</span> <span class="s1">'李四'</span><span class="p">,</span> <span class="s1">'王五'</span><span class="p">,</span> <span class="s1">'赵六'</span><span class="p">],</span>
+    <span class="s1">'年龄'</span><span class="p">:</span> <span class="p">[</span><span class="mi">25</span><span class="p">,</span> <span class="mi">30</span><span class="p">,</span> <span class="mi">35</span><span class="p">,</span> <span class="mi">28</span><span class="p">],</span>
+    <span class="s1">'城市'</span><span class="p">:</span> <span class="p">[</span><span class="s1">'北京'</span><span class="p">,</span> <span class="s1">'上海'</span><span class="p">,</span> <span class="s1">'广州'</span><span class="p">,</span> <span class="s1">'深圳'</span><span class="p">],</span>
+    <span class="s1">'薪资'</span><span class="p">:</span> <span class="p">[</span><span class="mi">15000</span><span class="p">,</span> <span class="mi">20000</span><span class="p">,</span> <span class="mi">25000</span><span class="p">,</span> <span class="mi">18000</span><span class="p">]</span>
+<span class="p">})</span>
+</pre></div>
+<div class="nb-out"><pre class="nb-result">   姓名  年龄  城市     薪资
+0  张三  25  北京  15000
+1  李四  30  上海  20000
+2  王五  35  广州  25000
+3  赵六  28  深圳  18000</pre></div></div>
+<div class="nb-cell"><div class="codehilite lang-nb"><pre><span></span><span class="c1"># pd.DataFrame: 从嵌套列表创建——通过 columns 指定列名</span>
+<span class="n">pd</span><span class="o">.</span><span class="n">DataFrame</span><span class="p">([</span>
+    <span class="p">[</span><span class="s1">'张三'</span><span class="p">,</span> <span class="mi">25</span><span class="p">,</span> <span class="s1">'北京'</span><span class="p">,</span> <span class="mi">15000</span><span class="p">],</span>
+    <span class="p">[</span><span class="s1">'李四'</span><span class="p">,</span> <span class="mi">30</span><span class="p">,</span> <span class="s1">'上海'</span><span class="p">,</span> <span class="mi">20000</span><span class="p">],</span>
+    <span class="p">[</span><span class="s1">'王五'</span><span class="p">,</span> <span class="mi">35</span><span class="p">,</span> <span class="s1">'广州'</span><span class="p">,</span> <span class="mi">25000</span><span class="p">],</span>
+<span class="p">],</span> <span class="n">columns</span><span class="o">=</span><span class="p">[</span><span class="s1">'姓名'</span><span class="p">,</span> <span class="s1">'年龄'</span><span class="p">,</span> <span class="s1">'城市'</span><span class="p">,</span> <span class="s1">'薪资'</span><span class="p">])</span>
+</pre></div>
+<div class="nb-out"><pre class="nb-result">   姓名  年龄  城市     薪资
+0  张三  25  北京  15000
+1  李四  30  上海  20000
+2  王五  35  广州  25000</pre></div></div>
+<div class="nb-cell"><div class="codehilite lang-nb"><pre><span></span><span class="c1"># pd.DataFrame: 从 NumPy 数组创建</span>
+<span class="n">arr</span> <span class="o">=</span> <span class="n">np</span><span class="o">.</span><span class="n">array</span><span class="p">([</span>
+    <span class="p">[</span><span class="mi">25</span><span class="p">,</span> <span class="mi">15000</span><span class="p">],</span>
+    <span class="p">[</span><span class="mi">30</span><span class="p">,</span> <span class="mi">20000</span><span class="p">],</span>
+    <span class="p">[</span><span class="mi">35</span><span class="p">,</span> <span class="mi">25000</span><span class="p">],</span>
+<span class="p">])</span>
+<span class="n">pd</span><span class="o">.</span><span class="n">DataFrame</span><span class="p">(</span><span class="n">arr</span><span class="p">,</span> <span class="n">columns</span><span class="o">=</span><span class="p">[</span><span class="s1">'年龄'</span><span class="p">,</span> <span class="s1">'薪资'</span><span class="p">])</span>
+</pre></div>
+<div class="nb-out"><pre class="nb-result">   年龄     薪资
+0  25  15000
+1  30  20000
+2  35  25000</pre></div></div>
+<h3 id="从文件读取">从文件读取</h3>
+<p>实际工作中数据很少手动输入，更多是从文件加载。Pandas 支持各种格式。</p>
+<div class="nb-cell"><div class="codehilite lang-nb"><pre><span></span><span class="c1"># 从 CSV 文件读取（实际文件路径）——展示用法，不实际执行</span>
+<span class="n">df</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">read_csv</span><span class="p">(</span><span class="s1">'../linking.csv'</span><span class="p">)</span>
+<span class="n">df</span>
+<span class="c1"># pd.read_csv 常用参数</span>
+<span class="c1"># df = pd.read_csv('data.csv', encoding='utf-8')       # 指定编码</span>
+<span class="c1"># df = pd.read_csv('data.csv', header=None)            # 无表头</span>
+<span class="c1"># df = pd.read_csv('data.csv', index_col='id')         # 指定索引列</span>
+<span class="c1"># df = pd.read_csv('data.csv', usecols=['a', 'b'])     # 只读指定列</span>
+<span class="c1"># df = pd.read_csv('data.csv', nrows=100)              # 只读前 100 行</span>
+</pre></div>
+<div class="nb-out"><pre class="nb-result">         昵称  学历  城市            经验                薪资  \
+0       Map   本  北京          26应届                实习   
+1    yanni*   本  杭州  6年前端\r\n2年转行  前端：20k\r\n转行：28k   
+2       边牧*   本  长沙            5年                9k   
+3       决堤*  本科  北京          25应届                9k   
+4       月亮*   专  济南            3年                9k   
+..      ...  ..  ..           ...               ...   
+674     lh*  初中  上海            8年               18k   
+675     微斯*   本  北京          3.5年               17k   
+676     海盐*   专  北京          6.5年     25k-&gt;22k-&gt;18k   
+677    wah*   专  上海            7年               20k   
+678      渔*   本  武汉            2年                6k   
+
+                               备注  
+0                             NaN  
+1          新能源企业前端--&gt;产品--&gt;销售--&gt;售前  
+2    离职，空窗期2年，北京17k，React，Flutter  
+3                             被辞退  
+4                             NaN  
+..                            ...  
+674                            前端  
+675                           NaN  
+676                            前端  
+677                            前端  
+678                            前端  
+
+[679 rows x 6 columns]</pre></div></div>
+<div class="nb-cell"><div class="codehilite lang-nb"><pre><span></span><span class="c1"># pd.read_excel: 从 Excel 文件读取</span>
+<span class="n">df_xlx</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">read_excel</span><span class="p">(</span><span class="s1">'../linking.xlsx'</span><span class="p">,</span> <span class="n">sheet_name</span><span class="o">=</span><span class="s1">'Sheet1'</span><span class="p">)</span>
+<span class="n">df_xlx</span>
+<span class="c1"># pd.read_json: 从 JSON 文件读取</span>
+<span class="c1"># df = pd.read_json('data.json')</span>
+</pre></div>
+<div class="nb-out"><pre class="nb-result">         昵称  学历  城市          经验              薪资                            备注
+0       Map   本  北京        26应届              实习                           NaN
+1    yanni*   本  杭州  6年前端\n2年转行  前端：20k\n转行：28k        新能源企业前端--&gt;产品--&gt;销售--&gt;售前
+2       边牧*   本  长沙          5年              9k  离职，空窗期2年，北京17k，React，Flutter
+3       决堤*  本科  北京        25应届              9k                           被辞退
+4       月亮*   专  济南          3年              9k                           NaN
+..      ...  ..  ..         ...             ...                           ...
+674     lh*  初中  上海          8年             18k                            前端
+675     微斯*   本  北京        3.5年             17k                           NaN
+676     海盐*   专  北京        6.5年   25k-&gt;22k-&gt;18k                            前端
+677    wah*   专  上海          7年             20k                            前端
+678      渔*   本  武汉          2年              6k                            前端
+
+[679 rows x 6 columns]</pre></div></div>
+<h3 id="从数据库读取">从数据库读取</h3>
+<p>Pandas 还可以直接读取 SQL 查询结果。这里以 Python 内置的 SQLite 为例。</p>
+<div class="nb-cell"><div class="codehilite lang-nb"><pre><span></span><span class="c1"># pd.read_sql: 从数据库读取 SQL 查询结果</span>
+<span class="kn">import</span><span class="w"> </span><span class="nn">sqlite3</span>
+
+<span class="c1"># 创建内存数据库并写入数据</span>
+<span class="n">conn</span> <span class="o">=</span> <span class="n">sqlite3</span><span class="o">.</span><span class="n">connect</span><span class="p">(</span><span class="s1">':memory:'</span><span class="p">)</span>
+<span class="n">conn</span><span class="o">.</span><span class="n">execute</span><span class="p">(</span><span class="s1">'''</span>
+<span class="s1">    CREATE TABLE employees (</span>
+<span class="s1">        name TEXT, age INT, city TEXT, salary INT</span>
+<span class="s1">    )</span>
+<span class="s1">'''</span><span class="p">)</span>
+<span class="n">conn</span><span class="o">.</span><span class="n">execute</span><span class="p">(</span><span class="s2">"INSERT INTO employees VALUES ('张三', 25, '北京', 15000)"</span><span class="p">)</span>
+<span class="n">conn</span><span class="o">.</span><span class="n">execute</span><span class="p">(</span><span class="s2">"INSERT INTO employees VALUES ('李四', 30, '上海', 20000)"</span><span class="p">)</span>
+<span class="n">conn</span><span class="o">.</span><span class="n">execute</span><span class="p">(</span><span class="s2">"INSERT INTO employees VALUES ('王五', 35, '广州', 25000)"</span><span class="p">)</span>
+<span class="n">conn</span><span class="o">.</span><span class="n">execute</span><span class="p">(</span><span class="s2">"INSERT INTO employees VALUES ('赵六', 28, '深圳', 18000)"</span><span class="p">)</span>
+<span class="n">conn</span><span class="o">.</span><span class="n">commit</span><span class="p">()</span>
+
+<span class="n">df</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">read_sql</span><span class="p">(</span><span class="s1">'SELECT * FROM employees'</span><span class="p">,</span> <span class="n">conn</span><span class="p">)</span>
+<span class="n">conn</span><span class="o">.</span><span class="n">close</span><span class="p">()</span>
+<span class="n">df</span>
+</pre></div>
+<div class="nb-out"><pre class="nb-result">  name  age city  salary
+0   张三   25   北京   15000
+1   李四   30   上海   20000
+2   王五   35   广州   25000
+3   赵六   28   深圳   18000</pre></div></div>
+<h4 id="场景">💡<strong>场景</strong></h4>
+<p>你的团队用 MySQL/PostgreSQL 存储业务数据，直接 <code>pd.read_sql('SELECT ...', connection)</code> 就能把数据拉到 DataFrame 里做分析，不用手动导出成 CSV。</p>
+<h2 id="DataFrame-的组成结构">DataFrame 的组成结构</h2>
+<p>一个 DataFrame 内部由以下核心部分组成。理解它们，你就掌握了一半。</p>
+<div class="nb-cell"><div class="codehilite lang-nb"><pre><span></span><span class="n">df_xlx</span>
+</pre></div>
+<div class="nb-out"><pre class="nb-result">         昵称  学历  城市          经验              薪资                            备注
+0       Map   本  北京        26应届              实习                           NaN
+1    yanni*   本  杭州  6年前端\n2年转行  前端：20k\n转行：28k        新能源企业前端--&gt;产品--&gt;销售--&gt;售前
+2       边牧*   本  长沙          5年              9k  离职，空窗期2年，北京17k，React，Flutter
+3       决堤*  本科  北京        25应届              9k                           被辞退
+4       月亮*   专  济南          3年              9k                           NaN
+..      ...  ..  ..         ...             ...                           ...
+674     lh*  初中  上海          8年             18k                            前端
+675     微斯*   本  北京        3.5年             17k                           NaN
+676     海盐*   专  北京        6.5年   25k-&gt;22k-&gt;18k                            前端
+677    wah*   专  上海          7年             20k                            前端
+678      渔*   本  武汉          2年              6k                            前端
+
+[679 rows x 6 columns]</pre></div></div>
+<div class="nb-cell"><div class="codehilite lang-nb"><pre><span></span><span class="c1"># columns: 列名</span>
+<span class="nb">print</span><span class="p">(</span><span class="s1">'columns:'</span><span class="p">,</span> <span class="n">df_xlx</span><span class="o">.</span><span class="n">columns</span><span class="p">)</span>
+<span class="nb">print</span><span class="p">(</span><span class="s1">'类型:'</span><span class="p">,</span> <span class="nb">type</span><span class="p">(</span><span class="n">df_xlx</span><span class="o">.</span><span class="n">columns</span><span class="p">))</span>
+</pre></div>
+<div class="nb-out"><pre class="nb-stream">columns: Index([&#x27;昵称&#x27;, &#x27;学历&#x27;, &#x27;城市&#x27;, &#x27;经验&#x27;, &#x27;薪资&#x27;, &#x27;备注&#x27;], dtype=&#x27;str&#x27;)
+类型: &lt;class &#x27;pandas.Index&#x27;&gt;
+</pre></div></div>
+<div class="nb-cell"><div class="codehilite lang-nb"><pre><span></span><span class="c1"># index: 行索引</span>
+<span class="nb">print</span><span class="p">(</span><span class="s1">'index:'</span><span class="p">,</span> <span class="n">df_xlx</span><span class="o">.</span><span class="n">index</span><span class="p">)</span>
+<span class="nb">print</span><span class="p">(</span><span class="s1">'类型:'</span><span class="p">,</span> <span class="nb">type</span><span class="p">(</span><span class="n">df_xlx</span><span class="o">.</span><span class="n">index</span><span class="p">))</span>
+</pre></div>
+<div class="nb-out"><pre class="nb-stream">index: RangeIndex(start=0, stop=679, step=1)
+类型: &lt;class &#x27;pandas.RangeIndex&#x27;&gt;
+</pre></div></div>
+<div class="nb-cell"><div class="codehilite lang-nb"><pre><span></span><span class="c1"># values: 核心数据（二维 NumPy 数组）</span>
+<span class="nb">print</span><span class="p">(</span><span class="s1">'类型:'</span><span class="p">,</span> <span class="nb">type</span><span class="p">(</span><span class="n">df_xlx</span><span class="o">.</span><span class="n">values</span><span class="p">))</span>
+<span class="nb">print</span><span class="p">(</span><span class="s1">'values:'</span><span class="p">)</span>
+<span class="n">df_xlx</span><span class="o">.</span><span class="n">to_numpy</span><span class="p">()</span>
+</pre></div>
+<div class="nb-out"><pre class="nb-stream">类型: &lt;class &#x27;numpy.ndarray&#x27;&gt;
+values:
+</pre><pre class="nb-result">array([[&#x27;Map&#x27;, &#x27;本&#x27;, &#x27;北京&#x27;, &#x27;26应届&#x27;, &#x27;实习&#x27;, nan],
+       [&#x27;yanni*&#x27;, &#x27;本&#x27;, &#x27;杭州&#x27;, &#x27;6年前端\n2年转行&#x27;, &#x27;前端：20k\n转行：28k&#x27;,
+        &#x27;新能源企业前端--&gt;产品--&gt;销售--&gt;售前&#x27;],
+       [&#x27;边牧*&#x27;, &#x27;本&#x27;, &#x27;长沙&#x27;, &#x27;5年&#x27;, &#x27;9k&#x27;, &#x27;离职，空窗期2年，北京17k，React，Flutter&#x27;],
+       ...,
+       [&#x27;海盐*&#x27;, &#x27;专&#x27;, &#x27;北京&#x27;, &#x27;6.5年&#x27;, &#x27;25k-&gt;22k-&gt;18k&#x27;, &#x27;前端&#x27;],
+       [&#x27;wah*&#x27;, &#x27;专&#x27;, &#x27;上海&#x27;, &#x27;7年&#x27;, &#x27;20k&#x27;, &#x27;前端&#x27;],
+       [&#x27;渔*&#x27;, &#x27;本&#x27;, &#x27;武汉&#x27;, &#x27;2年&#x27;, &#x27;6k&#x27;, &#x27;前端&#x27;]], shape=(679, 6), dtype=object)</pre></div></div>
+<div class="nb-cell"><div class="codehilite lang-nb"><pre><span></span><span class="c1"># dtypes: 每列的数据类型</span>
+<span class="nb">print</span><span class="p">(</span><span class="s1">'dtypes:'</span><span class="p">)</span>
+<span class="n">df</span><span class="o">.</span><span class="n">dtypes</span>
+</pre></div>
+<div class="nb-out"><pre class="nb-stream">dtypes:
+</pre><pre class="nb-result">name        str
+age       int64
+city        str
+salary    int64
+dtype: object</pre></div></div>
+<div class="nb-cell"><div class="codehilite lang-nb"><pre><span></span><span class="c1"># shape: 形状 (行数, 列数)</span>
+<span class="nb">print</span><span class="p">(</span><span class="s1">'shape:'</span><span class="p">,</span> <span class="n">df</span><span class="o">.</span><span class="n">shape</span><span class="p">)</span>
+<span class="nb">print</span><span class="p">(</span><span class="s1">'行数:'</span><span class="p">,</span> <span class="n">df</span><span class="o">.</span><span class="n">shape</span><span class="p">[</span><span class="mi">0</span><span class="p">])</span>
+<span class="nb">print</span><span class="p">(</span><span class="s1">'列数:'</span><span class="p">,</span> <span class="n">df</span><span class="o">.</span><span class="n">shape</span><span class="p">[</span><span class="mi">1</span><span class="p">])</span>
+</pre></div>
+<div class="nb-out"><pre class="nb-stream">shape: (679, 6)
+行数: 4
+列数: 4
+</pre></div></div>
+<div class="nb-cell"><div class="codehilite lang-nb"><pre><span></span><span class="c1"># size: 元素总数</span>
+<span class="nb">print</span><span class="p">(</span><span class="s1">'size:'</span><span class="p">,</span> <span class="n">df</span><span class="o">.</span><span class="n">size</span><span class="p">)</span>
+<span class="c1"># ndim: 维度数</span>
+<span class="nb">print</span><span class="p">(</span><span class="s1">'ndim:'</span><span class="p">,</span> <span class="n">df</span><span class="o">.</span><span class="n">ndim</span><span class="p">)</span>
+</pre></div>
+<div class="nb-out"><pre class="nb-stream">size: 16
+ndim: 2
+</pre></div></div>12:["$","article",null,{"className":"doc","id":"content","children":[["$","div",null,{"className":"doc-head-row mb-2 flex items-center justify-between gap-4","children":[["$","p",null,{"className":"kicker","children":[["$","span",null,{"className":"kicker-num","children":"第 5 章"}],["$","span",null,{"className":"kicker-mod","children":"数据科学工具包"}]]}],["$","$L14",null,{"progressKey":"dst-5"}]]}],["$","h1",null,{"className":"doc-h1","children":"Pandas - 数据类型"}],["$","$L15",null,{"html":"$16"}],"$L17"]}]
+13:["$","$L18",null,{"sections":"$5:1:props:children:0:props:courses:3:modules:2:chapters:0:sections"}]
+19:I[2619,["619","static/chunks/619-ba102abea3e3d0e4.js","526","static/chunks/app/course/%5Bkey%5D/%5Bch%5D/page-166c66fba529f17a.js"],""]
+17:["$","nav",null,{"className":"pager","aria-label":"章节导航","children":[["$","$L19",null,{"className":"pager-link pager-prev","href":"/course/dst/4/","children":[["$","span",null,{"className":"pager-dir","children":"上一章"}],["$","span",null,{"className":"pager-name","children":"Numpy - 数据操作"}]]}],["$","$L19",null,{"className":"pager-link pager-next","href":"/course/dst/6/","children":[["$","span",null,{"className":"pager-dir","children":"下一章"}],["$","span",null,{"className":"pager-name","children":"Pandas - 数据清洗"}]]}]]}]
+b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+7:null
+9:{"metadata":[["$","title","0",{"children":"第 5 章  · 数据科学工具包 · AI大全栈"}],["$","meta","1",{"name":"description","content":"袁进主讲的系列课程手册：Python 语言核心精讲、数据科学工具包、数据库、Python 框架、Agents 底层逻辑、LangGraph、LangChain + DeepAgent。iOS 风格阅读体验，内置可运行的 Python 代码块。"}]],"error":null,"digest":"$undefined"}
+e:"$9:metadata"

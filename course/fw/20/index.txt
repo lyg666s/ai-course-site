@@ -1,0 +1,168 @@
+1:"$Sreact.fragment"
+2:I[9130,["619","static/chunks/619-ba102abea3e3d0e4.js","177","static/chunks/app/layout-f06582a541a082fb.js"],"default"]
+3:I[9766,[],""]
+4:I[8924,[],""]
+6:I[4431,[],"OutletBoundary"]
+8:I[5278,[],"AsyncMetadataOutlet"]
+a:I[4431,[],"ViewportBoundary"]
+c:I[4431,[],"MetadataBoundary"]
+d:"$Sreact.suspense"
+f:I[7150,[],""]
+:HL["/ai-course-site/_next/static/css/e17dd95ac0dd78dc.css","style"]
+0:{"P":null,"b":"eFCLH0M-aOlbibikUsuSf","p":"/ai-course-site","c":["","course","fw","20",""],"i":false,"f":[[["",{"children":["course",{"children":[["key","fw","d"],{"children":[["ch","20","d"],{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/ai-course-site/_next/static/css/e17dd95ac0dd78dc.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"zh-CN","suppressHydrationWarning":true,"children":[["$","head",null,{"children":["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var t=localStorage.getItem(\"theme\");var d=t?t===\"dark\":window.matchMedia(\"(prefers-color-scheme: dark)\").matches;if(d)document.documentElement.classList.add(\"dark\");}catch(e){}})();"}}]}],["$","body",null,{"children":[["$","$L2",null,{"families":[{"key":"agent","name":"AI · Agent 开发"},{"key":"dev","name":"编程与工程基础"}]}],["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","footer",null,{"className":"mx-auto max-w-[52rem] px-6 pb-10 text-center text-xs text-label3","children":"AI大全栈 · 课程手册 — 由课件自动生成，仅供学习使用"}]]}]]}]]}],{"children":["course",["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["key","fw","d"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["ch","20","d"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L5",null,["$","$L6",null,{"children":["$L7",["$","$L8",null,{"promise":"$@9"}]]}]]}],{},null,false]},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$La",null,{"children":"$Lb"}],null],["$","$Lc",null,{"children":["$","div",null,{"hidden":true,"children":["$","$d",null,{"fallback":null,"children":"$Le"}]}]}]]}],false]],"m":"$undefined","G":["$f",[]],"s":false,"S":true}
+10:I[7010,["619","static/chunks/619-ba102abea3e3d0e4.js","526","static/chunks/app/course/%5Bkey%5D/%5Bch%5D/page-166c66fba529f17a.js"],"default"]
+11:I[6710,["619","static/chunks/619-ba102abea3e3d0e4.js","526","static/chunks/app/course/%5Bkey%5D/%5Bch%5D/page-166c66fba529f17a.js"],"default"]
+5:[["$","$L10",null,{"url":"/course/fw/20/","title":"流式响应","course":"Python框架"}],["$","div",null,{"className":"doc-wrap","children":[["$","$L11",null,{"courses":[{"key":"py","title":"Python语言核心精讲","glyph":"Py","cls":"b1","coming_soon":false,"modules":[{"name":"语言基础","chapters":[{"n":1,"slug":"1","title":"必看导言","group":"语言基础","progress_key":"1"},{"n":2,"slug":"2","title":"python环境安装","group":"语言基础","progress_key":"2"},{"n":3,"slug":"3","title":"python基本语法","group":"语言基础","progress_key":"3"},{"n":4,"slug":"4","title":"容器类型","group":"语言基础","progress_key":"4"},{"n":5,"slug":"5","title":"函数","group":"语言基础","progress_key":"5"},{"n":6,"slug":"6","title":"作用域","group":"语言基础","progress_key":"6"},{"n":7,"slug":"7","title":"lambda表达式","group":"语言基础","progress_key":"7"}]},{"name":"面向对象","chapters":[{"n":8,"slug":"8","title":"类和对象","group":"面向对象","progress_key":"8"},{"n":9,"slug":"9","title":"对象的类型","group":"面向对象","progress_key":"9"},{"n":10,"slug":"10","title":"对象的创建过程","group":"面向对象","progress_key":"10"},{"n":11,"slug":"11","title":"可调用对象","group":"面向对象","progress_key":"11"},{"n":12,"slug":"12","title":"元类","group":"面向对象","progress_key":"12"},{"n":13,"slug":"13","title":"装饰器","group":"面向对象","progress_key":"13"},{"n":14,"slug":"14","title":"魔术方法","group":"面向对象","progress_key":"14"},{"n":15,"slug":"15","title":"描述符","group":"面向对象","progress_key":"15"}]},{"name":"语言进阶","chapters":[{"n":16,"slug":"16","title":"异常处理","group":"语言进阶","progress_key":"16"},{"n":17,"slug":"17","title":"迭代器与生成器","group":"语言进阶","progress_key":"17"},{"n":18,"slug":"18","title":"上下文管理器","group":"语言进阶","progress_key":"18"},{"n":19,"slug":"19","title":"ABC","group":"语言进阶","progress_key":"19"},{"n":20,"slug":"20","title":"类型标注","group":"语言进阶","progress_key":"20"},{"n":21,"slug":"21","title":"模块化","group":"语言进阶","progress_key":"21"},{"n":22,"slug":"22","title":"标准库","group":"语言进阶","progress_key":"22"},{"n":23,"slug":"23","title":"第三方库","group":"语言进阶","progress_key":"23"}]},{"name":"异步与并发","chapters":[{"n":24,"slug":"24","title":"事件循环","group":"异步与并发","progress_key":"24"},{"n":25,"slug":"25","title":"Future类","group":"异步与并发","progress_key":"25"},{"n":26,"slug":"26","title":"协程 Coroutine","group":"异步与并发","progress_key":"26"},{"n":27,"slug":"27","title":"异步编程","group":"异步与并发","progress_key":"27"},{"n":28,"slug":"28","title":"多线程与多进程","group":"异步与并发","progress_key":"28"}]},{"name":"工程化实践","chapters":[{"n":29,"slug":"29","title":"构建发布","group":"工程化实践","progress_key":"29"},{"n":30,"slug":"30","title":"项目管理工具","group":"工程化实践","progress_key":"30"},{"n":31,"slug":"31","title":"monorepo","group":"工程化实践","progress_key":"31"},{"n":32,"slug":"32","title":"断点调试","group":"工程化实践","progress_key":"32"}]},{"name":"项目案例","chapters":[{"n":null,"slug":"proj-async-agents","title":"多智能体协同调研系统","group":"项目案例","progress_key":""},{"n":null,"slug":"proj-duyi-utils","title":"duyi-utils 构建发布示例","group":"项目案例","progress_key":""}]}]},{"key":"fw","title":"Python框架","glyph":"架","cls":"b-fw","coming_soon":false,"modules":[{"name":"课程内容","chapters":[{"n":1,"slug":"1","title":"Web服务框架","group":"课程内容","progress_key":"fw-1","sections":[{"name":"Python Web服务框架对比","anchor":"Python-Web服务框架对比"},{"name":"第一个FastAPI应用","anchor":"第一个FastAPI应用"},{"name":"核心概念","anchor":"核心概念"},{"name":"作业","anchor":"作业"}]},{"n":2,"slug":"2","title":"优化包结构","group":"课程内容","progress_key":"fw-2","sections":[{"name":"重组包结构","anchor":"重组包结构"},{"name":"使用环境变量","anchor":"使用环境变量"},{"name":"创建DTO","anchor":"创建DTO"},{"name":"使用路由","anchor":"使用路由"},{"name":"FastAPI插件","anchor":"FastAPI插件"},{"name":"断点调试","anchor":"断点调试"}]},{"n":3,"slug":"3","title":"初识SQLAlchemy","group":"课程内容","progress_key":"fw-3","sections":[{"name":"创建数据库","anchor":"创建数据库"},{"name":"安装 SQLAlchemy","anchor":"安装-SQLAlchemy"},{"name":"测试连接","anchor":"测试连接"},{"name":"认识概念","anchor":"认识概念"},{"name":"优化代码结构","anchor":"优化代码结构"},{"name":"作业","anchor":"作业"}]},{"n":4,"slug":"4","title":"ORM","group":"课程内容","progress_key":"fw-4","sections":[{"name":"[补充]处理运行bug","anchor":"补充处理运行bug"},{"name":"ORM映射","anchor":"ORM映射"},{"name":"表结构同步","anchor":"表结构同步"},{"name":"认识核心概念","anchor":"认识核心概念"},{"name":"作业","anchor":"作业"}]},{"n":5,"slug":"5","title":"数据操作","group":"课程内容","progress_key":"fw-5","sections":[{"name":"Core","anchor":"Core"},{"name":"会话","anchor":"会话"},{"name":"ORM","anchor":"ORM"},{"name":"执行时机","anchor":"执行时机"},{"name":"总结","anchor":"总结_2"},{"name":"作业","anchor":"作业"}]},{"n":6,"slug":"6","title":"数据迁移","group":"课程内容","progress_key":"fw-6","sections":[{"name":"目前的问题","anchor":"目前的问题"},{"name":"准备工作","anchor":"准备工作"},{"name":"使用alembic","anchor":"使用alembic"},{"name":"最佳实践","anchor":"最佳实践"},{"name":"作业","anchor":"作业"}]},{"n":7,"slug":"7","title":"业务逻辑","group":"课程内容","progress_key":"fw-7","sections":[{"name":"操作","anchor":"操作"},{"name":"核心关注点","anchor":"核心关注点"}]},{"n":8,"slug":"8","title":"依赖注入","group":"课程内容","progress_key":"fw-8","sections":[{"name":"理解IoC、DI、IoC容器","anchor":"理解IoCDIIoC容器"},{"name":"完善API层","anchor":"完善API层"}]},{"n":9,"slug":"9","title":"统一异常处理","group":"课程内容","progress_key":"fw-9","sections":[{"name":"异常处理的最佳实践","anchor":"异常处理的最佳实践"},{"name":"现状","anchor":"现状"},{"name":"设计","anchor":"设计"},{"name":"完成代码","anchor":"完成代码"},{"name":"作业","anchor":"作业"}]},{"n":10,"slug":"10","title":"中间件","group":"课程内容","progress_key":"fw-10","sections":[{"name":"核心概念","anchor":"核心概念"},{"name":"理解中间件","anchor":"理解中间件"},{"name":"统一响应格式中间件","anchor":"统一响应格式中间件"},{"name":"用于性能调试的中间件","anchor":"用于性能调试的中间件"},{"name":"用于解决跨域的中间件","anchor":"用于解决跨域的中间件"}]},{"n":11,"slug":"11","title":"测试框架","group":"课程内容","progress_key":"fw-11","sections":[{"name":"为什么需要测试框架","anchor":"为什么需要测试框架"},{"name":"实现测试","anchor":"实现测试"}]},{"n":12,"slug":"12","title":"测试方案","group":"课程内容","progress_key":"fw-12","sections":[{"name":"更新代码","anchor":"更新代码"},{"name":"开发和测试的顺序","anchor":"开发和测试的顺序"},{"name":"测试选型","anchor":"测试选型"},{"name":"测试手段","anchor":"测试手段"},{"name":"开发日常","anchor":"开发日常"}]},{"n":13,"slug":"13","title":"三层架构","group":"课程内容","progress_key":"fw-13","sections":[{"name":"当前的架构","anchor":"当前的架构"},{"name":"经典三层","anchor":"经典三层"},{"name":"模型分化","anchor":"模型分化"},{"name":"依赖倒置","anchor":"依赖倒置"}]},{"n":14,"slug":"14","title":"文件上传","group":"课程内容","progress_key":"fw-14","sections":[]},{"n":15,"slug":"15","title":"系统设置","group":"课程内容","progress_key":"fw-15","sections":[{"name":"落地流程","anchor":"落地流程"}]},{"n":17,"slug":"17","title":"用户系统","group":"课程内容","progress_key":"fw-17","sections":[{"name":"涉及的问题","anchor":"涉及的问题"},{"name":"核心概念","anchor":"核心概念"}]},{"n":18,"slug":"18","title":"日志","group":"课程内容","progress_key":"fw-18","sections":[{"name":"使用什么日志库？","anchor":"使用什么日志库"},{"name":"日志配置","anchor":"日志配置"},{"name":"日志输出","anchor":"日志输出"}]},{"n":20,"slug":"20","title":"流式响应","group":"课程内容","progress_key":"fw-20","sections":[{"name":"SSE模式","anchor":"SSE模式"},{"name":"WebSocket模式","anchor":"WebSocket模式"},{"name":"SSE vs WebSocket 对比","anchor":"SSE-vs-WebSocket-对比"}]},{"n":26,"slug":"26","title":"python收官检验","group":"课程内容","progress_key":"fw-26","sections":[{"name":"能力检验","anchor":"能力检验"},{"name":"Python的就业市场","anchor":"Python的就业市场"}]}]},{"name":"部署","chapters":[{"n":21,"slug":"21","title":"部署-认识Docker","group":"部署","progress_key":"fw-21","sections":[{"name":"运行时的问题","anchor":"运行时的问题"},{"name":"Docker","anchor":"Docker"},{"name":"为duyi-service构建镜像","anchor":"为duyi-service构建镜像"},{"name":"容器简易部署流程","anchor":"容器简易部署流程"}]},{"n":22,"slug":"22","title":"部署-云资产","group":"部署","progress_key":"fw-22","sections":[{"name":"数字证书","anchor":"数字证书"},{"name":"VPC","anchor":"VPC"},{"name":"OSS","anchor":"OSS"},{"name":"RDS","anchor":"RDS"},{"name":"ACR","anchor":"ACR"}]},{"n":23,"slug":"23","title":"部署-k8s","group":"部署","progress_key":"fw-23","sections":[{"name":"创建ACS集群","anchor":"创建ACS集群"},{"name":"部署服务","anchor":"部署服务"}]},{"n":24,"slug":"24","title":"部署-CICD","group":"部署","progress_key":"fw-24","sections":[{"name":"创建CICD的镜像环境","anchor":"创建CICD的镜像环境"},{"name":"阿里云效","anchor":"阿里云效"}]},{"n":25,"slug":"25","title":"部署-总结","group":"部署","progress_key":"fw-25","sections":[{"name":"CI / CD","anchor":"CI-CD"},{"name":"服务器架构","anchor":"服务器架构"},{"name":"面试要点","anchor":"面试要点"},{"name":"作业","anchor":"作业"}]}]}]},{"key":"db","title":"数据库","glyph":"库","cls":"b-db","coming_soon":false,"modules":[{"name":"课程内容","chapters":[{"n":1,"slug":"1","title":"PostgreSQL安装","group":"课程内容","progress_key":"db-1"},{"n":2,"slug":"2","title":"DDL","group":"课程内容","progress_key":"db-2"},{"n":3,"slug":"3","title":"表间关系","group":"课程内容","progress_key":"db-3"},{"n":4,"slug":"4","title":"DML","group":"课程内容","progress_key":"db-4"},{"n":5,"slug":"5","title":"事务","group":"课程内容","progress_key":"db-5"},{"n":6,"slug":"6","title":"索引","group":"课程内容","progress_key":"db-6"},{"n":7,"slug":"7","title":"拓展知识","group":"课程内容","progress_key":"db-7"}]}]},{"key":"dst","title":"数据科学工具包","glyph":"数","cls":"b-ds","coming_soon":false,"modules":[{"name":"课程内容","chapters":[{"n":1,"slug":"1","title":"课程导言","group":"课程内容","progress_key":"dst-1"},{"n":2,"slug":"2","title":"Jupyter","group":"课程内容","progress_key":"dst-2"},{"n":10,"slug":"10","title":"Seaborn","group":"课程内容","progress_key":"dst-10"}]},{"name":"Numpy","chapters":[{"n":3,"slug":"3","title":"Numpy - 核心概念","group":"Numpy","progress_key":"dst-3"},{"n":4,"slug":"4","title":"Numpy - 数据操作","group":"Numpy","progress_key":"dst-4"}]},{"name":"Pandas","chapters":[{"n":5,"slug":"5","title":"Pandas - 数据类型","group":"Pandas","progress_key":"dst-5"},{"n":6,"slug":"6","title":"Pandas - 数据清洗","group":"Pandas","progress_key":"dst-6"}]},{"name":"Matplotlib","chapters":[{"n":7,"slug":"7","title":"Matplotlib - 核心概念","group":"Matplotlib","progress_key":"dst-7"},{"n":8,"slug":"8","title":"Matplotlib - 动画","group":"Matplotlib","progress_key":"dst-8"},{"n":9,"slug":"9","title":"Matplotlib - 交互式组件","group":"Matplotlib","progress_key":"dst-9"}]}]},{"key":"java","title":"Java","glyph":"J","cls":"b-java","coming_soon":true,"modules":[]},{"key":"cloud","title":"云计算","glyph":"云","cls":"b-cloud","coming_soon":true,"modules":[]}],"currentKey":"fw","currentSlug":"20"}],"$L12","$L13"]}]]
+14:I[756,["619","static/chunks/619-ba102abea3e3d0e4.js","526","static/chunks/app/course/%5Bkey%5D/%5Bch%5D/page-166c66fba529f17a.js"],"default"]
+15:I[1599,["619","static/chunks/619-ba102abea3e3d0e4.js","526","static/chunks/app/course/%5Bkey%5D/%5Bch%5D/page-166c66fba529f17a.js"],"default"]
+17:I[2619,["619","static/chunks/619-ba102abea3e3d0e4.js","526","static/chunks/app/course/%5Bkey%5D/%5Bch%5D/page-166c66fba529f17a.js"],""]
+1a:I[5340,["619","static/chunks/619-ba102abea3e3d0e4.js","526","static/chunks/app/course/%5Bkey%5D/%5Bch%5D/page-166c66fba529f17a.js"],"default"]
+16:Tee9,<h1 id="流式响应">流式响应</h1>
+<h2 id="SSE模式">SSE模式</h2>
+<div class="codehilite lang-mermaid"><pre><span></span><code>sequenceDiagram
+    participant C as 客户端
+    participant S as 服务端
+
+    C-&gt;&gt;S: GET /events (EventSource)
+    S--&gt;&gt;C: HTTP 200 + Content-Type: text/event-stream
+    Note over C,S: 建立长连接，保持打开状态
+
+    loop 服务端持续推送
+        S-&gt;&gt;C: data: 消息片段1\n\n
+        S-&gt;&gt;C: data: 消息片段2\n\n
+        S-&gt;&gt;C: data: 消息片段3\n\n
+        S-&gt;&gt;C: event: error\ndata: 消息片段3\n\n
+    end
+
+    C-&gt;&gt;S: 关闭连接 / 网络断开
+    Note over C,S: 连接终止
+</code></pre></div>
+
+<p><strong>关键特征</strong>：
+- 基于标准HTTP协议
+- 单向通信：仅服务端→客户端推送
+- 数据格式为<code>text/event-stream</code>，每条消息以双换行符(<code>\n\n</code>)结尾
+- 适合新闻推送、股票行情、日志流等场景</p>
+<p>Fast API 结合</p>
+<table>
+<thead>
+<tr>
+<th>项</th>
+<th>信息</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>中间件</td>
+<td>请求/响应会经过所有HTTP中间件<br />后续流式内容不经过中间件</td>
+</tr>
+<tr>
+<td>异常处理</td>
+<td>响应过程中的异常会经过异常处理函数<br />后续流式内容不经过异常处理函数</td>
+</tr>
+<tr>
+<td>依赖注入</td>
+<td>所有流式内容全部完成后才会迭代完成</td>
+</tr>
+<tr>
+<td>token携带</td>
+<td>原生<code>EventSource</code>只能将token放到query中<br />自定义或第三方库可以任意方式携带token</td>
+</tr>
+</tbody>
+</table>
+<h2 id="WebSocket模式">WebSocket模式</h2>
+<div class="codehilite lang-mermaid"><pre><span></span><code>sequenceDiagram
+    participant C as 客户端
+    participant S as 服务端
+
+    C-&gt;&gt;S: GET /ws&lt;br/&gt;Connection: Upgrade&lt;br/&gt;Upgrade: websocket
+    S--&gt;&gt;C: HTTP 101 Switching Protocols&lt;br/&gt;Upgrade: websocket
+    Note over C,S: 协议升级完成，WebSocket连接建立
+
+    C-&gt;&gt;S: 发送文本/二进制帧
+    S-&gt;&gt;C: 推送文本/二进制帧
+    C-&gt;&gt;S: 发送文本/二进制帧
+    S-&gt;&gt;C: 推送文本/二进制帧
+    Note over C,S: 全双工通信，任意一方可随时发送
+
+    C-&gt;&gt;S: Close帧 (主动关闭)
+    S--&gt;&gt;C: Close确认帧
+    Note over C,S: 连接优雅关闭
+</code></pre></div>
+
+<p><strong>关键特征</strong>：
+- 先通过HTTP握手，再升级为WebSocket独立协议（ws:// 或 wss://）
+- 全双工通信：客户端和服务端均可主动发送消息
+- 数据帧支持文本和二进制格式
+- 适合在线聊天、多人协作、实时游戏等高频双向交互场景</p>
+<p>Fast API 结合</p>
+<table>
+<thead>
+<tr>
+<th>项</th>
+<th>信息</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>中间件</td>
+<td>请求/响应都不会经过HTTP中间件</td>
+</tr>
+<tr>
+<td>异常处理</td>
+<td>不会经过异常处理函数</td>
+</tr>
+<tr>
+<td>依赖注入</td>
+<td>连接断开后才会迭代结束</td>
+</tr>
+<tr>
+<td>token携带</td>
+<td>浏览器不支持自定义头，只能通过query携带token</td>
+</tr>
+</tbody>
+</table>
+<h2 id="SSE-vs-WebSocket-对比">SSE vs WebSocket 对比</h2>
+<table>
+<thead>
+<tr>
+<th>特性</th>
+<th>SSE</th>
+<th>WebSocket</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>通信方向</td>
+<td>服务端→客户端（单向）</td>
+<td>全双工（双向）</td>
+</tr>
+<tr>
+<td>协议基础</td>
+<td>HTTP</td>
+<td>独立协议（基于HTTP握手）</td>
+</tr>
+<tr>
+<td>自动重连</td>
+<td>原生支持</td>
+<td>需手动实现</td>
+</tr>
+<tr>
+<td>数据格式</td>
+<td>文本（text/event-stream）</td>
+<td>文本或二进制</td>
+</tr>
+<tr>
+<td>适用AI场景</td>
+<td>简单的问答模式</td>
+<td>Agent 工作流<br />多人在线的AI协作</td>
+</tr>
+</tbody>
+</table>12:["$","article",null,{"className":"doc","id":"content","children":[["$","div",null,{"className":"doc-head-row mb-2 flex items-center justify-between gap-4","children":[["$","p",null,{"className":"kicker","children":[["$","span",null,{"className":"kicker-num","children":"第 20 章"}],["$","span",null,{"className":"kicker-mod","children":"Python框架"}]]}],["$","$L14",null,{"progressKey":"fw-20"}]]}],["$","h1",null,{"className":"doc-h1","children":"流式响应"}],["$","$L15",null,{"html":"$16"}],["$","nav",null,{"className":"pager","aria-label":"章节导航","children":[["$","$L17",null,{"className":"pager-link pager-prev","href":"/course/fw/18/","children":[["$","span",null,{"className":"pager-dir","children":"上一章"}],["$","span",null,{"className":"pager-name","children":"日志"}]]}],["$","$L17",null,{"className":"pager-link pager-next","href":"/course/fw/26/","children":["$L18","$L19"]}]]}]]}]
+13:["$","$L1a",null,{"sections":"$5:1:props:children:0:props:courses:1:modules:0:chapters:17:sections"}]
+18:["$","span",null,{"className":"pager-dir","children":"下一章"}]
+19:["$","span",null,{"className":"pager-name","children":"python收官检验"}]
+b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+7:null
+9:{"metadata":[["$","title","0",{"children":"第 20 章  · Python框架 · AI大全栈"}],["$","meta","1",{"name":"description","content":"袁进主讲的系列课程手册：Python 语言核心精讲、数据科学工具包、数据库、Python 框架、Agents 底层逻辑、LangGraph、LangChain + DeepAgent。iOS 风格阅读体验，内置可运行的 Python 代码块。"}]],"error":null,"digest":"$undefined"}
+e:"$9:metadata"

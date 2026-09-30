@@ -1,0 +1,258 @@
+1:"$Sreact.fragment"
+2:I[9130,["619","static/chunks/619-ba102abea3e3d0e4.js","177","static/chunks/app/layout-f06582a541a082fb.js"],"default"]
+3:I[9766,[],""]
+4:I[8924,[],""]
+6:I[4431,[],"OutletBoundary"]
+8:I[5278,[],"AsyncMetadataOutlet"]
+a:I[4431,[],"ViewportBoundary"]
+c:I[4431,[],"MetadataBoundary"]
+d:"$Sreact.suspense"
+f:I[7150,[],""]
+:HL["/ai-course-site/_next/static/css/e17dd95ac0dd78dc.css","style"]
+0:{"P":null,"b":"eFCLH0M-aOlbibikUsuSf","p":"/ai-course-site","c":["","course","py","18",""],"i":false,"f":[[["",{"children":["course",{"children":[["key","py","d"],{"children":[["ch","18","d"],{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/ai-course-site/_next/static/css/e17dd95ac0dd78dc.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"zh-CN","suppressHydrationWarning":true,"children":[["$","head",null,{"children":["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var t=localStorage.getItem(\"theme\");var d=t?t===\"dark\":window.matchMedia(\"(prefers-color-scheme: dark)\").matches;if(d)document.documentElement.classList.add(\"dark\");}catch(e){}})();"}}]}],["$","body",null,{"children":[["$","$L2",null,{"families":[{"key":"agent","name":"AI · Agent 开发"},{"key":"dev","name":"编程与工程基础"}]}],["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","footer",null,{"className":"mx-auto max-w-[52rem] px-6 pb-10 text-center text-xs text-label3","children":"AI大全栈 · 课程手册 — 由课件自动生成，仅供学习使用"}]]}]]}]]}],{"children":["course",["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["key","py","d"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["ch","18","d"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L5",null,["$","$L6",null,{"children":["$L7",["$","$L8",null,{"promise":"$@9"}]]}]]}],{},null,false]},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$La",null,{"children":"$Lb"}],null],["$","$Lc",null,{"children":["$","div",null,{"hidden":true,"children":["$","$d",null,{"fallback":null,"children":"$Le"}]}]}]]}],false]],"m":"$undefined","G":["$f",[]],"s":false,"S":true}
+10:I[7010,["619","static/chunks/619-ba102abea3e3d0e4.js","526","static/chunks/app/course/%5Bkey%5D/%5Bch%5D/page-166c66fba529f17a.js"],"default"]
+11:I[6710,["619","static/chunks/619-ba102abea3e3d0e4.js","526","static/chunks/app/course/%5Bkey%5D/%5Bch%5D/page-166c66fba529f17a.js"],"default"]
+5:[["$","$L10",null,{"url":"/course/py/18/","title":"上下文管理器","course":"Python语言核心精讲"}],["$","div",null,{"className":"doc-wrap","children":[["$","$L11",null,{"courses":[{"key":"py","title":"Python语言核心精讲","glyph":"Py","cls":"b1","coming_soon":false,"modules":[{"name":"语言基础","chapters":[{"n":1,"slug":"1","title":"必看导言","group":"语言基础","progress_key":"1","sections":[]},{"n":2,"slug":"2","title":"python环境安装","group":"语言基础","progress_key":"2","sections":[{"name":"Python安装包","anchor":"Python安装包"},{"name":"Hello World","anchor":"Hello-World"},{"name":"IDE","anchor":"IDE"},{"name":"作业","anchor":"作业"}]},{"n":3,"slug":"3","title":"python基本语法","group":"语言基础","progress_key":"3","sections":[{"name":"语言基本特征","anchor":"语言基本特征"},{"name":"注释","anchor":"注释"},{"name":"数据类型","anchor":"数据类型"},{"name":"type函数","anchor":"type函数"},{"name":"变量","anchor":"变量"},{"name":"字符串格式化（f-string）","anchor":"字符串格式化f-string"},{"name":"运算符","anchor":"运算符"},{"name":"输入输出","anchor":"输入输出"},{"name":"流程控制","anchor":"流程控制"},{"name":"作业","anchor":"作业"}]},{"n":4,"slug":"4","title":"容器类型","group":"语言基础","progress_key":"4","sections":[{"name":"什么是容器类型","anchor":"什么是容器类型"},{"name":"列表（list）","anchor":"列表list"},{"name":"元组（tuple）","anchor":"元组tuple"},{"name":"字典（dict）","anchor":"字典dict"},{"name":"集合（set）","anchor":"集合set"},{"name":"容器操作","anchor":"容器操作"},{"name":"作业","anchor":"作业"}]},{"n":5,"slug":"5","title":"函数","group":"语言基础","progress_key":"5","sections":[{"name":"定义函数","anchor":"定义函数"},{"name":"参数","anchor":"参数"},{"name":"返回值","anchor":"返回值"},{"name":"文档字符串（Docstring）","anchor":"文档字符串Docstring"},{"name":"作业","anchor":"作业"}]},{"n":6,"slug":"6","title":"作用域","group":"语言基础","progress_key":"6","sections":[{"name":"LEGB 规则","anchor":"LEGB-规则"},{"name":"局部作用域（Local）","anchor":"局部作用域Local"},{"name":"全局作用域（Global）","anchor":"全局作用域Global"},{"name":"闭包作用域（Enclosing）","anchor":"闭包作用域Enclosing"},{"name":"常见错误","anchor":"常见错误"},{"name":"作用域速查","anchor":"作用域速查"},{"name":"作业","anchor":"作业"}]},{"n":7,"slug":"7","title":"lambda表达式","group":"语言基础","progress_key":"7","sections":[{"name":"基本语法","anchor":"基本语法"},{"name":"Lambda vs 普通函数","anchor":"Lambda-vs-普通函数"},{"name":"应用场景：内置高阶函数","anchor":"应用场景内置高阶函数"},{"name":"作业","anchor":"作业"}]}]},{"name":"面向对象","chapters":[{"n":8,"slug":"8","title":"类和对象","group":"面向对象","progress_key":"8","sections":[{"name":"定义类","anchor":"定义类"},{"name":"构造方法 __init__","anchor":"构造方法-__init__"},{"name":"实例属性与类属性","anchor":"实例属性与类属性"},{"name":"实例方法","anchor":"实例方法"},{"name":"类方法与静态方法","anchor":"类方法与静态方法"},{"name":"继承","anchor":"继承"},{"name":"访问控制","anchor":"访问控制"},{"name":"常见操作","anchor":"常见操作"},{"name":"作业","anchor":"作业"}]},{"n":9,"slug":"9","title":"对象的类型","group":"面向对象","progress_key":"9","sections":[{"name":"知识补充","anchor":"知识补充"},{"name":"对象的类型","anchor":"对象的类型"},{"name":"成员的查找顺序","anchor":"成员的查找顺序"},{"name":"作业","anchor":"作业"}]},{"n":10,"slug":"10","title":"对象的创建过程","group":"面向对象","progress_key":"10","sections":[{"name":"应用场景","anchor":"应用场景"},{"name":"作业","anchor":"作业"}]},{"n":11,"slug":"11","title":"可调用对象","group":"面向对象","progress_key":"11","sections":[{"name":"如何判断对象是否可调用","anchor":"如何判断对象是否可调用"},{"name":"让对象变成可调用对象","anchor":"让对象变成可调用对象"},{"name":"实际应用场景","anchor":"实际应用场景"},{"name":"作业","anchor":"作业"}]},{"n":12,"slug":"12","title":"元类","group":"面向对象","progress_key":"12","sections":[{"name":"类的创建过程","anchor":"类的创建过程"},{"name":"自定义元类","anchor":"自定义元类"},{"name":"深入：元类的查找顺序","anchor":"深入元类的查找顺序"},{"name":"总结","anchor":"总结"},{"name":"作业","anchor":"作业"}]},{"n":13,"slug":"13","title":"装饰器","group":"面向对象","progress_key":"13","sections":[{"name":"装饰器的本质","anchor":"装饰器的本质"},{"name":"多个装饰器叠加","anchor":"多个装饰器叠加"},{"name":"作业","anchor":"作业"}]},{"n":14,"slug":"14","title":"魔术方法","group":"面向对象","progress_key":"14","sections":[{"name":"字符串表示","anchor":"字符串表示"},{"name":"比较操作","anchor":"比较操作"},{"name":"算术运算","anchor":"算术运算"},{"name":"容器协议","anchor":"容器协议"},{"name":"类型转换","anchor":"类型转换"},{"name":"属性访问拦截","anchor":"属性访问拦截"},{"name":"对象生命周期","anchor":"对象生命周期"},{"name":"常用魔术方法速查","anchor":"常用魔术方法速查"},{"name":"作业（可使用AI）","anchor":"作业可使用AI"}]},{"n":15,"slug":"15","title":"描述符","group":"面向对象","progress_key":"15","sections":[{"name":"问题","anchor":"问题"},{"name":"描述符协议","anchor":"描述符协议"},{"name":"解决最初的问题","anchor":"解决最初的问题"},{"name":"@property 装饰器","anchor":"property-装饰器"},{"name":"应用场景","anchor":"应用场景"},{"name":"作业（可使用AI）","anchor":"作业可使用AI"}]}]},{"name":"语言进阶","chapters":[{"n":16,"slug":"16","title":"异常处理","group":"语言进阶","progress_key":"16","sections":[{"name":"异常的捕获","anchor":"异常的捕获"},{"name":"异常类型","anchor":"异常类型"},{"name":"主动抛出异常","anchor":"主动抛出异常"},{"name":"自定义异常","anchor":"自定义异常"},{"name":"异常链","anchor":"异常链"},{"name":"作业（可使用AI）","anchor":"作业可使用AI"}]},{"n":17,"slug":"17","title":"迭代器与生成器","group":"语言进阶","progress_key":"17","sections":[{"name":"迭代器(Iterator)","anchor":"迭代器Iterator"},{"name":"可迭代对象(Iterable)","anchor":"可迭代对象Iterable"},{"name":"生成器(Generator)","anchor":"生成器Generator"},{"name":"itertools 简介","anchor":"itertools-简介"},{"name":"作业","anchor":"作业"}]},{"n":18,"slug":"18","title":"上下文管理器","group":"语言进阶","progress_key":"18","sections":[{"name":"基本用法","anchor":"基本用法"},{"name":"自定义上下文管理器","anchor":"自定义上下文管理器"},{"name":"异常处理","anchor":"异常处理"},{"name":"使用 @contextmanager 装饰器","anchor":"使用-contextmanager-装饰器"},{"name":"多个上下文管理器","anchor":"多个上下文管理器"},{"name":"作业（使用AI）","anchor":"作业使用AI"}]},{"n":19,"slug":"19","title":"ABC","group":"语言进阶","progress_key":"19","sections":[{"name":"定义抽象类","anchor":"定义抽象类"},{"name":"抽象属性","anchor":"抽象属性"},{"name":"子类必须实现所有抽象方法","anchor":"子类必须实现所有抽象方法"},{"name":"实际应用场景","anchor":"实际应用场景"},{"name":"作业（使用AI）","anchor":"作业使用AI"}]},{"n":20,"slug":"20","title":"类型标注","group":"语言进阶","progress_key":"20","sections":[{"name":"为什么需要类型标注","anchor":"为什么需要类型标注"},{"name":"基础类型标注","anchor":"基础类型标注"},{"name":"常用复合类型","anchor":"常用复合类型"},{"name":"类与自定义类型","anchor":"类与自定义类型"},{"name":"泛型","anchor":"泛型"},{"name":"Callable 和 回调函数","anchor":"Callable-和-回调函数"},{"name":"应用场景","anchor":"应用场景"},{"name":"忽略类型检查","anchor":"忽略类型检查"},{"name":"作业（可使用AI）","anchor":"作业可使用AI"}]},{"n":21,"slug":"21","title":"模块化","group":"语言进阶","progress_key":"21","sections":[{"name":"包、模块、成员关系","anchor":"包模块成员关系"},{"name":"定义模块（导出）","anchor":"定义模块导出"},{"name":"导入模块","anchor":"导入模块"},{"name":"包（Package）","anchor":"包Package"},{"name":"相对导入","anchor":"相对导入"},{"name":"搜索路径","anchor":"搜索路径"},{"name":"循环导入问题","anchor":"循环导入问题"},{"name":"作业","anchor":"作业"}]},{"n":22,"slug":"22","title":"标准库","group":"语言进阶","progress_key":"22","sections":[{"name":"作业（使用AI）","anchor":"作业使用AI"}]},{"n":23,"slug":"23","title":"第三方库","group":"语言进阶","progress_key":"23","sections":[{"name":"pip 概述","anchor":"pip-概述"},{"name":"国内镜像源","anchor":"国内镜像源"},{"name":"安装第三方库","anchor":"安装第三方库"},{"name":"升级第三方库","anchor":"升级第三方库"},{"name":"卸载第三方库","anchor":"卸载第三方库"},{"name":"查看与管理包","anchor":"查看与管理包"},{"name":"依赖管理","anchor":"依赖管理"},{"name":"虚拟环境","anchor":"虚拟环境"},{"name":"作业（使用AI）","anchor":"作业使用AI"}]}]},{"name":"异步与并发","chapters":[{"n":24,"slug":"24","title":"事件循环","group":"异步与并发","progress_key":"24","sections":[{"name":"同步代码的问题","anchor":"同步代码的问题"},{"name":"什么是异步","anchor":"什么是异步"},{"name":"异步 VS 多线程","anchor":"异步-VS-多线程"},{"name":"Python的事件循环","anchor":"Python的事件循环"},{"name":"作业","anchor":"作业"}]},{"n":25,"slug":"25","title":"Future类","group":"异步与并发","progress_key":"25","sections":[{"name":"作业","anchor":"作业"}]},{"n":26,"slug":"26","title":"协程 Coroutine","group":"异步与并发","progress_key":"26","sections":[{"name":"回调之痛","anchor":"回调之痛"},{"name":"协程函数","anchor":"协程函数"},{"name":"协程 VS 线程","anchor":"协程-VS-线程"},{"name":"驱动协程对象","anchor":"驱动协程对象"},{"name":"Task","anchor":"Task"},{"name":"asyncio.run","anchor":"asynciorun"},{"name":"深度总结","anchor":"深度总结"},{"name":"作业","anchor":"作业"}]},{"n":27,"slug":"27","title":"异步编程","group":"异步与并发","progress_key":"27","sections":[{"name":"异步生成器与异步迭代器","anchor":"异步生成器与异步迭代器"},{"name":"异步上下文管理器","anchor":"异步上下文管理器"},{"name":"官方 asyncio 核心 API","anchor":"官方-asyncio-核心-API"},{"name":"第三方异步库","anchor":"第三方异步库"},{"name":"常见异步编程模式(面试题)","anchor":"常见异步编程模式面试题"},{"name":"最佳实践与注意事项","anchor":"最佳实践与注意事项"},{"name":"作业（使用AI）","anchor":"作业使用AI"}]},{"n":28,"slug":"28","title":"多线程与多进程","group":"异步与并发","progress_key":"28","sections":[{"name":"进程 vs 线程 vs 协程","anchor":"进程-vs-线程-vs-协程"},{"name":"threading 模块","anchor":"threading-模块"},{"name":"线程安全与竞态条件","anchor":"线程安全与竞态条件"},{"name":"Lock —— 互斥锁","anchor":"Lock-互斥锁"},{"name":"RLock —— 可重入锁","anchor":"RLock-可重入锁"},{"name":"Semaphore —— 限制并发数","anchor":"Semaphore-限制并发数"},{"name":"Event —— 线程间通知","anchor":"Event-线程间通知"},{"name":"Queue —— 线程安全的生产者消费者","anchor":"Queue-线程安全的生产者消费者"},{"name":"ThreadPoolExecutor —— 线程池","anchor":"ThreadPoolExecutor-线程池"},{"name":"线程局部数据 (Thread Local)","anchor":"线程局部数据-Thread-Local"},{"name":"多线程常见问题","anchor":"多线程常见问题"},{"name":"何时用线程，何时用协程？","anchor":"何时用线程何时用协程"}]}]},{"name":"工程化实践","chapters":[{"n":29,"slug":"29","title":"构建发布","group":"工程化实践","progress_key":"29","sections":[{"name":"库的开发流程","anchor":"库的开发流程"},{"name":"构建","anchor":"构建"},{"name":"发布和安装","anchor":"发布和安装"},{"name":"可编辑依赖","anchor":"可编辑依赖"},{"name":"作业","anchor":"作业"}]},{"n":30,"slug":"30","title":"项目管理工具","group":"工程化实践","progress_key":"30","sections":[{"name":"[可选]pyenv 卸载","anchor":"可选pyenv-卸载"},{"name":"UV 简介","anchor":"UV-简介"},{"name":"安装","anchor":"安装"},{"name":"Python 版本管理","anchor":"Python-版本管理"},{"name":"快速上手：创建一个项目","anchor":"快速上手创建一个项目"},{"name":"虚拟环境管理","anchor":"虚拟环境管理"},{"name":"Running Tools —— 无需安装即可运行","anchor":"Running-Tools-无需安装即可运行"},{"name":"构建与发布","anchor":"构建与发布"},{"name":"Makefile —— 统一项目命令入口","anchor":"Makefile-统一项目命令入口"},{"name":"常用命令速查","anchor":"常用命令速查"},{"name":"作业","anchor":"作业"}]},{"n":31,"slug":"31","title":"monorepo","group":"工程化实践","progress_key":"31","sections":[{"name":"什么是 Monorepo","anchor":"什么是-Monorepo"},{"name":"搭建 Workspace","anchor":"搭建-Workspace"},{"name":"包间依赖的三种模式","anchor":"包间依赖的三种模式"},{"name":"作业","anchor":"作业"}]},{"n":32,"slug":"32","title":"断点调试","group":"工程化实践","progress_key":"32","sections":[{"name":"调试组件","anchor":"调试组件"},{"name":"调试原理","anchor":"调试原理"},{"name":"单文件调试","anchor":"单文件调试"},{"name":"工程调试","anchor":"工程调试"},{"name":"作业","anchor":"作业"}]}]},{"name":"项目案例","chapters":[{"n":null,"slug":"proj-async-agents","title":"多智能体协同调研系统","group":"项目案例","progress_key":"","sections":[{"name":"模块概览","anchor":"模块概览"},{"name":"依赖关系图","anchor":"依赖关系图"},{"name":"建议阅读顺序","anchor":"建议阅读顺序"},{"name":"运行方式","anchor":"运行方式"}]},{"n":null,"slug":"proj-duyi-utils","title":"duyi-utils 构建发布示例","group":"项目案例","progress_key":"","sections":[{"name":"功能","anchor":"功能"},{"name":"安装","anchor":"安装"},{"name":"使用","anchor":"使用"}]}]}]},{"key":"fw","title":"Python框架","glyph":"架","cls":"b-fw","coming_soon":false,"modules":[{"name":"课程内容","chapters":[{"n":1,"slug":"1","title":"Web服务框架","group":"课程内容","progress_key":"fw-1"},{"n":2,"slug":"2","title":"优化包结构","group":"课程内容","progress_key":"fw-2"},{"n":3,"slug":"3","title":"初识SQLAlchemy","group":"课程内容","progress_key":"fw-3"},{"n":4,"slug":"4","title":"ORM","group":"课程内容","progress_key":"fw-4"},{"n":5,"slug":"5","title":"数据操作","group":"课程内容","progress_key":"fw-5"},{"n":6,"slug":"6","title":"数据迁移","group":"课程内容","progress_key":"fw-6"},{"n":7,"slug":"7","title":"业务逻辑","group":"课程内容","progress_key":"fw-7"},{"n":8,"slug":"8","title":"依赖注入","group":"课程内容","progress_key":"fw-8"},{"n":9,"slug":"9","title":"统一异常处理","group":"课程内容","progress_key":"fw-9"},{"n":10,"slug":"10","title":"中间件","group":"课程内容","progress_key":"fw-10"},{"n":11,"slug":"11","title":"测试框架","group":"课程内容","progress_key":"fw-11"},{"n":12,"slug":"12","title":"测试方案","group":"课程内容","progress_key":"fw-12"},{"n":13,"slug":"13","title":"三层架构","group":"课程内容","progress_key":"fw-13"},{"n":14,"slug":"14","title":"文件上传","group":"课程内容","progress_key":"fw-14"},{"n":15,"slug":"15","title":"系统设置","group":"课程内容","progress_key":"fw-15"},{"n":17,"slug":"17","title":"用户系统","group":"课程内容","progress_key":"fw-17"},{"n":18,"slug":"18","title":"日志","group":"课程内容","progress_key":"fw-18"},{"n":20,"slug":"20","title":"流式响应","group":"课程内容","progress_key":"fw-20"},{"n":26,"slug":"26","title":"python收官检验","group":"课程内容","progress_key":"fw-26"}]},{"name":"部署","chapters":[{"n":21,"slug":"21","title":"部署-认识Docker","group":"部署","progress_key":"fw-21"},{"n":22,"slug":"22","title":"部署-云资产","group":"部署","progress_key":"fw-22"},{"n":23,"slug":"23","title":"部署-k8s","group":"部署","progress_key":"fw-23"},{"n":24,"slug":"24","title":"部署-CICD","group":"部署","progress_key":"fw-24"},{"n":25,"slug":"25","title":"部署-总结","group":"部署","progress_key":"fw-25"}]}]},{"key":"db","title":"数据库","glyph":"库","cls":"b-db","coming_soon":false,"modules":[{"name":"课程内容","chapters":[{"n":1,"slug":"1","title":"PostgreSQL安装","group":"课程内容","progress_key":"db-1"},{"n":2,"slug":"2","title":"DDL","group":"课程内容","progress_key":"db-2"},{"n":3,"slug":"3","title":"表间关系","group":"课程内容","progress_key":"db-3"},{"n":4,"slug":"4","title":"DML","group":"课程内容","progress_key":"db-4"},{"n":5,"slug":"5","title":"事务","group":"课程内容","progress_key":"db-5"},{"n":6,"slug":"6","title":"索引","group":"课程内容","progress_key":"db-6"},{"n":7,"slug":"7","title":"拓展知识","group":"课程内容","progress_key":"db-7"}]}]},{"key":"dst","title":"数据科学工具包","glyph":"数","cls":"b-ds","coming_soon":false,"modules":[{"name":"课程内容","chapters":[{"n":1,"slug":"1","title":"课程导言","group":"课程内容","progress_key":"dst-1"},{"n":2,"slug":"2","title":"Jupyter","group":"课程内容","progress_key":"dst-2"},{"n":10,"slug":"10","title":"Seaborn","group":"课程内容","progress_key":"dst-10"}]},{"name":"Numpy","chapters":[{"n":3,"slug":"3","title":"Numpy - 核心概念","group":"Numpy","progress_key":"dst-3"},{"n":4,"slug":"4","title":"Numpy - 数据操作","group":"Numpy","progress_key":"dst-4"}]},{"name":"Pandas","chapters":[{"n":5,"slug":"5","title":"Pandas - 数据类型","group":"Pandas","progress_key":"dst-5"},{"n":6,"slug":"6","title":"Pandas - 数据清洗","group":"Pandas","progress_key":"dst-6"}]},{"name":"Matplotlib","chapters":[{"n":7,"slug":"7","title":"Matplotlib - 核心概念","group":"Matplotlib","progress_key":"dst-7"},{"n":8,"slug":"8","title":"Matplotlib - 动画","group":"Matplotlib","progress_key":"dst-8"},{"n":9,"slug":"9","title":"Matplotlib - 交互式组件","group":"Matplotlib","progress_key":"dst-9"}]}]},{"key":"java","title":"Java","glyph":"J","cls":"b-java","coming_soon":true,"modules":[]},{"key":"cloud","title":"云计算","glyph":"云","cls":"b-cloud","coming_soon":true,"modules":[]}],"currentKey":"py","currentSlug":"18"}],"$L12","$L13"]}]]
+14:I[756,["619","static/chunks/619-ba102abea3e3d0e4.js","526","static/chunks/app/course/%5Bkey%5D/%5Bch%5D/page-166c66fba529f17a.js"],"default"]
+15:I[1599,["619","static/chunks/619-ba102abea3e3d0e4.js","526","static/chunks/app/course/%5Bkey%5D/%5Bch%5D/page-166c66fba529f17a.js"],"default"]
+18:I[5340,["619","static/chunks/619-ba102abea3e3d0e4.js","526","static/chunks/app/course/%5Bkey%5D/%5Bch%5D/page-166c66fba529f17a.js"],"default"]
+16:T64d7,<div class="codehilite lang-python"><pre><span></span><code><span class="k">with</span> <span class="n">表达式</span> <span class="k">as</span> <span class="n">变量名</span><span class="p">:</span>
+    <span class="n">代码块</span>
+
+<span class="c1"># 等效于</span>
+<span class="n">变量名</span> <span class="o">=</span> <span class="n">表达式</span><span class="o">.</span><span class="fm">__enter__</span><span class="p">()</span>
+<span class="k">try</span><span class="p">:</span>
+    <span class="n">代码块</span>
+<span class="k">except</span> <span class="ne">Exception</span> <span class="k">as</span> <span class="n">e</span><span class="p">:</span>
+    <span class="n">stopPropagation</span> <span class="o">=</span> <span class="n">变量名</span><span class="o">.</span><span class="fm">__exit__</span><span class="p">(</span><span class="nb">type</span><span class="p">(</span><span class="n">e</span><span class="p">),</span> <span class="n">e</span><span class="p">,</span> <span class="n">e</span><span class="o">.</span><span class="n">__traceback__</span><span class="p">)</span>
+    <span class="k">if</span> <span class="ow">not</span> <span class="n">stopPropagation</span><span class="p">:</span>
+        <span class="k">raise</span>
+<span class="k">else</span><span class="p">:</span>
+    <span class="n">变量名</span><span class="o">.</span><span class="fm">__exit__</span><span class="p">(</span><span class="kc">None</span><span class="p">,</span> <span class="kc">None</span><span class="p">,</span> <span class="kc">None</span><span class="p">)</span>
+</code></pre></div>
+
+<p>带 <code>__enter__</code> 和 <code>__exit__</code> 方法的对象叫做<strong>上下文管理器（Context Manager）</strong>。</p>
+<ul>
+<li><strong>上下文管理器</strong>是支持 <code>with</code> 语句的对象</li>
+<li><strong>必须同时实现</strong>两个方法，否则 <code>with</code> 会报错</li>
+</ul>
+<h2 id="基本用法">基本用法</h2>
+<div class="codehilite lang-python"><pre><span></span><code><span class="c1"># 文件操作 —— 自动关闭文件</span>
+<span class="k">with</span> <span class="nb">open</span><span class="p">(</span><span class="s2">"data.txt"</span><span class="p">,</span> <span class="s2">"r"</span><span class="p">)</span> <span class="k">as</span> <span class="n">f</span><span class="p">:</span>
+    <span class="n">content</span> <span class="o">=</span> <span class="n">f</span><span class="o">.</span><span class="n">read</span><span class="p">()</span>
+    <span class="c1"># 离开 with 块时，文件自动关闭</span>
+
+<span class="c1"># 等价于</span>
+<span class="n">f</span> <span class="o">=</span> <span class="nb">open</span><span class="p">(</span><span class="s2">"data.txt"</span><span class="p">,</span> <span class="s2">"r"</span><span class="p">)</span>
+<span class="k">try</span><span class="p">:</span>
+    <span class="n">content</span> <span class="o">=</span> <span class="n">f</span><span class="o">.</span><span class="n">read</span><span class="p">()</span>
+<span class="k">except</span> <span class="ne">Exception</span> <span class="k">as</span> <span class="n">e</span><span class="p">:</span>
+    <span class="n">stopPropagation</span> <span class="o">=</span> <span class="n">f</span><span class="o">.</span><span class="fm">__exit__</span><span class="p">(</span><span class="nb">type</span><span class="p">(</span><span class="n">e</span><span class="p">),</span> <span class="n">e</span><span class="p">,</span> <span class="n">e</span><span class="o">.</span><span class="n">__traceback__</span><span class="p">)</span>
+    <span class="k">if</span> <span class="ow">not</span> <span class="n">stopPropagation</span><span class="p">:</span>
+        <span class="k">raise</span>
+<span class="k">else</span><span class="p">:</span>
+    <span class="n">f</span><span class="o">.</span><span class="fm">__exit__</span><span class="p">(</span><span class="kc">None</span><span class="p">,</span> <span class="kc">None</span><span class="p">,</span> <span class="kc">None</span><span class="p">)</span>
+</code></pre></div>
+
+<h2 id="自定义上下文管理器">自定义上下文管理器</h2>
+<p>实现 <code>__enter__</code> 和 <code>__exit__</code> 方法：</p>
+<div class="codehilite lang-python"><pre><span></span><code><span class="k">class</span><span class="w"> </span><span class="nc">DatabaseConnection</span><span class="p">:</span>
+    <span class="k">def</span><span class="w"> </span><span class="fm">__init__</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">host</span><span class="p">):</span>
+        <span class="bp">self</span><span class="o">.</span><span class="n">host</span> <span class="o">=</span> <span class="n">host</span>
+        <span class="bp">self</span><span class="o">.</span><span class="n">connected</span> <span class="o">=</span> <span class="kc">False</span>
+
+    <span class="k">def</span><span class="w"> </span><span class="fm">__enter__</span><span class="p">(</span><span class="bp">self</span><span class="p">):</span>
+<span class="w">        </span><span class="sd">"""进入 with 块时调用，返回的对象赋值给 as 后的变量"""</span>
+        <span class="nb">print</span><span class="p">(</span><span class="sa">f</span><span class="s2">"连接到数据库: </span><span class="si">{</span><span class="bp">self</span><span class="o">.</span><span class="n">host</span><span class="si">}</span><span class="s2">"</span><span class="p">)</span>
+        <span class="bp">self</span><span class="o">.</span><span class="n">connected</span> <span class="o">=</span> <span class="kc">True</span>
+        <span class="k">return</span> <span class="bp">self</span>  <span class="c1"># 返回自身，供 with 块使用</span>
+
+    <span class="k">def</span><span class="w"> </span><span class="fm">__exit__</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">exc_type</span><span class="p">,</span> <span class="n">exc_val</span><span class="p">,</span> <span class="n">exc_tb</span><span class="p">):</span>
+<span class="w">        </span><span class="sd">"""</span>
+<span class="sd">        离开 with 块时调用</span>
+<span class="sd">        exc_type: 异常类型（无异常时为 None）</span>
+<span class="sd">        exc_val: 异常值</span>
+<span class="sd">        exc_tb: 异常追踪信息</span>
+<span class="sd">        返回 True 表示异常已处理，不再向上传播</span>
+<span class="sd">        """</span>
+        <span class="nb">print</span><span class="p">(</span><span class="sa">f</span><span class="s2">"关闭数据库连接: </span><span class="si">{</span><span class="bp">self</span><span class="o">.</span><span class="n">host</span><span class="si">}</span><span class="s2">"</span><span class="p">)</span>
+        <span class="bp">self</span><span class="o">.</span><span class="n">connected</span> <span class="o">=</span> <span class="kc">False</span>
+        <span class="k">return</span> <span class="kc">False</span>  <span class="c1"># 返回 False，不处理异常，让异常继续传播</span>
+
+    <span class="k">def</span><span class="w"> </span><span class="nf">query</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">sql</span><span class="p">):</span>
+        <span class="k">if</span> <span class="ow">not</span> <span class="bp">self</span><span class="o">.</span><span class="n">connected</span><span class="p">:</span>
+            <span class="k">raise</span> <span class="ne">RuntimeError</span><span class="p">(</span><span class="s2">"未连接到数据库"</span><span class="p">)</span>
+        <span class="nb">print</span><span class="p">(</span><span class="sa">f</span><span class="s2">"执行查询: </span><span class="si">{</span><span class="n">sql</span><span class="si">}</span><span class="s2">"</span><span class="p">)</span>
+        <span class="k">return</span> <span class="p">[</span><span class="s2">"result1"</span><span class="p">,</span> <span class="s2">"result2"</span><span class="p">]</span>
+
+
+<span class="c1"># 使用上下文管理器</span>
+<span class="k">with</span> <span class="n">DatabaseConnection</span><span class="p">(</span><span class="s2">"localhost"</span><span class="p">)</span> <span class="k">as</span> <span class="n">conn</span><span class="p">:</span>
+    <span class="nb">print</span><span class="p">(</span><span class="sa">f</span><span class="s2">"连接状态: </span><span class="si">{</span><span class="n">conn</span><span class="o">.</span><span class="n">connected</span><span class="si">}</span><span class="s2">"</span><span class="p">)</span>  <span class="c1"># True</span>
+    <span class="n">results</span> <span class="o">=</span> <span class="n">conn</span><span class="o">.</span><span class="n">query</span><span class="p">(</span><span class="s2">"SELECT * FROM users"</span><span class="p">)</span>
+    <span class="nb">print</span><span class="p">(</span><span class="n">results</span><span class="p">)</span>
+
+<span class="c1"># 离开 with 块后</span>
+<span class="nb">print</span><span class="p">(</span><span class="sa">f</span><span class="s2">"连接状态: </span><span class="si">{</span><span class="n">conn</span><span class="o">.</span><span class="n">connected</span><span class="si">}</span><span class="s2">"</span><span class="p">)</span>  <span class="c1"># False</span>
+</code></pre></div>
+
+<h2 id="异常处理">异常处理</h2>
+<p><code>__exit__</code> 方法可以处理或记录异常：</p>
+<div class="codehilite lang-python"><pre><span></span><code><span class="k">class</span><span class="w"> </span><span class="nc">SuppressError</span><span class="p">:</span>
+<span class="w">    </span><span class="sd">"""忽略指定类型的异常"""</span>
+
+    <span class="k">def</span><span class="w"> </span><span class="fm">__init__</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="o">*</span><span class="n">exception_types</span><span class="p">):</span>
+        <span class="bp">self</span><span class="o">.</span><span class="n">exception_types</span> <span class="o">=</span> <span class="n">exception_types</span>
+
+    <span class="k">def</span><span class="w"> </span><span class="fm">__enter__</span><span class="p">(</span><span class="bp">self</span><span class="p">):</span>
+        <span class="k">return</span> <span class="bp">self</span>
+
+    <span class="k">def</span><span class="w"> </span><span class="fm">__exit__</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">exc_type</span><span class="p">,</span> <span class="n">exc_val</span><span class="p">,</span> <span class="n">exc_tb</span><span class="p">):</span>
+        <span class="k">if</span> <span class="n">exc_type</span> <span class="ow">is</span> <span class="ow">not</span> <span class="kc">None</span> <span class="ow">and</span> <span class="nb">issubclass</span><span class="p">(</span><span class="n">exc_type</span><span class="p">,</span> <span class="bp">self</span><span class="o">.</span><span class="n">exception_types</span><span class="p">):</span>
+            <span class="nb">print</span><span class="p">(</span><span class="sa">f</span><span class="s2">"捕获并忽略异常: </span><span class="si">{</span><span class="n">exc_type</span><span class="o">.</span><span class="vm">__name__</span><span class="si">}</span><span class="s2">: </span><span class="si">{</span><span class="n">exc_val</span><span class="si">}</span><span class="s2">"</span><span class="p">)</span>
+            <span class="k">return</span> <span class="kc">True</span>  <span class="c1"># 返回 True，异常被处理，不再传播</span>
+        <span class="k">return</span> <span class="kc">False</span>  <span class="c1"># 不处理其他异常</span>
+
+
+<span class="c1"># 使用</span>
+<span class="k">with</span> <span class="n">SuppressError</span><span class="p">(</span><span class="ne">ZeroDivisionError</span><span class="p">):</span>
+    <span class="n">result</span> <span class="o">=</span> <span class="mi">1</span> <span class="o">/</span> <span class="mi">0</span>  <span class="c1"># 不会报错</span>
+    <span class="nb">print</span><span class="p">(</span><span class="s2">"这行不会执行"</span><span class="p">)</span>
+
+<span class="nb">print</span><span class="p">(</span><span class="s2">"程序继续执行"</span><span class="p">)</span>  <span class="c1"># 正常执行</span>
+</code></pre></div>
+
+<hr />
+<h2 id="使用-contextmanager-装饰器">使用 @contextmanager 装饰器</h2>
+<p>对于简单的上下文管理器，可以使用 <code>contextlib</code> 模块的 <code>@contextmanager</code> 装饰器，用生成器函数实现：</p>
+<div class="codehilite lang-python"><pre><span></span><code><span class="kn">from</span><span class="w"> </span><span class="nn">contextlib</span><span class="w"> </span><span class="kn">import</span> <span class="n">contextmanager</span>
+
+<span class="nd">@contextmanager</span>
+<span class="k">def</span><span class="w"> </span><span class="nf">managed_resource</span><span class="p">(</span><span class="n">name</span><span class="p">):</span>
+<span class="w">    </span><span class="sd">"""用生成器实现上下文管理器"""</span>
+    <span class="nb">print</span><span class="p">(</span><span class="sa">f</span><span class="s2">"获取资源: </span><span class="si">{</span><span class="n">name</span><span class="si">}</span><span class="s2">"</span><span class="p">)</span>
+    <span class="n">resource</span> <span class="o">=</span> <span class="p">{</span><span class="s2">"name"</span><span class="p">:</span> <span class="n">name</span><span class="p">,</span> <span class="s2">"status"</span><span class="p">:</span> <span class="s2">"active"</span><span class="p">}</span>
+    <span class="k">try</span><span class="p">:</span>
+        <span class="k">yield</span> <span class="n">resource</span>  <span class="c1"># yield 之前的代码等价于 __enter__</span>
+    <span class="k">finally</span><span class="p">:</span>
+        <span class="nb">print</span><span class="p">(</span><span class="sa">f</span><span class="s2">"释放资源: </span><span class="si">{</span><span class="n">name</span><span class="si">}</span><span class="s2">"</span><span class="p">)</span>  <span class="c1"># yield 之后的代码等价于 __exit__</span>
+
+
+<span class="c1"># 使用</span>
+<span class="k">with</span> <span class="n">managed_resource</span><span class="p">(</span><span class="s2">"database"</span><span class="p">)</span> <span class="k">as</span> <span class="n">res</span><span class="p">:</span>
+    <span class="nb">print</span><span class="p">(</span><span class="sa">f</span><span class="s2">"使用资源: </span><span class="si">{</span><span class="n">res</span><span class="si">}</span><span class="s2">"</span><span class="p">)</span>
+<span class="c1"># 获取资源: database</span>
+<span class="c1"># 使用资源: {'name': 'database', 'status': 'active'}</span>
+<span class="c1"># 释放资源: database</span>
+</code></pre></div>
+
+<p><strong>带异常处理的版本：</strong></p>
+<div class="codehilite lang-python"><pre><span></span><code><span class="kn">from</span><span class="w"> </span><span class="nn">contextlib</span><span class="w"> </span><span class="kn">import</span> <span class="n">contextmanager</span>
+
+<span class="nd">@contextmanager</span>
+<span class="k">def</span><span class="w"> </span><span class="nf">safe_file_write</span><span class="p">(</span><span class="n">file_path</span><span class="p">):</span>
+<span class="w">    </span><span class="sd">"""安全写入文件：先写入临时文件，成功后再替换原文件"""</span>
+    <span class="n">temp_path</span> <span class="o">=</span> <span class="n">file_path</span> <span class="o">+</span> <span class="s2">".tmp"</span>
+    <span class="k">try</span><span class="p">:</span>
+        <span class="n">f</span> <span class="o">=</span> <span class="nb">open</span><span class="p">(</span><span class="n">temp_path</span><span class="p">,</span> <span class="s2">"w"</span><span class="p">)</span>
+        <span class="k">yield</span> <span class="n">f</span>
+        <span class="n">f</span><span class="o">.</span><span class="n">close</span><span class="p">()</span>
+        <span class="c1"># 写入成功，替换原文件</span>
+        <span class="kn">import</span><span class="w"> </span><span class="nn">os</span>
+        <span class="n">os</span><span class="o">.</span><span class="n">replace</span><span class="p">(</span><span class="n">temp_path</span><span class="p">,</span> <span class="n">file_path</span><span class="p">)</span>
+        <span class="nb">print</span><span class="p">(</span><span class="s2">"写入成功"</span><span class="p">)</span>
+    <span class="k">except</span> <span class="ne">Exception</span> <span class="k">as</span> <span class="n">e</span><span class="p">:</span>
+        <span class="c1"># 写入失败，清理临时文件</span>
+        <span class="n">f</span><span class="o">.</span><span class="n">close</span><span class="p">()</span>
+        <span class="kn">import</span><span class="w"> </span><span class="nn">os</span>
+        <span class="k">if</span> <span class="n">os</span><span class="o">.</span><span class="n">path</span><span class="o">.</span><span class="n">exists</span><span class="p">(</span><span class="n">temp_path</span><span class="p">):</span>
+            <span class="n">os</span><span class="o">.</span><span class="n">remove</span><span class="p">(</span><span class="n">temp_path</span><span class="p">)</span>
+        <span class="nb">print</span><span class="p">(</span><span class="sa">f</span><span class="s2">"写入失败: </span><span class="si">{</span><span class="n">e</span><span class="si">}</span><span class="s2">"</span><span class="p">)</span>
+        <span class="k">raise</span>  <span class="c1"># 重新抛出异常</span>
+
+
+<span class="c1"># 使用</span>
+<span class="k">with</span> <span class="n">safe_file_write</span><span class="p">(</span><span class="s2">"data.txt"</span><span class="p">)</span> <span class="k">as</span> <span class="n">f</span><span class="p">:</span>
+    <span class="n">f</span><span class="o">.</span><span class="n">write</span><span class="p">(</span><span class="s2">"Hello, World!</span><span class="se">\n</span><span class="s2">"</span><span class="p">)</span>
+</code></pre></div>
+
+<hr />
+<h2 id="多个上下文管理器">多个上下文管理器</h2>
+<p>可以同时使用多个 <code>with</code>：</p>
+<div class="codehilite lang-python"><pre><span></span><code><span class="c1"># 嵌套写法</span>
+<span class="k">with</span> <span class="nb">open</span><span class="p">(</span><span class="s2">"input.txt"</span><span class="p">,</span> <span class="s2">"r"</span><span class="p">)</span> <span class="k">as</span> <span class="n">fin</span><span class="p">:</span>
+    <span class="k">with</span> <span class="nb">open</span><span class="p">(</span><span class="s2">"output.txt"</span><span class="p">,</span> <span class="s2">"w"</span><span class="p">)</span> <span class="k">as</span> <span class="n">fout</span><span class="p">:</span>
+        <span class="n">fout</span><span class="o">.</span><span class="n">write</span><span class="p">(</span><span class="n">fin</span><span class="o">.</span><span class="n">read</span><span class="p">()</span><span class="o">.</span><span class="n">upper</span><span class="p">())</span>
+
+<span class="c1"># 简化写法（Python 3.1+）</span>
+<span class="k">with</span> <span class="nb">open</span><span class="p">(</span><span class="s2">"input.txt"</span><span class="p">,</span> <span class="s2">"r"</span><span class="p">)</span> <span class="k">as</span> <span class="n">fin</span><span class="p">,</span> <span class="nb">open</span><span class="p">(</span><span class="s2">"output.txt"</span><span class="p">,</span> <span class="s2">"w"</span><span class="p">)</span> <span class="k">as</span> <span class="n">fout</span><span class="p">:</span>
+    <span class="n">fout</span><span class="o">.</span><span class="n">write</span><span class="p">(</span><span class="n">fin</span><span class="o">.</span><span class="n">read</span><span class="p">()</span><span class="o">.</span><span class="n">upper</span><span class="p">())</span>
+</code></pre></div>
+
+<h2 id="作业使用AI">作业（使用AI）</h2>
+<h3 id="一实现代码块计时">一、实现代码块计时</h3>
+<div class="codehilite lang-python"><pre><span></span><code><span class="kn">from</span><span class="w"> </span><span class="nn">contextlib</span><span class="w"> </span><span class="kn">import</span> <span class="n">contextmanager</span>
+
+<span class="c1"># 使用</span>
+<span class="k">with</span> <span class="n">timer</span><span class="p">(</span><span class="s2">"数据处理"</span><span class="p">):</span>
+    <span class="kn">import</span><span class="w"> </span><span class="nn">time</span>
+    <span class="n">time</span><span class="o">.</span><span class="n">sleep</span><span class="p">(</span><span class="mi">1</span><span class="p">)</span>
+    <span class="nb">print</span><span class="p">(</span><span class="s2">"处理完成"</span><span class="p">)</span>
+<span class="c1"># 处理完成</span>
+<span class="c1"># 数据处理 耗时: 1.0012 秒</span>
+</code></pre></div>
+
+<h3 id="二实现上下文管理器">二、实现上下文管理器</h3>
+<p>编写一个 <code>TempDirectory</code> 上下文管理器，进入时创建临时目录，退出时自动删除：</p>
+<div class="codehilite lang-python"><pre><span></span><code><span class="k">with</span> <span class="n">TempDirectory</span><span class="p">()</span> <span class="k">as</span> <span class="n">tmp_dir</span><span class="p">:</span>
+    <span class="nb">print</span><span class="p">(</span><span class="sa">f</span><span class="s2">"临时目录: </span><span class="si">{</span><span class="n">tmp_dir</span><span class="si">}</span><span class="s2">"</span><span class="p">)</span>
+    <span class="c1"># 可以在这个目录中创建文件</span>
+    <span class="c1"># 离开 with 块时，目录及其内容自动删除</span>
+
+<span class="nb">print</span><span class="p">(</span><span class="s2">"临时目录已清理"</span><span class="p">)</span>
+</code></pre></div>
+
+<p><strong>提示：</strong> 使用 <code>tempfile</code> 模块创建临时目录，使用 <code>shutil.rmtree</code> 删除目录。</p>
+<h3 id="三实现重试装饰器结合上下文管理器思想">~~三、实现重试装饰器（结合上下文管理器思想）~~</h3>
+<p>~~编写一个上下文管理器 <code>retry</code>，在发生指定异常时自动重试：~~</p>
+<p><mark>这道题有问题，上下文管理器无法实现retry功能，retry需要使用装饰器实现，见answers/p3-1.py</mark></p>
+<h3 id="四思考题">四、思考题</h3>
+<p>下面代码的输出是什么？为什么？</p>
+<div class="codehilite lang-python"><pre><span></span><code><span class="kn">from</span><span class="w"> </span><span class="nn">contextlib</span><span class="w"> </span><span class="kn">import</span> <span class="n">contextmanager</span>
+
+<span class="nd">@contextmanager</span>
+<span class="k">def</span><span class="w"> </span><span class="nf">demo</span><span class="p">():</span>
+    <span class="nb">print</span><span class="p">(</span><span class="s2">"进入"</span><span class="p">)</span>
+    <span class="k">yield</span>
+    <span class="nb">print</span><span class="p">(</span><span class="s2">"正常退出"</span><span class="p">)</span>
+
+
+<span class="k">with</span> <span class="n">demo</span><span class="p">():</span>
+    <span class="nb">print</span><span class="p">(</span><span class="s2">"执行中"</span><span class="p">)</span>
+    <span class="k">raise</span> <span class="ne">ValueError</span><span class="p">(</span><span class="s2">"出错了"</span><span class="p">)</span>
+    <span class="nb">print</span><span class="p">(</span><span class="s2">"这行不会执行"</span><span class="p">)</span>
+</code></pre></div>
+
+<p>如果改成下面的代码，输出会有什么不同？</p>
+<div class="codehilite lang-python"><pre><span></span><code><span class="nd">@contextmanager</span>
+<span class="k">def</span><span class="w"> </span><span class="nf">demo</span><span class="p">():</span>
+    <span class="nb">print</span><span class="p">(</span><span class="s2">"进入"</span><span class="p">)</span>
+    <span class="k">try</span><span class="p">:</span>
+        <span class="k">yield</span>
+    <span class="k">except</span> <span class="ne">Exception</span> <span class="k">as</span> <span class="n">e</span><span class="p">:</span>
+        <span class="nb">print</span><span class="p">(</span><span class="sa">f</span><span class="s2">"捕获异常: </span><span class="si">{</span><span class="n">e</span><span class="si">}</span><span class="s2">"</span><span class="p">)</span>
+    <span class="k">finally</span><span class="p">:</span>
+        <span class="nb">print</span><span class="p">(</span><span class="s2">"清理"</span><span class="p">)</span>
+
+
+<span class="k">with</span> <span class="n">demo</span><span class="p">():</span>
+    <span class="nb">print</span><span class="p">(</span><span class="s2">"执行中"</span><span class="p">)</span>
+    <span class="k">raise</span> <span class="ne">ValueError</span><span class="p">(</span><span class="s2">"出错了"</span><span class="p">)</span>
+</code></pre></div>12:["$","article",null,{"className":"doc","id":"content","children":[["$","div",null,{"className":"doc-head-row mb-2 flex items-center justify-between gap-4","children":[["$","p",null,{"className":"kicker","children":[["$","span",null,{"className":"kicker-num","children":"第 18 章"}],["$","span",null,{"className":"kicker-mod","children":"语言进阶"}]]}],["$","$L14",null,{"progressKey":"18"}]]}],["$","h1",null,{"className":"doc-h1","children":"上下文管理器"}],["$","$L15",null,{"html":"$16"}],"$L17"]}]
+13:["$","$L18",null,{"sections":"$5:1:props:children:0:props:courses:0:modules:2:chapters:2:sections"}]
+19:I[2619,["619","static/chunks/619-ba102abea3e3d0e4.js","526","static/chunks/app/course/%5Bkey%5D/%5Bch%5D/page-166c66fba529f17a.js"],""]
+17:["$","nav",null,{"className":"pager","aria-label":"章节导航","children":[["$","$L19",null,{"className":"pager-link pager-prev","href":"/course/py/17/","children":[["$","span",null,{"className":"pager-dir","children":"上一章"}],["$","span",null,{"className":"pager-name","children":"迭代器与生成器"}]]}],["$","$L19",null,{"className":"pager-link pager-next","href":"/course/py/19/","children":[["$","span",null,{"className":"pager-dir","children":"下一章"}],["$","span",null,{"className":"pager-name","children":"ABC"}]]}]]}]
+b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+7:null
+9:{"metadata":[["$","title","0",{"children":"第 18 章  · Python语言核心精讲 · AI大全栈"}],["$","meta","1",{"name":"description","content":"袁进主讲的系列课程手册：Python 语言核心精讲、数据科学工具包、数据库、Python 框架、Agents 底层逻辑、LangGraph、LangChain + DeepAgent。iOS 风格阅读体验，内置可运行的 Python 代码块。"}]],"error":null,"digest":"$undefined"}
+e:"$9:metadata"

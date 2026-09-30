@@ -1,0 +1,420 @@
+1:"$Sreact.fragment"
+2:I[9130,["619","static/chunks/619-ba102abea3e3d0e4.js","177","static/chunks/app/layout-f06582a541a082fb.js"],"default"]
+3:I[9766,[],""]
+4:I[8924,[],""]
+6:I[4431,[],"OutletBoundary"]
+8:I[5278,[],"AsyncMetadataOutlet"]
+a:I[4431,[],"ViewportBoundary"]
+c:I[4431,[],"MetadataBoundary"]
+d:"$Sreact.suspense"
+f:I[7150,[],""]
+:HL["/ai-course-site/_next/static/css/e17dd95ac0dd78dc.css","style"]
+0:{"P":null,"b":"eFCLH0M-aOlbibikUsuSf","p":"/ai-course-site","c":["","course","db","2",""],"i":false,"f":[[["",{"children":["course",{"children":[["key","db","d"],{"children":[["ch","2","d"],{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/ai-course-site/_next/static/css/e17dd95ac0dd78dc.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"zh-CN","suppressHydrationWarning":true,"children":[["$","head",null,{"children":["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var t=localStorage.getItem(\"theme\");var d=t?t===\"dark\":window.matchMedia(\"(prefers-color-scheme: dark)\").matches;if(d)document.documentElement.classList.add(\"dark\");}catch(e){}})();"}}]}],["$","body",null,{"children":[["$","$L2",null,{"families":[{"key":"agent","name":"AI · Agent 开发"},{"key":"dev","name":"编程与工程基础"}]}],["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","footer",null,{"className":"mx-auto max-w-[52rem] px-6 pb-10 text-center text-xs text-label3","children":"AI大全栈 · 课程手册 — 由课件自动生成，仅供学习使用"}]]}]]}]]}],{"children":["course",["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["key","db","d"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["ch","2","d"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L5",null,["$","$L6",null,{"children":["$L7",["$","$L8",null,{"promise":"$@9"}]]}]]}],{},null,false]},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$La",null,{"children":"$Lb"}],null],["$","$Lc",null,{"children":["$","div",null,{"hidden":true,"children":["$","$d",null,{"fallback":null,"children":"$Le"}]}]}]]}],false]],"m":"$undefined","G":["$f",[]],"s":false,"S":true}
+10:I[7010,["619","static/chunks/619-ba102abea3e3d0e4.js","526","static/chunks/app/course/%5Bkey%5D/%5Bch%5D/page-166c66fba529f17a.js"],"default"]
+11:I[6710,["619","static/chunks/619-ba102abea3e3d0e4.js","526","static/chunks/app/course/%5Bkey%5D/%5Bch%5D/page-166c66fba529f17a.js"],"default"]
+5:[["$","$L10",null,{"url":"/course/db/2/","title":"DDL","course":"数据库"}],["$","div",null,{"className":"doc-wrap","children":[["$","$L11",null,{"courses":[{"key":"py","title":"Python语言核心精讲","glyph":"Py","cls":"b1","coming_soon":false,"modules":[{"name":"语言基础","chapters":[{"n":1,"slug":"1","title":"必看导言","group":"语言基础","progress_key":"1"},{"n":2,"slug":"2","title":"python环境安装","group":"语言基础","progress_key":"2"},{"n":3,"slug":"3","title":"python基本语法","group":"语言基础","progress_key":"3"},{"n":4,"slug":"4","title":"容器类型","group":"语言基础","progress_key":"4"},{"n":5,"slug":"5","title":"函数","group":"语言基础","progress_key":"5"},{"n":6,"slug":"6","title":"作用域","group":"语言基础","progress_key":"6"},{"n":7,"slug":"7","title":"lambda表达式","group":"语言基础","progress_key":"7"}]},{"name":"面向对象","chapters":[{"n":8,"slug":"8","title":"类和对象","group":"面向对象","progress_key":"8"},{"n":9,"slug":"9","title":"对象的类型","group":"面向对象","progress_key":"9"},{"n":10,"slug":"10","title":"对象的创建过程","group":"面向对象","progress_key":"10"},{"n":11,"slug":"11","title":"可调用对象","group":"面向对象","progress_key":"11"},{"n":12,"slug":"12","title":"元类","group":"面向对象","progress_key":"12"},{"n":13,"slug":"13","title":"装饰器","group":"面向对象","progress_key":"13"},{"n":14,"slug":"14","title":"魔术方法","group":"面向对象","progress_key":"14"},{"n":15,"slug":"15","title":"描述符","group":"面向对象","progress_key":"15"}]},{"name":"语言进阶","chapters":[{"n":16,"slug":"16","title":"异常处理","group":"语言进阶","progress_key":"16"},{"n":17,"slug":"17","title":"迭代器与生成器","group":"语言进阶","progress_key":"17"},{"n":18,"slug":"18","title":"上下文管理器","group":"语言进阶","progress_key":"18"},{"n":19,"slug":"19","title":"ABC","group":"语言进阶","progress_key":"19"},{"n":20,"slug":"20","title":"类型标注","group":"语言进阶","progress_key":"20"},{"n":21,"slug":"21","title":"模块化","group":"语言进阶","progress_key":"21"},{"n":22,"slug":"22","title":"标准库","group":"语言进阶","progress_key":"22"},{"n":23,"slug":"23","title":"第三方库","group":"语言进阶","progress_key":"23"}]},{"name":"异步与并发","chapters":[{"n":24,"slug":"24","title":"事件循环","group":"异步与并发","progress_key":"24"},{"n":25,"slug":"25","title":"Future类","group":"异步与并发","progress_key":"25"},{"n":26,"slug":"26","title":"协程 Coroutine","group":"异步与并发","progress_key":"26"},{"n":27,"slug":"27","title":"异步编程","group":"异步与并发","progress_key":"27"},{"n":28,"slug":"28","title":"多线程与多进程","group":"异步与并发","progress_key":"28"}]},{"name":"工程化实践","chapters":[{"n":29,"slug":"29","title":"构建发布","group":"工程化实践","progress_key":"29"},{"n":30,"slug":"30","title":"项目管理工具","group":"工程化实践","progress_key":"30"},{"n":31,"slug":"31","title":"monorepo","group":"工程化实践","progress_key":"31"},{"n":32,"slug":"32","title":"断点调试","group":"工程化实践","progress_key":"32"}]},{"name":"项目案例","chapters":[{"n":null,"slug":"proj-async-agents","title":"多智能体协同调研系统","group":"项目案例","progress_key":""},{"n":null,"slug":"proj-duyi-utils","title":"duyi-utils 构建发布示例","group":"项目案例","progress_key":""}]}]},{"key":"fw","title":"Python框架","glyph":"架","cls":"b-fw","coming_soon":false,"modules":[{"name":"课程内容","chapters":[{"n":1,"slug":"1","title":"Web服务框架","group":"课程内容","progress_key":"fw-1"},{"n":2,"slug":"2","title":"优化包结构","group":"课程内容","progress_key":"fw-2"},{"n":3,"slug":"3","title":"初识SQLAlchemy","group":"课程内容","progress_key":"fw-3"},{"n":4,"slug":"4","title":"ORM","group":"课程内容","progress_key":"fw-4"},{"n":5,"slug":"5","title":"数据操作","group":"课程内容","progress_key":"fw-5"},{"n":6,"slug":"6","title":"数据迁移","group":"课程内容","progress_key":"fw-6"},{"n":7,"slug":"7","title":"业务逻辑","group":"课程内容","progress_key":"fw-7"},{"n":8,"slug":"8","title":"依赖注入","group":"课程内容","progress_key":"fw-8"},{"n":9,"slug":"9","title":"统一异常处理","group":"课程内容","progress_key":"fw-9"},{"n":10,"slug":"10","title":"中间件","group":"课程内容","progress_key":"fw-10"},{"n":11,"slug":"11","title":"测试框架","group":"课程内容","progress_key":"fw-11"},{"n":12,"slug":"12","title":"测试方案","group":"课程内容","progress_key":"fw-12"},{"n":13,"slug":"13","title":"三层架构","group":"课程内容","progress_key":"fw-13"},{"n":14,"slug":"14","title":"文件上传","group":"课程内容","progress_key":"fw-14"},{"n":15,"slug":"15","title":"系统设置","group":"课程内容","progress_key":"fw-15"},{"n":17,"slug":"17","title":"用户系统","group":"课程内容","progress_key":"fw-17"},{"n":18,"slug":"18","title":"日志","group":"课程内容","progress_key":"fw-18"},{"n":20,"slug":"20","title":"流式响应","group":"课程内容","progress_key":"fw-20"},{"n":26,"slug":"26","title":"python收官检验","group":"课程内容","progress_key":"fw-26"}]},{"name":"部署","chapters":[{"n":21,"slug":"21","title":"部署-认识Docker","group":"部署","progress_key":"fw-21"},{"n":22,"slug":"22","title":"部署-云资产","group":"部署","progress_key":"fw-22"},{"n":23,"slug":"23","title":"部署-k8s","group":"部署","progress_key":"fw-23"},{"n":24,"slug":"24","title":"部署-CICD","group":"部署","progress_key":"fw-24"},{"n":25,"slug":"25","title":"部署-总结","group":"部署","progress_key":"fw-25"}]}]},{"key":"db","title":"数据库","glyph":"库","cls":"b-db","coming_soon":false,"modules":[{"name":"课程内容","chapters":[{"n":1,"slug":"1","title":"PostgreSQL安装","group":"课程内容","progress_key":"db-1","sections":[{"name":"安装 Docker","anchor":"安装-Docker"},{"name":"安装 PostgreSQL","anchor":"安装-PostgreSQL"},{"name":"安装管理工具 pgAdmin","anchor":"安装管理工具-pgAdmin"},{"name":"作业","anchor":"作业"}]},{"n":2,"slug":"2","title":"DDL","group":"课程内容","progress_key":"db-2","sections":[{"name":"数据库核心概念","anchor":"数据库核心概念"},{"name":"什么是SQL","anchor":"什么是SQL"},{"name":"SQL的细分","anchor":"SQL的细分"},{"name":"DDL语言","anchor":"DDL语言"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":3,"slug":"3","title":"表间关系","group":"课程内容","progress_key":"db-3","sections":[{"name":"为什么需要表间关系？","anchor":"为什么需要表间关系"},{"name":"三种常见关系","anchor":"三种常见关系"},{"name":"外键（Foreign Key）详解","anchor":"外键Foreign-Key详解"},{"name":"ERD","anchor":"ERD"},{"name":"练习题","anchor":"练习题"}]},{"n":4,"slug":"4","title":"DML","group":"课程内容","progress_key":"db-4","sections":[{"name":"INSERT — 增（插入）","anchor":"INSERT-增插入"},{"name":"DELETE — 删（删除）","anchor":"DELETE-删删除"},{"name":"UPDATE — 改（更新）","anchor":"UPDATE-改更新"},{"name":"SELECT — 查（查询）","anchor":"SELECT-查查询"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":5,"slug":"5","title":"事务","group":"课程内容","progress_key":"db-5","sections":[{"name":"经典案例 - 银行转账","anchor":"经典案例---银行转账"},{"name":"事务的概念","anchor":"事务的概念"},{"name":"ACID 特性","anchor":"ACID-特性"},{"name":"并行问题","anchor":"并行问题"},{"name":"事务隔离级别","anchor":"事务隔离级别"},{"name":"作业","anchor":"作业"}]},{"n":6,"slug":"6","title":"索引","group":"课程内容","progress_key":"db-6","sections":[]},{"n":7,"slug":"7","title":"拓展知识","group":"课程内容","progress_key":"db-7","sections":[{"name":"Postgres的其他能力","anchor":"Postgres的其他能力"},{"name":"数据库的额外知识","anchor":"数据库的额外知识"}]}]}]},{"key":"dst","title":"数据科学工具包","glyph":"数","cls":"b-ds","coming_soon":false,"modules":[{"name":"课程内容","chapters":[{"n":1,"slug":"1","title":"课程导言","group":"课程内容","progress_key":"dst-1"},{"n":2,"slug":"2","title":"Jupyter","group":"课程内容","progress_key":"dst-2"},{"n":10,"slug":"10","title":"Seaborn","group":"课程内容","progress_key":"dst-10"}]},{"name":"Numpy","chapters":[{"n":3,"slug":"3","title":"Numpy - 核心概念","group":"Numpy","progress_key":"dst-3"},{"n":4,"slug":"4","title":"Numpy - 数据操作","group":"Numpy","progress_key":"dst-4"}]},{"name":"Pandas","chapters":[{"n":5,"slug":"5","title":"Pandas - 数据类型","group":"Pandas","progress_key":"dst-5"},{"n":6,"slug":"6","title":"Pandas - 数据清洗","group":"Pandas","progress_key":"dst-6"}]},{"name":"Matplotlib","chapters":[{"n":7,"slug":"7","title":"Matplotlib - 核心概念","group":"Matplotlib","progress_key":"dst-7"},{"n":8,"slug":"8","title":"Matplotlib - 动画","group":"Matplotlib","progress_key":"dst-8"},{"n":9,"slug":"9","title":"Matplotlib - 交互式组件","group":"Matplotlib","progress_key":"dst-9"}]}]},{"key":"java","title":"Java","glyph":"J","cls":"b-java","coming_soon":true,"modules":[]},{"key":"cloud","title":"云计算","glyph":"云","cls":"b-cloud","coming_soon":true,"modules":[]}],"currentKey":"db","currentSlug":"2"}],"$L12","$L13"]}]]
+14:I[756,["619","static/chunks/619-ba102abea3e3d0e4.js","526","static/chunks/app/course/%5Bkey%5D/%5Bch%5D/page-166c66fba529f17a.js"],"default"]
+15:I[1599,["619","static/chunks/619-ba102abea3e3d0e4.js","526","static/chunks/app/course/%5Bkey%5D/%5Bch%5D/page-166c66fba529f17a.js"],"default"]
+18:I[5340,["619","static/chunks/619-ba102abea3e3d0e4.js","526","static/chunks/app/course/%5Bkey%5D/%5Bch%5D/page-166c66fba529f17a.js"],"default"]
+16:T4ee9,<h1 id="DDL">DDL</h1>
+<h2 id="数据库核心概念">数据库核心概念</h2>
+<p><img loading="lazy" alt="image-20260608133054687" src="https://resource.duyiedu.com/yuanjin/202606081330833.png" /></p>
+<h2 id="什么是SQL">什么是SQL</h2>
+<p>SQL（Structured Query Language，结构化查询语言）是操作关系型数据库的标准语言。无论使用 PostgreSQL、MySQL 还是 Oracle，SQL 的语法都高度通用。</p>
+<p>SQL 主要做两件事：</p>
+<ol>
+<li><strong>告诉数据库做什么</strong>（而非怎么做）—— SQL 是声明式语言</li>
+<li><strong>操作数据</strong>—— 增、删、改、查</li>
+</ol>
+<hr />
+<h2 id="SQL的细分">SQL的细分</h2>
+<table>
+<thead>
+<tr>
+<th>分类</th>
+<th>全称</th>
+<th>作用</th>
+<th>常见关键字</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>DDL</strong></td>
+<td>Data Definition Language</td>
+<td><strong>数据定义</strong>，操作数据库和表结构</td>
+<td><code>CREATE</code>、<code>ALTER</code>、<code>DROP</code>、<code>TRUNCATE</code></td>
+</tr>
+<tr>
+<td><strong>DML</strong></td>
+<td>Data Manipulation Language</td>
+<td><strong>数据操作</strong>，对表数据进行增删改查</td>
+<td><code>INSERT</code>、<code>SELECT</code>、<code>UPDATE</code>、<code>DELETE</code></td>
+</tr>
+<tr>
+<td><strong>DCL</strong></td>
+<td>Data Control Language</td>
+<td><strong>数据控制</strong>，管理用户和权限</td>
+<td><code>GRANT</code>、<code>REVOKE</code></td>
+</tr>
+<tr>
+<td><strong>TCL</strong></td>
+<td>Transaction Control Language</td>
+<td><strong>事务控制</strong>，管理事务</td>
+<td><code>BEGIN</code>、<code>COMMIT</code>、<code>ROLLBACK</code>、<code>SAVEPOINT</code></td>
+</tr>
+</tbody>
+</table>
+<blockquote>
+<p>要操作数据，先得有存放数据的结构。所以学习顺序是 <strong>DDL → DML</strong>，先建表，再操作数据。</p>
+</blockquote>
+<hr />
+<h2 id="DDL语言">DDL语言</h2>
+<p>DDL 操作的是<strong>结构</strong>而非数据，包括：数据库的创建删除、表的创建修改删除等。</p>
+<h3 id="数据库操作">数据库操作</h3>
+<div class="codehilite lang-sql"><pre><span></span><code><span class="c1">-- 创建数据库</span>
+<span class="k">CREATE</span><span class="w"> </span><span class="k">DATABASE</span><span class="w"> </span><span class="n">demo</span><span class="p">;</span>
+
+<span class="c1">-- 删除数据库</span>
+<span class="k">DROP</span><span class="w"> </span><span class="k">DATABASE</span><span class="w"> </span><span class="n">demo</span><span class="p">;</span>
+</code></pre></div>
+
+<hr />
+<h3 id="CREATE-创建表">CREATE — 创建表</h3>
+<p><strong>基本语法：</strong></p>
+<div class="codehilite lang-sql"><pre><span></span><code><span class="k">CREATE</span><span class="w"> </span><span class="k">TABLE</span><span class="w"> </span><span class="err">表名</span><span class="w"> </span><span class="p">(</span>
+<span class="w">    </span><span class="err">列名</span><span class="w"> </span><span class="err">数据类型</span><span class="w"> </span><span class="p">[</span><span class="err">约束</span><span class="p">],</span>
+<span class="w">    </span><span class="err">列名</span><span class="w"> </span><span class="err">数据类型</span><span class="w"> </span><span class="p">[</span><span class="err">约束</span><span class="p">],</span>
+<span class="w">    </span><span class="p">...</span>
+<span class="p">);</span>
+</code></pre></div>
+
+<p><strong>示例：</strong></p>
+<div class="codehilite lang-sql"><pre><span></span><code><span class="k">CREATE</span><span class="w"> </span><span class="k">TABLE</span><span class="w"> </span><span class="n">students</span><span class="w"> </span><span class="p">(</span>
+<span class="w">    </span><span class="n">id</span><span class="w"> </span><span class="nb">SERIAL</span><span class="w"> </span><span class="k">PRIMARY</span><span class="w"> </span><span class="k">KEY</span><span class="p">,</span>
+<span class="w">    </span><span class="n">name</span><span class="w"> </span><span class="nb">VARCHAR</span><span class="p">(</span><span class="mi">50</span><span class="p">)</span><span class="w"> </span><span class="k">NOT</span><span class="w"> </span><span class="k">NULL</span><span class="p">,</span>
+<span class="w">    </span><span class="n">age</span><span class="w"> </span><span class="nb">INTEGER</span><span class="w"> </span><span class="k">CHECK</span><span class="w"> </span><span class="p">(</span><span class="n">age</span><span class="w"> </span><span class="o">&gt;</span><span class="w"> </span><span class="mi">0</span><span class="p">),</span>
+<span class="w">    </span><span class="n">score</span><span class="w"> </span><span class="nb">NUMERIC</span><span class="p">(</span><span class="mi">5</span><span class="p">,</span><span class="mi">2</span><span class="p">)</span><span class="w"> </span><span class="k">DEFAULT</span><span class="w"> </span><span class="mi">0</span><span class="p">.</span><span class="mi">00</span><span class="p">,</span>
+<span class="w">    </span><span class="n">email</span><span class="w"> </span><span class="nb">VARCHAR</span><span class="p">(</span><span class="mi">100</span><span class="p">)</span><span class="w"> </span><span class="k">UNIQUE</span><span class="p">,</span>
+<span class="w">    </span><span class="n">created_at</span><span class="w"> </span><span class="k">TIMESTAMP</span><span class="w"> </span><span class="k">DEFAULT</span><span class="w"> </span><span class="k">CURRENT_TIMESTAMP</span>
+<span class="p">);</span>
+</code></pre></div>
+
+<hr />
+<h4 id="常见数据类型">常见数据类型</h4>
+<table>
+<thead>
+<tr>
+<th>类型</th>
+<th>说明</th>
+<th>示例</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>INTEGER</code> / <code>INT</code></td>
+<td>整数（4字节）</td>
+<td><code>age INT</code></td>
+</tr>
+<tr>
+<td><code>BIGINT</code></td>
+<td>大整数（8字节）</td>
+<td><code>views BIGINT</code></td>
+</tr>
+<tr>
+<td><code>SMALLINT</code></td>
+<td>小整数（2字节）</td>
+<td><code>quantity SMALLINT</code></td>
+</tr>
+<tr>
+<td><code>SERIAL</code></td>
+<td>自增整数（相当于 <code>INTEGER</code> + 自动序列）</td>
+<td><code>id SERIAL</code></td>
+</tr>
+<tr>
+<td><code>BIGSERIAL</code></td>
+<td>自增大整数</td>
+<td><code>id BIGSERIAL</code></td>
+</tr>
+<tr>
+<td><code>NUMERIC(m, n)</code></td>
+<td>定点数，m总位数，n小数位，<strong>精确存储</strong></td>
+<td><code>price NUMERIC(10,2)</code></td>
+</tr>
+<tr>
+<td><code>REAL</code></td>
+<td>浮点数（4字节），不精确</td>
+<td><code>rate REAL</code></td>
+</tr>
+<tr>
+<td><code>DOUBLE PRECISION</code></td>
+<td>双精度浮点数（8字节）</td>
+<td><code>score DOUBLE PRECISION</code></td>
+</tr>
+<tr>
+<td><code>VARCHAR(n)</code></td>
+<td>变长字符串，最大n字符</td>
+<td><code>name VARCHAR(50)</code></td>
+</tr>
+<tr>
+<td><code>CHAR(n)</code></td>
+<td>定长字符串，不足补空格</td>
+<td><code>code CHAR(3)</code></td>
+</tr>
+<tr>
+<td><code>TEXT</code></td>
+<td>不限长度字符串</td>
+<td><code>description TEXT</code></td>
+</tr>
+<tr>
+<td><code>BOOLEAN</code></td>
+<td>布尔值，true/false</td>
+<td><code>is_active BOOLEAN</code></td>
+</tr>
+<tr>
+<td><code>DATE</code></td>
+<td>日期（年月日）</td>
+<td><code>birth DATE</code></td>
+</tr>
+<tr>
+<td><code>TIMESTAMP</code></td>
+<td>日期+时间，不带时区</td>
+<td><code>created_at TIMESTAMP</code></td>
+</tr>
+<tr>
+<td><code>TIMESTAMPTZ</code></td>
+<td>日期+时间，<strong>带时区</strong></td>
+<td><code>updated_at TIMESTAMPTZ</code></td>
+</tr>
+<tr>
+<td><code>TIME</code></td>
+<td>时间（时分秒）</td>
+<td><code>start_time TIME</code></td>
+</tr>
+<tr>
+<td><code>JSON</code></td>
+<td>JSON 数据（文本存储）</td>
+<td><code>meta JSON</code></td>
+</tr>
+<tr>
+<td><code>JSONB</code></td>
+<td><strong>二进制</strong> JSON，支持索引和高效查询</td>
+<td><code>data JSONB</code></td>
+</tr>
+<tr>
+<td><code>UUID</code></td>
+<td>通用唯一标识符</td>
+<td><code>id UUID DEFAULT gen_random_uuid()</code></td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h4 id="常见约束">常见约束</h4>
+<table>
+<thead>
+<tr>
+<th>约束</th>
+<th>作用</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>PRIMARY KEY</code></td>
+<td>主键，唯一标识一行，自带 NOT NULL + UNIQUE</td>
+</tr>
+<tr>
+<td><code>NOT NULL</code></td>
+<td>不允许为空</td>
+</tr>
+<tr>
+<td><code>UNIQUE</code></td>
+<td>值必须唯一</td>
+</tr>
+<tr>
+<td><code>DEFAULT 值</code></td>
+<td>不传值时使用的默认值</td>
+</tr>
+<tr>
+<td><code>CHECK (条件)</code></td>
+<td>检查约束，值必须满足条件</td>
+</tr>
+</tbody>
+</table>
+<h4 id="主键">主键</h4>
+<p>主键（Primary Key）是表中<strong>唯一标识每一行数据</strong>的列或列组合。它具有两个核心特性：</p>
+<ol>
+<li><strong>唯一性</strong>：主键的值在表中不能重复</li>
+<li><strong>非空</strong>：主键的值不能为 NULL</li>
+</ol>
+<div class="codehilite lang-sql"><pre><span></span><code><span class="c1">-- 单列主键</span>
+<span class="k">CREATE</span><span class="w"> </span><span class="k">TABLE</span><span class="w"> </span><span class="n">students</span><span class="w"> </span><span class="p">(</span>
+<span class="w">    </span><span class="n">id</span><span class="w"> </span><span class="nb">SERIAL</span><span class="w"> </span><span class="k">PRIMARY</span><span class="w"> </span><span class="k">KEY</span><span class="p">,</span>
+<span class="w">    </span><span class="p">...</span>
+<span class="p">);</span>
+
+<span class="c1">-- 复合主键（多列联合唯一标识一行）</span>
+<span class="k">CREATE</span><span class="w"> </span><span class="k">TABLE</span><span class="w"> </span><span class="n">enrollments</span><span class="w"> </span><span class="p">(</span>
+<span class="w">    </span><span class="n">student_id</span><span class="w"> </span><span class="nb">INT</span><span class="p">,</span>
+<span class="w">    </span><span class="n">course_id</span><span class="w"> </span><span class="nb">INT</span><span class="p">,</span>
+<span class="w">    </span><span class="n">enrolled_at</span><span class="w"> </span><span class="k">TIMESTAMP</span><span class="p">,</span>
+<span class="w">    </span><span class="k">PRIMARY</span><span class="w"> </span><span class="k">KEY</span><span class="w"> </span><span class="p">(</span><span class="n">student_id</span><span class="p">,</span><span class="w"> </span><span class="n">course_id</span><span class="p">)</span>
+<span class="p">);</span>
+</code></pre></div>
+
+<hr />
+<h3 id="ALTER-修改表结构">ALTER — 修改表结构</h3>
+<div class="codehilite lang-sql"><pre><span></span><code><span class="c1">-- 添加列</span>
+<span class="k">ALTER</span><span class="w"> </span><span class="k">TABLE</span><span class="w"> </span><span class="n">students</span><span class="w"> </span><span class="k">ADD</span><span class="w"> </span><span class="k">COLUMN</span><span class="w"> </span><span class="n">phone</span><span class="w"> </span><span class="nb">VARCHAR</span><span class="p">(</span><span class="mi">20</span><span class="p">);</span>
+
+<span class="c1">-- 删除列</span>
+<span class="k">ALTER</span><span class="w"> </span><span class="k">TABLE</span><span class="w"> </span><span class="n">students</span><span class="w"> </span><span class="k">DROP</span><span class="w"> </span><span class="k">COLUMN</span><span class="w"> </span><span class="n">phone</span><span class="p">;</span>
+
+<span class="c1">-- 修改列的数据类型（现有数据可隐式转换时直接用）</span>
+<span class="k">ALTER</span><span class="w"> </span><span class="k">TABLE</span><span class="w"> </span><span class="n">students</span><span class="w"> </span><span class="k">ALTER</span><span class="w"> </span><span class="k">COLUMN</span><span class="w"> </span><span class="n">score</span><span class="w"> </span><span class="k">TYPE</span><span class="w"> </span><span class="nb">NUMERIC</span><span class="p">(</span><span class="mi">6</span><span class="p">,</span><span class="mi">2</span><span class="p">);</span>
+
+<span class="c1">-- 无法隐式转换时，用 USING 指定转换规则</span>
+<span class="k">ALTER</span><span class="w"> </span><span class="k">TABLE</span><span class="w"> </span><span class="n">students</span><span class="w"> </span><span class="k">ALTER</span><span class="w"> </span><span class="k">COLUMN</span><span class="w"> </span><span class="n">score</span><span class="w"> </span><span class="k">TYPE</span><span class="w"> </span><span class="nb">INTEGER</span><span class="w"> </span><span class="k">USING</span><span class="w"> </span><span class="n">score</span><span class="p">::</span><span class="nb">INTEGER</span><span class="p">;</span>
+
+<span class="c1">-- 设置默认值</span>
+<span class="k">ALTER</span><span class="w"> </span><span class="k">TABLE</span><span class="w"> </span><span class="n">students</span><span class="w"> </span><span class="k">ALTER</span><span class="w"> </span><span class="k">COLUMN</span><span class="w"> </span><span class="n">score</span><span class="w"> </span><span class="k">SET</span><span class="w"> </span><span class="k">DEFAULT</span><span class="w"> </span><span class="mi">0</span><span class="p">.</span><span class="mi">00</span><span class="p">;</span>
+
+<span class="c1">-- 移除默认值</span>
+<span class="k">ALTER</span><span class="w"> </span><span class="k">TABLE</span><span class="w"> </span><span class="n">students</span><span class="w"> </span><span class="k">ALTER</span><span class="w"> </span><span class="k">COLUMN</span><span class="w"> </span><span class="n">score</span><span class="w"> </span><span class="k">DROP</span><span class="w"> </span><span class="k">DEFAULT</span><span class="p">;</span>
+
+<span class="c1">-- 添加 NOT NULL 约束</span>
+<span class="k">ALTER</span><span class="w"> </span><span class="k">TABLE</span><span class="w"> </span><span class="n">students</span><span class="w"> </span><span class="k">ALTER</span><span class="w"> </span><span class="k">COLUMN</span><span class="w"> </span><span class="n">email</span><span class="w"> </span><span class="k">SET</span><span class="w"> </span><span class="k">NOT</span><span class="w"> </span><span class="k">NULL</span><span class="p">;</span>
+
+<span class="c1">-- 添加 CHECK 约束</span>
+<span class="k">ALTER</span><span class="w"> </span><span class="k">TABLE</span><span class="w"> </span><span class="n">students</span><span class="w"> </span><span class="k">ADD</span><span class="w"> </span><span class="k">CONSTRAINT</span><span class="w"> </span><span class="n">score_check</span><span class="w"> </span><span class="k">CHECK</span><span class="w"> </span><span class="p">(</span><span class="n">score</span><span class="w"> </span><span class="o">&gt;=</span><span class="w"> </span><span class="mi">0</span><span class="w"> </span><span class="k">AND</span><span class="w"> </span><span class="n">score</span><span class="w"> </span><span class="o">&lt;=</span><span class="w"> </span><span class="mi">100</span><span class="p">);</span>
+
+<span class="c1">-- 重命名列</span>
+<span class="k">ALTER</span><span class="w"> </span><span class="k">TABLE</span><span class="w"> </span><span class="n">students</span><span class="w"> </span><span class="k">RENAME</span><span class="w"> </span><span class="k">COLUMN</span><span class="w"> </span><span class="n">score</span><span class="w"> </span><span class="k">TO</span><span class="w"> </span><span class="n">total_score</span><span class="p">;</span>
+
+<span class="c1">-- 重命名表</span>
+<span class="k">ALTER</span><span class="w"> </span><span class="k">TABLE</span><span class="w"> </span><span class="n">students</span><span class="w"> </span><span class="k">RENAME</span><span class="w"> </span><span class="k">TO</span><span class="w"> </span><span class="n">pupils</span><span class="p">;</span>
+</code></pre></div>
+
+<blockquote>
+<p><strong>思考：</strong> 修改列的数据类型时，如果已有数据，数据库会尝试做隐式转换。转换失败会报错。</p>
+</blockquote>
+<hr />
+<h3 id="DROP-删除表">DROP — 删除表</h3>
+<div class="codehilite lang-sql"><pre><span></span><code><span class="c1">-- 删除表（连带数据一起删除）</span>
+<span class="k">DROP</span><span class="w"> </span><span class="k">TABLE</span><span class="w"> </span><span class="n">students</span><span class="p">;</span>
+
+<span class="c1">-- 如果表存在才删除，避免报错</span>
+<span class="k">DROP</span><span class="w"> </span><span class="k">TABLE</span><span class="w"> </span><span class="k">IF</span><span class="w"> </span><span class="k">EXISTS</span><span class="w"> </span><span class="n">students</span><span class="p">;</span>
+
+<span class="c1">-- 级联删除（连依赖该表的对象一并删除）</span>
+<span class="k">DROP</span><span class="w"> </span><span class="k">TABLE</span><span class="w"> </span><span class="n">students</span><span class="w"> </span><span class="k">CASCADE</span><span class="p">;</span>
+</code></pre></div>
+
+<hr />
+<h3 id="TRUNCATE-清空表">TRUNCATE — 清空表</h3>
+<div class="codehilite lang-sql"><pre><span></span><code><span class="c1">-- 清空表数据，但保留表结构</span>
+<span class="k">TRUNCATE</span><span class="w"> </span><span class="k">TABLE</span><span class="w"> </span><span class="n">students</span><span class="p">;</span>
+
+<span class="c1">-- 清空所有关联表的数据</span>
+<span class="k">TRUNCATE</span><span class="w"> </span><span class="k">TABLE</span><span class="w"> </span><span class="n">students</span><span class="p">,</span><span class="w"> </span><span class="n">orders</span><span class="p">;</span>
+</code></pre></div>
+
+<blockquote>
+<p><strong>DELETE vs TRUNCATE vs DROP：</strong></p>
+</blockquote>
+<table>
+<thead>
+<tr>
+<th>操作</th>
+<th>类型</th>
+<th>是否可回滚</th>
+<th>速度</th>
+<th>是否保留结构</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>DELETE FROM</code></td>
+<td>DML</td>
+<td>是</td>
+<td>慢（逐行删除，可带 WHERE）</td>
+<td>保留</td>
+</tr>
+<tr>
+<td><code>TRUNCATE</code></td>
+<td>DDL</td>
+<td>是（PostgreSQL 中支持事务回滚）</td>
+<td>快（直接重置存储）</td>
+<td>保留</td>
+</tr>
+<tr>
+<td><code>DROP</code></td>
+<td>DDL</td>
+<td>否</td>
+<td>最快</td>
+<td>不保留</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h2 id="小结">小结</h2>
+<table>
+<thead>
+<tr>
+<th>操作</th>
+<th>关键字</th>
+<th>说明</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>创建数据库</td>
+<td><code>CREATE DATABASE</code></td>
+<td>新建一个数据库</td>
+</tr>
+<tr>
+<td>删除数据库</td>
+<td><code>DROP DATABASE</code></td>
+<td>删除整个数据库，数据全丢</td>
+</tr>
+<tr>
+<td>创建表</td>
+<td><code>CREATE TABLE</code></td>
+<td>定义表结构、列和约束</td>
+</tr>
+<tr>
+<td>修改表</td>
+<td><code>ALTER TABLE</code></td>
+<td>增删列、改类型、改约束</td>
+</tr>
+<tr>
+<td>删除表</td>
+<td><code>DROP TABLE</code></td>
+<td>删除表和数据</td>
+</tr>
+<tr>
+<td>清空表</td>
+<td><code>TRUNCATE TABLE</code></td>
+<td>清空数据，保留表结构</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h2 id="作业">作业</h2>
+<p>让AI帮你生成SQL语句，完成下面的功能</p>
+<blockquote>
+<p>建议提示词：</p>
+<p>接下来我需要做一些数据库的操作，数据库的类型是PostgreSQL，版本是16。请你根据我的要求生成相应的SQL语句，我会将你的语句复制下来，到数据库中去执行。如果你准备好了，就请回复准备好了。</p>
+</blockquote>
+<ol>
+<li>创建一个 <code>courses_db</code> 数据库</li>
+<li>创建 <code>students</code> 表，包含姓名、年龄、性别</li>
+<li>创建 <code>courses</code> 表，包含课程名称、课程描述、授课老师</li>
+<li>请进入docker容器pg16，导出<code>courses_db</code>数据库为<code>SQL</code>，只需要干干净净的建表语句即可，我会直接复制语句到<code>pgadmin</code>中执行</li>
+<li>【人工】请删除并重建干净的数据库，并使用导出的<code>SQL</code>恢复</li>
+</ol>12:["$","article",null,{"className":"doc","id":"content","children":[["$","div",null,{"className":"doc-head-row mb-2 flex items-center justify-between gap-4","children":[["$","p",null,{"className":"kicker","children":[["$","span",null,{"className":"kicker-num","children":"第 2 章"}],["$","span",null,{"className":"kicker-mod","children":"数据库"}]]}],["$","$L14",null,{"progressKey":"db-2"}]]}],["$","h1",null,{"className":"doc-h1","children":"DDL"}],["$","$L15",null,{"html":"$16"}],"$L17"]}]
+13:["$","$L18",null,{"sections":"$5:1:props:children:0:props:courses:2:modules:0:chapters:1:sections"}]
+19:I[2619,["619","static/chunks/619-ba102abea3e3d0e4.js","526","static/chunks/app/course/%5Bkey%5D/%5Bch%5D/page-166c66fba529f17a.js"],""]
+17:["$","nav",null,{"className":"pager","aria-label":"章节导航","children":[["$","$L19",null,{"className":"pager-link pager-prev","href":"/course/db/1/","children":[["$","span",null,{"className":"pager-dir","children":"上一章"}],["$","span",null,{"className":"pager-name","children":"PostgreSQL安装"}]]}],["$","$L19",null,{"className":"pager-link pager-next","href":"/course/db/3/","children":[["$","span",null,{"className":"pager-dir","children":"下一章"}],["$","span",null,{"className":"pager-name","children":"表间关系"}]]}]]}]
+b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+7:null
+9:{"metadata":[["$","title","0",{"children":"第 2 章  · 数据库 · AI大全栈"}],["$","meta","1",{"name":"description","content":"袁进主讲的系列课程手册：Python 语言核心精讲、数据科学工具包、数据库、Python 框架、Agents 底层逻辑、LangGraph、LangChain + DeepAgent。iOS 风格阅读体验，内置可运行的 Python 代码块。"}]],"error":null,"digest":"$undefined"}
+e:"$9:metadata"

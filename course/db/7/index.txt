@@ -1,0 +1,206 @@
+1:"$Sreact.fragment"
+2:I[9130,["619","static/chunks/619-ba102abea3e3d0e4.js","177","static/chunks/app/layout-f06582a541a082fb.js"],"default"]
+3:I[9766,[],""]
+4:I[8924,[],""]
+6:I[4431,[],"OutletBoundary"]
+8:I[5278,[],"AsyncMetadataOutlet"]
+a:I[4431,[],"ViewportBoundary"]
+c:I[4431,[],"MetadataBoundary"]
+d:"$Sreact.suspense"
+f:I[7150,[],""]
+:HL["/ai-course-site/_next/static/css/e17dd95ac0dd78dc.css","style"]
+0:{"P":null,"b":"eFCLH0M-aOlbibikUsuSf","p":"/ai-course-site","c":["","course","db","7",""],"i":false,"f":[[["",{"children":["course",{"children":[["key","db","d"],{"children":[["ch","7","d"],{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/ai-course-site/_next/static/css/e17dd95ac0dd78dc.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"zh-CN","suppressHydrationWarning":true,"children":[["$","head",null,{"children":["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var t=localStorage.getItem(\"theme\");var d=t?t===\"dark\":window.matchMedia(\"(prefers-color-scheme: dark)\").matches;if(d)document.documentElement.classList.add(\"dark\");}catch(e){}})();"}}]}],["$","body",null,{"children":[["$","$L2",null,{"families":[{"key":"agent","name":"AI · Agent 开发"},{"key":"dev","name":"编程与工程基础"}]}],["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","footer",null,{"className":"mx-auto max-w-[52rem] px-6 pb-10 text-center text-xs text-label3","children":"AI大全栈 · 课程手册 — 由课件自动生成，仅供学习使用"}]]}]]}]]}],{"children":["course",["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["key","db","d"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["ch","7","d"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L5",null,["$","$L6",null,{"children":["$L7",["$","$L8",null,{"promise":"$@9"}]]}]]}],{},null,false]},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$La",null,{"children":"$Lb"}],null],["$","$Lc",null,{"children":["$","div",null,{"hidden":true,"children":["$","$d",null,{"fallback":null,"children":"$Le"}]}]}]]}],false]],"m":"$undefined","G":["$f",[]],"s":false,"S":true}
+10:I[7010,["619","static/chunks/619-ba102abea3e3d0e4.js","526","static/chunks/app/course/%5Bkey%5D/%5Bch%5D/page-166c66fba529f17a.js"],"default"]
+11:I[6710,["619","static/chunks/619-ba102abea3e3d0e4.js","526","static/chunks/app/course/%5Bkey%5D/%5Bch%5D/page-166c66fba529f17a.js"],"default"]
+5:[["$","$L10",null,{"url":"/course/db/7/","title":"拓展知识","course":"数据库"}],["$","div",null,{"className":"doc-wrap","children":[["$","$L11",null,{"courses":[{"key":"py","title":"Python语言核心精讲","glyph":"Py","cls":"b1","coming_soon":false,"modules":[{"name":"语言基础","chapters":[{"n":1,"slug":"1","title":"必看导言","group":"语言基础","progress_key":"1"},{"n":2,"slug":"2","title":"python环境安装","group":"语言基础","progress_key":"2"},{"n":3,"slug":"3","title":"python基本语法","group":"语言基础","progress_key":"3"},{"n":4,"slug":"4","title":"容器类型","group":"语言基础","progress_key":"4"},{"n":5,"slug":"5","title":"函数","group":"语言基础","progress_key":"5"},{"n":6,"slug":"6","title":"作用域","group":"语言基础","progress_key":"6"},{"n":7,"slug":"7","title":"lambda表达式","group":"语言基础","progress_key":"7"}]},{"name":"面向对象","chapters":[{"n":8,"slug":"8","title":"类和对象","group":"面向对象","progress_key":"8"},{"n":9,"slug":"9","title":"对象的类型","group":"面向对象","progress_key":"9"},{"n":10,"slug":"10","title":"对象的创建过程","group":"面向对象","progress_key":"10"},{"n":11,"slug":"11","title":"可调用对象","group":"面向对象","progress_key":"11"},{"n":12,"slug":"12","title":"元类","group":"面向对象","progress_key":"12"},{"n":13,"slug":"13","title":"装饰器","group":"面向对象","progress_key":"13"},{"n":14,"slug":"14","title":"魔术方法","group":"面向对象","progress_key":"14"},{"n":15,"slug":"15","title":"描述符","group":"面向对象","progress_key":"15"}]},{"name":"语言进阶","chapters":[{"n":16,"slug":"16","title":"异常处理","group":"语言进阶","progress_key":"16"},{"n":17,"slug":"17","title":"迭代器与生成器","group":"语言进阶","progress_key":"17"},{"n":18,"slug":"18","title":"上下文管理器","group":"语言进阶","progress_key":"18"},{"n":19,"slug":"19","title":"ABC","group":"语言进阶","progress_key":"19"},{"n":20,"slug":"20","title":"类型标注","group":"语言进阶","progress_key":"20"},{"n":21,"slug":"21","title":"模块化","group":"语言进阶","progress_key":"21"},{"n":22,"slug":"22","title":"标准库","group":"语言进阶","progress_key":"22"},{"n":23,"slug":"23","title":"第三方库","group":"语言进阶","progress_key":"23"}]},{"name":"异步与并发","chapters":[{"n":24,"slug":"24","title":"事件循环","group":"异步与并发","progress_key":"24"},{"n":25,"slug":"25","title":"Future类","group":"异步与并发","progress_key":"25"},{"n":26,"slug":"26","title":"协程 Coroutine","group":"异步与并发","progress_key":"26"},{"n":27,"slug":"27","title":"异步编程","group":"异步与并发","progress_key":"27"},{"n":28,"slug":"28","title":"多线程与多进程","group":"异步与并发","progress_key":"28"}]},{"name":"工程化实践","chapters":[{"n":29,"slug":"29","title":"构建发布","group":"工程化实践","progress_key":"29"},{"n":30,"slug":"30","title":"项目管理工具","group":"工程化实践","progress_key":"30"},{"n":31,"slug":"31","title":"monorepo","group":"工程化实践","progress_key":"31"},{"n":32,"slug":"32","title":"断点调试","group":"工程化实践","progress_key":"32"}]},{"name":"项目案例","chapters":[{"n":null,"slug":"proj-async-agents","title":"多智能体协同调研系统","group":"项目案例","progress_key":""},{"n":null,"slug":"proj-duyi-utils","title":"duyi-utils 构建发布示例","group":"项目案例","progress_key":""}]}]},{"key":"fw","title":"Python框架","glyph":"架","cls":"b-fw","coming_soon":false,"modules":[{"name":"课程内容","chapters":[{"n":1,"slug":"1","title":"Web服务框架","group":"课程内容","progress_key":"fw-1"},{"n":2,"slug":"2","title":"优化包结构","group":"课程内容","progress_key":"fw-2"},{"n":3,"slug":"3","title":"初识SQLAlchemy","group":"课程内容","progress_key":"fw-3"},{"n":4,"slug":"4","title":"ORM","group":"课程内容","progress_key":"fw-4"},{"n":5,"slug":"5","title":"数据操作","group":"课程内容","progress_key":"fw-5"},{"n":6,"slug":"6","title":"数据迁移","group":"课程内容","progress_key":"fw-6"},{"n":7,"slug":"7","title":"业务逻辑","group":"课程内容","progress_key":"fw-7"},{"n":8,"slug":"8","title":"依赖注入","group":"课程内容","progress_key":"fw-8"},{"n":9,"slug":"9","title":"统一异常处理","group":"课程内容","progress_key":"fw-9"},{"n":10,"slug":"10","title":"中间件","group":"课程内容","progress_key":"fw-10"},{"n":11,"slug":"11","title":"测试框架","group":"课程内容","progress_key":"fw-11"},{"n":12,"slug":"12","title":"测试方案","group":"课程内容","progress_key":"fw-12"},{"n":13,"slug":"13","title":"三层架构","group":"课程内容","progress_key":"fw-13"},{"n":14,"slug":"14","title":"文件上传","group":"课程内容","progress_key":"fw-14"},{"n":15,"slug":"15","title":"系统设置","group":"课程内容","progress_key":"fw-15"},{"n":17,"slug":"17","title":"用户系统","group":"课程内容","progress_key":"fw-17"},{"n":18,"slug":"18","title":"日志","group":"课程内容","progress_key":"fw-18"},{"n":20,"slug":"20","title":"流式响应","group":"课程内容","progress_key":"fw-20"},{"n":26,"slug":"26","title":"python收官检验","group":"课程内容","progress_key":"fw-26"}]},{"name":"部署","chapters":[{"n":21,"slug":"21","title":"部署-认识Docker","group":"部署","progress_key":"fw-21"},{"n":22,"slug":"22","title":"部署-云资产","group":"部署","progress_key":"fw-22"},{"n":23,"slug":"23","title":"部署-k8s","group":"部署","progress_key":"fw-23"},{"n":24,"slug":"24","title":"部署-CICD","group":"部署","progress_key":"fw-24"},{"n":25,"slug":"25","title":"部署-总结","group":"部署","progress_key":"fw-25"}]}]},{"key":"db","title":"数据库","glyph":"库","cls":"b-db","coming_soon":false,"modules":[{"name":"课程内容","chapters":[{"n":1,"slug":"1","title":"PostgreSQL安装","group":"课程内容","progress_key":"db-1","sections":[{"name":"安装 Docker","anchor":"安装-Docker"},{"name":"安装 PostgreSQL","anchor":"安装-PostgreSQL"},{"name":"安装管理工具 pgAdmin","anchor":"安装管理工具-pgAdmin"},{"name":"作业","anchor":"作业"}]},{"n":2,"slug":"2","title":"DDL","group":"课程内容","progress_key":"db-2","sections":[{"name":"数据库核心概念","anchor":"数据库核心概念"},{"name":"什么是SQL","anchor":"什么是SQL"},{"name":"SQL的细分","anchor":"SQL的细分"},{"name":"DDL语言","anchor":"DDL语言"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":3,"slug":"3","title":"表间关系","group":"课程内容","progress_key":"db-3","sections":[{"name":"为什么需要表间关系？","anchor":"为什么需要表间关系"},{"name":"三种常见关系","anchor":"三种常见关系"},{"name":"外键（Foreign Key）详解","anchor":"外键Foreign-Key详解"},{"name":"ERD","anchor":"ERD"},{"name":"练习题","anchor":"练习题"}]},{"n":4,"slug":"4","title":"DML","group":"课程内容","progress_key":"db-4","sections":[{"name":"INSERT — 增（插入）","anchor":"INSERT-增插入"},{"name":"DELETE — 删（删除）","anchor":"DELETE-删删除"},{"name":"UPDATE — 改（更新）","anchor":"UPDATE-改更新"},{"name":"SELECT — 查（查询）","anchor":"SELECT-查查询"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":5,"slug":"5","title":"事务","group":"课程内容","progress_key":"db-5","sections":[{"name":"经典案例 - 银行转账","anchor":"经典案例---银行转账"},{"name":"事务的概念","anchor":"事务的概念"},{"name":"ACID 特性","anchor":"ACID-特性"},{"name":"并行问题","anchor":"并行问题"},{"name":"事务隔离级别","anchor":"事务隔离级别"},{"name":"作业","anchor":"作业"}]},{"n":6,"slug":"6","title":"索引","group":"课程内容","progress_key":"db-6","sections":[]},{"n":7,"slug":"7","title":"拓展知识","group":"课程内容","progress_key":"db-7","sections":[{"name":"Postgres的其他能力","anchor":"Postgres的其他能力"},{"name":"数据库的额外知识","anchor":"数据库的额外知识"}]}]}]},{"key":"dst","title":"数据科学工具包","glyph":"数","cls":"b-ds","coming_soon":false,"modules":[{"name":"课程内容","chapters":[{"n":1,"slug":"1","title":"课程导言","group":"课程内容","progress_key":"dst-1"},{"n":2,"slug":"2","title":"Jupyter","group":"课程内容","progress_key":"dst-2"},{"n":10,"slug":"10","title":"Seaborn","group":"课程内容","progress_key":"dst-10"}]},{"name":"Numpy","chapters":[{"n":3,"slug":"3","title":"Numpy - 核心概念","group":"Numpy","progress_key":"dst-3"},{"n":4,"slug":"4","title":"Numpy - 数据操作","group":"Numpy","progress_key":"dst-4"}]},{"name":"Pandas","chapters":[{"n":5,"slug":"5","title":"Pandas - 数据类型","group":"Pandas","progress_key":"dst-5"},{"n":6,"slug":"6","title":"Pandas - 数据清洗","group":"Pandas","progress_key":"dst-6"}]},{"name":"Matplotlib","chapters":[{"n":7,"slug":"7","title":"Matplotlib - 核心概念","group":"Matplotlib","progress_key":"dst-7"},{"n":8,"slug":"8","title":"Matplotlib - 动画","group":"Matplotlib","progress_key":"dst-8"},{"n":9,"slug":"9","title":"Matplotlib - 交互式组件","group":"Matplotlib","progress_key":"dst-9"}]}]},{"key":"java","title":"Java","glyph":"J","cls":"b-java","coming_soon":true,"modules":[]},{"key":"cloud","title":"云计算","glyph":"云","cls":"b-cloud","coming_soon":true,"modules":[]}],"currentKey":"db","currentSlug":"7"}],"$L12","$L13"]}]]
+14:I[756,["619","static/chunks/619-ba102abea3e3d0e4.js","526","static/chunks/app/course/%5Bkey%5D/%5Bch%5D/page-166c66fba529f17a.js"],"default"]
+15:I[1599,["619","static/chunks/619-ba102abea3e3d0e4.js","526","static/chunks/app/course/%5Bkey%5D/%5Bch%5D/page-166c66fba529f17a.js"],"default"]
+18:I[5340,["619","static/chunks/619-ba102abea3e3d0e4.js","526","static/chunks/app/course/%5Bkey%5D/%5Bch%5D/page-166c66fba529f17a.js"],"default"]
+16:T1ce8,<h1 id="拓展知识">拓展知识</h1>
+<h2 id="Postgres的其他能力">Postgres的其他能力</h2>
+<table>
+<thead>
+<tr>
+<th>名称</th>
+<th>它是做什么的</th>
+<th>什么场景下关注它</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>备份与恢复</strong></td>
+<td>把数据库的数据倒出来存一份（备份），出问题时能从这份存档把数据还原回去（恢复）</td>
+<td>上线后必须考虑备份策略</td>
+</tr>
+<tr>
+<td><strong>锁</strong></td>
+<td>当多个事务同时读写同一条数据时，锁用来决定谁先谁后，防止数据乱掉</td>
+<td>高并发写入、秒杀、库存扣减等场景，锁是性能瓶颈的根源</td>
+</tr>
+<tr>
+<td><strong>视图</strong></td>
+<td>把一条 SQL 查询存成一个「虚拟表」，以后可以直接查它，不用每次都写复杂 SQL</td>
+<td>报表、权限控制、给业务方暴露简化数据接口时</td>
+</tr>
+<tr>
+<td><strong>物化视图</strong></td>
+<td>和视图类似，但会把查询结果真的存成一张物理表，查起来更快，但数据不是实时最新的</td>
+<td>大报表、数据仓库、定时刷新的统计看板</td>
+</tr>
+<tr>
+<td><strong>存储过程</strong></td>
+<td>把多条 SQL 和逻辑写成一个「函数」，存在数据库里，应用端调一次就能跑完所有逻辑</td>
+<td>业务逻辑全在数据库里跑、批量数据处理、减少应用层网络开销时</td>
+</tr>
+<tr>
+<td><strong>触发器</strong></td>
+<td>在表上插/改/删数据时，自动执行一段预先写好的逻辑（比如记日志、同步数据）</td>
+<td>审计日志、数据同步、自动更新某些字段（如 updated_at）</td>
+</tr>
+<tr>
+<td><strong>CTE 表达式</strong></td>
+<td>写一个临时的命名子查询，让多层嵌套的 SQL 更容易阅读和维护</td>
+<td>复杂查询拆分、递归查询（树形结构/层级数据）</td>
+</tr>
+<tr>
+<td><strong>全文检索</strong></td>
+<td>让你在大量文本里按「相关性」快速搜索，支持中文分词、权重、高亮，比 <code>LIKE</code> 高效精准</td>
+<td>站内搜索、文章/商品搜索，任何需要输入框搜内容的场景</td>
+</tr>
+<tr>
+<td><strong>GIN / GiST 索引</strong></td>
+<td>特殊索引类型，用来加速全文检索、JSON、数组、空间地理数据等非标类型的查询</td>
+<td>全文检索、JSON 字段搜索、数组包含查询、地理位置查询</td>
+</tr>
+<tr>
+<td><strong>BRIN 索引</strong></td>
+<td>一种轻量级索引，按数据在磁盘上的物理块范围建索引，占用空间极小</td>
+<td>超大表 + 数据天然有序（如时间序列日志），查范围不查单条</td>
+</tr>
+<tr>
+<td><strong>表分区</strong></td>
+<td>把一张大表从逻辑上拆成多个小表（分区），查询时只扫相关分区，大幅提升性能和管理效率</td>
+<td>日志表、订单表等随时间增长的超大表，尤其是需要按时间淘汰旧数据</td>
+</tr>
+<tr>
+<td><strong>表继承</strong></td>
+<td>让一张表从另一张表继承字段，子表可以加自己的字段，查询父表时能查到所有子表数据</td>
+<td>数据归档、冷热分层（历史数据放子表）、ORM 的多态继承映射</td>
+</tr>
+<tr>
+<td><strong>插件机制</strong></td>
+<td>PostgreSQL 允许你装各种扩展包来增加功能，比如 <code>postgis</code>（地理信息）、<code>pgvector</code>（向量搜索）</td>
+<td>当标准功能不够用，需要 GIS、向量检索、定时任务、审计等能力时</td>
+</tr>
+<tr>
+<td><strong>权限系统</strong></td>
+<td>控制谁能查、谁能改、谁能建表，精确到字段级别</td>
+<td>多租户、数据安全合规、不同角色分权管理时</td>
+</tr>
+<tr>
+<td><strong>FDW（外部表）</strong></td>
+<td>在 PostgreSQL 里直接查询另一个数据库（MySQL、Oracle、甚至 CSV 文件）的数据，就像查本地表一样</td>
+<td>数据迁移、跨库数据整合、临时拉取外部数据做报表</td>
+</tr>
+<tr>
+<td><strong>JSON / JSONB</strong></td>
+<td>PostgreSQL 原生支持 JSON 数据类型和丰富的 JSON 操作函数，JSONB 是二进制格式，更快且支持索引</td>
+<td>存半结构化数据（日志、配置、爬虫结果）、灵活 schema、NoSQL 与关系型混合使用</td>
+</tr>
+<tr>
+<td><strong>VACUUM</strong></td>
+<td>清理旧版本数据、回收磁盘空间、更新统计信息，是保持 PostgreSQL 性能的「保洁工」</td>
+<td>频繁更新/删除的表性能下降、磁盘空间不释放、查询计划变差时</td>
+</tr>
+<tr>
+<td><strong>复制（流复制 / 逻辑复制）</strong></td>
+<td>把一台数据库的数据实时同步到另一台或多台，流复制用于高可用，逻辑复制可以按表按行选择性地同步</td>
+<td>读写分离、异地灾备、跨版本升级、大数据平台实时入仓</td>
+</tr>
+</tbody>
+</table>
+<h2 id="数据库的额外知识">数据库的额外知识</h2>
+<h3 id="数据库的分类">数据库的分类</h3>
+<table>
+<thead>
+<tr>
+<th>分类</th>
+<th>数据模型</th>
+<th>特点</th>
+<th>代表作</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>关系型数据库</strong></td>
+<td>表（行+列），SQL 操作</td>
+<td>严格 Schema、强 ACID、支持 JOIN</td>
+<td>PostgreSQL、MySQL、Oracle、SQL Server</td>
+</tr>
+<tr>
+<td><strong>文档型数据库</strong></td>
+<td>JSON/BSON 文档</td>
+<td>Schema-less、易扩展、适合半结构化数据</td>
+<td>MongoDB、CouchDB、Firebase Firestore</td>
+</tr>
+<tr>
+<td><strong>键值型数据库</strong></td>
+<td>Key-Value 对</td>
+<td>超高读写性能、无查询语言、操作简单</td>
+<td>Redis、DynamoDB、LevelDB、Riak</td>
+</tr>
+<tr>
+<td><strong>列族型数据库</strong></td>
+<td>列族，稀疏矩阵存储</td>
+<td>适合海量写入、列可扩展、压缩率高</td>
+<td>HBase、Cassandra、Bigtable</td>
+</tr>
+<tr>
+<td><strong>图数据库</strong></td>
+<td>节点+边，图结构</td>
+<td>擅长深度关联查询、最短路径/推荐</td>
+<td>Neo4j、ArangoDB、TigerGraph</td>
+</tr>
+</tbody>
+</table>
+<blockquote>
+<p>补充说明：键值型、列族型、图数据库统称为 <strong>NoSQL</strong>；文档型也常归入 NoSQL 阵营。关系型数据库则统称为 <strong>SQL</strong> 数据库。</p>
+</blockquote>
+<h3 id="数据库设计三范式">数据库设计三范式</h3>
+<table>
+<thead>
+<tr>
+<th>范式</th>
+<th>核心要求</th>
+<th>通俗理解</th>
+<th>反例</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>第一范式（1NF）</strong></td>
+<td>列不可再分，每列都是原子值</td>
+<td>一个格子只存一个值，不存数组或复合数据</td>
+<td>一行里存多个联系电话（<code>138xxx, 139xxx</code>）</td>
+</tr>
+<tr>
+<td><strong>第二范式（2NF）</strong></td>
+<td>满足1NF + 非主键列完全依赖于主键（消除部分依赖）</td>
+<td>复合主键时，每一列都要依赖整个主键，不能只依赖其中一部分</td>
+<td><code>订单明细表</code>主键是<code>(订单ID, 商品ID)</code>，但<code>商品名称</code>只依赖<code>商品ID</code></td>
+</tr>
+<tr>
+<td><strong>第三范式（3NF）</strong></td>
+<td>满足2NF + 非主键列之间不能有传递依赖</td>
+<td>非主键列不能依赖于另一个非主键列</td>
+<td><code>学生表</code>有<code>院系ID</code>和<code>院系名称</code>，后者依赖于前者，应拆分出院系表</td>
+</tr>
+</tbody>
+</table>12:["$","article",null,{"className":"doc","id":"content","children":[["$","div",null,{"className":"doc-head-row mb-2 flex items-center justify-between gap-4","children":[["$","p",null,{"className":"kicker","children":[["$","span",null,{"className":"kicker-num","children":"第 7 章"}],["$","span",null,{"className":"kicker-mod","children":"数据库"}]]}],["$","$L14",null,{"progressKey":"db-7"}]]}],["$","h1",null,{"className":"doc-h1","children":"拓展知识"}],["$","$L15",null,{"html":"$16"}],"$L17"]}]
+13:["$","$L18",null,{"sections":"$5:1:props:children:0:props:courses:2:modules:0:chapters:6:sections"}]
+19:I[2619,["619","static/chunks/619-ba102abea3e3d0e4.js","526","static/chunks/app/course/%5Bkey%5D/%5Bch%5D/page-166c66fba529f17a.js"],""]
+17:["$","nav",null,{"className":"pager","aria-label":"章节导航","children":[["$","$L19",null,{"className":"pager-link pager-prev","href":"/course/db/6/","children":[["$","span",null,{"className":"pager-dir","children":"上一章"}],["$","span",null,{"className":"pager-name","children":"索引"}]]}],["$","$L19",null,{"className":"pager-link pager-next","href":"/course/db/","children":[["$","span",null,{"className":"pager-dir","children":"课程完"}],["$","span",null,{"className":"pager-name","children":"返回课程目录"}]]}]]}]
+b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+7:null
+9:{"metadata":[["$","title","0",{"children":"第 7 章  · 数据库 · AI大全栈"}],["$","meta","1",{"name":"description","content":"袁进主讲的系列课程手册：Python 语言核心精讲、数据科学工具包、数据库、Python 框架、Agents 底层逻辑、LangGraph、LangChain + DeepAgent。iOS 风格阅读体验，内置可运行的 Python 代码块。"}]],"error":null,"digest":"$undefined"}
+e:"$9:metadata"

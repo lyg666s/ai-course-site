@@ -1,0 +1,310 @@
+1:"$Sreact.fragment"
+2:I[9130,["619","static/chunks/619-ba102abea3e3d0e4.js","177","static/chunks/app/layout-f06582a541a082fb.js"],"default"]
+3:I[9766,[],""]
+4:I[8924,[],""]
+6:I[4431,[],"OutletBoundary"]
+8:I[5278,[],"AsyncMetadataOutlet"]
+a:I[4431,[],"ViewportBoundary"]
+c:I[4431,[],"MetadataBoundary"]
+d:"$Sreact.suspense"
+f:I[7150,[],""]
+:HL["/ai-course-site/_next/static/css/e17dd95ac0dd78dc.css","style"]
+0:{"P":null,"b":"eFCLH0M-aOlbibikUsuSf","p":"/ai-course-site","c":["","course","db","5",""],"i":false,"f":[[["",{"children":["course",{"children":[["key","db","d"],{"children":[["ch","5","d"],{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/ai-course-site/_next/static/css/e17dd95ac0dd78dc.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"zh-CN","suppressHydrationWarning":true,"children":[["$","head",null,{"children":["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var t=localStorage.getItem(\"theme\");var d=t?t===\"dark\":window.matchMedia(\"(prefers-color-scheme: dark)\").matches;if(d)document.documentElement.classList.add(\"dark\");}catch(e){}})();"}}]}],["$","body",null,{"children":[["$","$L2",null,{"families":[{"key":"agent","name":"AI · Agent 开发"},{"key":"dev","name":"编程与工程基础"}]}],["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","footer",null,{"className":"mx-auto max-w-[52rem] px-6 pb-10 text-center text-xs text-label3","children":"AI大全栈 · 课程手册 — 由课件自动生成，仅供学习使用"}]]}]]}]]}],{"children":["course",["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["key","db","d"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["ch","5","d"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L5",null,["$","$L6",null,{"children":["$L7",["$","$L8",null,{"promise":"$@9"}]]}]]}],{},null,false]},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$La",null,{"children":"$Lb"}],null],["$","$Lc",null,{"children":["$","div",null,{"hidden":true,"children":["$","$d",null,{"fallback":null,"children":"$Le"}]}]}]]}],false]],"m":"$undefined","G":["$f",[]],"s":false,"S":true}
+10:I[7010,["619","static/chunks/619-ba102abea3e3d0e4.js","526","static/chunks/app/course/%5Bkey%5D/%5Bch%5D/page-166c66fba529f17a.js"],"default"]
+11:I[6710,["619","static/chunks/619-ba102abea3e3d0e4.js","526","static/chunks/app/course/%5Bkey%5D/%5Bch%5D/page-166c66fba529f17a.js"],"default"]
+5:[["$","$L10",null,{"url":"/course/db/5/","title":"事务","course":"数据库"}],["$","div",null,{"className":"doc-wrap","children":[["$","$L11",null,{"courses":[{"key":"py","title":"Python语言核心精讲","glyph":"Py","cls":"b1","coming_soon":false,"modules":[{"name":"语言基础","chapters":[{"n":1,"slug":"1","title":"必看导言","group":"语言基础","progress_key":"1"},{"n":2,"slug":"2","title":"python环境安装","group":"语言基础","progress_key":"2"},{"n":3,"slug":"3","title":"python基本语法","group":"语言基础","progress_key":"3"},{"n":4,"slug":"4","title":"容器类型","group":"语言基础","progress_key":"4"},{"n":5,"slug":"5","title":"函数","group":"语言基础","progress_key":"5"},{"n":6,"slug":"6","title":"作用域","group":"语言基础","progress_key":"6"},{"n":7,"slug":"7","title":"lambda表达式","group":"语言基础","progress_key":"7"}]},{"name":"面向对象","chapters":[{"n":8,"slug":"8","title":"类和对象","group":"面向对象","progress_key":"8"},{"n":9,"slug":"9","title":"对象的类型","group":"面向对象","progress_key":"9"},{"n":10,"slug":"10","title":"对象的创建过程","group":"面向对象","progress_key":"10"},{"n":11,"slug":"11","title":"可调用对象","group":"面向对象","progress_key":"11"},{"n":12,"slug":"12","title":"元类","group":"面向对象","progress_key":"12"},{"n":13,"slug":"13","title":"装饰器","group":"面向对象","progress_key":"13"},{"n":14,"slug":"14","title":"魔术方法","group":"面向对象","progress_key":"14"},{"n":15,"slug":"15","title":"描述符","group":"面向对象","progress_key":"15"}]},{"name":"语言进阶","chapters":[{"n":16,"slug":"16","title":"异常处理","group":"语言进阶","progress_key":"16"},{"n":17,"slug":"17","title":"迭代器与生成器","group":"语言进阶","progress_key":"17"},{"n":18,"slug":"18","title":"上下文管理器","group":"语言进阶","progress_key":"18"},{"n":19,"slug":"19","title":"ABC","group":"语言进阶","progress_key":"19"},{"n":20,"slug":"20","title":"类型标注","group":"语言进阶","progress_key":"20"},{"n":21,"slug":"21","title":"模块化","group":"语言进阶","progress_key":"21"},{"n":22,"slug":"22","title":"标准库","group":"语言进阶","progress_key":"22"},{"n":23,"slug":"23","title":"第三方库","group":"语言进阶","progress_key":"23"}]},{"name":"异步与并发","chapters":[{"n":24,"slug":"24","title":"事件循环","group":"异步与并发","progress_key":"24"},{"n":25,"slug":"25","title":"Future类","group":"异步与并发","progress_key":"25"},{"n":26,"slug":"26","title":"协程 Coroutine","group":"异步与并发","progress_key":"26"},{"n":27,"slug":"27","title":"异步编程","group":"异步与并发","progress_key":"27"},{"n":28,"slug":"28","title":"多线程与多进程","group":"异步与并发","progress_key":"28"}]},{"name":"工程化实践","chapters":[{"n":29,"slug":"29","title":"构建发布","group":"工程化实践","progress_key":"29"},{"n":30,"slug":"30","title":"项目管理工具","group":"工程化实践","progress_key":"30"},{"n":31,"slug":"31","title":"monorepo","group":"工程化实践","progress_key":"31"},{"n":32,"slug":"32","title":"断点调试","group":"工程化实践","progress_key":"32"}]},{"name":"项目案例","chapters":[{"n":null,"slug":"proj-async-agents","title":"多智能体协同调研系统","group":"项目案例","progress_key":""},{"n":null,"slug":"proj-duyi-utils","title":"duyi-utils 构建发布示例","group":"项目案例","progress_key":""}]}]},{"key":"fw","title":"Python框架","glyph":"架","cls":"b-fw","coming_soon":false,"modules":[{"name":"课程内容","chapters":[{"n":1,"slug":"1","title":"Web服务框架","group":"课程内容","progress_key":"fw-1"},{"n":2,"slug":"2","title":"优化包结构","group":"课程内容","progress_key":"fw-2"},{"n":3,"slug":"3","title":"初识SQLAlchemy","group":"课程内容","progress_key":"fw-3"},{"n":4,"slug":"4","title":"ORM","group":"课程内容","progress_key":"fw-4"},{"n":5,"slug":"5","title":"数据操作","group":"课程内容","progress_key":"fw-5"},{"n":6,"slug":"6","title":"数据迁移","group":"课程内容","progress_key":"fw-6"},{"n":7,"slug":"7","title":"业务逻辑","group":"课程内容","progress_key":"fw-7"},{"n":8,"slug":"8","title":"依赖注入","group":"课程内容","progress_key":"fw-8"},{"n":9,"slug":"9","title":"统一异常处理","group":"课程内容","progress_key":"fw-9"},{"n":10,"slug":"10","title":"中间件","group":"课程内容","progress_key":"fw-10"},{"n":11,"slug":"11","title":"测试框架","group":"课程内容","progress_key":"fw-11"},{"n":12,"slug":"12","title":"测试方案","group":"课程内容","progress_key":"fw-12"},{"n":13,"slug":"13","title":"三层架构","group":"课程内容","progress_key":"fw-13"},{"n":14,"slug":"14","title":"文件上传","group":"课程内容","progress_key":"fw-14"},{"n":15,"slug":"15","title":"系统设置","group":"课程内容","progress_key":"fw-15"},{"n":17,"slug":"17","title":"用户系统","group":"课程内容","progress_key":"fw-17"},{"n":18,"slug":"18","title":"日志","group":"课程内容","progress_key":"fw-18"},{"n":20,"slug":"20","title":"流式响应","group":"课程内容","progress_key":"fw-20"},{"n":26,"slug":"26","title":"python收官检验","group":"课程内容","progress_key":"fw-26"}]},{"name":"部署","chapters":[{"n":21,"slug":"21","title":"部署-认识Docker","group":"部署","progress_key":"fw-21"},{"n":22,"slug":"22","title":"部署-云资产","group":"部署","progress_key":"fw-22"},{"n":23,"slug":"23","title":"部署-k8s","group":"部署","progress_key":"fw-23"},{"n":24,"slug":"24","title":"部署-CICD","group":"部署","progress_key":"fw-24"},{"n":25,"slug":"25","title":"部署-总结","group":"部署","progress_key":"fw-25"}]}]},{"key":"db","title":"数据库","glyph":"库","cls":"b-db","coming_soon":false,"modules":[{"name":"课程内容","chapters":[{"n":1,"slug":"1","title":"PostgreSQL安装","group":"课程内容","progress_key":"db-1","sections":[{"name":"安装 Docker","anchor":"安装-Docker"},{"name":"安装 PostgreSQL","anchor":"安装-PostgreSQL"},{"name":"安装管理工具 pgAdmin","anchor":"安装管理工具-pgAdmin"},{"name":"作业","anchor":"作业"}]},{"n":2,"slug":"2","title":"DDL","group":"课程内容","progress_key":"db-2","sections":[{"name":"数据库核心概念","anchor":"数据库核心概念"},{"name":"什么是SQL","anchor":"什么是SQL"},{"name":"SQL的细分","anchor":"SQL的细分"},{"name":"DDL语言","anchor":"DDL语言"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":3,"slug":"3","title":"表间关系","group":"课程内容","progress_key":"db-3","sections":[{"name":"为什么需要表间关系？","anchor":"为什么需要表间关系"},{"name":"三种常见关系","anchor":"三种常见关系"},{"name":"外键（Foreign Key）详解","anchor":"外键Foreign-Key详解"},{"name":"ERD","anchor":"ERD"},{"name":"练习题","anchor":"练习题"}]},{"n":4,"slug":"4","title":"DML","group":"课程内容","progress_key":"db-4","sections":[{"name":"INSERT — 增（插入）","anchor":"INSERT-增插入"},{"name":"DELETE — 删（删除）","anchor":"DELETE-删删除"},{"name":"UPDATE — 改（更新）","anchor":"UPDATE-改更新"},{"name":"SELECT — 查（查询）","anchor":"SELECT-查查询"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":5,"slug":"5","title":"事务","group":"课程内容","progress_key":"db-5","sections":[{"name":"经典案例 - 银行转账","anchor":"经典案例---银行转账"},{"name":"事务的概念","anchor":"事务的概念"},{"name":"ACID 特性","anchor":"ACID-特性"},{"name":"并行问题","anchor":"并行问题"},{"name":"事务隔离级别","anchor":"事务隔离级别"},{"name":"作业","anchor":"作业"}]},{"n":6,"slug":"6","title":"索引","group":"课程内容","progress_key":"db-6","sections":[]},{"n":7,"slug":"7","title":"拓展知识","group":"课程内容","progress_key":"db-7","sections":[{"name":"Postgres的其他能力","anchor":"Postgres的其他能力"},{"name":"数据库的额外知识","anchor":"数据库的额外知识"}]}]}]},{"key":"dst","title":"数据科学工具包","glyph":"数","cls":"b-ds","coming_soon":false,"modules":[{"name":"课程内容","chapters":[{"n":1,"slug":"1","title":"课程导言","group":"课程内容","progress_key":"dst-1"},{"n":2,"slug":"2","title":"Jupyter","group":"课程内容","progress_key":"dst-2"},{"n":10,"slug":"10","title":"Seaborn","group":"课程内容","progress_key":"dst-10"}]},{"name":"Numpy","chapters":[{"n":3,"slug":"3","title":"Numpy - 核心概念","group":"Numpy","progress_key":"dst-3"},{"n":4,"slug":"4","title":"Numpy - 数据操作","group":"Numpy","progress_key":"dst-4"}]},{"name":"Pandas","chapters":[{"n":5,"slug":"5","title":"Pandas - 数据类型","group":"Pandas","progress_key":"dst-5"},{"n":6,"slug":"6","title":"Pandas - 数据清洗","group":"Pandas","progress_key":"dst-6"}]},{"name":"Matplotlib","chapters":[{"n":7,"slug":"7","title":"Matplotlib - 核心概念","group":"Matplotlib","progress_key":"dst-7"},{"n":8,"slug":"8","title":"Matplotlib - 动画","group":"Matplotlib","progress_key":"dst-8"},{"n":9,"slug":"9","title":"Matplotlib - 交互式组件","group":"Matplotlib","progress_key":"dst-9"}]}]},{"key":"java","title":"Java","glyph":"J","cls":"b-java","coming_soon":true,"modules":[]},{"key":"cloud","title":"云计算","glyph":"云","cls":"b-cloud","coming_soon":true,"modules":[]}],"currentKey":"db","currentSlug":"5"}],"$L12","$L13"]}]]
+14:I[756,["619","static/chunks/619-ba102abea3e3d0e4.js","526","static/chunks/app/course/%5Bkey%5D/%5Bch%5D/page-166c66fba529f17a.js"],"default"]
+15:I[1599,["619","static/chunks/619-ba102abea3e3d0e4.js","526","static/chunks/app/course/%5Bkey%5D/%5Bch%5D/page-166c66fba529f17a.js"],"default"]
+18:I[5340,["619","static/chunks/619-ba102abea3e3d0e4.js","526","static/chunks/app/course/%5Bkey%5D/%5Bch%5D/page-166c66fba529f17a.js"],"default"]
+16:T4c34,<h1 id="事务">事务</h1>
+<blockquote>
+<p>pgAdmin4会自动将SQL放到事务中，为了更好的演示：请先讲其设置为不要自动提交</p>
+</blockquote>
+<h2 id="经典案例---银行转账">经典案例 - 银行转账</h2>
+<div class="codehilite lang-sql"><pre><span></span><code><span class="k">DROP</span><span class="w"> </span><span class="k">TABLE</span><span class="w"> </span><span class="n">accounts</span><span class="p">;</span>
+
+<span class="c1">-- 创建账户表</span>
+<span class="k">CREATE</span><span class="w"> </span><span class="k">TABLE</span><span class="w"> </span><span class="n">accounts</span><span class="w"> </span><span class="p">(</span>
+<span class="w">    </span><span class="n">id</span><span class="w"> </span><span class="nb">VARCHAR</span><span class="p">(</span><span class="mi">10</span><span class="p">)</span><span class="w"> </span><span class="k">PRIMARY</span><span class="w"> </span><span class="k">KEY</span><span class="p">,</span>
+<span class="w">    </span><span class="n">name</span><span class="w"> </span><span class="nb">VARCHAR</span><span class="p">(</span><span class="mi">50</span><span class="p">)</span><span class="w"> </span><span class="k">NOT</span><span class="w"> </span><span class="k">NULL</span><span class="p">,</span>
+<span class="w">    </span><span class="n">balance</span><span class="w"> </span><span class="nb">DECIMAL</span><span class="p">(</span><span class="mi">12</span><span class="p">,</span><span class="w"> </span><span class="mi">2</span><span class="p">)</span><span class="w"> </span><span class="k">NOT</span><span class="w"> </span><span class="k">NULL</span><span class="w"> </span><span class="k">CHECK</span><span class="w"> </span><span class="p">(</span><span class="n">balance</span><span class="w"> </span><span class="o">&gt;=</span><span class="w"> </span><span class="mi">0</span><span class="p">)</span>
+<span class="p">);</span>
+
+<span class="c1">-- 插入两个测试账户</span>
+<span class="k">INSERT</span><span class="w"> </span><span class="k">INTO</span><span class="w"> </span><span class="n">accounts</span><span class="w"> </span><span class="p">(</span><span class="n">id</span><span class="p">,</span><span class="w"> </span><span class="n">name</span><span class="p">,</span><span class="w"> </span><span class="n">balance</span><span class="p">)</span><span class="w"> </span><span class="k">VALUES</span><span class="w"> </span>
+<span class="p">(</span><span class="s1">'A'</span><span class="p">,</span><span class="w"> </span><span class="s1">'张三'</span><span class="p">,</span><span class="w"> </span><span class="mi">500</span><span class="p">.</span><span class="mi">00</span><span class="p">),</span>
+<span class="p">(</span><span class="s1">'B'</span><span class="p">,</span><span class="w"> </span><span class="s1">'李四'</span><span class="p">,</span><span class="w"> </span><span class="mi">1000</span><span class="p">.</span><span class="mi">00</span><span class="p">);</span>
+
+<span class="c1">-- 查看初始余额</span>
+<span class="k">SELECT</span><span class="w"> </span><span class="o">*</span><span class="w"> </span><span class="k">FROM</span><span class="w"> </span><span class="n">accounts</span><span class="p">;</span>
+
+<span class="c1">-- 查看总金额（应该始终是 1500.00）</span>
+<span class="k">SELECT</span><span class="w"> </span><span class="k">SUM</span><span class="p">(</span><span class="n">balance</span><span class="p">)</span><span class="w"> </span><span class="k">AS</span><span class="w"> </span><span class="n">total_balance</span><span class="w"> </span><span class="k">FROM</span><span class="w"> </span><span class="n">accounts</span><span class="p">;</span>
+
+<span class="c1">-- ============================================</span>
+<span class="c1">-- 模拟转账：从 A 转 100 元给 B</span>
+<span class="c1">-- ============================================</span>
+
+<span class="c1">-- 步骤1：向 B 加款 100 元</span>
+<span class="k">UPDATE</span><span class="w"> </span><span class="n">accounts</span><span class="w"> </span><span class="k">SET</span><span class="w"> </span><span class="n">balance</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">balance</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="mi">100</span><span class="w"> </span><span class="k">WHERE</span><span class="w"> </span><span class="n">id</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s1">'B'</span><span class="p">;</span>
+
+<span class="c1">-- 步骤2）：向 A 减款 100 元</span>
+<span class="k">UPDATE</span><span class="w"> </span><span class="n">accounts</span><span class="w"> </span><span class="k">SET</span><span class="w"> </span><span class="n">balance</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">balance</span><span class="w"> </span><span class="o">-</span><span class="w"> </span><span class="mi">100</span><span class="w"> </span><span class="k">WHERE</span><span class="w"> </span><span class="n">id</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s1">'A'</span><span class="p">;</span>
+</code></pre></div>
+
+<h2 id="事务的概念">事务的概念</h2>
+<p>事务（Transaction）是数据库管理系统中<strong>执行的一组操作</strong>，这组操作要么<strong>全部成功</strong>，要么<strong>全部失败</strong>。</p>
+<table>
+<thead>
+<tr>
+<th>命令</th>
+<th>作用</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>BEGIN</code></td>
+<td>开启一个事务</td>
+</tr>
+<tr>
+<td><code>COMMIT</code></td>
+<td>提交事务，使所有修改永久生效</td>
+</tr>
+<tr>
+<td><code>ROLLBACK</code></td>
+<td>回滚事务，撤销所有未提交的修改</td>
+</tr>
+<tr>
+<td><code>SAVEPOINT</code></td>
+<td>在事务内设置保存点</td>
+</tr>
+<tr>
+<td><code>ROLLBACK TO SAVEPOINT</code></td>
+<td>回滚到指定保存点，而不影响保存点之前的操作</td>
+</tr>
+</tbody>
+</table>
+<div class="codehilite lang-sql"><pre><span></span><code><span class="k">SHOW</span><span class="w"> </span><span class="n">max_connections</span><span class="p">;</span>
+
+<span class="k">SELECT</span><span class="w"> </span><span class="n">pg_backend_pid</span><span class="p">();</span>
+
+<span class="k">BEGIN</span><span class="p">;</span>
+<span class="c1">-- 步骤1：向 B 加款 100 元</span>
+<span class="k">UPDATE</span><span class="w"> </span><span class="n">accounts</span><span class="w"> </span><span class="k">SET</span><span class="w"> </span><span class="n">balance</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">balance</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="mi">100</span><span class="w"> </span><span class="k">WHERE</span><span class="w"> </span><span class="n">id</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s1">'B'</span><span class="p">;</span>
+
+<span class="c1">-- 步骤2）：向 A 减款 100 元</span>
+<span class="k">UPDATE</span><span class="w"> </span><span class="n">accounts</span><span class="w"> </span><span class="k">SET</span><span class="w"> </span><span class="n">balance</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">balance</span><span class="w"> </span><span class="o">-</span><span class="w"> </span><span class="mi">100</span><span class="w"> </span><span class="k">WHERE</span><span class="w"> </span><span class="n">id</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s1">'A'</span><span class="p">;</span>
+
+<span class="k">COMMIT</span><span class="p">;</span>
+<span class="c1">-- or</span>
+<span class="k">ROLLBACK</span><span class="p">;</span>
+</code></pre></div>
+
+<hr />
+<h2 id="ACID-特性">ACID 特性</h2>
+<p>事务有四个核心特性，简称 <strong>ACID</strong>：</p>
+<table>
+<thead>
+<tr>
+<th>特性</th>
+<th>全称</th>
+<th>说明</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>A</strong></td>
+<td>Atomicity（原子性）</td>
+<td>事务中的所有操作要么全部成功，要么全部回滚，不存在部分执行</td>
+</tr>
+<tr>
+<td><strong>C</strong></td>
+<td>Consistency（一致性）</td>
+<td>事务执行前后，数据必须满足所有约束和规则</td>
+</tr>
+<tr>
+<td><strong>I</strong></td>
+<td>Isolation（隔离性）</td>
+<td>多个事务并发执行时，彼此之间<strong>应该</strong>互不干扰</td>
+</tr>
+<tr>
+<td><strong>D</strong></td>
+<td>Durability（持久性）</td>
+<td>事务一旦提交，其结果就是永久的，即使系统崩溃也不会丢失</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h2 id="并行问题">并行问题</h2>
+<p>当多个事务并发执行时，可能出现以下三种问题：</p>
+<h3 id="脏读Dirty-Read">脏读（Dirty Read）</h3>
+<p>一个事务读到了另一个事务<strong>未提交</strong>的数据。</p>
+<div class="codehilite"><pre><span></span><code>事务A：转账 200（未提交）
+事务B：读取到余额已减少 200
+事务A：回滚（余额恢复）
+事务B：读到了不存在的数据！
+</code></pre></div>
+
+<div class="codehilite lang-sql"><pre><span></span><code><span class="c1">-- 事务 A</span>
+<span class="k">BEGIN</span><span class="p">;</span>
+<span class="k">UPDATE</span><span class="w"> </span><span class="n">accounts</span><span class="w"> </span><span class="k">SET</span><span class="w"> </span><span class="n">balance</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="mi">800</span><span class="w"> </span><span class="k">WHERE</span><span class="w"> </span><span class="n">name</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s1">'张三'</span><span class="p">;</span>
+<span class="c1">-- 未提交</span>
+
+<span class="c1">-- 事务 B（如果可以脏读）</span>
+<span class="k">SELECT</span><span class="w"> </span><span class="n">balance</span><span class="w"> </span><span class="k">FROM</span><span class="w"> </span><span class="n">accounts</span><span class="w"> </span><span class="k">WHERE</span><span class="w"> </span><span class="n">name</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s1">'张三'</span><span class="p">;</span><span class="w">  </span><span class="c1">-- 800（脏数据！）</span>
+
+<span class="c1">-- 事务 A</span>
+<span class="k">ROLLBACK</span><span class="p">;</span><span class="w">  </span><span class="c1">-- 余额恢复为 1000</span>
+<span class="c1">-- 事务 B 读到的 800 是无效数据</span>
+</code></pre></div>
+
+<blockquote>
+<p><strong>PostgreSQL 的不会出现脏读。</strong></p>
+</blockquote>
+<h3 id="不可重复读Non-repeatable-Read">不可重复读（Non-repeatable Read）</h3>
+<p>同一事务内，两次读取同一数据得到<strong>不同</strong>的结果（因为另一个事务提交了修改）。</p>
+<div class="codehilite"><pre><span></span><code>事务A：第一次查询余额 = 1000
+事务B：更新余额为 800 并提交
+事务A：第二次查询余额 = 800（跟上一次不一样！）
+</code></pre></div>
+
+<div class="codehilite lang-sql"><pre><span></span><code><span class="c1">-- 事务 A</span>
+<span class="k">BEGIN</span><span class="p">;</span>
+<span class="k">SELECT</span><span class="w"> </span><span class="n">balance</span><span class="w"> </span><span class="k">FROM</span><span class="w"> </span><span class="n">accounts</span><span class="w"> </span><span class="k">WHERE</span><span class="w"> </span><span class="n">name</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s1">'张三'</span><span class="p">;</span><span class="w">  </span><span class="c1">-- 1000</span>
+
+<span class="c1">-- 事务 B（另一个会话）</span>
+<span class="k">BEGIN</span><span class="p">;</span>
+<span class="k">UPDATE</span><span class="w"> </span><span class="n">accounts</span><span class="w"> </span><span class="k">SET</span><span class="w"> </span><span class="n">balance</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="mi">800</span><span class="w"> </span><span class="k">WHERE</span><span class="w"> </span><span class="n">name</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s1">'张三'</span><span class="p">;</span>
+<span class="k">COMMIT</span><span class="p">;</span>
+
+<span class="c1">-- 事务 A（再次查询，结果变了）</span>
+<span class="k">SELECT</span><span class="w"> </span><span class="n">balance</span><span class="w"> </span><span class="k">FROM</span><span class="w"> </span><span class="n">accounts</span><span class="w"> </span><span class="k">WHERE</span><span class="w"> </span><span class="n">name</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s1">'张三'</span><span class="p">;</span><span class="w">  </span><span class="c1">-- 800（不可重复读）</span>
+<span class="k">COMMIT</span><span class="p">;</span>
+</code></pre></div>
+
+<h3 id="幻读Phantom-Read">幻读（Phantom Read）</h3>
+<p>同一事务内，两次查询同一条件的数据集，第二次<strong>多出或少了一行</strong>（另一个事务插入或删除了满足条件的行）。</p>
+<div class="codehilite"><pre><span></span><code>事务A：查询余额 &gt; 500 的用户，得到 2 条
+事务B：插入一个新用户，余额 600，提交
+事务A：再次查询余额 &gt; 500 的用户，得到 3 条
+</code></pre></div>
+
+<div class="codehilite lang-sql"><pre><span></span><code><span class="c1">-- 事务 A</span>
+<span class="k">BEGIN</span><span class="p">;</span>
+<span class="k">SELECT</span><span class="w"> </span><span class="o">*</span><span class="w"> </span><span class="k">FROM</span><span class="w"> </span><span class="n">accounts</span><span class="w"> </span><span class="k">WHERE</span><span class="w"> </span><span class="n">balance</span><span class="w"> </span><span class="o">&gt;</span><span class="w"> </span><span class="mi">500</span><span class="p">;</span><span class="w">  </span><span class="c1">-- 2 行</span>
+
+<span class="c1">-- 事务 B（另一个会话）</span>
+<span class="k">BEGIN</span><span class="p">;</span>
+<span class="k">INSERT</span><span class="w"> </span><span class="k">INTO</span><span class="w"> </span><span class="n">accounts</span><span class="w"> </span><span class="p">(</span><span class="n">name</span><span class="p">,</span><span class="w"> </span><span class="n">balance</span><span class="p">)</span><span class="w"> </span><span class="k">VALUES</span><span class="w"> </span><span class="p">(</span><span class="s1">'赵六'</span><span class="p">,</span><span class="w"> </span><span class="mi">600</span><span class="p">);</span>
+<span class="k">COMMIT</span><span class="p">;</span>
+
+<span class="c1">-- 事务 A（再次查询，多了一行）</span>
+<span class="k">SELECT</span><span class="w"> </span><span class="o">*</span><span class="w"> </span><span class="k">FROM</span><span class="w"> </span><span class="n">accounts</span><span class="w"> </span><span class="k">WHERE</span><span class="w"> </span><span class="n">balance</span><span class="w"> </span><span class="o">&gt;</span><span class="w"> </span><span class="mi">500</span><span class="p">;</span><span class="w">  </span><span class="c1">-- 3 行</span>
+<span class="k">COMMIT</span><span class="p">;</span>
+</code></pre></div>
+
+<h3 id="更新丢失Lost-Update">更新丢失（Lost Update）</h3>
+<p>两个事务同时读取同一数据并修改，后提交的覆盖了先提交的修改。</p>
+<div class="codehilite"><pre><span></span><code>事务A：读取余额 1000，准备扣减 200
+事务B：读取余额 1000，准备扣减 300
+事务A：更新余额为 800 并提交
+事务B：更新余额为 700 并提交（覆盖了事务A的修改！）
+-- 实际应该：1000 - 200 - 300 = 500
+-- 结果：700（事务A的扣减丢失了）
+</code></pre></div>
+
+<hr />
+<h2 id="事务隔离级别">事务隔离级别</h2>
+<table>
+<thead>
+<tr>
+<th>隔离级别</th>
+<th style="text-align: center;">脏读</th>
+<th style="text-align: center;">不可重复读</th>
+<th style="text-align: center;">幻读</th>
+<th style="text-align: center;">更新丢失</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>READ COMMITTED</code></td>
+<td style="text-align: center;">❌</td>
+<td style="text-align: center;">可能</td>
+<td style="text-align: center;">可能</td>
+<td style="text-align: center;">可能</td>
+</tr>
+<tr>
+<td><code>REPEATABLE READ</code></td>
+<td style="text-align: center;">❌</td>
+<td style="text-align: center;">❌</td>
+<td style="text-align: center;">❌</td>
+<td style="text-align: center;">可能</td>
+</tr>
+<tr>
+<td><code>SERIALIZABLE</code></td>
+<td style="text-align: center;">❌</td>
+<td style="text-align: center;">❌</td>
+<td style="text-align: center;">❌</td>
+<td style="text-align: center;">❌</td>
+</tr>
+</tbody>
+</table>
+<blockquote>
+<p>PostgreSQL 没有实现 <code>READ UNCOMMITTED</code>。如果你设置为 <code>READ UNCOMMITTED</code>，PostgreSQL 会将其当作 <code>READ COMMITTED</code> 处理。</p>
+</blockquote>
+<p>隔离级别越高，隔离性越好，性能越低</p>
+<p>读取或设置隔离级别</p>
+<div class="codehilite lang-sql"><pre><span></span><code><span class="c1">-- 查看当前隔离级别</span>
+<span class="k">SHOW</span><span class="w"> </span><span class="n">transaction_isolation</span><span class="p">;</span>
+
+<span class="c1">-- 在当前事务中设置隔离级别</span>
+<span class="k">BEGIN</span><span class="p">;</span>
+<span class="k">SET</span><span class="w"> </span><span class="k">TRANSACTION</span><span class="w"> </span><span class="k">ISOLATION</span><span class="w"> </span><span class="k">LEVEL</span><span class="w"> </span><span class="k">READ</span><span class="w"> </span><span class="k">COMMITTED</span><span class="p">;</span>
+<span class="c1">-- ...</span>
+<span class="k">COMMIT</span><span class="p">;</span>
+
+<span class="c1">-- 也可以在事务开始前设置会话级别</span>
+<span class="k">SET</span><span class="w"> </span><span class="n">default_transaction_isolation</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s1">'repeatable read'</span><span class="p">;</span>
+</code></pre></div>
+
+<table>
+<thead>
+<tr>
+<th>应用场景</th>
+<th>推荐隔离级别</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>大多数 Web 应用、报表查询</td>
+<td><code>READ COMMITTED</code>（默认，够用）</td>
+</tr>
+<tr>
+<td>财务系统、对账（需要同一事务内多次读取一致）</td>
+<td><code>REPEATABLE READ</code></td>
+</tr>
+<tr>
+<td>极高一致性要求（抢购、库存扣减、防超卖）</td>
+<td><code>SERIALIZABLE</code></td>
+</tr>
+</tbody>
+</table>
+<blockquote>
+<p><strong>大多数情况下，使用默认的 <code>READ COMMITTED</code> 就够了。</strong> 只有在特定需求下才需要提高隔离级别。</p>
+</blockquote>
+<hr />
+<h2 id="作业">作业</h2>
+<p>复述一下问题：</p>
+<ol>
+<li>什么时候需要使用事务？</li>
+<li>如何提交事务？如何回滚事务？</li>
+<li>什么是ACID？</li>
+<li>什么是事务隔离级别？</li>
+</ol>12:["$","article",null,{"className":"doc","id":"content","children":[["$","div",null,{"className":"doc-head-row mb-2 flex items-center justify-between gap-4","children":[["$","p",null,{"className":"kicker","children":[["$","span",null,{"className":"kicker-num","children":"第 5 章"}],["$","span",null,{"className":"kicker-mod","children":"数据库"}]]}],["$","$L14",null,{"progressKey":"db-5"}]]}],["$","h1",null,{"className":"doc-h1","children":"事务"}],["$","$L15",null,{"html":"$16"}],"$L17"]}]
+13:["$","$L18",null,{"sections":"$5:1:props:children:0:props:courses:2:modules:0:chapters:4:sections"}]
+19:I[2619,["619","static/chunks/619-ba102abea3e3d0e4.js","526","static/chunks/app/course/%5Bkey%5D/%5Bch%5D/page-166c66fba529f17a.js"],""]
+17:["$","nav",null,{"className":"pager","aria-label":"章节导航","children":[["$","$L19",null,{"className":"pager-link pager-prev","href":"/course/db/4/","children":[["$","span",null,{"className":"pager-dir","children":"上一章"}],["$","span",null,{"className":"pager-name","children":"DML"}]]}],["$","$L19",null,{"className":"pager-link pager-next","href":"/course/db/6/","children":[["$","span",null,{"className":"pager-dir","children":"下一章"}],["$","span",null,{"className":"pager-name","children":"索引"}]]}]]}]
+b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+7:null
+9:{"metadata":[["$","title","0",{"children":"第 5 章  · 数据库 · AI大全栈"}],["$","meta","1",{"name":"description","content":"袁进主讲的系列课程手册：Python 语言核心精讲、数据科学工具包、数据库、Python 框架、Agents 底层逻辑、LangGraph、LangChain + DeepAgent。iOS 风格阅读体验，内置可运行的 Python 代码块。"}]],"error":null,"digest":"$undefined"}
+e:"$9:metadata"

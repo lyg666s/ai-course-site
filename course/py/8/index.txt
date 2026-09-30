@@ -1,0 +1,716 @@
+1:"$Sreact.fragment"
+2:I[9130,["619","static/chunks/619-ba102abea3e3d0e4.js","177","static/chunks/app/layout-f06582a541a082fb.js"],"default"]
+3:I[9766,[],""]
+4:I[8924,[],""]
+6:I[4431,[],"OutletBoundary"]
+8:I[5278,[],"AsyncMetadataOutlet"]
+a:I[4431,[],"ViewportBoundary"]
+c:I[4431,[],"MetadataBoundary"]
+d:"$Sreact.suspense"
+f:I[7150,[],""]
+:HL["/ai-course-site/_next/static/css/e17dd95ac0dd78dc.css","style"]
+0:{"P":null,"b":"eFCLH0M-aOlbibikUsuSf","p":"/ai-course-site","c":["","course","py","8",""],"i":false,"f":[[["",{"children":["course",{"children":[["key","py","d"],{"children":[["ch","8","d"],{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/ai-course-site/_next/static/css/e17dd95ac0dd78dc.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"zh-CN","suppressHydrationWarning":true,"children":[["$","head",null,{"children":["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var t=localStorage.getItem(\"theme\");var d=t?t===\"dark\":window.matchMedia(\"(prefers-color-scheme: dark)\").matches;if(d)document.documentElement.classList.add(\"dark\");}catch(e){}})();"}}]}],["$","body",null,{"children":[["$","$L2",null,{"families":[{"key":"agent","name":"AI · Agent 开发"},{"key":"dev","name":"编程与工程基础"}]}],["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","footer",null,{"className":"mx-auto max-w-[52rem] px-6 pb-10 text-center text-xs text-label3","children":"AI大全栈 · 课程手册 — 由课件自动生成，仅供学习使用"}]]}]]}]]}],{"children":["course",["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["key","py","d"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["ch","8","d"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L5",null,["$","$L6",null,{"children":["$L7",["$","$L8",null,{"promise":"$@9"}]]}]]}],{},null,false]},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$La",null,{"children":"$Lb"}],null],["$","$Lc",null,{"children":["$","div",null,{"hidden":true,"children":["$","$d",null,{"fallback":null,"children":"$Le"}]}]}]]}],false]],"m":"$undefined","G":["$f",[]],"s":false,"S":true}
+10:I[7010,["619","static/chunks/619-ba102abea3e3d0e4.js","526","static/chunks/app/course/%5Bkey%5D/%5Bch%5D/page-166c66fba529f17a.js"],"default"]
+11:I[6710,["619","static/chunks/619-ba102abea3e3d0e4.js","526","static/chunks/app/course/%5Bkey%5D/%5Bch%5D/page-166c66fba529f17a.js"],"default"]
+5:[["$","$L10",null,{"url":"/course/py/8/","title":"类和对象","course":"Python语言核心精讲"}],["$","div",null,{"className":"doc-wrap","children":[["$","$L11",null,{"courses":[{"key":"py","title":"Python语言核心精讲","glyph":"Py","cls":"b1","coming_soon":false,"modules":[{"name":"语言基础","chapters":[{"n":1,"slug":"1","title":"必看导言","group":"语言基础","progress_key":"1","sections":[]},{"n":2,"slug":"2","title":"python环境安装","group":"语言基础","progress_key":"2","sections":[{"name":"Python安装包","anchor":"Python安装包"},{"name":"Hello World","anchor":"Hello-World"},{"name":"IDE","anchor":"IDE"},{"name":"作业","anchor":"作业"}]},{"n":3,"slug":"3","title":"python基本语法","group":"语言基础","progress_key":"3","sections":[{"name":"语言基本特征","anchor":"语言基本特征"},{"name":"注释","anchor":"注释"},{"name":"数据类型","anchor":"数据类型"},{"name":"type函数","anchor":"type函数"},{"name":"变量","anchor":"变量"},{"name":"字符串格式化（f-string）","anchor":"字符串格式化f-string"},{"name":"运算符","anchor":"运算符"},{"name":"输入输出","anchor":"输入输出"},{"name":"流程控制","anchor":"流程控制"},{"name":"作业","anchor":"作业"}]},{"n":4,"slug":"4","title":"容器类型","group":"语言基础","progress_key":"4","sections":[{"name":"什么是容器类型","anchor":"什么是容器类型"},{"name":"列表（list）","anchor":"列表list"},{"name":"元组（tuple）","anchor":"元组tuple"},{"name":"字典（dict）","anchor":"字典dict"},{"name":"集合（set）","anchor":"集合set"},{"name":"容器操作","anchor":"容器操作"},{"name":"作业","anchor":"作业"}]},{"n":5,"slug":"5","title":"函数","group":"语言基础","progress_key":"5","sections":[{"name":"定义函数","anchor":"定义函数"},{"name":"参数","anchor":"参数"},{"name":"返回值","anchor":"返回值"},{"name":"文档字符串（Docstring）","anchor":"文档字符串Docstring"},{"name":"作业","anchor":"作业"}]},{"n":6,"slug":"6","title":"作用域","group":"语言基础","progress_key":"6","sections":[{"name":"LEGB 规则","anchor":"LEGB-规则"},{"name":"局部作用域（Local）","anchor":"局部作用域Local"},{"name":"全局作用域（Global）","anchor":"全局作用域Global"},{"name":"闭包作用域（Enclosing）","anchor":"闭包作用域Enclosing"},{"name":"常见错误","anchor":"常见错误"},{"name":"作用域速查","anchor":"作用域速查"},{"name":"作业","anchor":"作业"}]},{"n":7,"slug":"7","title":"lambda表达式","group":"语言基础","progress_key":"7","sections":[{"name":"基本语法","anchor":"基本语法"},{"name":"Lambda vs 普通函数","anchor":"Lambda-vs-普通函数"},{"name":"应用场景：内置高阶函数","anchor":"应用场景内置高阶函数"},{"name":"作业","anchor":"作业"}]}]},{"name":"面向对象","chapters":[{"n":8,"slug":"8","title":"类和对象","group":"面向对象","progress_key":"8","sections":[{"name":"定义类","anchor":"定义类"},{"name":"构造方法 __init__","anchor":"构造方法-__init__"},{"name":"实例属性与类属性","anchor":"实例属性与类属性"},{"name":"实例方法","anchor":"实例方法"},{"name":"类方法与静态方法","anchor":"类方法与静态方法"},{"name":"继承","anchor":"继承"},{"name":"访问控制","anchor":"访问控制"},{"name":"常见操作","anchor":"常见操作"},{"name":"作业","anchor":"作业"}]},{"n":9,"slug":"9","title":"对象的类型","group":"面向对象","progress_key":"9","sections":[{"name":"知识补充","anchor":"知识补充"},{"name":"对象的类型","anchor":"对象的类型"},{"name":"成员的查找顺序","anchor":"成员的查找顺序"},{"name":"作业","anchor":"作业"}]},{"n":10,"slug":"10","title":"对象的创建过程","group":"面向对象","progress_key":"10","sections":[{"name":"应用场景","anchor":"应用场景"},{"name":"作业","anchor":"作业"}]},{"n":11,"slug":"11","title":"可调用对象","group":"面向对象","progress_key":"11","sections":[{"name":"如何判断对象是否可调用","anchor":"如何判断对象是否可调用"},{"name":"让对象变成可调用对象","anchor":"让对象变成可调用对象"},{"name":"实际应用场景","anchor":"实际应用场景"},{"name":"作业","anchor":"作业"}]},{"n":12,"slug":"12","title":"元类","group":"面向对象","progress_key":"12","sections":[{"name":"类的创建过程","anchor":"类的创建过程"},{"name":"自定义元类","anchor":"自定义元类"},{"name":"深入：元类的查找顺序","anchor":"深入元类的查找顺序"},{"name":"总结","anchor":"总结"},{"name":"作业","anchor":"作业"}]},{"n":13,"slug":"13","title":"装饰器","group":"面向对象","progress_key":"13","sections":[{"name":"装饰器的本质","anchor":"装饰器的本质"},{"name":"多个装饰器叠加","anchor":"多个装饰器叠加"},{"name":"作业","anchor":"作业"}]},{"n":14,"slug":"14","title":"魔术方法","group":"面向对象","progress_key":"14","sections":[{"name":"字符串表示","anchor":"字符串表示"},{"name":"比较操作","anchor":"比较操作"},{"name":"算术运算","anchor":"算术运算"},{"name":"容器协议","anchor":"容器协议"},{"name":"类型转换","anchor":"类型转换"},{"name":"属性访问拦截","anchor":"属性访问拦截"},{"name":"对象生命周期","anchor":"对象生命周期"},{"name":"常用魔术方法速查","anchor":"常用魔术方法速查"},{"name":"作业（可使用AI）","anchor":"作业可使用AI"}]},{"n":15,"slug":"15","title":"描述符","group":"面向对象","progress_key":"15","sections":[{"name":"问题","anchor":"问题"},{"name":"描述符协议","anchor":"描述符协议"},{"name":"解决最初的问题","anchor":"解决最初的问题"},{"name":"@property 装饰器","anchor":"property-装饰器"},{"name":"应用场景","anchor":"应用场景"},{"name":"作业（可使用AI）","anchor":"作业可使用AI"}]}]},{"name":"语言进阶","chapters":[{"n":16,"slug":"16","title":"异常处理","group":"语言进阶","progress_key":"16","sections":[{"name":"异常的捕获","anchor":"异常的捕获"},{"name":"异常类型","anchor":"异常类型"},{"name":"主动抛出异常","anchor":"主动抛出异常"},{"name":"自定义异常","anchor":"自定义异常"},{"name":"异常链","anchor":"异常链"},{"name":"作业（可使用AI）","anchor":"作业可使用AI"}]},{"n":17,"slug":"17","title":"迭代器与生成器","group":"语言进阶","progress_key":"17","sections":[{"name":"迭代器(Iterator)","anchor":"迭代器Iterator"},{"name":"可迭代对象(Iterable)","anchor":"可迭代对象Iterable"},{"name":"生成器(Generator)","anchor":"生成器Generator"},{"name":"itertools 简介","anchor":"itertools-简介"},{"name":"作业","anchor":"作业"}]},{"n":18,"slug":"18","title":"上下文管理器","group":"语言进阶","progress_key":"18","sections":[{"name":"基本用法","anchor":"基本用法"},{"name":"自定义上下文管理器","anchor":"自定义上下文管理器"},{"name":"异常处理","anchor":"异常处理"},{"name":"使用 @contextmanager 装饰器","anchor":"使用-contextmanager-装饰器"},{"name":"多个上下文管理器","anchor":"多个上下文管理器"},{"name":"作业（使用AI）","anchor":"作业使用AI"}]},{"n":19,"slug":"19","title":"ABC","group":"语言进阶","progress_key":"19","sections":[{"name":"定义抽象类","anchor":"定义抽象类"},{"name":"抽象属性","anchor":"抽象属性"},{"name":"子类必须实现所有抽象方法","anchor":"子类必须实现所有抽象方法"},{"name":"实际应用场景","anchor":"实际应用场景"},{"name":"作业（使用AI）","anchor":"作业使用AI"}]},{"n":20,"slug":"20","title":"类型标注","group":"语言进阶","progress_key":"20","sections":[{"name":"为什么需要类型标注","anchor":"为什么需要类型标注"},{"name":"基础类型标注","anchor":"基础类型标注"},{"name":"常用复合类型","anchor":"常用复合类型"},{"name":"类与自定义类型","anchor":"类与自定义类型"},{"name":"泛型","anchor":"泛型"},{"name":"Callable 和 回调函数","anchor":"Callable-和-回调函数"},{"name":"应用场景","anchor":"应用场景"},{"name":"忽略类型检查","anchor":"忽略类型检查"},{"name":"作业（可使用AI）","anchor":"作业可使用AI"}]},{"n":21,"slug":"21","title":"模块化","group":"语言进阶","progress_key":"21","sections":[{"name":"包、模块、成员关系","anchor":"包模块成员关系"},{"name":"定义模块（导出）","anchor":"定义模块导出"},{"name":"导入模块","anchor":"导入模块"},{"name":"包（Package）","anchor":"包Package"},{"name":"相对导入","anchor":"相对导入"},{"name":"搜索路径","anchor":"搜索路径"},{"name":"循环导入问题","anchor":"循环导入问题"},{"name":"作业","anchor":"作业"}]},{"n":22,"slug":"22","title":"标准库","group":"语言进阶","progress_key":"22","sections":[{"name":"作业（使用AI）","anchor":"作业使用AI"}]},{"n":23,"slug":"23","title":"第三方库","group":"语言进阶","progress_key":"23","sections":[{"name":"pip 概述","anchor":"pip-概述"},{"name":"国内镜像源","anchor":"国内镜像源"},{"name":"安装第三方库","anchor":"安装第三方库"},{"name":"升级第三方库","anchor":"升级第三方库"},{"name":"卸载第三方库","anchor":"卸载第三方库"},{"name":"查看与管理包","anchor":"查看与管理包"},{"name":"依赖管理","anchor":"依赖管理"},{"name":"虚拟环境","anchor":"虚拟环境"},{"name":"作业（使用AI）","anchor":"作业使用AI"}]}]},{"name":"异步与并发","chapters":[{"n":24,"slug":"24","title":"事件循环","group":"异步与并发","progress_key":"24","sections":[{"name":"同步代码的问题","anchor":"同步代码的问题"},{"name":"什么是异步","anchor":"什么是异步"},{"name":"异步 VS 多线程","anchor":"异步-VS-多线程"},{"name":"Python的事件循环","anchor":"Python的事件循环"},{"name":"作业","anchor":"作业"}]},{"n":25,"slug":"25","title":"Future类","group":"异步与并发","progress_key":"25","sections":[{"name":"作业","anchor":"作业"}]},{"n":26,"slug":"26","title":"协程 Coroutine","group":"异步与并发","progress_key":"26","sections":[{"name":"回调之痛","anchor":"回调之痛"},{"name":"协程函数","anchor":"协程函数"},{"name":"协程 VS 线程","anchor":"协程-VS-线程"},{"name":"驱动协程对象","anchor":"驱动协程对象"},{"name":"Task","anchor":"Task"},{"name":"asyncio.run","anchor":"asynciorun"},{"name":"深度总结","anchor":"深度总结"},{"name":"作业","anchor":"作业"}]},{"n":27,"slug":"27","title":"异步编程","group":"异步与并发","progress_key":"27","sections":[{"name":"异步生成器与异步迭代器","anchor":"异步生成器与异步迭代器"},{"name":"异步上下文管理器","anchor":"异步上下文管理器"},{"name":"官方 asyncio 核心 API","anchor":"官方-asyncio-核心-API"},{"name":"第三方异步库","anchor":"第三方异步库"},{"name":"常见异步编程模式(面试题)","anchor":"常见异步编程模式面试题"},{"name":"最佳实践与注意事项","anchor":"最佳实践与注意事项"},{"name":"作业（使用AI）","anchor":"作业使用AI"}]},{"n":28,"slug":"28","title":"多线程与多进程","group":"异步与并发","progress_key":"28","sections":[{"name":"进程 vs 线程 vs 协程","anchor":"进程-vs-线程-vs-协程"},{"name":"threading 模块","anchor":"threading-模块"},{"name":"线程安全与竞态条件","anchor":"线程安全与竞态条件"},{"name":"Lock —— 互斥锁","anchor":"Lock-互斥锁"},{"name":"RLock —— 可重入锁","anchor":"RLock-可重入锁"},{"name":"Semaphore —— 限制并发数","anchor":"Semaphore-限制并发数"},{"name":"Event —— 线程间通知","anchor":"Event-线程间通知"},{"name":"Queue —— 线程安全的生产者消费者","anchor":"Queue-线程安全的生产者消费者"},{"name":"ThreadPoolExecutor —— 线程池","anchor":"ThreadPoolExecutor-线程池"},{"name":"线程局部数据 (Thread Local)","anchor":"线程局部数据-Thread-Local"},{"name":"多线程常见问题","anchor":"多线程常见问题"},{"name":"何时用线程，何时用协程？","anchor":"何时用线程何时用协程"}]}]},{"name":"工程化实践","chapters":[{"n":29,"slug":"29","title":"构建发布","group":"工程化实践","progress_key":"29","sections":[{"name":"库的开发流程","anchor":"库的开发流程"},{"name":"构建","anchor":"构建"},{"name":"发布和安装","anchor":"发布和安装"},{"name":"可编辑依赖","anchor":"可编辑依赖"},{"name":"作业","anchor":"作业"}]},{"n":30,"slug":"30","title":"项目管理工具","group":"工程化实践","progress_key":"30","sections":[{"name":"[可选]pyenv 卸载","anchor":"可选pyenv-卸载"},{"name":"UV 简介","anchor":"UV-简介"},{"name":"安装","anchor":"安装"},{"name":"Python 版本管理","anchor":"Python-版本管理"},{"name":"快速上手：创建一个项目","anchor":"快速上手创建一个项目"},{"name":"虚拟环境管理","anchor":"虚拟环境管理"},{"name":"Running Tools —— 无需安装即可运行","anchor":"Running-Tools-无需安装即可运行"},{"name":"构建与发布","anchor":"构建与发布"},{"name":"Makefile —— 统一项目命令入口","anchor":"Makefile-统一项目命令入口"},{"name":"常用命令速查","anchor":"常用命令速查"},{"name":"作业","anchor":"作业"}]},{"n":31,"slug":"31","title":"monorepo","group":"工程化实践","progress_key":"31","sections":[{"name":"什么是 Monorepo","anchor":"什么是-Monorepo"},{"name":"搭建 Workspace","anchor":"搭建-Workspace"},{"name":"包间依赖的三种模式","anchor":"包间依赖的三种模式"},{"name":"作业","anchor":"作业"}]},{"n":32,"slug":"32","title":"断点调试","group":"工程化实践","progress_key":"32","sections":[{"name":"调试组件","anchor":"调试组件"},{"name":"调试原理","anchor":"调试原理"},{"name":"单文件调试","anchor":"单文件调试"},{"name":"工程调试","anchor":"工程调试"},{"name":"作业","anchor":"作业"}]}]},{"name":"项目案例","chapters":[{"n":null,"slug":"proj-async-agents","title":"多智能体协同调研系统","group":"项目案例","progress_key":"","sections":[{"name":"模块概览","anchor":"模块概览"},{"name":"依赖关系图","anchor":"依赖关系图"},{"name":"建议阅读顺序","anchor":"建议阅读顺序"},{"name":"运行方式","anchor":"运行方式"}]},{"n":null,"slug":"proj-duyi-utils","title":"duyi-utils 构建发布示例","group":"项目案例","progress_key":"","sections":[{"name":"功能","anchor":"功能"},{"name":"安装","anchor":"安装"},{"name":"使用","anchor":"使用"}]}]}]},{"key":"fw","title":"Python框架","glyph":"架","cls":"b-fw","coming_soon":false,"modules":[{"name":"课程内容","chapters":[{"n":1,"slug":"1","title":"Web服务框架","group":"课程内容","progress_key":"fw-1"},{"n":2,"slug":"2","title":"优化包结构","group":"课程内容","progress_key":"fw-2"},{"n":3,"slug":"3","title":"初识SQLAlchemy","group":"课程内容","progress_key":"fw-3"},{"n":4,"slug":"4","title":"ORM","group":"课程内容","progress_key":"fw-4"},{"n":5,"slug":"5","title":"数据操作","group":"课程内容","progress_key":"fw-5"},{"n":6,"slug":"6","title":"数据迁移","group":"课程内容","progress_key":"fw-6"},{"n":7,"slug":"7","title":"业务逻辑","group":"课程内容","progress_key":"fw-7"},{"n":8,"slug":"8","title":"依赖注入","group":"课程内容","progress_key":"fw-8"},{"n":9,"slug":"9","title":"统一异常处理","group":"课程内容","progress_key":"fw-9"},{"n":10,"slug":"10","title":"中间件","group":"课程内容","progress_key":"fw-10"},{"n":11,"slug":"11","title":"测试框架","group":"课程内容","progress_key":"fw-11"},{"n":12,"slug":"12","title":"测试方案","group":"课程内容","progress_key":"fw-12"},{"n":13,"slug":"13","title":"三层架构","group":"课程内容","progress_key":"fw-13"},{"n":14,"slug":"14","title":"文件上传","group":"课程内容","progress_key":"fw-14"},{"n":15,"slug":"15","title":"系统设置","group":"课程内容","progress_key":"fw-15"},{"n":17,"slug":"17","title":"用户系统","group":"课程内容","progress_key":"fw-17"},{"n":18,"slug":"18","title":"日志","group":"课程内容","progress_key":"fw-18"},{"n":20,"slug":"20","title":"流式响应","group":"课程内容","progress_key":"fw-20"},{"n":26,"slug":"26","title":"python收官检验","group":"课程内容","progress_key":"fw-26"}]},{"name":"部署","chapters":[{"n":21,"slug":"21","title":"部署-认识Docker","group":"部署","progress_key":"fw-21"},{"n":22,"slug":"22","title":"部署-云资产","group":"部署","progress_key":"fw-22"},{"n":23,"slug":"23","title":"部署-k8s","group":"部署","progress_key":"fw-23"},{"n":24,"slug":"24","title":"部署-CICD","group":"部署","progress_key":"fw-24"},{"n":25,"slug":"25","title":"部署-总结","group":"部署","progress_key":"fw-25"}]}]},{"key":"db","title":"数据库","glyph":"库","cls":"b-db","coming_soon":false,"modules":[{"name":"课程内容","chapters":[{"n":1,"slug":"1","title":"PostgreSQL安装","group":"课程内容","progress_key":"db-1"},{"n":2,"slug":"2","title":"DDL","group":"课程内容","progress_key":"db-2"},{"n":3,"slug":"3","title":"表间关系","group":"课程内容","progress_key":"db-3"},{"n":4,"slug":"4","title":"DML","group":"课程内容","progress_key":"db-4"},{"n":5,"slug":"5","title":"事务","group":"课程内容","progress_key":"db-5"},{"n":6,"slug":"6","title":"索引","group":"课程内容","progress_key":"db-6"},{"n":7,"slug":"7","title":"拓展知识","group":"课程内容","progress_key":"db-7"}]}]},{"key":"dst","title":"数据科学工具包","glyph":"数","cls":"b-ds","coming_soon":false,"modules":[{"name":"课程内容","chapters":[{"n":1,"slug":"1","title":"课程导言","group":"课程内容","progress_key":"dst-1"},{"n":2,"slug":"2","title":"Jupyter","group":"课程内容","progress_key":"dst-2"},{"n":10,"slug":"10","title":"Seaborn","group":"课程内容","progress_key":"dst-10"}]},{"name":"Numpy","chapters":[{"n":3,"slug":"3","title":"Numpy - 核心概念","group":"Numpy","progress_key":"dst-3"},{"n":4,"slug":"4","title":"Numpy - 数据操作","group":"Numpy","progress_key":"dst-4"}]},{"name":"Pandas","chapters":[{"n":5,"slug":"5","title":"Pandas - 数据类型","group":"Pandas","progress_key":"dst-5"},{"n":6,"slug":"6","title":"Pandas - 数据清洗","group":"Pandas","progress_key":"dst-6"}]},{"name":"Matplotlib","chapters":[{"n":7,"slug":"7","title":"Matplotlib - 核心概念","group":"Matplotlib","progress_key":"dst-7"},{"n":8,"slug":"8","title":"Matplotlib - 动画","group":"Matplotlib","progress_key":"dst-8"},{"n":9,"slug":"9","title":"Matplotlib - 交互式组件","group":"Matplotlib","progress_key":"dst-9"}]}]},{"key":"java","title":"Java","glyph":"J","cls":"b-java","coming_soon":true,"modules":[]},{"key":"cloud","title":"云计算","glyph":"云","cls":"b-cloud","coming_soon":true,"modules":[]}],"currentKey":"py","currentSlug":"8"}],"$L12","$L13"]}]]
+14:I[756,["619","static/chunks/619-ba102abea3e3d0e4.js","526","static/chunks/app/course/%5Bkey%5D/%5Bch%5D/page-166c66fba529f17a.js"],"default"]
+15:I[1599,["619","static/chunks/619-ba102abea3e3d0e4.js","526","static/chunks/app/course/%5Bkey%5D/%5Bch%5D/page-166c66fba529f17a.js"],"default"]
+18:I[5340,["619","static/chunks/619-ba102abea3e3d0e4.js","526","static/chunks/app/course/%5Bkey%5D/%5Bch%5D/page-166c66fba529f17a.js"],"default"]
+16:Te87a,<p>Python 是一门<strong>面向对象</strong>的编程语言。类（Class）是创建对象的蓝图，而对象（Object）是类的具体实例。通过类和对象，可以将数据（属性）和行为（方法）封装在一起，使代码更具结构性和可复用性。</p>
+<hr />
+<h2 id="定义类">定义类</h2>
+<p>使用 <code>class</code> 关键字定义类：</p>
+<div class="codehilite lang-python"><pre><span></span><code><span class="k">class</span><span class="w"> </span><span class="nc">Dog</span><span class="p">:</span>
+    <span class="k">pass</span>
+
+<span class="c1"># 创建实例</span>
+<span class="n">my_dog</span> <span class="o">=</span> <span class="n">Dog</span><span class="p">()</span>
+<span class="nb">print</span><span class="p">(</span><span class="nb">type</span><span class="p">(</span><span class="n">my_dog</span><span class="p">))</span>  <span class="c1"># &lt;class '__main__.Dog'&gt;</span>
+</code></pre></div>
+
+<h3 id="使用-type-动态定义类">使用 <code>type()</code> 动态定义类</h3>
+<p>类本身也是对象，<code>type()</code> 是创建类的内置函数。可以动态地创建类：</p>
+<div class="codehilite lang-python"><pre><span></span><code><span class="c1"># type(类名, (父类元组,), {属性字典})</span>
+
+<span class="c1"># 定义方法</span>
+<span class="k">def</span><span class="w"> </span><span class="nf">bark</span><span class="p">(</span><span class="bp">self</span><span class="p">):</span>
+    <span class="nb">print</span><span class="p">(</span><span class="sa">f</span><span class="s2">"</span><span class="si">{</span><span class="bp">self</span><span class="o">.</span><span class="n">name</span><span class="si">}</span><span class="s2"> says: Woof!"</span><span class="p">)</span>
+
+<span class="c1"># 动态创建 Dog 类</span>
+<span class="n">Dog</span> <span class="o">=</span> <span class="nb">type</span><span class="p">(</span><span class="s1">'Dog'</span><span class="p">,</span> <span class="p">(),</span> <span class="p">{</span><span class="s1">'name'</span><span class="p">:</span> <span class="s1">'Buddy'</span><span class="p">,</span> <span class="s1">'bark'</span><span class="p">:</span> <span class="n">bark</span><span class="p">})</span>
+
+<span class="c1"># 创建实例</span>
+<span class="n">my_dog</span> <span class="o">=</span> <span class="n">Dog</span><span class="p">()</span>
+<span class="nb">print</span><span class="p">(</span><span class="n">my_dog</span><span class="o">.</span><span class="n">name</span><span class="p">)</span>  <span class="c1"># Buddy</span>
+<span class="n">my_dog</span><span class="o">.</span><span class="n">bark</span><span class="p">()</span>       <span class="c1"># Buddy says: Woof!</span>
+</code></pre></div>
+
+<p><strong>参数说明：</strong></p>
+<ul>
+<li>第一个参数：类名（字符串）</li>
+<li>第二个参数：继承的父类元组</li>
+<li>第三个参数：类属性和方法的字典</li>
+</ul>
+<p><strong>实际应用场景：</strong> 在 ORM 框架或需要根据配置动态生成类的场景中经常使用。</p>
+<hr />
+<h2 id="构造方法-__init__">构造方法 <code>__init__</code></h2>
+<p><code>__init__</code> 是类的构造方法，在创建对象时自动调用，用于初始化对象的属性：</p>
+<div class="codehilite lang-python"><pre><span></span><code><span class="k">class</span><span class="w"> </span><span class="nc">Dog</span><span class="p">:</span>
+    <span class="k">def</span><span class="w"> </span><span class="fm">__init__</span><span class="p">(</span><span class="n">this</span><span class="p">,</span> <span class="n">name</span><span class="p">,</span> <span class="n">age</span><span class="p">):</span>
+        <span class="n">this</span><span class="o">.</span><span class="n">name</span> <span class="o">=</span> <span class="n">name</span>
+        <span class="n">this</span><span class="o">.</span><span class="n">age</span> <span class="o">=</span> <span class="n">age</span>
+
+<span class="c1"># 创建对象时传入参数</span>
+<span class="n">my_dog</span> <span class="o">=</span> <span class="n">Dog</span><span class="p">(</span><span class="s2">"Buddy"</span><span class="p">,</span> <span class="mi">3</span><span class="p">)</span>
+<span class="nb">print</span><span class="p">(</span><span class="n">my_dog</span><span class="o">.</span><span class="n">name</span><span class="p">)</span>  <span class="c1"># Buddy</span>
+<span class="nb">print</span><span class="p">(</span><span class="n">my_dog</span><span class="o">.</span><span class="n">age</span><span class="p">)</span>   <span class="c1"># 3</span>
+</code></pre></div>
+
+<p><strong>注意：</strong> <code>self</code> 代表对象本身，必须是第一个参数，但调用时不需要传。</p>
+<hr />
+<h2 id="实例属性与类属性">实例属性与类属性</h2>
+<h3 id="实例属性">实例属性</h3>
+<p>每个对象独立的属性，通过 <code>self</code> 定义：</p>
+<div class="codehilite lang-python"><pre><span></span><code><span class="k">class</span><span class="w"> </span><span class="nc">Dog</span><span class="p">:</span>
+    <span class="k">def</span><span class="w"> </span><span class="fm">__init__</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">name</span><span class="p">):</span>
+        <span class="bp">self</span><span class="o">.</span><span class="n">name</span> <span class="o">=</span> <span class="n">name</span>  <span class="c1"># 实例属性</span>
+
+<span class="n">dog1</span> <span class="o">=</span> <span class="n">Dog</span><span class="p">(</span><span class="s2">"Buddy"</span><span class="p">)</span>
+<span class="n">dog2</span> <span class="o">=</span> <span class="n">Dog</span><span class="p">(</span><span class="s2">"Max"</span><span class="p">)</span>
+
+<span class="nb">print</span><span class="p">(</span><span class="n">dog1</span><span class="o">.</span><span class="n">name</span><span class="p">)</span>  <span class="c1"># Buddy</span>
+<span class="nb">print</span><span class="p">(</span><span class="n">dog2</span><span class="o">.</span><span class="n">name</span><span class="p">)</span>  <span class="c1"># Max</span>
+</code></pre></div>
+
+<h3 id="类属性">类属性</h3>
+<p>所有对象共享的属性，在类内部直接定义：</p>
+<div class="codehilite lang-python"><pre><span></span><code><span class="k">class</span><span class="w"> </span><span class="nc">Dog</span><span class="p">:</span>
+    <span class="n">species</span> <span class="o">=</span> <span class="s2">"Canis familiaris"</span>  <span class="c1"># 类属性</span>
+
+    <span class="k">def</span><span class="w"> </span><span class="fm">__init__</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">name</span><span class="p">):</span>
+        <span class="bp">self</span><span class="o">.</span><span class="n">name</span> <span class="o">=</span> <span class="n">name</span>
+
+<span class="n">dog1</span> <span class="o">=</span> <span class="n">Dog</span><span class="p">(</span><span class="s2">"Buddy"</span><span class="p">)</span>
+<span class="n">dog2</span> <span class="o">=</span> <span class="n">Dog</span><span class="p">(</span><span class="s2">"Max"</span><span class="p">)</span>
+
+<span class="nb">print</span><span class="p">(</span><span class="n">dog1</span><span class="o">.</span><span class="n">species</span><span class="p">)</span>  <span class="c1"># Canis familiaris</span>
+<span class="nb">print</span><span class="p">(</span><span class="n">dog2</span><span class="o">.</span><span class="n">species</span><span class="p">)</span>  <span class="c1"># Canis familiaris</span>
+
+<span class="c1"># 修改类属性（通过类名）</span>
+<span class="n">Dog</span><span class="o">.</span><span class="n">species</span> <span class="o">=</span> <span class="s2">"Canis lupus"</span>
+<span class="nb">print</span><span class="p">(</span><span class="n">dog1</span><span class="o">.</span><span class="n">species</span><span class="p">)</span>  <span class="c1"># Canis lupus</span>
+</code></pre></div>
+
+<p><strong>访问规则：</strong> 实例属性通过 <code>self</code> 访问，类属性通过 <code>类名</code> 或 <code>self</code> 访问。</p>
+<hr />
+<h2 id="实例方法">实例方法</h2>
+<p>定义在类中的函数，第一个参数必须是 <code>self</code>：</p>
+<div class="codehilite lang-python"><pre><span></span><code><span class="k">class</span><span class="w"> </span><span class="nc">Dog</span><span class="p">:</span>
+    <span class="k">def</span><span class="w"> </span><span class="fm">__init__</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">name</span><span class="p">):</span>
+        <span class="bp">self</span><span class="o">.</span><span class="n">name</span> <span class="o">=</span> <span class="n">name</span>
+
+    <span class="k">def</span><span class="w"> </span><span class="nf">bark</span><span class="p">(</span><span class="bp">self</span><span class="p">):</span>
+        <span class="nb">print</span><span class="p">(</span><span class="sa">f</span><span class="s2">"</span><span class="si">{</span><span class="bp">self</span><span class="o">.</span><span class="n">name</span><span class="si">}</span><span class="s2"> says: Woof!"</span><span class="p">)</span>
+
+    <span class="k">def</span><span class="w"> </span><span class="nf">introduce</span><span class="p">(</span><span class="bp">self</span><span class="p">):</span>
+        <span class="bp">self</span><span class="o">.</span><span class="n">bark</span><span class="p">()</span>  <span class="c1"># 方法内调用其他方法</span>
+        <span class="nb">print</span><span class="p">(</span><span class="sa">f</span><span class="s2">"My name is </span><span class="si">{</span><span class="bp">self</span><span class="o">.</span><span class="n">name</span><span class="si">}</span><span class="s2">"</span><span class="p">)</span>
+
+<span class="n">my_dog</span> <span class="o">=</span> <span class="n">Dog</span><span class="p">(</span><span class="s2">"Buddy"</span><span class="p">)</span>
+<span class="n">my_dog</span><span class="o">.</span><span class="n">bark</span><span class="p">()</span>       <span class="c1"># Buddy says: Woof!</span>
+<span class="n">my_dog</span><span class="o">.</span><span class="n">introduce</span><span class="p">()</span>  <span class="c1"># Buddy says: Woof! My name is Buddy</span>
+</code></pre></div>
+
+<hr />
+<h2 id="类方法与静态方法">类方法与静态方法</h2>
+<h3 id="类方法-classmethod">类方法 <code>@classmethod</code></h3>
+<p>第一个参数是 <code>cls</code>，代表类本身，可以访问或修改类属性：</p>
+<div class="codehilite lang-python"><pre><span></span><code><span class="k">class</span><span class="w"> </span><span class="nc">Dog</span><span class="p">:</span>
+    <span class="n">count</span> <span class="o">=</span> <span class="mi">0</span>  <span class="c1"># 类属性：记录创建了多少只狗</span>
+
+    <span class="k">def</span><span class="w"> </span><span class="fm">__init__</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">name</span><span class="p">):</span>
+        <span class="bp">self</span><span class="o">.</span><span class="n">name</span> <span class="o">=</span> <span class="n">name</span>
+        <span class="n">Dog</span><span class="o">.</span><span class="n">count</span> <span class="o">+=</span> <span class="mi">1</span>
+
+    <span class="nd">@classmethod</span>
+    <span class="k">def</span><span class="w"> </span><span class="nf">get_count</span><span class="p">(</span><span class="bp">cls</span><span class="p">):</span>
+        <span class="k">return</span> <span class="bp">cls</span><span class="o">.</span><span class="n">count</span>
+
+<span class="n">dog1</span> <span class="o">=</span> <span class="n">Dog</span><span class="p">(</span><span class="s2">"Buddy"</span><span class="p">)</span>
+<span class="n">dog2</span> <span class="o">=</span> <span class="n">Dog</span><span class="p">(</span><span class="s2">"Max"</span><span class="p">)</span>
+
+<span class="nb">print</span><span class="p">(</span><span class="n">Dog</span><span class="o">.</span><span class="n">get_count</span><span class="p">())</span>  <span class="c1"># 2</span>
+</code></pre></div>
+
+<h3 id="静态方法-staticmethod">静态方法 <code>@staticmethod</code></h3>
+<p>不接收 <code>self</code> 或 <code>cls</code>，与普通函数类似，只是组织在类中：</p>
+<div class="codehilite lang-python"><pre><span></span><code><span class="k">class</span><span class="w"> </span><span class="nc">MathUtils</span><span class="p">:</span>
+    <span class="nd">@staticmethod</span>
+    <span class="k">def</span><span class="w"> </span><span class="nf">add</span><span class="p">(</span><span class="n">a</span><span class="p">,</span> <span class="n">b</span><span class="p">):</span>
+        <span class="k">return</span> <span class="n">a</span> <span class="o">+</span> <span class="n">b</span>
+
+    <span class="nd">@staticmethod</span>
+    <span class="k">def</span><span class="w"> </span><span class="nf">is_even</span><span class="p">(</span><span class="n">n</span><span class="p">):</span>
+        <span class="k">return</span> <span class="n">n</span> <span class="o">%</span> <span class="mi">2</span> <span class="o">==</span> <span class="mi">0</span>
+
+<span class="nb">print</span><span class="p">(</span><span class="n">MathUtils</span><span class="o">.</span><span class="n">add</span><span class="p">(</span><span class="mi">3</span><span class="p">,</span> <span class="mi">5</span><span class="p">))</span>      <span class="c1"># 8</span>
+<span class="nb">print</span><span class="p">(</span><span class="n">MathUtils</span><span class="o">.</span><span class="n">is_even</span><span class="p">(</span><span class="mi">4</span><span class="p">))</span>     <span class="c1"># True</span>
+</code></pre></div>
+
+<p><strong>对比：</strong></p>
+<table>
+<thead>
+<tr>
+<th>方法类型</th>
+<th>装饰器</th>
+<th>第一个参数</th>
+<th>访问实例属性</th>
+<th>访问类属性</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>实例方法</td>
+<td>无</td>
+<td><code>self</code></td>
+<td>✓</td>
+<td>✓</td>
+</tr>
+<tr>
+<td>类方法</td>
+<td><code>@classmethod</code></td>
+<td><code>cls</code></td>
+<td>✗</td>
+<td>✓</td>
+</tr>
+<tr>
+<td>静态方法</td>
+<td><code>@staticmethod</code></td>
+<td>无</td>
+<td>✗</td>
+<td>✗</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h2 id="继承">继承</h2>
+<p>子类继承父类的属性和方法，并可以扩展或重写：</p>
+<div class="codehilite lang-python"><pre><span></span><code><span class="k">class</span><span class="w"> </span><span class="nc">Animal</span><span class="p">:</span>
+    <span class="k">def</span><span class="w"> </span><span class="fm">__init__</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">name</span><span class="p">):</span>
+        <span class="bp">self</span><span class="o">.</span><span class="n">name</span> <span class="o">=</span> <span class="n">name</span>
+
+    <span class="k">def</span><span class="w"> </span><span class="nf">speak</span><span class="p">(</span><span class="bp">self</span><span class="p">):</span>
+        <span class="nb">print</span><span class="p">(</span><span class="s2">"Some sound"</span><span class="p">)</span>
+
+<span class="k">class</span><span class="w"> </span><span class="nc">Dog</span><span class="p">(</span><span class="n">Animal</span><span class="p">):</span>  <span class="c1"># Dog 继承 Animal</span>
+    <span class="k">def</span><span class="w"> </span><span class="nf">speak</span><span class="p">(</span><span class="bp">self</span><span class="p">):</span>  <span class="c1"># 重写父类方法</span>
+        <span class="nb">print</span><span class="p">(</span><span class="sa">f</span><span class="s2">"</span><span class="si">{</span><span class="bp">self</span><span class="o">.</span><span class="n">name</span><span class="si">}</span><span class="s2"> says: Woof!"</span><span class="p">)</span>
+
+<span class="k">class</span><span class="w"> </span><span class="nc">Cat</span><span class="p">(</span><span class="n">Animal</span><span class="p">):</span>
+    <span class="k">def</span><span class="w"> </span><span class="nf">speak</span><span class="p">(</span><span class="bp">self</span><span class="p">):</span>
+        <span class="nb">print</span><span class="p">(</span><span class="sa">f</span><span class="s2">"</span><span class="si">{</span><span class="bp">self</span><span class="o">.</span><span class="n">name</span><span class="si">}</span><span class="s2"> says: Meow!"</span><span class="p">)</span>
+
+<span class="n">dog</span> <span class="o">=</span> <span class="n">Dog</span><span class="p">(</span><span class="s2">"Buddy"</span><span class="p">)</span>
+<span class="n">cat</span> <span class="o">=</span> <span class="n">Cat</span><span class="p">(</span><span class="s2">"Kitty"</span><span class="p">)</span>
+
+<span class="n">dog</span><span class="o">.</span><span class="n">speak</span><span class="p">()</span>  <span class="c1"># Buddy says: Woof!</span>
+<span class="n">cat</span><span class="o">.</span><span class="n">speak</span><span class="p">()</span>  <span class="c1"># Kitty says: Meow!</span>
+</code></pre></div>
+
+<h3 id="调用父类方法">调用父类方法</h3>
+<p>使用 <code>super()</code> 调用父类的方法：</p>
+<div class="codehilite lang-python"><pre><span></span><code><span class="k">class</span><span class="w"> </span><span class="nc">Animal</span><span class="p">:</span>
+    <span class="k">def</span><span class="w"> </span><span class="fm">__init__</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">name</span><span class="p">):</span>
+        <span class="bp">self</span><span class="o">.</span><span class="n">name</span> <span class="o">=</span> <span class="n">name</span>
+        <span class="nb">print</span><span class="p">(</span><span class="s2">"Animal init"</span><span class="p">)</span>
+
+<span class="k">class</span><span class="w"> </span><span class="nc">Dog</span><span class="p">(</span><span class="n">Animal</span><span class="p">):</span>
+    <span class="k">def</span><span class="w"> </span><span class="fm">__init__</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">name</span><span class="p">,</span> <span class="n">breed</span><span class="p">):</span>
+        <span class="nb">super</span><span class="p">()</span><span class="o">.</span><span class="fm">__init__</span><span class="p">(</span><span class="n">name</span><span class="p">)</span>  <span class="c1"># 调用父类的 __init__</span>
+        <span class="bp">self</span><span class="o">.</span><span class="n">breed</span> <span class="o">=</span> <span class="n">breed</span>      <span class="c1"># 扩展新属性</span>
+        <span class="nb">print</span><span class="p">(</span><span class="s2">"Dog init"</span><span class="p">)</span>
+
+<span class="n">dog</span> <span class="o">=</span> <span class="n">Dog</span><span class="p">(</span><span class="s2">"Buddy"</span><span class="p">,</span> <span class="s2">"Golden Retriever"</span><span class="p">)</span>
+<span class="nb">print</span><span class="p">(</span><span class="n">dog</span><span class="o">.</span><span class="n">name</span><span class="p">)</span>   <span class="c1"># Buddy</span>
+<span class="nb">print</span><span class="p">(</span><span class="n">dog</span><span class="o">.</span><span class="n">breed</span><span class="p">)</span>  <span class="c1"># Golden Retriever</span>
+</code></pre></div>
+
+<h3 id="多继承">多继承</h3>
+<p>Python 支持一个子类同时继承多个父类：</p>
+<div class="codehilite lang-python"><pre><span></span><code><span class="k">class</span><span class="w"> </span><span class="nc">Flyable</span><span class="p">:</span>
+    <span class="k">def</span><span class="w"> </span><span class="nf">fly</span><span class="p">(</span><span class="bp">self</span><span class="p">):</span>
+        <span class="nb">print</span><span class="p">(</span><span class="s2">"I can fly!"</span><span class="p">)</span>
+
+<span class="k">class</span><span class="w"> </span><span class="nc">Swimmable</span><span class="p">:</span>
+    <span class="k">def</span><span class="w"> </span><span class="nf">swim</span><span class="p">(</span><span class="bp">self</span><span class="p">):</span>
+        <span class="nb">print</span><span class="p">(</span><span class="s2">"I can swim!"</span><span class="p">)</span>
+
+<span class="k">class</span><span class="w"> </span><span class="nc">Duck</span><span class="p">(</span><span class="n">Flyable</span><span class="p">,</span> <span class="n">Swimmable</span><span class="p">):</span>  <span class="c1"># 同时继承 Flyable 和 Swimmable</span>
+    <span class="k">pass</span>
+
+<span class="n">duck</span> <span class="o">=</span> <span class="n">Duck</span><span class="p">()</span>
+<span class="n">duck</span><span class="o">.</span><span class="n">fly</span><span class="p">()</span>   <span class="c1"># I can fly!</span>
+<span class="n">duck</span><span class="o">.</span><span class="n">swim</span><span class="p">()</span>  <span class="c1"># I can swim!</span>
+</code></pre></div>
+
+<h4 id="方法解析顺序MRO">方法解析顺序（MRO）</h4>
+<p>当多个父类有同名方法时，Python 按照 <strong>MRO</strong>（Method Resolution Order）顺序查找：</p>
+<div class="codehilite lang-python"><pre><span></span><code><span class="k">class</span><span class="w"> </span><span class="nc">A</span><span class="p">:</span>
+    <span class="k">def</span><span class="w"> </span><span class="nf">hello</span><span class="p">(</span><span class="bp">self</span><span class="p">):</span>
+        <span class="nb">print</span><span class="p">(</span><span class="s2">"Hello from A"</span><span class="p">)</span>
+
+<span class="k">class</span><span class="w"> </span><span class="nc">B</span><span class="p">(</span><span class="n">A</span><span class="p">):</span>
+    <span class="k">def</span><span class="w"> </span><span class="nf">hello</span><span class="p">(</span><span class="bp">self</span><span class="p">):</span>
+        <span class="nb">print</span><span class="p">(</span><span class="s2">"Hello from B"</span><span class="p">)</span>
+
+<span class="k">class</span><span class="w"> </span><span class="nc">C</span><span class="p">(</span><span class="n">A</span><span class="p">):</span>
+    <span class="k">def</span><span class="w"> </span><span class="nf">hello</span><span class="p">(</span><span class="bp">self</span><span class="p">):</span>
+        <span class="nb">print</span><span class="p">(</span><span class="s2">"Hello from C"</span><span class="p">)</span>
+
+<span class="k">class</span><span class="w"> </span><span class="nc">D</span><span class="p">(</span><span class="n">B</span><span class="p">,</span> <span class="n">C</span><span class="p">):</span>  <span class="c1"># MRO: D -&gt; B -&gt; C -&gt; A</span>
+    <span class="k">pass</span>
+
+<span class="n">d</span> <span class="o">=</span> <span class="n">D</span><span class="p">()</span>
+<span class="n">d</span><span class="o">.</span><span class="n">hello</span><span class="p">()</span>  <span class="c1"># Hello from B（先找到 B 的方法）</span>
+
+<span class="c1"># 查看 MRO 顺序</span>
+<span class="nb">print</span><span class="p">(</span><span class="n">D</span><span class="o">.</span><span class="vm">__mro__</span><span class="p">)</span>
+<span class="c1"># (&lt;class 'D'&gt;, &lt;class 'B'&gt;, &lt;class 'C'&gt;, &lt;class 'A'&gt;, &lt;class 'object'&gt;)</span>
+</code></pre></div>
+
+<h4 id="super-在多继承中的行为"><code>super()</code> 在多继承中的行为</h4>
+<p><code>super()</code> 按照 MRO 顺序调用<strong>下一个</strong>类的方法，不一定是直接父类：</p>
+<div class="codehilite lang-python"><pre><span></span><code><span class="k">class</span><span class="w"> </span><span class="nc">A</span><span class="p">:</span>
+    <span class="k">def</span><span class="w"> </span><span class="fm">__init__</span><span class="p">(</span><span class="bp">self</span><span class="p">):</span>
+        <span class="nb">print</span><span class="p">(</span><span class="s2">"A init"</span><span class="p">)</span>
+
+<span class="k">class</span><span class="w"> </span><span class="nc">B</span><span class="p">(</span><span class="n">A</span><span class="p">):</span>
+    <span class="k">def</span><span class="w"> </span><span class="fm">__init__</span><span class="p">(</span><span class="bp">self</span><span class="p">):</span>
+        <span class="nb">print</span><span class="p">(</span><span class="s2">"B init"</span><span class="p">)</span>
+        <span class="nb">super</span><span class="p">()</span><span class="o">.</span><span class="fm">__init__</span><span class="p">()</span>  <span class="c1"># 调用 C 的 __init__，不是 A</span>
+
+<span class="k">class</span><span class="w"> </span><span class="nc">C</span><span class="p">(</span><span class="n">A</span><span class="p">):</span>
+    <span class="k">def</span><span class="w"> </span><span class="fm">__init__</span><span class="p">(</span><span class="bp">self</span><span class="p">):</span>
+        <span class="nb">print</span><span class="p">(</span><span class="s2">"C init"</span><span class="p">)</span>
+        <span class="nb">super</span><span class="p">()</span><span class="o">.</span><span class="fm">__init__</span><span class="p">()</span>  <span class="c1"># 调用 A 的 __init__</span>
+
+<span class="k">class</span><span class="w"> </span><span class="nc">D</span><span class="p">(</span><span class="n">B</span><span class="p">,</span> <span class="n">C</span><span class="p">):</span>
+    <span class="k">def</span><span class="w"> </span><span class="fm">__init__</span><span class="p">(</span><span class="bp">self</span><span class="p">):</span>
+        <span class="nb">print</span><span class="p">(</span><span class="s2">"D init"</span><span class="p">)</span>
+        <span class="nb">super</span><span class="p">()</span><span class="o">.</span><span class="fm">__init__</span><span class="p">()</span>  <span class="c1"># 调用 B 的 __init__</span>
+
+<span class="n">D</span><span class="p">()</span>
+<span class="c1"># 输出：</span>
+<span class="c1"># D init</span>
+<span class="c1"># B init</span>
+<span class="c1"># C init</span>
+<span class="c1"># A init</span>
+</code></pre></div>
+
+<p><strong>注意：</strong> 多继承虽然强大，但过度使用会使代码难以维护。通常优先考虑组合（Composition）代替多继承。</p>
+<hr />
+<h2 id="访问控制">访问控制</h2>
+<p>Python 没有严格的私有/公有，但以下划线约定访问权限：</p>
+<table>
+<thead>
+<tr>
+<th>命名方式</th>
+<th>含义</th>
+<th>访问建议</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>name</code></td>
+<td>公有</td>
+<td>可自由访问</td>
+</tr>
+<tr>
+<td><code>_name</code></td>
+<td>保护（约定）</td>
+<td>建议不直接访问</td>
+</tr>
+<tr>
+<td><code>__name</code></td>
+<td>私有（名称改写）</td>
+<td>外部难以直接访问</td>
+</tr>
+</tbody>
+</table>
+<div class="codehilite lang-python"><pre><span></span><code><span class="k">class</span><span class="w"> </span><span class="nc">BankAccount</span><span class="p">:</span>
+    <span class="k">def</span><span class="w"> </span><span class="fm">__init__</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">owner</span><span class="p">,</span> <span class="n">balance</span><span class="p">):</span>
+        <span class="bp">self</span><span class="o">.</span><span class="n">owner</span> <span class="o">=</span> <span class="n">owner</span>          <span class="c1"># 公有</span>
+        <span class="bp">self</span><span class="o">.</span><span class="n">_balance</span> <span class="o">=</span> <span class="n">balance</span>     <span class="c1"># 保护</span>
+        <span class="bp">self</span><span class="o">.</span><span class="n">__password</span> <span class="o">=</span> <span class="s2">"123456"</span>  <span class="c1"># 私有（名称改写为 _BankAccount__password）</span>
+
+    <span class="k">def</span><span class="w"> </span><span class="nf">deposit</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">amount</span><span class="p">):</span>
+        <span class="k">if</span> <span class="n">amount</span> <span class="o">&gt;</span> <span class="mi">0</span><span class="p">:</span>
+            <span class="bp">self</span><span class="o">.</span><span class="n">_balance</span> <span class="o">+=</span> <span class="n">amount</span>
+
+    <span class="k">def</span><span class="w"> </span><span class="nf">get_balance</span><span class="p">(</span><span class="bp">self</span><span class="p">):</span>
+        <span class="k">return</span> <span class="bp">self</span><span class="o">.</span><span class="n">_balance</span>
+
+<span class="n">account</span> <span class="o">=</span> <span class="n">BankAccount</span><span class="p">(</span><span class="s2">"Alice"</span><span class="p">,</span> <span class="mi">1000</span><span class="p">)</span>
+<span class="nb">print</span><span class="p">(</span><span class="n">account</span><span class="o">.</span><span class="n">owner</span><span class="p">)</span>      <span class="c1"># Alice</span>
+<span class="nb">print</span><span class="p">(</span><span class="n">account</span><span class="o">.</span><span class="n">_balance</span><span class="p">)</span>   <span class="c1"># 1000（可以访问，但不建议）</span>
+<span class="c1"># print(account.__password)  # AttributeError！</span>
+<span class="nb">print</span><span class="p">(</span><span class="n">account</span><span class="o">.</span><span class="n">_BankAccount__password</span><span class="p">)</span>  <span class="c1"># 123456（强行访问）</span>
+</code></pre></div>
+
+<p><strong>注意：</strong> Python 的访问控制基于约定，不是强制。</p>
+<h2 id="常见操作">常见操作</h2>
+<h3 id="内置属性">内置属性</h3>
+<p>Python 的类和对象有一些内置属性，用于获取元信息：</p>
+<table>
+<thead>
+<tr>
+<th>属性</th>
+<th>说明</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>__class__</code></td>
+<td>对象所属的类</td>
+</tr>
+<tr>
+<td><code>__bases__</code></td>
+<td>类的所有直接父类（元组）</td>
+</tr>
+<tr>
+<td><code>__base__</code></td>
+<td>类的第一个直接父类</td>
+</tr>
+<tr>
+<td><code>__dict__</code></td>
+<td>对象或类的属性字典</td>
+</tr>
+</tbody>
+</table>
+<div class="codehilite lang-python"><pre><span></span><code><span class="k">class</span><span class="w"> </span><span class="nc">Animal</span><span class="p">:</span>
+    <span class="k">pass</span>
+
+<span class="k">class</span><span class="w"> </span><span class="nc">Dog</span><span class="p">(</span><span class="n">Animal</span><span class="p">):</span>
+    <span class="n">species</span> <span class="o">=</span> <span class="s2">"Canis familiaris"</span>
+
+    <span class="k">def</span><span class="w"> </span><span class="fm">__init__</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">name</span><span class="p">):</span>
+        <span class="bp">self</span><span class="o">.</span><span class="n">name</span> <span class="o">=</span> <span class="n">name</span>
+
+<span class="n">dog</span> <span class="o">=</span> <span class="n">Dog</span><span class="p">(</span><span class="s2">"Buddy"</span><span class="p">)</span>
+
+<span class="c1"># __class__: 查看对象所属的类</span>
+<span class="nb">print</span><span class="p">(</span><span class="n">dog</span><span class="o">.</span><span class="vm">__class__</span><span class="p">)</span>        <span class="c1"># &lt;class '__main__.Dog'&gt;</span>
+<span class="nb">print</span><span class="p">(</span><span class="n">dog</span><span class="o">.</span><span class="vm">__class__</span><span class="o">.</span><span class="vm">__name__</span><span class="p">)</span>  <span class="c1"># Dog</span>
+
+<span class="c1"># __bases__: 查看类的所有直接父类</span>
+<span class="nb">print</span><span class="p">(</span><span class="n">Dog</span><span class="o">.</span><span class="vm">__bases__</span><span class="p">)</span>        <span class="c1"># (&lt;class '__main__.Animal'&gt;,)</span>
+
+<span class="c1"># __base__: 查看类的第一个直接父类</span>
+<span class="nb">print</span><span class="p">(</span><span class="n">Dog</span><span class="o">.</span><span class="n">__base__</span><span class="p">)</span>         <span class="c1"># &lt;class '__main__.Animal'&gt;</span>
+
+<span class="c1"># __dict__: 查看对象的属性字典</span>
+<span class="nb">print</span><span class="p">(</span><span class="n">dog</span><span class="o">.</span><span class="vm">__dict__</span><span class="p">)</span>         <span class="c1"># {'name': 'Buddy'}</span>
+
+<span class="c1"># __dict__: 查看类的属性字典（包含方法）</span>
+<span class="nb">print</span><span class="p">(</span><span class="n">Dog</span><span class="o">.</span><span class="vm">__dict__</span><span class="o">.</span><span class="n">keys</span><span class="p">())</span>  <span class="c1"># dict_keys([..., 'species', '__init__', ...])</span>
+</code></pre></div>
+
+<hr />
+<h3 id="type"><code>type()</code></h3>
+<p>返回对象的类型（对象是通过哪个类创建的：</p>
+<div class="codehilite lang-python"><pre><span></span><code><span class="n">dog</span> <span class="o">=</span> <span class="n">Dog</span><span class="p">(</span><span class="s2">"Buddy"</span><span class="p">)</span>
+
+<span class="nb">print</span><span class="p">(</span><span class="nb">type</span><span class="p">(</span><span class="n">dog</span><span class="p">))</span>       <span class="c1"># &lt;class '__main__.Dog'&gt;</span>
+<span class="nb">print</span><span class="p">(</span><span class="nb">type</span><span class="p">(</span><span class="n">Dog</span><span class="p">))</span>       <span class="c1"># &lt;class 'type'&gt;</span>
+<span class="nb">print</span><span class="p">(</span><span class="nb">type</span><span class="p">(</span><span class="mi">123</span><span class="p">))</span>       <span class="c1"># &lt;class 'int'&gt;</span>
+<span class="nb">print</span><span class="p">(</span><span class="nb">type</span><span class="p">(</span><span class="s2">"hello"</span><span class="p">))</span>   <span class="c1"># &lt;class 'str'&gt;</span>
+</code></pre></div>
+
+<hr />
+<h3 id="isinstance"><code>isinstance()</code></h3>
+<p>判断对象是否是指定类（或其子类）的实例：</p>
+<div class="codehilite lang-python"><pre><span></span><code><span class="n">dog</span> <span class="o">=</span> <span class="n">Dog</span><span class="p">(</span><span class="s2">"Buddy"</span><span class="p">)</span>
+
+<span class="nb">print</span><span class="p">(</span><span class="nb">isinstance</span><span class="p">(</span><span class="n">dog</span><span class="p">,</span> <span class="n">Dog</span><span class="p">))</span>      <span class="c1"># True</span>
+<span class="nb">print</span><span class="p">(</span><span class="nb">isinstance</span><span class="p">(</span><span class="n">dog</span><span class="p">,</span> <span class="n">Animal</span><span class="p">))</span>   <span class="c1"># True（Dog 继承 Animal）</span>
+<span class="nb">print</span><span class="p">(</span><span class="nb">isinstance</span><span class="p">(</span><span class="n">dog</span><span class="p">,</span> <span class="nb">str</span><span class="p">))</span>      <span class="c1"># False</span>
+
+<span class="c1"># 支持元组形式，判断是否为多个类型之一</span>
+<span class="nb">print</span><span class="p">(</span><span class="nb">isinstance</span><span class="p">(</span><span class="n">dog</span><span class="p">,</span> <span class="p">(</span><span class="n">Dog</span><span class="p">,</span> <span class="n">Cat</span><span class="p">)))</span>   <span class="c1"># True</span>
+<span class="nb">print</span><span class="p">(</span><span class="nb">isinstance</span><span class="p">(</span><span class="mi">123</span><span class="p">,</span> <span class="p">(</span><span class="nb">str</span><span class="p">,</span> <span class="nb">int</span><span class="p">)))</span>   <span class="c1"># True</span>
+</code></pre></div>
+
+<p><strong>与 <code>type()</code> 的区别：</strong> <code>isinstance()</code> 会考虑继承关系，<code>type()</code> 不会。</p>
+<hr />
+<h3 id="issubclass"><code>issubclass()</code></h3>
+<p>判断一个类是否是另一个类的子类：</p>
+<div class="codehilite lang-python"><pre><span></span><code><span class="nb">print</span><span class="p">(</span><span class="nb">issubclass</span><span class="p">(</span><span class="n">Dog</span><span class="p">,</span> <span class="n">Animal</span><span class="p">))</span>   <span class="c1"># True</span>
+<span class="nb">print</span><span class="p">(</span><span class="nb">issubclass</span><span class="p">(</span><span class="n">Dog</span><span class="p">,</span> <span class="n">Dog</span><span class="p">))</span>      <span class="c1"># True（类是自己的子类）</span>
+<span class="nb">print</span><span class="p">(</span><span class="nb">issubclass</span><span class="p">(</span><span class="n">Animal</span><span class="p">,</span> <span class="n">Dog</span><span class="p">))</span>   <span class="c1"># False</span>
+
+<span class="c1"># 支持元组</span>
+<span class="nb">print</span><span class="p">(</span><span class="nb">issubclass</span><span class="p">(</span><span class="n">Dog</span><span class="p">,</span> <span class="p">(</span><span class="n">Animal</span><span class="p">,</span> <span class="nb">str</span><span class="p">)))</span>  <span class="c1"># True</span>
+</code></pre></div>
+
+<hr />
+<h3 id="dir"><code>dir()</code></h3>
+<p>返回对象的所有属性和方法列表（包括继承的）：</p>
+<div class="codehilite lang-python"><pre><span></span><code><span class="n">dog</span> <span class="o">=</span> <span class="n">Dog</span><span class="p">(</span><span class="s2">"Buddy"</span><span class="p">)</span>
+
+<span class="c1"># 查看对象的所有属性和方法</span>
+<span class="nb">print</span><span class="p">(</span><span class="nb">dir</span><span class="p">(</span><span class="n">dog</span><span class="p">))</span>
+<span class="c1"># ['__class__', '__delattr__', ..., 'name', 'species']</span>
+
+<span class="c1"># 查看类的所有属性和方法</span>
+<span class="nb">print</span><span class="p">(</span><span class="nb">dir</span><span class="p">(</span><span class="n">Dog</span><span class="p">))</span>
+
+<span class="c1"># 不带参数时，返回当前作用域的所有名称</span>
+<span class="nb">print</span><span class="p">(</span><span class="nb">dir</span><span class="p">())</span>
+</code></pre></div>
+
+<hr />
+<h3 id="vars"><code>vars()</code></h3>
+<p>返回对象的 <code>__dict__</code> 属性，即对象的属性字典：</p>
+<div class="codehilite lang-python"><pre><span></span><code><span class="n">dog</span> <span class="o">=</span> <span class="n">Dog</span><span class="p">(</span><span class="s2">"Buddy"</span><span class="p">)</span>
+
+<span class="nb">print</span><span class="p">(</span><span class="nb">vars</span><span class="p">(</span><span class="n">dog</span><span class="p">))</span>        <span class="c1"># {'name': 'Buddy'}</span>
+<span class="nb">print</span><span class="p">(</span><span class="nb">vars</span><span class="p">(</span><span class="n">Dog</span><span class="p">))</span>        <span class="c1"># 类的 __dict__</span>
+<span class="nb">print</span><span class="p">(</span><span class="n">dog</span><span class="o">.</span><span class="vm">__dict__</span><span class="p">)</span>     <span class="c1"># 等同于 vars(dog)</span>
+
+<span class="c1"># 不带参数时，等同于 locals()</span>
+<span class="nb">print</span><span class="p">(</span><span class="nb">vars</span><span class="p">())</span>
+</code></pre></div>
+
+<hr />
+<h3 id="getattr"><code>getattr()</code></h3>
+<p>获取对象的属性值，属性不存在时可返回默认值。<strong>会沿着继承链查找属性（包括实例属性、类属性、父类属性）：</strong></p>
+<div class="codehilite lang-python"><pre><span></span><code><span class="k">class</span><span class="w"> </span><span class="nc">Animal</span><span class="p">:</span>
+    <span class="n">species</span> <span class="o">=</span> <span class="s2">"Animal"</span>
+
+    <span class="k">def</span><span class="w"> </span><span class="nf">speak</span><span class="p">(</span><span class="bp">self</span><span class="p">):</span>
+        <span class="k">return</span> <span class="s2">"Some sound"</span>
+
+<span class="k">class</span><span class="w"> </span><span class="nc">Dog</span><span class="p">(</span><span class="n">Animal</span><span class="p">):</span>
+    <span class="k">def</span><span class="w"> </span><span class="fm">__init__</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">name</span><span class="p">):</span>
+        <span class="bp">self</span><span class="o">.</span><span class="n">name</span> <span class="o">=</span> <span class="n">name</span>
+
+<span class="n">dog</span> <span class="o">=</span> <span class="n">Dog</span><span class="p">(</span><span class="s2">"Buddy"</span><span class="p">)</span>
+
+<span class="c1"># 查找实例属性</span>
+<span class="nb">print</span><span class="p">(</span><span class="nb">getattr</span><span class="p">(</span><span class="n">dog</span><span class="p">,</span> <span class="s2">"name"</span><span class="p">))</span>           <span class="c1"># Buddy</span>
+
+<span class="c1"># 查找类属性</span>
+<span class="nb">print</span><span class="p">(</span><span class="nb">getattr</span><span class="p">(</span><span class="n">dog</span><span class="p">,</span> <span class="s2">"species"</span><span class="p">))</span>        <span class="c1"># Animal（继承自父类）</span>
+
+<span class="c1"># 查找父类方法</span>
+<span class="nb">print</span><span class="p">(</span><span class="nb">getattr</span><span class="p">(</span><span class="n">dog</span><span class="p">,</span> <span class="s2">"speak"</span><span class="p">)())</span>       <span class="c1"># Some sound</span>
+
+<span class="c1"># 属性不存在时，提供默认值</span>
+<span class="nb">print</span><span class="p">(</span><span class="nb">getattr</span><span class="p">(</span><span class="n">dog</span><span class="p">,</span> <span class="s2">"age"</span><span class="p">,</span> <span class="mi">3</span><span class="p">))</span>         <span class="c1"># 3（默认值）</span>
+
+<span class="c1"># 等价于</span>
+<span class="n">dog</span><span class="o">.</span><span class="n">name</span>
+<span class="n">dog</span><span class="o">.</span><span class="n">species</span>
+<span class="n">dog</span><span class="o">.</span><span class="n">speak</span><span class="p">()</span>
+</code></pre></div>
+
+<hr />
+<h3 id="setattr"><code>setattr()</code></h3>
+<p>设置对象的属性值，属性不存在时会创建。<strong>如果父类定义了描述符（如 <code>@property.setter</code>）或 <code>__setattr__</code> 方法，会遵循继承链上的这些机制：</strong></p>
+<div class="codehilite lang-python"><pre><span></span><code><span class="n">dog</span> <span class="o">=</span> <span class="n">Dog</span><span class="p">(</span><span class="s2">"Buddy"</span><span class="p">)</span>
+
+<span class="nb">setattr</span><span class="p">(</span><span class="n">dog</span><span class="p">,</span> <span class="s2">"age"</span><span class="p">,</span> <span class="mi">3</span><span class="p">)</span>
+<span class="nb">print</span><span class="p">(</span><span class="n">dog</span><span class="o">.</span><span class="n">age</span><span class="p">)</span>            <span class="c1"># 3</span>
+
+<span class="c1"># 等价于</span>
+<span class="n">dog</span><span class="o">.</span><span class="n">age</span> <span class="o">=</span> <span class="mi">3</span>
+
+<span class="c1"># 可以动态设置属性名</span>
+<span class="n">attr_name</span> <span class="o">=</span> <span class="s2">"breed"</span>
+<span class="nb">setattr</span><span class="p">(</span><span class="n">dog</span><span class="p">,</span> <span class="n">attr_name</span><span class="p">,</span> <span class="s2">"Golden Retriever"</span><span class="p">)</span>
+<span class="nb">print</span><span class="p">(</span><span class="n">dog</span><span class="o">.</span><span class="n">breed</span><span class="p">)</span>          <span class="c1"># Golden Retriever</span>
+</code></pre></div>
+
+<hr />
+<h3 id="hasattr"><code>hasattr()</code></h3>
+<p>判断对象是否有指定属性。<strong>会检查继承链上的所有属性：</strong></p>
+<div class="codehilite lang-python"><pre><span></span><code><span class="n">dog</span> <span class="o">=</span> <span class="n">Dog</span><span class="p">(</span><span class="s2">"Buddy"</span><span class="p">)</span>
+
+<span class="c1"># 实例属性</span>
+<span class="nb">print</span><span class="p">(</span><span class="nb">hasattr</span><span class="p">(</span><span class="n">dog</span><span class="p">,</span> <span class="s2">"name"</span><span class="p">))</span>       <span class="c1"># True</span>
+
+<span class="c1"># 继承的类属性</span>
+<span class="nb">print</span><span class="p">(</span><span class="nb">hasattr</span><span class="p">(</span><span class="n">dog</span><span class="p">,</span> <span class="s2">"species"</span><span class="p">))</span>    <span class="c1"># True（继承自 Animal）</span>
+
+<span class="c1"># 继承的方法</span>
+<span class="nb">print</span><span class="p">(</span><span class="nb">hasattr</span><span class="p">(</span><span class="n">dog</span><span class="p">,</span> <span class="s2">"speak"</span><span class="p">))</span>      <span class="c1"># True（继承自 Animal）</span>
+
+<span class="c1"># 不存在的属性</span>
+<span class="nb">print</span><span class="p">(</span><span class="nb">hasattr</span><span class="p">(</span><span class="n">dog</span><span class="p">,</span> <span class="s2">"age"</span><span class="p">))</span>        <span class="c1"># False</span>
+
+<span class="c1"># 常用于安全地访问属性前进行检查</span>
+<span class="k">if</span> <span class="nb">hasattr</span><span class="p">(</span><span class="n">dog</span><span class="p">,</span> <span class="s2">"name"</span><span class="p">):</span>
+    <span class="nb">print</span><span class="p">(</span><span class="n">dog</span><span class="o">.</span><span class="n">name</span><span class="p">)</span>
+</code></pre></div>
+
+<hr />
+<h3 id="delattr"><code>delattr()</code></h3>
+<p>删除对象的属性：</p>
+<div class="codehilite lang-python"><pre><span></span><code><span class="n">dog</span> <span class="o">=</span> <span class="n">Dog</span><span class="p">(</span><span class="s2">"Buddy"</span><span class="p">)</span>
+
+<span class="c1"># 添加一个属性</span>
+<span class="nb">setattr</span><span class="p">(</span><span class="n">dog</span><span class="p">,</span> <span class="s2">"age"</span><span class="p">,</span> <span class="mi">3</span><span class="p">)</span>
+<span class="nb">print</span><span class="p">(</span><span class="n">dog</span><span class="o">.</span><span class="n">age</span><span class="p">)</span>            <span class="c1"># 3</span>
+
+<span class="c1"># 删除属性</span>
+<span class="nb">delattr</span><span class="p">(</span><span class="n">dog</span><span class="p">,</span> <span class="s2">"age"</span><span class="p">)</span>
+<span class="c1"># print(dog.age)          # AttributeError!</span>
+
+<span class="c1"># 等价于</span>
+<span class="k">del</span> <span class="n">dog</span><span class="o">.</span><span class="n">age</span>
+</code></pre></div>
+
+<hr />
+<h2 id="作业">作业</h2>
+<h3 id="一腾讯面试题">一、腾讯面试题</h3>
+<p>说出下面代码的打印结果</p>
+<div class="codehilite lang-python"><pre><span></span><code><span class="k">class</span><span class="w"> </span><span class="nc">Base</span><span class="p">(</span><span class="nb">object</span><span class="p">):</span>
+    <span class="k">def</span><span class="w"> </span><span class="fm">__init__</span><span class="p">(</span><span class="bp">self</span><span class="p">):</span>
+        <span class="nb">print</span><span class="p">(</span><span class="s2">"enter Base"</span><span class="p">)</span>
+        <span class="nb">print</span><span class="p">(</span><span class="s2">"leave Base"</span><span class="p">)</span>
+
+<span class="k">class</span><span class="w"> </span><span class="nc">A</span><span class="p">(</span><span class="n">Base</span><span class="p">):</span>
+    <span class="k">def</span><span class="w"> </span><span class="fm">__init__</span><span class="p">(</span><span class="bp">self</span><span class="p">):</span>
+        <span class="nb">print</span><span class="p">(</span><span class="s2">"enter A"</span><span class="p">)</span>
+        <span class="nb">super</span><span class="p">()</span><span class="o">.</span><span class="fm">__init__</span><span class="p">()</span>
+        <span class="nb">print</span><span class="p">(</span><span class="s2">"leave A"</span><span class="p">)</span>
+
+<span class="k">class</span><span class="w"> </span><span class="nc">B</span><span class="p">(</span><span class="n">Base</span><span class="p">):</span>
+    <span class="k">def</span><span class="w"> </span><span class="fm">__init__</span><span class="p">(</span><span class="bp">self</span><span class="p">):</span>
+        <span class="nb">print</span><span class="p">(</span><span class="s2">"enter B"</span><span class="p">)</span>
+        <span class="nb">super</span><span class="p">()</span><span class="o">.</span><span class="fm">__init__</span><span class="p">()</span>
+        <span class="nb">print</span><span class="p">(</span><span class="s2">"leave B"</span><span class="p">)</span>
+
+<span class="k">class</span><span class="w"> </span><span class="nc">C</span><span class="p">(</span><span class="n">A</span><span class="p">,</span> <span class="n">B</span><span class="p">):</span>
+    <span class="k">def</span><span class="w"> </span><span class="fm">__init__</span><span class="p">(</span><span class="bp">self</span><span class="p">):</span>
+        <span class="nb">print</span><span class="p">(</span><span class="s2">"enter C"</span><span class="p">)</span>
+        <span class="nb">super</span><span class="p">()</span><span class="o">.</span><span class="fm">__init__</span><span class="p">()</span>
+        <span class="nb">print</span><span class="p">(</span><span class="s2">"leave C"</span><span class="p">)</span>
+
+<span class="n">c</span> <span class="o">=</span> <span class="n">C</span><span class="p">()</span>
+</code></pre></div>
+
+<h3 id="二综合预测题">二、综合预测题</h3>
+<p>说出下面代码的打印结果</p>
+<div class="codehilite lang-python"><pre><span></span><code><span class="k">class</span><span class="w"> </span><span class="nc">Animal</span><span class="p">:</span>
+    <span class="n">kingdom</span> <span class="o">=</span> <span class="s2">"Animalia"</span>
+
+    <span class="k">def</span><span class="w"> </span><span class="fm">__init__</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">name</span><span class="p">):</span>
+        <span class="bp">self</span><span class="o">.</span><span class="n">name</span> <span class="o">=</span> <span class="n">name</span>
+
+<span class="k">class</span><span class="w"> </span><span class="nc">Dog</span><span class="p">(</span><span class="n">Animal</span><span class="p">):</span>
+    <span class="n">count</span> <span class="o">=</span> <span class="mi">0</span>
+
+    <span class="k">def</span><span class="w"> </span><span class="fm">__init__</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">name</span><span class="p">,</span> <span class="n">age</span><span class="p">):</span>
+        <span class="nb">super</span><span class="p">()</span><span class="o">.</span><span class="fm">__init__</span><span class="p">(</span><span class="n">name</span><span class="p">)</span>
+        <span class="bp">self</span><span class="o">.</span><span class="n">age</span> <span class="o">=</span> <span class="n">age</span>
+        <span class="n">Dog</span><span class="o">.</span><span class="n">count</span> <span class="o">+=</span> <span class="mi">1</span>
+
+    <span class="k">def</span><span class="w"> </span><span class="nf">bark</span><span class="p">(</span><span class="bp">self</span><span class="p">):</span>
+        <span class="k">return</span> <span class="sa">f</span><span class="s2">"</span><span class="si">{</span><span class="bp">self</span><span class="o">.</span><span class="n">name</span><span class="si">}</span><span class="s2"> says Woof!"</span>
+
+<span class="n">dog1</span> <span class="o">=</span> <span class="n">Dog</span><span class="p">(</span><span class="s2">"Buddy"</span><span class="p">,</span> <span class="mi">3</span><span class="p">)</span>
+<span class="n">dog2</span> <span class="o">=</span> <span class="n">Dog</span><span class="p">(</span><span class="s2">"Max"</span><span class="p">,</span> <span class="mi">5</span><span class="p">)</span>
+
+<span class="nb">print</span><span class="p">(</span><span class="nb">type</span><span class="p">(</span><span class="n">dog1</span><span class="p">))</span>
+<span class="nb">print</span><span class="p">(</span><span class="nb">type</span><span class="p">(</span><span class="n">Dog</span><span class="p">))</span>
+<span class="nb">print</span><span class="p">(</span><span class="nb">isinstance</span><span class="p">(</span><span class="n">dog1</span><span class="p">,</span> <span class="n">Animal</span><span class="p">))</span>
+<span class="nb">print</span><span class="p">(</span><span class="nb">isinstance</span><span class="p">(</span><span class="n">dog1</span><span class="p">,</span> <span class="p">(</span><span class="nb">int</span><span class="p">,</span> <span class="n">Dog</span><span class="p">)))</span>
+<span class="nb">print</span><span class="p">(</span><span class="nb">issubclass</span><span class="p">(</span><span class="n">Dog</span><span class="p">,</span> <span class="nb">object</span><span class="p">))</span>
+<span class="nb">print</span><span class="p">(</span><span class="n">dog1</span><span class="o">.</span><span class="vm">__class__</span><span class="o">.</span><span class="vm">__name__</span><span class="p">)</span>
+<span class="nb">print</span><span class="p">(</span><span class="n">Dog</span><span class="o">.</span><span class="n">__base__</span><span class="o">.</span><span class="vm">__name__</span><span class="p">)</span>
+<span class="nb">print</span><span class="p">(</span><span class="nb">hasattr</span><span class="p">(</span><span class="n">dog1</span><span class="p">,</span> <span class="s2">"kingdom"</span><span class="p">))</span>
+<span class="nb">print</span><span class="p">(</span><span class="nb">getattr</span><span class="p">(</span><span class="n">dog1</span><span class="p">,</span> <span class="s2">"age"</span><span class="p">))</span>
+<span class="nb">print</span><span class="p">(</span><span class="nb">getattr</span><span class="p">(</span><span class="n">dog2</span><span class="p">,</span> <span class="s2">"color"</span><span class="p">,</span> <span class="s2">"brown"</span><span class="p">))</span>
+<span class="nb">setattr</span><span class="p">(</span><span class="n">dog1</span><span class="p">,</span> <span class="s2">"color"</span><span class="p">,</span> <span class="s2">"golden"</span><span class="p">)</span>
+<span class="nb">print</span><span class="p">(</span><span class="n">dog1</span><span class="o">.</span><span class="n">color</span><span class="p">)</span>
+<span class="nb">print</span><span class="p">(</span><span class="s2">"bark"</span> <span class="ow">in</span> <span class="nb">dir</span><span class="p">(</span><span class="n">dog1</span><span class="p">))</span>
+<span class="nb">print</span><span class="p">(</span><span class="nb">vars</span><span class="p">(</span><span class="n">dog2</span><span class="p">))</span>
+<span class="nb">delattr</span><span class="p">(</span><span class="n">dog1</span><span class="p">,</span> <span class="s2">"color"</span><span class="p">)</span>
+<span class="nb">print</span><span class="p">(</span><span class="nb">hasattr</span><span class="p">(</span><span class="n">dog1</span><span class="p">,</span> <span class="s2">"color"</span><span class="p">))</span>
+<span class="nb">print</span><span class="p">(</span><span class="n">Dog</span><span class="o">.</span><span class="n">count</span><span class="p">)</span>
+</code></pre></div>
+
+<h3 id="三实现链表类">三、实现链表类</h3>
+<p>请实现一个单链表类 <code>LinkedList</code>，支持以下操作：</p>
+<p><strong>需要实现的方法：</strong></p>
+<table>
+<thead>
+<tr>
+<th>方法</th>
+<th>说明</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>__init__(data=None)</code></td>
+<td>初始化空链表；<code>data</code> 可以是列表、元组或集合，其中的值会被初始化为链表的节点</td>
+</tr>
+<tr>
+<td><code>traverse(callback)</code></td>
+<td>遍历链表，对每个节点值调用 <code>callback(index, value)</code></td>
+</tr>
+<tr>
+<td><code>__str__()</code></td>
+<td>返回链表的字符串表示，如 <code>"1 -&gt; 2 -&gt; 3"</code></td>
+</tr>
+<tr>
+<td><code>to_list()</code></td>
+<td>将链表转换为 Python 列表并返回</td>
+</tr>
+<tr>
+<td><code>append(value)</code></td>
+<td>在链表尾部添加一个新节点</td>
+</tr>
+<tr>
+<td><code>prepend(value)</code></td>
+<td>在链表头部添加一个新节点</td>
+</tr>
+<tr>
+<td><code>insert(index, value)</code></td>
+<td>在指定索引位置插入新节点，索引从 0 开始</td>
+</tr>
+<tr>
+<td><code>delete_by_value(value)</code></td>
+<td>删除第一个值等于 <code>value</code> 的节点，返回是否删除成功</td>
+</tr>
+<tr>
+<td><code>delete_by_index(index)</code></td>
+<td>删除指定索引位置的节点，返回被删除的值，索引越界时返回 <code>None</code></td>
+</tr>
+<tr>
+<td><code>find(value)</code></td>
+<td>查找值等于 <code>value</code> 的节点，返回其索引，不存在返回 -1</td>
+</tr>
+<tr>
+<td><code>get(index)</code></td>
+<td>获取指定索引位置的值，索引越界时返回 <code>None</code></td>
+</tr>
+<tr>
+<td><code>get_length()</code></td>
+<td>返回链表长度</td>
+</tr>
+<tr>
+<td><code>is_empty()</code></td>
+<td>判断链表是否为空</td>
+</tr>
+</tbody>
+</table>
+<p><strong>提示：</strong> 你可能需要先定义一个 <code>Node</code> 类来表示链表节点。</p>12:["$","article",null,{"className":"doc","id":"content","children":[["$","div",null,{"className":"doc-head-row mb-2 flex items-center justify-between gap-4","children":[["$","p",null,{"className":"kicker","children":[["$","span",null,{"className":"kicker-num","children":"第 8 章"}],["$","span",null,{"className":"kicker-mod","children":"面向对象"}]]}],["$","$L14",null,{"progressKey":"8"}]]}],["$","h1",null,{"className":"doc-h1","children":"类和对象"}],["$","$L15",null,{"html":"$16"}],"$L17"]}]
+13:["$","$L18",null,{"sections":"$5:1:props:children:0:props:courses:0:modules:1:chapters:0:sections"}]
+19:I[2619,["619","static/chunks/619-ba102abea3e3d0e4.js","526","static/chunks/app/course/%5Bkey%5D/%5Bch%5D/page-166c66fba529f17a.js"],""]
+17:["$","nav",null,{"className":"pager","aria-label":"章节导航","children":[["$","$L19",null,{"className":"pager-link pager-prev","href":"/course/py/7/","children":[["$","span",null,{"className":"pager-dir","children":"上一章"}],["$","span",null,{"className":"pager-name","children":"lambda表达式"}]]}],["$","$L19",null,{"className":"pager-link pager-next","href":"/course/py/9/","children":[["$","span",null,{"className":"pager-dir","children":"下一章"}],["$","span",null,{"className":"pager-name","children":"对象的类型"}]]}]]}]
+b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+7:null
+9:{"metadata":[["$","title","0",{"children":"第 8 章  · Python语言核心精讲 · AI大全栈"}],["$","meta","1",{"name":"description","content":"袁进主讲的系列课程手册：Python 语言核心精讲、数据科学工具包、数据库、Python 框架、Agents 底层逻辑、LangGraph、LangChain + DeepAgent。iOS 风格阅读体验，内置可运行的 Python 代码块。"}]],"error":null,"digest":"$undefined"}
+e:"$9:metadata"
