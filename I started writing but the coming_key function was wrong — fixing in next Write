@@ -1,0 +1,101 @@
+# -*- coding: utf-8 -*-
+"""把课件内容导出为 Next.js 站点使用的数据文件。
+
+复用 build_site.py 的解析管线（Markdown/Notebook → HTML、章节元信息、本地资源），
+产出：
+  web/content/index.json      课程清单（含小类与章节元信息，无正文）
+  web/content/{key}.json      各课程章节正文（预渲染 HTML）
+  web/public/search.json      全站搜索索引
+  web/public/{key}/assets/    课件引用的本地图片资源
+
+用法：/usr/bin/python3 scripts/export_content.py
+"""
+
+from __future__ import annotations
+
+import json
+import re
+import shutil
+from pathlib import Path
+
+import build_site as bs
+
+WEB: Path = bs.ROOT / "web"
+CONTENT: Path = WEB / "content"
+PUBLIC: Path = WEB / "public"
+
+# 两大方向：Agent 类课程独立成一级入口，与开发基础类隔离
+FAMILIES: list[dict] = [
+    {"key": "agent", "name": "AI · Agent 开发", "courses": ["ac", "lg", "da"]},
+    {"key": "dev", "name": "编程与工程基础", "courses": ["py", "fw", "db", "dst", "java", "cloud"]},
+]
+
+# 占位课程（内容未更新，先建分类空位）
+COMING_SOON: dict[str, dict] = {
+    "java": {
+        "title": "Java",
+        "desc": "Java 语言与 Web 开发课程，内容更新中。",
+        "glyph": "J",
+        "cls": "b-java",
+    },
+    "cloud": {
+        "title": "云计算",
+        "desc": "云计算与运维课程，内容更新中。",
+        "glyph": "云",
+        "cls": "b-cloud",
+    },
+}
+
+# 站内路径前缀（GitHub Pages 子路径）
+BASE: str = "/ai-course-site"
+
+# 课程卡片上的方向标签
+FAMILY_TAG: dict[str, str] = {"agent": "AI · Agent", "dev": "开发基础"}
+
+
+def build_coming_soon(key: str) -> dict:
+    meta = COMING_SOON[key]
+    return {
+        "key": key,
+        "title": meta["title"],
+        "desc": meta["desc"],
+        "glyph": meta["glyph"],
+        "cls": meta["cls"],
+        "family": next(f["name"] for f in FAMILIES if key in f["courses"]),
+        "coming_soon": True,
+        "chapters": [],
+        "sections": 0,
+    }
+
+
+def course_summary(course: dict) -> dict:
+    """课程卡片 / 侧栏需要的元信息（不含正文）。"""
+    chapters = [
+        {
+            "n": c["n"],
+            "slug": str(c["n"]),
+            "title": c["title"],
+            "url": f"/course/{c['course']}/{c['n']}/",
+            "sections": c.get("sec_meta", []),
+        }
+        for c in course["chapters"]
+    ]
+    return {
+        "key": coming_key(course) if is_coming(course) else course["key"],
+        "title": course["title"],
+        "desc": course.get("desc", "") or "",
+        "glyph": course.get("glyph", "·"),
+        "cls": course.get("cls", "b1"),
+        "family": course.get("family", ""),
+        "coming_soon": is_coming(course),
+        "modules": course.get("modules", []),
+        "chapters": chapters,
+        "section_count": sum(len(c["sections"]) for c in course["chapters"]),
+    }
+
+
+def is_coming(course: dict) -> bool:
+    return bool(course.get("coming_soon"))
+
+
+def coming_key(course: dict) -> /dev/null

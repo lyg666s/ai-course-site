@@ -30,3 +30,12 @@ build/
 /[0-9]*/
 HTML/
 .github/
+
+# 旧版静态站与生成产物（已被 Next.js 取代）
+/site/
+web/node_modules/
+web/.next/
+web/out/
+web/content/
+web/public/
+next-env.d.ts
