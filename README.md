@@ -2,7 +2,7 @@
 
 纯静态课程阅读站，由 [`build_site.py`](build_site.py) 从本地课件（Markdown / Jupyter Notebook）自动生成，通过 GitHub Pages 托管。
 
-收录七大课程：
+收录十门课程：
 
 1. Python语言核心精讲
 2. 数据库
@@ -11,8 +11,11 @@
 5. Agents底层逻辑
 6. LangGraph工作流开发
 7. LangChain + DeepAgent 开发实战
+8. Agent观测与评估
+9. Agent基础建设
+10. RAG知识库
 
-**功能**：三级折叠目录 · 全文搜索 · 可编辑并运行的 Python 代码块（内置 Pyodide，离线可用）· 学习进度记录 · 每页目录 · 深色模式 · 移动端适配。
+**功能**：三级折叠目录 · 全文搜索 · 章节“我的理解” · 分板块面试题库（作答/判分/解析） · 可编辑并运行的 Python 代码块（内置 Pyodide，离线可用）· 学习进度记录 · 每页目录 · 深色模式 · 移动端适配。
 
 ## 在线访问
 

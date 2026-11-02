@@ -7,7 +7,13 @@ import { chapterPath } from "@/lib/data";
 import type { CourseSummary } from "@/lib/data";
 
 // 课程详情页的「开始学习 / 继续学习」按钮：定位到第一个未完成的章节
-export default function CourseCTA({ course }: { course: CourseSummary }) {
+export default function CourseCTA({
+  course,
+  quizCount = 0,
+}: {
+  course: CourseSummary;
+  quizCount?: number;
+}) {
   const [target, setTarget] = useState<{ url: string; label: string } | null>(null);
   useEffect(() => {
     const done = getDone();
@@ -24,8 +30,15 @@ export default function CourseCTA({ course }: { course: CourseSummary }) {
 
   if (!target) return null;
   return (
-    <Link href={target.url} className="btn-primary no-underline">
-      {target.label}
-    </Link>
+    <div className="course-actions">
+      <Link href={target.url} className="btn-primary no-underline">
+        {target.label}
+      </Link>
+      {quizCount > 0 && (
+        <Link href={`/quiz/${course.key}/`} className="btn-ghost no-underline">
+          面试题库 · {quizCount} 题
+        </Link>
+      )}
+    </div>
   );
 }

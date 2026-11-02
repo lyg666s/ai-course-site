@@ -7,6 +7,7 @@ import LearnToggle from "@/components/LearnToggle";
 import LastReadTracker from "@/components/LastReadTracker";
 import Toc from "@/components/Toc";
 import type { CourseLite } from "@/components/Sidebar";
+import { getChapterInsight, getQuizQuestionCount } from "@/lib/extras";
 
 export async function generateStaticParams() {
   const params: { key: string; ch: string }[] = [];
@@ -54,6 +55,8 @@ export default async function ChapterPage({
   const cur = flat[idx];
   const prev = idx > 0 ? flat[idx - 1] : null;
   const next = idx < flat.length - 1 ? flat[idx + 1] : null;
+  const insight = getChapterInsight(key, slug);
+  const quizCount = getQuizQuestionCount(key);
 
   const family = familyOf(key);
   const sidebarCourses: CourseLite[] = family.courses.map((c) => {
@@ -103,6 +106,20 @@ export default async function ChapterPage({
             {cur.progress_key && <LearnToggle progressKey={cur.progress_key} />}
           </div>
           <h1 className="doc-h1">{cur.title}</h1>
+          {insight && (
+            <section className="chapter-insight" aria-label="我的理解">
+              <div className="chapter-insight-head">
+                <span className="chapter-insight-label">我的理解</span>
+                <span className="chapter-insight-note">基于本章内容 · 站点补充</span>
+              </div>
+              <p>{insight}</p>
+              {quizCount > 0 && (
+                <Link href={`/quiz/${key}/`} className="chapter-insight-link">
+                  学完去面试题库 · {quizCount} 题 →
+                </Link>
+              )}
+            </section>
+          )}
           <ChapterContent html={cur.html} />
           <nav className="pager" aria-label="章节导航">
             {prev ? (

@@ -3,6 +3,7 @@ import { notFound } from "next/navigation";
 import CourseCTA from "@/components/CourseCTA";
 import CourseChapterList from "@/components/CourseChapterList";
 import type { CourseSummary } from "@/lib/data";
+import { getQuizQuestionCount } from "@/lib/extras";
 
 export function generateStaticParams() {
   const params: { key: string }[] = [];
@@ -68,7 +69,7 @@ export default async function CoursePage({
         <span>{summary.section_count} 节</span>
       </div>
       <div className="mb-8">
-        <CourseCTA course={meta} />
+        <CourseCTA course={meta} quizCount={getQuizQuestionCount(key)} />
       </div>
 
       <CourseChapterList

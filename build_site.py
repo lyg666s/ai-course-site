@@ -14,8 +14,12 @@ from __future__ import annotations
 
 import json
 import html as html_lib
+import io
 import re
 import shutil
+import subprocess
+import tarfile
+import tempfile
 from pathlib import Path
 
 import markdown
@@ -66,8 +70,35 @@ SIBLINGS: list[dict] = [
     {"key": "fw", "dir": "python-framework-main", "glyph": "架", "cls": "b-fw", "layout": "standard"},
     {"key": "dst", "dir": "data-science-tools-main", "glyph": "数", "cls": "b-ds", "layout": "standard"},
     {"key": "ac", "dir": "agent-core-main", "glyph": "智", "cls": "b2", "layout": "standard"},
-    {"key": "lg", "dir": "langgraph-python-main", "glyph": "图", "cls": "b3", "layout": "flat"},
-    {"key": "da", "dir": "langchain-deepagent-main", "glyph": "链", "cls": "b4", "layout": "flat"},
+    {"key": "lg", "dir": "langgraph-python", "ref": "main", "glyph": "图", "cls": "b3", "layout": "flat"},
+    {"key": "da", "dir": "langchain-deepagent", "ref": "main", "glyph": "链", "cls": "b4", "layout": "flat"},
+    {
+        "key": "eval",
+        "dir": "ai-eval",
+        "glyph": "评",
+        "cls": "b5",
+        "layout": "flat",
+        "title": "Agent 观测与评估",
+        "desc": "以 Langfuse 为主线，学习 Agent 的追踪上报、提示词管理、人工与自动评估、数据集、实验、回归测试和线上告警，建立可量化的观测与评估闭环。",
+    },
+    {
+        "key": "infra",
+        "dir": "ai-infrastructure",
+        "glyph": "基",
+        "cls": "b-fw",
+        "layout": "flat",
+        "title": "Agent 基础建设",
+        "desc": "围绕企业级 Agent 运行环境，实践 Docker Compose、Langfuse、LiteLLM 网关、Nacos 配置中心、OpenSandbox 沙箱和 MinIO 对象存储的部署与治理。",
+    },
+    {
+        "key": "rag",
+        "dir": "deal_pilot_rag",
+        "glyph": "索",
+        "cls": "b-db",
+        "layout": "flat",
+        "title": "RAG 知识库",
+        "desc": "以飞书知识库为真实数据源，完整实现企业 RAG 链路：文档获取与归一化、图片处理、结构化切片、Embedding、Milvus 索引及稠密与全文混合检索。",
+    },
 ]
 COURSEWARE_NAMES: tuple[str, ...] = ("课件.md", "课件.ipynb", "课件md")
 
@@ -272,12 +303,17 @@ def render_code_cell(cell: dict) -> str:
 
 def rewrite_local_assets(text: str, prefix: str) -> str:
     """把课件里对本地 assets/ 的引用改写到站点目录（prefix 形如 assets/ch24）。"""
-    return re.sub(r"\]\((?:\./)?assets/", f"]({prefix}/", text)
+    text = re.sub(r"\]\((?:\./)?assets/", f"]({prefix}/", text)
+    return re.sub(
+        r"""(src=\\?["'])(?:\./)?assets/""",
+        lambda m: f"{m.group(1)}{prefix}/",
+        text,
+    )
 
 
 def asset_refs_in_text(text: str) -> set[str]:
-    """收集课件里引用的本地 assets 文件名。"""
-    return set(re.findall(r"\]\((?:\./)?assets/([^)\s]+)", text or ""))
+    """收集课件里引用的本地 assets 文件名（Markdown 与 HTML img 均支持）。"""
+    return set(re.findall(r"(?:\./)?assets/([^)\"'\\\s]+)", text or ""))
 
 
 def copy_referenced_files(src_dir: Path, dest_dir: Path, names: set[str]) -> int:
@@ -333,11 +369,50 @@ def convert_ipynb(path: Path, asset_prefix: str | None = None) -> tuple[str, lis
 # 同级课程加载
 # --------------------------------------------------------------------------
 
+def course_source_root(sib: dict) -> Path:
+    """课程源码目录；配置了 ref 时从该 Git 引用导出只读快照。
+
+    课程仓库同时用于逐章编写，当前工作树可能停在中间分支。站点发布需要
+    完整课程，因此按 main 等发布引用取快照，不触碰课程工作树。
+    """
+    root = ROOT.parent / sib["dir"]
+    ref = sib.get("ref")
+    if not ref or not (root / ".git").exists():
+        return root
+    try:
+        commit = subprocess.check_output(
+            ["git", "-C", str(root), "rev-parse", ref],
+            text=True,
+            stderr=subprocess.DEVNULL,
+        ).strip()
+    except (OSError, subprocess.CalledProcessError):
+        return root
+
+    cache = (
+        Path(tempfile.gettempdir())
+        / "z-duyi-course-snapshots"
+        / f"{sib['key']}-{commit[:12]}"
+    )
+    marker = cache / ".source-commit"
+    if marker.is_file() and marker.read_text(encoding="utf-8").strip() == commit:
+        return cache
+
+    shutil.rmtree(cache, ignore_errors=True)
+    cache.mkdir(parents=True)
+    archive = subprocess.check_output(
+        ["git", "-C", str(root), "archive", "--format=tar", ref]
+    )
+    with tarfile.open(fileobj=io.BytesIO(archive), mode="r:") as tar:
+        tar.extractall(cache)
+    marker.write_text(commit, encoding="utf-8")
+    return cache
+
+
 def load_sibling_courses() -> list[dict]:
     """扫描同级课程目录，返回章节列表。"""
     chapters: list[dict] = []
     for sib in SIBLINGS:
-        root = ROOT.parent / sib["dir"]
+        root = course_source_root(sib)
         if not root.is_dir():
             continue
         meta = {}
@@ -347,7 +422,7 @@ def load_sibling_courses() -> list[dict]:
                 meta = json.loads(meta_path.read_text(encoding="utf-8"))
             except (OSError, json.JSONDecodeError):
                 meta = {}
-        title = meta.get("title", sib["key"])
+        title = sib.get("title") or meta.get("title") or sib["key"]
         found: list[dict] = []
         if sib.get("layout") == "flat":
             # 课件/ 目录下的 "NN. 名称.md|.ipynb" 课件文件
@@ -1916,14 +1991,16 @@ def build() -> None:
     assert chapters, "未找到任何章节课件"
     sibling_chapters = load_sibling_courses()
 
-    # 把课程元数据回填到 SIBLINGS（侧栏/首页分组标题用）
+    # 把课程元数据回填到 SIBLINGS（侧栏/首页分组标题用，站点显式配置优先）
     for sib in SIBLINGS:
-        meta_path = ROOT.parent / sib["dir"] / "课程内容.json"
+        meta_path = course_source_root(sib) / "课程内容.json"
         if meta_path.exists():
             try:
                 meta = json.loads(meta_path.read_text(encoding="utf-8"))
-                sib["title"] = meta.get("title", sib["key"])
-                sib["desc"] = (meta.get("description") or "").strip()
+                if not sib.get("title") and meta.get("title"):
+                    sib["title"] = meta["title"]
+                if not sib.get("desc") and (meta.get("description") or "").strip():
+                    sib["desc"] = meta["description"].strip()
             except (OSError, json.JSONDecodeError):
                 pass
 

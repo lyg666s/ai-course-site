@@ -6,7 +6,7 @@ import { allFamilies } from "@/lib/data";
 export const metadata: Metadata = {
   title: "AI大全栈 · 课程手册",
   description:
-    "袁进主讲的系列课程手册：Python 语言核心精讲、数据科学工具包、数据库、Python 框架、Agents 底层逻辑、LangGraph、LangChain + DeepAgent。iOS 风格阅读体验，内置可运行的 Python 代码块。",
+    "袁进主讲的系列课程手册：Python 语言核心精讲、数据科学工具包、数据库、Python 框架、Agents 底层逻辑、LangGraph、LangChain + DeepAgent、Agent 观测与评估、Agent 基础建设、RAG 知识库。iOS 风格阅读体验，内置可运行的 Python 代码块。",
 };
 
 // 主题防闪烁：首屏渲染前根据 localStorage / 系统偏好挂 .dark

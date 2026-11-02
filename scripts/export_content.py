@@ -30,9 +30,14 @@ PUBLIC: Path = WEB / "public"
 
 BASE: str = "/ai-course-site"  # GitHub Pages 子路径
 
-# 两大方向（IA）：Agent 类课程独立成一级入口，与开发基础类隔离
+# 三个方向（IA）：Agent 基础、Agent 工程化、开发基础
 FAMILIES: list[dict] = [
     {"key": "agent", "name": "AI · Agent 开发", "courses": ["ac", "lg", "da"]},
+    {
+        "key": "engineering",
+        "name": "AI · Agent 工程化",
+        "courses": ["eval", "infra", "rag"],
+    },
     {
         "key": "dev",
         "name": "编程与工程基础",
@@ -180,14 +185,16 @@ def main() -> None:
     sibling_chapters = bs.load_sibling_courses()
     layouts = {s["key"]: s.get("layout", "standard") for s in bs.SIBLINGS}
 
-    # 回填同级课程的标题/描述
+    # 回填同级课程的标题/描述（站点显式配置优先）
     for sib in bs.SIBLINGS:
-        meta_path = bs.ROOT.parent / sib["dir"] / "课程内容.json"
+        meta_path = bs.course_source_root(sib) / "课程内容.json"
         if meta_path.exists():
             try:
                 meta = json.loads(meta_path.read_text(encoding="utf-8"))
-                sib["title"] = meta.get("title", sib["key"])
-                sib["desc"] = (meta.get("description") or "").strip()
+                if not sib.get("title") and meta.get("title"):
+                    sib["title"] = meta["title"]
+                if not sib.get("desc") and (meta.get("description") or "").strip():
+                    sib["desc"] = meta["description"].strip()
             except (OSError, json.JSONDecodeError):
                 pass
 

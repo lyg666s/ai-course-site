@@ -9,7 +9,8 @@ const PATH = [
   { step: "02", name: "数据库 + 数据科学", href: "/course/db/", desc: "PostgreSQL · NumPy · Pandas · Matplotlib" },
   { step: "03", name: "Python 框架", href: "/course/fw/", desc: "FastAPI · SQLAlchemy · 部署上云" },
   { step: "04", name: "AI · Agent 开发", href: "/agent/", desc: "底层逻辑 · LangGraph · DeepAgent" },
-  { step: "05", name: "Java · 云计算", href: "/course/java/", desc: "即将上线", soon: true },
+  { step: "05", name: "AI · Agent 工程化", href: "/engineering/", desc: "观测评估 · 基础设施 · RAG 知识库" },
+  { step: "06", name: "Java · 云计算", href: "/course/java/", desc: "即将上线", soon: true },
 ];
 
 export default function Home() {
@@ -26,8 +27,8 @@ export default function Home() {
           AI大全栈<span className="hl">课程手册</span>
         </h1>
         <p>
-          从 Python 语言核心，到数据库、数据科学、Web 框架，再到 AI · Agent
-          开发——一条完整的学习路线，全程干货，大量练习，重视概念与设计。
+          从 Python 语言核心，到数据库、数据科学、Web 框架，再到 Agent
+          开发、观测评估、基础设施与 RAG 知识库——一条完整的学习路线，全程干货，大量练习，重视概念与设计。
         </p>
         <p className="hero-facts">
           {families.length} 大方向 · {families.reduce((a, f) => a + f.courses.length, 0)} 门课程 · {total} 章 · 内置可运行的 Python 代码块

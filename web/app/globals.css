@@ -253,6 +253,8 @@ body:not(.has-sidebar) .burger-btn { display: none; }
 .md h2 { font-size: 22px; font-weight: 700; letter-spacing: -0.3px; margin: 2em 0 0.7em; }
 .md h3 { font-size: 18.5px; font-weight: 650; margin: 1.6em 0 0.5em; }
 .md h4 { font-size: 16.5px; font-weight: 650; margin: 1.4em 0 0.4em; }
+/* 锚点跳转时别被吸顶导航挡住 */
+.md h2, .md h3, .md h4, .md h5 { scroll-margin-top: 78px; }
 .md hr { border: 0; border-top: 0.5px solid var(--sep-soft); margin: 2.2em 0; }
 .md strong { font-weight: 650; }
 .md mark {
@@ -427,6 +429,123 @@ pre[contenteditable="true"] { outline: none; caret-color: var(--blue); -webkit-u
   border-radius: 999px; padding: 4px 10px; width: fit-content;
 }
 
+/* ===== 章节理解 & 面试题库 ===== */
+.course-actions { display: flex; align-items: center; flex-wrap: wrap; gap: 10px; }
+.chapter-insight {
+  margin: 18px 0 26px;
+  padding: 18px 20px 16px;
+  border: 0.5px solid var(--sep-soft);
+  border-radius: 16px;
+  background:
+    radial-gradient(110% 140% at 0% 0%, rgba(0, 122, 255, 0.14), transparent 62%),
+    var(--card);
+  box-shadow: 0 1px 0 rgba(255, 255, 255, 0.04) inset;
+}
+.chapter-insight-head { display: flex; align-items: center; justify-content: space-between; gap: 12px; }
+.chapter-insight-label {
+  display: inline-flex; align-items: center; gap: 7px;
+  color: var(--blue); font-size: 12px; font-weight: 700; letter-spacing: 0.08em;
+}
+.chapter-insight-label::before {
+  content: ""; width: 6px; height: 6px; border-radius: 50%;
+  background: var(--blue); box-shadow: 0 0 0 4px var(--blue-tint);
+}
+.chapter-insight-note { font-size: 11.5px; color: var(--label3); }
+.chapter-insight p { margin: 10px 0 0; font-size: 15.5px; line-height: 1.75; color: var(--label); }
+.chapter-insight-link {
+  display: inline-block; margin-top: 10px;
+  color: var(--blue); font-size: 13px; font-weight: 600;
+  text-decoration: none;
+}
+.chapter-insight-link:hover { text-decoration: underline; }
+
+.quiz-shell { max-width: 52rem; margin: 0 auto; }
+.quiz-topline {
+  display: flex; align-items: center; justify-content: space-between; gap: 12px;
+  color: var(--label3); font-size: 12.5px;
+}
+.quiz-back { color: var(--label2); text-decoration: none; font-weight: 600; }
+.quiz-back:hover { color: var(--blue); text-decoration: none; }
+.quiz-hero { padding: 26px 2px 22px; }
+.quiz-kicker { margin: 0 0 7px; color: var(--blue); font-size: 12px; font-weight: 700; letter-spacing: 0.1em; }
+.quiz-hero h1 { margin: 0 0 10px; font-size: clamp(27px, 4vw, 36px); line-height: 1.25; letter-spacing: -0.5px; }
+.quiz-hero p:last-child { margin: 0; max-width: 46em; color: var(--label2); font-size: 14.5px; line-height: 1.75; }
+.quiz-blocks { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 8px; }
+.quiz-block-tab {
+  display: flex; flex-direction: column; gap: 4px; text-align: left;
+  padding: 12px 14px; border-radius: 14px; border: 0.5px solid transparent;
+  background: var(--card); color: var(--label); cursor: pointer;
+  font-family: var(--sans); transition: background 0.15s ease, border-color 0.15s ease;
+}
+.quiz-block-tab:hover { background: var(--fill2); }
+.quiz-block-tab.active { background: var(--blue-tint); border-color: rgba(0, 122, 255, 0.35); }
+.quiz-block-tab span { font-size: 13.5px; font-weight: 700; }
+.quiz-block-tab small { color: var(--label2); font-size: 11.5px; }
+.quiz-block-tab.active span { color: var(--blue); }
+.quiz-progress { height: 4px; margin: 14px 2px 0; border-radius: 2px; background: var(--fill); overflow: hidden; }
+.quiz-progress i { display: block; height: 100%; border-radius: 2px; background: var(--blue); transition: width 0.25s ease; }
+.quiz-card {
+  margin-top: 16px; padding: 26px 28px 22px;
+  background: var(--card); border: 0.5px solid var(--sep-soft);
+  border-radius: 20px; box-shadow: 0 10px 36px rgba(0, 0, 0, 0.06);
+}
+.quiz-meta { display: flex; align-items: center; justify-content: space-between; gap: 12px; color: var(--label3); font-size: 12px; font-weight: 600; }
+.quiz-meta span:first-child { color: var(--blue); }
+.quiz-card h2 { margin: 16px 0 20px; font-size: 19px; line-height: 1.6; letter-spacing: -0.2px; }
+.quiz-options { display: flex; flex-direction: column; gap: 9px; }
+.quiz-option {
+  display: flex; align-items: center; gap: 12px; width: 100%;
+  padding: 12px 14px; border: 0.5px solid var(--sep-soft); border-radius: 12px;
+  background: var(--card); color: var(--label); text-align: left;
+  font-family: var(--sans); font-size: 14.5px; line-height: 1.55; cursor: pointer;
+  transition: background 0.12s ease, border-color 0.12s ease, opacity 0.12s ease;
+}
+.quiz-option:hover:not(:disabled) { background: var(--fill2); }
+.quiz-option:disabled { cursor: default; }
+.quiz-option.is-selected { border-color: rgba(0, 122, 255, 0.55); background: var(--blue-tint); }
+.quiz-option.is-correct { border-color: rgba(52, 199, 89, 0.55); background: var(--green-tint); }
+.quiz-option.is-wrong { border-color: rgba(255, 59, 48, 0.45); background: rgba(255, 59, 48, 0.09); }
+.quiz-option.is-dim { opacity: 0.52; }
+.quiz-option-key {
+  display: inline-flex; align-items: center; justify-content: center; flex: none;
+  width: 27px; height: 27px; border-radius: 8px;
+  background: var(--fill); color: var(--label2);
+  font-family: var(--mono); font-size: 12px; font-weight: 700;
+}
+.quiz-option.is-selected .quiz-option-key { background: var(--blue); color: #fff; }
+.quiz-option.is-correct .quiz-option-key { background: var(--green); color: #fff; }
+.quiz-option.is-wrong .quiz-option-key { background: #FF3B30; color: #fff; }
+.quiz-option-mark { margin-left: auto; flex: none; font-size: 11px; font-weight: 700; color: var(--label2); }
+.quiz-option.is-correct .quiz-option-mark { color: var(--green-ink); }
+.quiz-feedback { margin-top: 16px; padding: 13px 15px; border-radius: 12px; border-left: 3px solid var(--green); background: var(--green-tint); }
+.quiz-feedback.bad { border-left-color: #FF3B30; background: rgba(255, 59, 48, 0.08); }
+.quiz-feedback strong { font-size: 13px; color: var(--green-ink); }
+.quiz-feedback.bad strong { color: var(--code-err); }
+.quiz-feedback p { margin: 5px 0 0; color: var(--label2); font-size: 13.5px; line-height: 1.7; }
+.quiz-actions { display: flex; align-items: center; justify-content: space-between; gap: 16px; margin-top: 22px; }
+.quiz-actions-hint { color: var(--label3); font-size: 12px; }
+.quiz-actions .btn-primary { border: 0; cursor: pointer; }
+.quiz-result {
+  margin-top: 16px; padding: 44px 32px; text-align: center;
+  background: var(--card); border: 0.5px solid var(--sep-soft); border-radius: 20px;
+}
+.quiz-result-label { display: block; color: var(--blue); font-size: 12px; font-weight: 700; letter-spacing: 0.1em; }
+.quiz-result strong { display: block; margin: 10px 0 12px; font-size: 56px; line-height: 1; letter-spacing: -2px; }
+.quiz-result strong em { font-size: 20px; font-style: normal; color: var(--label3); letter-spacing: 0; }
+.quiz-result p { margin: 0 auto; max-width: 30em; color: var(--label2); font-size: 14.5px; }
+.quiz-result-actions { display: flex; justify-content: center; flex-wrap: wrap; gap: 10px; margin-top: 24px; }
+.quiz-result-actions .btn-primary { border: 0; cursor: pointer; }
+
+@media (max-width: 720px) {
+  .quiz-blocks { grid-template-columns: 1fr; }
+  .quiz-card { padding: 20px 18px 18px; }
+  .quiz-actions { align-items: stretch; flex-direction: column; }
+  .quiz-actions .btn-primary { width: 100%; text-align: center; }
+  .chapter-insight { padding: 16px 16px 14px; }
+  .chapter-insight-head { align-items: flex-start; flex-direction: column; gap: 3px; }
+  .quiz-result { padding: 36px 20px; }
+}
+
 @media (max-width: 920px) {
   .doc-wrap { margin-left: 0; padding: 76px 14px 70px; }
   .doc { padding: 28px 22px 30px; border-radius: 16px; }
@@ -437,4 +556,15 @@ pre[contenteditable="true"] { outline: none; caret-color: var(--blue); -webkit-u
   .codecard .codehilite > pre, .md pre { padding: 14px 18px 16px; }
   .codecard-bar { padding: 10px 10px 0 18px; }
   .codecard-out { padding: 12px 18px 14px; }
+
+  /* 手机端放大点击热区：目录小箭头 / 章节行 / 小节链接 */
+  .side-link { padding: 10px 12px; }
+  .side-fold {
+    display: inline-flex; align-items: center; justify-content: center;
+    min-width: 40px; min-height: 40px; margin-right: 2px;
+  }
+  .side-fold .side-chev { font-size: 15px; color: var(--label2); }
+  .side-sec { padding: 0 6px 6px 40px; }
+  .side-sec a { padding: 8px 10px; font-size: 13px; }
+  .side-course-head, .side-mod-head { padding-top: 9px; padding-bottom: 9px; }
 }

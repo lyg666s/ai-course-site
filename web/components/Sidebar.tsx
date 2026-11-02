@@ -1,7 +1,7 @@
 "use client";
 
 import Link from "next/link";
-import { useEffect, useState } from "react";
+import { useEffect, useState, type MouseEvent } from "react";
 import { usePathname } from "next/navigation";
 import { getDone, type DoneMap } from "@/lib/progress";
 
@@ -76,6 +76,13 @@ export default function Sidebar({
       return next;
     });
 
+  const closeNav = () => document.body.classList.remove("nav-open");
+
+  // 点中目录里的链接就收起移动端抽屉（锚点跳转不会触发路由变化，需单独处理）
+  const onNavClick = (e: MouseEvent<HTMLElement>) => {
+    if ((e.target as HTMLElement).closest("a")) closeNav();
+  };
+
   const total = courses.reduce(
     (acc, c) => acc + c.modules.reduce((a, m) => a + m.chapters.filter((ch) => ch.progress_key).length, 0),
     0
@@ -91,76 +98,79 @@ export default function Sidebar({
   );
 
   return (
-    <aside className="sidebar">
-      <nav className="side-nav" aria-label="课程目录">
-        {courses.map((course) => {
-          const cid = `c-${course.key}`;
-          const isOpen = open.has(cid);
-          return (
-            <div className="side-group" key={course.key}>
-              <div className={`fold ${isOpen ? "open" : ""}`}>
-                <button
-                  type="button"
-                  className="fold-head side-course-head"
-                  aria-expanded={isOpen}
-                  onClick={() => toggle(cid)}
-                >
-                  <span className="side-chev" aria-hidden>›</span>
-                  <span className={`badge badge-mini ${course.cls}`} aria-hidden>{course.glyph}</span>
-                  <span className="side-cat-name">{course.title}</span>
-                </button>
-                <div className="fold-body">
-                  <div className="fold-inner">
-                    {course.coming_soon && (
-                      <p className="coming-pill mx-3 my-2">即将上线</p>
-                    )}
-                    {course.modules.map((mod, mi) => {
-                      const mid = `m-${course.key}-${mod.name}`;
-                      const single = course.modules.length === 1;
-                      const rows = mod.chapters.map((ch) => (
-                        <ChapterRow
-                          key={ch.slug}
-                          ch={ch}
-                          courseKey={course.key}
-                          done={!!done[ch.progress_key]}
-                          open={open.has(`ch-${course.key}-${ch.slug}`)}
-                          toggle={toggle}
-                        />
-                      ));
-                      return single ? (
-                        <div key={mi}>{rows}</div>
-                      ) : (
-                        <div className={`fold ${open.has(mid) ? "open" : ""}`} key={mi}>
-                          <button
-                            type="button"
-                            className="fold-head side-mod-head"
-                            aria-expanded={open.has(mid)}
-                            onClick={() => toggle(mid)}
-                          >
-                            <span className="side-chev" aria-hidden>›</span>
-                            {mod.name}
-                          </button>
-                          <div className="fold-body">
-                            <div className="fold-inner">{rows}</div>
+    <>
+      <aside className="sidebar" aria-label="课程侧栏">
+        <nav className="side-nav" aria-label="课程目录" onClick={onNavClick}>
+          {courses.map((course) => {
+            const cid = `c-${course.key}`;
+            const isOpen = open.has(cid);
+            return (
+              <div className="side-group" key={course.key}>
+                <div className={`fold ${isOpen ? "open" : ""}`}>
+                  <button
+                    type="button"
+                    className="fold-head side-course-head"
+                    aria-expanded={isOpen}
+                    onClick={() => toggle(cid)}
+                  >
+                    <span className="side-chev" aria-hidden>›</span>
+                    <span className={`badge badge-mini ${course.cls}`} aria-hidden>{course.glyph}</span>
+                    <span className="side-cat-name">{course.title}</span>
+                  </button>
+                  <div className="fold-body">
+                    <div className="fold-inner">
+                      {course.coming_soon && (
+                        <p className="coming-pill mx-3 my-2">即将上线</p>
+                      )}
+                      {course.modules.map((mod, mi) => {
+                        const mid = `m-${course.key}-${mod.name}`;
+                        const single = course.modules.length === 1;
+                        const rows = mod.chapters.map((ch) => (
+                          <ChapterRow
+                            key={ch.slug}
+                            ch={ch}
+                            courseKey={course.key}
+                            done={!!done[ch.progress_key]}
+                            open={open.has(`ch-${course.key}-${ch.slug}`)}
+                            toggle={toggle}
+                          />
+                        ));
+                        return single ? (
+                          <div key={mi}>{rows}</div>
+                        ) : (
+                          <div className={`fold ${open.has(mid) ? "open" : ""}`} key={mi}>
+                            <button
+                              type="button"
+                              className="fold-head side-mod-head"
+                              aria-expanded={open.has(mid)}
+                              onClick={() => toggle(mid)}
+                            >
+                              <span className="side-chev" aria-hidden>›</span>
+                              {mod.name}
+                            </button>
+                            <div className="fold-body">
+                              <div className="fold-inner">{rows}</div>
+                            </div>
                           </div>
-                        </div>
-                      );
-                    })}
+                        );
+                      })}
+                    </div>
                   </div>
                 </div>
               </div>
+            );
+          })}
+          <div className="side-foot">
+            <div className="progress">
+              <i style={{ width: `${total ? (count / total) * 100 : 0}%` }} />
             </div>
-          );
-        })}
-        <div className="side-foot">
-          <div className="progress">
-            <i style={{ width: `${total ? (count / total) * 100 : 0}%` }} />
+            <span>已学 {count} / {total}</span>
           </div>
-          <span>已学 {count} / {total}</span>
-        </div>
-      </nav>
-      <div className="backdrop" onClick={() => document.body.classList.remove("nav-open")} />
-    </aside>
+        </nav>
+      </aside>
+      {/* 遮罩必须是 .sidebar 的兄弟节点：放进去会被侧栏的 z-index 层叠上下文反盖住 */}
+      <div className="backdrop" onClick={closeNav} aria-hidden />
+    </>
   );
 }
 
