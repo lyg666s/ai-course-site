@@ -1,0 +1,448 @@
+1:"$Sreact.fragment"
+2:I[6590,["619","static/chunks/619-ba102abea3e3d0e4.js","177","static/chunks/app/layout-1fd0282a046e2468.js"],"default"]
+3:I[9766,[],""]
+4:I[8924,[],""]
+6:I[4431,[],"OutletBoundary"]
+8:I[5278,[],"AsyncMetadataOutlet"]
+b:I[7150,[],""]
+:HL["/ai-course-site/_next/static/css/d95fb35eb6f8b422.css","style"]
+0:{"P":null,"b":"roPj9tBtCm3tsuTIKfjyH","p":"/ai-course-site","c":["","course","rag","15",""],"i":false,"f":[[["",{"children":["course",{"children":[["key","rag","d"],{"children":[["ch","15","d"],{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/ai-course-site/_next/static/css/d95fb35eb6f8b422.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"zh-CN","suppressHydrationWarning":true,"children":[["$","head",null,{"children":["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var t=localStorage.getItem(\"theme\");var d=t?t===\"dark\":window.matchMedia(\"(prefers-color-scheme: dark)\").matches;if(d)document.documentElement.classList.add(\"dark\");}catch(e){}})();"}}]}],["$","body",null,{"children":[["$","$L2",null,{"families":[{"key":"agent","name":"AI · Agent 开发"},{"key":"engineering","name":"AI · Agent 工程化"},{"key":"dev","name":"编程与工程基础"}]}],["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","footer",null,{"className":"mx-auto max-w-[52rem] px-6 pb-10 text-center text-xs text-label3","children":"AI大全栈 · 课程手册 — 由课件自动生成，仅供学习使用"}]]}]]}]]}],{"children":["course",["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["key","rag","d"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["ch","15","d"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L5",null,["$","$L6",null,{"children":["$L7",["$","$L8",null,{"promise":"$@9"}]]}]]}],{},null,false]},[["$","div","l",{"className":"doc-wrap","children":["$","div",null,{"className":"doc","aria-busy":"true","aria-label":"加载中","children":[["$","div",null,{"className":"mb-2 h-3.5 w-28 animate-pulse rounded bg-fill2"}],["$","div",null,{"className":"mb-6 h-8 w-2/3 animate-pulse rounded bg-fill2"}],["$","div",null,{"className":"space-y-3.5","children":[["$","div","0",{"className":"h-4 animate-pulse rounded bg-fill2","style":{"width":"92%"}}],["$","div","1",{"className":"h-4 animate-pulse rounded bg-fill2","style":{"width":"100%"}}],["$","div","2",{"className":"h-4 animate-pulse rounded bg-fill2","style":{"width":"96%"}}],["$","div","3",{"className":"h-4 animate-pulse rounded bg-fill2","style":{"width":"60%"}}]]}],["$","div",null,{"className":"my-8 h-32 animate-pulse rounded-xl bg-fill"}],["$","div",null,{"className":"space-y-3.5","children":[["$","div","0",{"className":"h-4 animate-pulse rounded bg-fill2","style":{"width":"100%"}}],["$","div","1",{"className":"h-4 animate-pulse rounded bg-fill2","style":{"width":"88%"}}],["$","div","2",{"className":"h-4 animate-pulse rounded bg-fill2","style":{"width":"95%"}}],["$","div","3",{"className":"h-4 animate-pulse rounded bg-fill2","style":{"width":"72%"}}],["$","div","4",{"className":"h-4 animate-pulse rounded bg-fill2","style":{"width":"100%"}}]]}]]}]}],[],[]],false]},null,false]},null,false]},null,false],"$La",false]],"m":"$undefined","G":["$b",[]],"s":false,"S":true}
+c:I[4431,[],"ViewportBoundary"]
+e:I[4431,[],"MetadataBoundary"]
+f:"$Sreact.suspense"
+a:["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$f",null,{"fallback":null,"children":"$L10"}]}]}]]}]
+11:I[7010,["619","static/chunks/619-ba102abea3e3d0e4.js","526","static/chunks/app/course/%5Bkey%5D/%5Bch%5D/page-4b7f30b4efe73131.js"],"default"]
+12:I[6710,["619","static/chunks/619-ba102abea3e3d0e4.js","526","static/chunks/app/course/%5Bkey%5D/%5Bch%5D/page-4b7f30b4efe73131.js"],"default"]
+5:[["$","$L11",null,{"url":"/course/rag/15/","title":"langchain切片工具","course":"RAG 知识库"}],["$","div",null,{"className":"doc-wrap","children":[["$","$L12",null,{"courses":[{"key":"eval","title":"Agent 观测与评估","glyph":"评","cls":"b5","coming_soon":false,"modules":[{"name":"课程内容","chapters":[{"n":1,"slug":"1","title":"必看导言","group":"课程内容","progress_key":"eval-1"},{"n":2,"slug":"2","title":"安装langfuse","group":"课程内容","progress_key":"eval-2"},{"n":3,"slug":"3","title":"数据上报","group":"课程内容","progress_key":"eval-3"},{"n":4,"slug":"4","title":"Observation","group":"课程内容","progress_key":"eval-4"},{"n":5,"slug":"5","title":"提示词管理","group":"课程内容","progress_key":"eval-5"},{"n":6,"slug":"6","title":"演练场","group":"课程内容","progress_key":"eval-6"},{"n":7,"slug":"7","title":"人工评估","group":"课程内容","progress_key":"eval-7"},{"n":8,"slug":"8","title":"评估器","group":"课程内容","progress_key":"eval-8"},{"n":9,"slug":"9","title":"评估器优化","group":"课程内容","progress_key":"eval-9"},{"n":10,"slug":"10","title":"数据集","group":"课程内容","progress_key":"eval-10"},{"n":11,"slug":"11","title":"补充知识","group":"课程内容","progress_key":"eval-11"},{"n":12,"slug":"12","title":"实验","group":"课程内容","progress_key":"eval-12"},{"n":13,"slug":"13","title":"Agent回归测试","group":"课程内容","progress_key":"eval-13"},{"n":14,"slug":"14","title":"使用UI完成离线评估","group":"课程内容","progress_key":"eval-14"},{"n":15,"slug":"15","title":"使用SDK完成离线评估","group":"课程内容","progress_key":"eval-15"},{"n":16,"slug":"16","title":"离线评估接入Pytest","group":"课程内容","progress_key":"eval-16"},{"n":17,"slug":"17","title":"线上实验入口","group":"课程内容","progress_key":"eval-17"},{"n":18,"slug":"18","title":"告警","group":"课程内容","progress_key":"eval-18"},{"n":19,"slug":"19","title":"清理旧数据","group":"课程内容","progress_key":"eval-19"},{"n":20,"slug":"20","title":"dashboard","group":"课程内容","progress_key":"eval-20"},{"n":21,"slug":"21","title":"课程总结","group":"课程内容","progress_key":"eval-21"}]}]},{"key":"infra","title":"Agent 基础建设","glyph":"基","cls":"b-fw","coming_soon":false,"modules":[{"name":"课程内容","chapters":[{"n":1,"slug":"1","title":"课程导言","group":"课程内容","progress_key":"infra-1"},{"n":2,"slug":"2","title":"认识docker-compose","group":"课程内容","progress_key":"infra-2"},{"n":3,"slug":"3","title":"恢复langfuse服务","group":"课程内容","progress_key":"infra-3"},{"n":4,"slug":"4","title":"AI网关服务选型","group":"课程内容","progress_key":"infra-4"},{"n":5,"slug":"5","title":"兼容性问题的最佳实践","group":"课程内容","progress_key":"infra-5"},{"n":6,"slug":"6","title":"网关访问链路","group":"课程内容","progress_key":"infra-6"},{"n":7,"slug":"7","title":"会话粘黏","group":"课程内容","progress_key":"infra-7"},{"n":8,"slug":"8","title":"路由策略","group":"课程内容","progress_key":"infra-8"},{"n":9,"slug":"9","title":"熔断","group":"课程内容","progress_key":"infra-9"},{"n":10,"slug":"10","title":"回退机制","group":"课程内容","progress_key":"infra-10"},{"n":11,"slug":"11","title":"并发控制","group":"课程内容","progress_key":"infra-11"},{"n":12,"slug":"12","title":"Logging Callback","group":"课程内容","progress_key":"infra-12"},{"n":13,"slug":"13","title":"AI资产注册与治理","group":"课程内容","progress_key":"infra-13"},{"n":14,"slug":"14","title":"AgentSpec","group":"课程内容","progress_key":"infra-14"},{"n":15,"slug":"15","title":"Nacos API 接口","group":"课程内容","progress_key":"infra-15"},{"n":16,"slug":"16","title":"集成AgentSpec","group":"课程内容","progress_key":"infra-16"},{"n":17,"slug":"17","title":"Agent动态配置","group":"课程内容","progress_key":"infra-17"},{"n":18,"slug":"18","title":"开源沙箱方案","group":"课程内容","progress_key":"infra-18"},{"n":19,"slug":"19","title":"自定义沙箱镜像","group":"课程内容","progress_key":"infra-19"},{"n":20,"slug":"20","title":"Nacos自定义配置","group":"课程内容","progress_key":"infra-20"},{"n":21,"slug":"21","title":"创建和复用沙箱","group":"课程内容","progress_key":"infra-21"},{"n":22,"slug":"22","title":"实现沙箱后端","group":"课程内容","progress_key":"infra-22"},{"n":23,"slug":"23","title":"Agent接入沙箱后端","group":"课程内容","progress_key":"infra-23"},{"n":24,"slug":"24","title":"搭建MinIO环境","group":"课程内容","progress_key":"infra-24"},{"n":25,"slug":"25","title":"实现minio管理","group":"课程内容","progress_key":"infra-25"},{"n":26,"slug":"26","title":"沙箱直传MinIO","group":"课程内容","progress_key":"infra-26"},{"n":27,"slug":"27","title":"沙箱产物自动部署","group":"课程内容","progress_key":"infra-27"},{"n":28,"slug":"28","title":"沙箱共享卷","group":"课程内容","progress_key":"infra-28"},{"n":29,"slug":"29","title":"连接技能到Agent","group":"课程内容","progress_key":"infra-29"},{"n":30,"slug":"30","title":"课程总结","group":"课程内容","progress_key":"infra-30"}]}]},{"key":"rag","title":"RAG 知识库","glyph":"索","cls":"b-db","coming_soon":false,"modules":[{"name":"课程内容","chapters":[{"n":1,"slug":"1","title":"课程导言","group":"课程内容","progress_key":"rag-1","sections":[{"name":"资料切换","anchor":"资料切换"},{"name":"项目课内容安排","anchor":"项目课内容安排"},{"name":"关于业务","anchor":"关于业务"},{"name":"关于学习重心","anchor":"关于学习重心"},{"name":"工程改动","anchor":"工程改动"}]},{"n":2,"slug":"2","title":"RAG系统概览","group":"课程内容","progress_key":"rag-2","sections":[{"name":"企业中的问题","anchor":"企业中的问题"},{"name":"RAG的解决思路","anchor":"RAG的解决思路"}]},{"n":3,"slug":"3","title":"RAG完整流程","group":"课程内容","progress_key":"rag-3","sections":[{"name":"文档内容规格化","anchor":"文档内容规格化"},{"name":"切片","anchor":"切片"},{"name":"向量化","anchor":"向量化"},{"name":"存储","anchor":"存储"},{"name":"问题向量化","anchor":"问题向量化"},{"name":"相似度检索","anchor":"相似度检索"},{"name":"检索器","anchor":"检索器"},{"name":"拼接上下文","anchor":"拼接上下文"},{"name":"系统提示词","anchor":"系统提示词"},{"name":"调用模型","anchor":"调用模型"}]},{"n":4,"slug":"4","title":"索引流水线","group":"课程内容","progress_key":"rag-4","sections":[]},{"n":5,"slug":"5","title":"飞书开放平台","group":"课程内容","progress_key":"rag-5","sections":[]},{"n":6,"slug":"6","title":"飞书公开API","group":"课程内容","progress_key":"rag-6","sections":[]},{"n":7,"slug":"7","title":"数据归一化","group":"课程内容","progress_key":"rag-7","sections":[{"name":"技术选型","anchor":"技术选型"}]},{"n":8,"slug":"8","title":"构建飞书文档树","group":"课程内容","progress_key":"rag-8","sections":[]},{"n":9,"slug":"9","title":"文档图片的处理","group":"课程内容","progress_key":"rag-9","sections":[]},{"n":10,"slug":"10","title":"OCR提取文字","group":"课程内容","progress_key":"rag-10","sections":[]},{"n":11,"slug":"11","title":"使用视觉模型提取图片信息","group":"课程内容","progress_key":"rag-11","sections":[{"name":"系统提示词","anchor":"系统提示词"}]},{"n":12,"slug":"12","title":"文档结构化切片","group":"课程内容","progress_key":"rag-12","sections":[{"name":"系统提示词","anchor":"系统提示词"}]},{"n":13,"slug":"13","title":"精细化切片","group":"课程内容","progress_key":"rag-13","sections":[{"name":"系统提示词","anchor":"系统提示词"}]},{"n":14,"slug":"14","title":"Document Loader","group":"课程内容","progress_key":"rag-14","sections":[{"name":"准备","anchor":"准备"},{"name":"纯文本：TextLoader","anchor":"纯文本TextLoader"},{"name":"Markdown：UnstructuredMarkdownLoader","anchor":"MarkdownUnstructuredMarkdownLoader"},{"name":"CSV：CSVLoader","anchor":"CSVCSVLoader"},{"name":"JSON：JSONLoader","anchor":"JSONJSONLoader"},{"name":"PDF：PyPDFLoader","anchor":"PDFPyPDFLoader"},{"name":"参考","anchor":"参考"}]},{"n":15,"slug":"15","title":"langchain切片工具","group":"课程内容","progress_key":"rag-15","sections":[{"name":"准备一篇长文本","anchor":"准备一篇长文本"},{"name":"先认识长度和重叠参数","anchor":"先认识长度和重叠参数"},{"name":"普通文本切分器：CharacterTextSplitter","anchor":"普通文本切分器CharacterTextSplitter"},{"name":"递归文本切分器：RecursiveCharacterTextSplitter","anchor":"递归文本切分器RecursiveCharacterTextSplitter"},{"name":"加入 chunk_overlap，保留一点相邻上下文","anchor":"加入-chunk_overlap保留一点相邻上下文"}]},{"n":16,"slug":"16","title":"Embedding模型选型","group":"课程内容","progress_key":"rag-16","sections":[{"name":"选型维度","anchor":"选型维度"}]},{"n":17,"slug":"17","title":"创建Embedding模型","group":"课程内容","progress_key":"rag-17","sections":[]},{"n":18,"slug":"18","title":"Milvus环境搭建","group":"课程内容","progress_key":"rag-18","sections":[{"name":"向量数据库","anchor":"向量数据库"},{"name":"Mivlus安装","anchor":"Mivlus安装"},{"name":"[可选]安装GUI管理工具","anchor":"可选安装GUI管理工具"}]},{"n":19,"slug":"19","title":"Milvus DDL","group":"课程内容","progress_key":"rag-19","sections":[{"name":"环境准备","anchor":"环境准备"},{"name":"Database","anchor":"Database"},{"name":"Schema","anchor":"Schema"},{"name":"Collection","anchor":"Collection"},{"name":"Index","anchor":"Index"}]},{"n":20,"slug":"20","title":"Milvus DML","group":"课程内容","progress_key":"rag-20","sections":[{"name":"准备数据","anchor":"准备数据"},{"name":"增","anchor":"增"},{"name":"删","anchor":"删"}]},{"n":21,"slug":"21","title":"Milvus DQL","group":"课程内容","progress_key":"rag-21","sections":[{"name":"环境准备","anchor":"环境准备"},{"name":"标量查询","anchor":"标量查询"},{"name":"向量检索","anchor":"向量检索"},{"name":"关闭连接","anchor":"关闭连接"}]},{"n":22,"slug":"22","title":"Attu使用技巧","group":"课程内容","progress_key":"rag-22","sections":[]},{"n":23,"slug":"23","title":"分析器","group":"课程内容","progress_key":"rag-23","sections":[{"name":"准备测试数据","anchor":"准备测试数据"}]},{"n":24,"slug":"24","title":"全文检索","group":"课程内容","progress_key":"rag-24","sections":[{"name":"常见的全文检索技术","anchor":"常见的全文检索技术"},{"name":"词频统计","anchor":"词频统计"},{"name":"倒排索引","anchor":"倒排索引"},{"name":"添加数据","anchor":"添加数据"},{"name":"BM25 检索","anchor":"BM25-检索"}]},{"n":25,"slug":"25","title":"创建飞书文档数据集","group":"课程内容","progress_key":"rag-25","sections":[]},{"n":26,"slug":"26","title":"VectorStore","group":"课程内容","progress_key":"rag-26","sections":[]},{"n":27,"slug":"27","title":"加入业务测试数据","group":"课程内容","progress_key":"rag-27","sections":[]}]}]}],"currentKey":"rag","currentSlug":"15"}],"$L13","$L14"]}]]
+15:I[756,["619","static/chunks/619-ba102abea3e3d0e4.js","526","static/chunks/app/course/%5Bkey%5D/%5Bch%5D/page-4b7f30b4efe73131.js"],"default"]
+16:I[2619,["619","static/chunks/619-ba102abea3e3d0e4.js","526","static/chunks/app/course/%5Bkey%5D/%5Bch%5D/page-4b7f30b4efe73131.js"],""]
+17:I[1599,["619","static/chunks/619-ba102abea3e3d0e4.js","526","static/chunks/app/course/%5Bkey%5D/%5Bch%5D/page-4b7f30b4efe73131.js"],"default"]
+1a:I[5340,["619","static/chunks/619-ba102abea3e3d0e4.js","526","static/chunks/app/course/%5Bkey%5D/%5Bch%5D/page-4b7f30b4efe73131.js"],"default"]
+18:Tbb52,<h1 id="LangChain-文本切片工具">LangChain 文本切片工具</h1>
+<p>将长文本拆成多个 chunk，便于后续向量化和检索。本节学习两个通用文本切分器：</p>
+<ul>
+<li><code>CharacterTextSplitter</code>：按一个指定分隔规则拆分，再合并短片段。</li>
+<li><code>RecursiveCharacterTextSplitter</code>：按分隔符优先级拆分，过长的局部继续细分。</li>
+</ul>
+<p>按顺序运行单元格：准备文本 → 普通切分 → 递归切分 → 重叠实验 → 切分 Documents。</p>
+<p>全部示例使用本地自编文本，无需模型、API Key 或外部服务。选择项目的 Python 内核；项目已有 <code>langchain-text-splitters</code>，本课无需安装依赖。</p>
+<div class="nb-cell"><div class="codehilite lang-nb"><pre><span></span><span class="kn">from</span><span class="w"> </span><span class="nn">importlib.metadata</span><span class="w"> </span><span class="kn">import</span> <span class="n">version</span>
+<span class="kn">from</span><span class="w"> </span><span class="nn">textwrap</span><span class="w"> </span><span class="kn">import</span> <span class="n">fill</span>
+
+<span class="kn">from</span><span class="w"> </span><span class="nn">langchain_core.documents</span><span class="w"> </span><span class="kn">import</span> <span class="n">Document</span>
+<span class="kn">from</span><span class="w"> </span><span class="nn">langchain_text_splitters</span><span class="w"> </span><span class="kn">import</span> <span class="n">CharacterTextSplitter</span><span class="p">,</span> <span class="n">RecursiveCharacterTextSplitter</span>
+
+<span class="nb">print</span><span class="p">(</span><span class="s2">"langchain-text-splitters:"</span><span class="p">,</span> <span class="n">version</span><span class="p">(</span><span class="s2">"langchain-text-splitters"</span><span class="p">))</span>
+</pre></div>
+<div class="nb-out"><pre class="nb-stream">langchain-text-splitters: 1.1.3
+</pre></div></div>
+<h2 id="准备一篇长文本">准备一篇长文本</h2>
+<p>下面是一篇虚构的企业知识库使用指南。段落之间用空行 <code>\n\n</code> 分隔，既有短段落，也有明显较长的段落，方便观察两种切分器的区别。</p>
+<div class="nb-cell"><div class="codehilite lang-nb"><pre><span></span><span class="n">text</span> <span class="o">=</span> <span class="s2">"""企业知识库使用指南</span>
+<span class="s2">销售团队每天需要查询产品资料、报价规则和客户案例。过去，这些内容散落在聊天记录和个人文件夹中，新同事往往不知道该从哪里开始寻找。建设统一知识库的第一步，是把这些资料整理到可以持续维护的文档中。</span>
+
+<span class="s2">知识库中的每篇文档都应注明负责人、适用范围和更新时间。负责人负责核对内容是否准确，适用范围帮助读者判断规则是否与当前业务有关，更新时间则提醒读者注意信息是否已经过期。已经失效的规则要及时归档，避免与新规则混在一起。</span>
+
+<span class="s2">新员工第一次使用知识库时，可以先阅读入门导航，了解产品、销售流程和常见问题分别存放在哪里。遇到客户询问产品功能时，应先确认客户使用的版本，再查找对应版本的功能说明，不要直接把其他版本的能力当作当前承诺。遇到价格问题时，应同时阅读基础报价、折扣条件和审批要求，因为一条单独的价格记录通常不能说明最终成交条件。准备客户方案时，可以参考历史案例，但需要检查案例中的行业、规模和部署方式是否与当前客户相近，不能直接复制其中的结论。如果搜索没有找到答案，应记录已经使用的关键词和仍然缺失的信息，再向文档负责人反馈，这样可以帮助维护者补充真正有价值的内容。负责人补充文档后，还应把新内容加入导航，并说明它解决了什么问题，让后续读者能够沿着同一条路径找到答案。</span>
+
+<span class="s2">客户案例应保留问题背景、实施过程和最终结果。只有结果而没有前提的案例容易被误用，因此维护者需要说明方案成立的条件，也要记录不能直接推广到其他客户的限制。涉及客户隐私的内容应按公司的实际制度处理。</span>
+
+<span class="s2">为知识库增加智能问答时，需要先把文档读取成文本，再切成大小合适的片段。片段过长，检索结果可能包含大量无关内容；片段过短，问题的条件与答案可能被分到不同位置。切片时应同时考虑长度和自然语言边界。</span>
+
+<span class="s2">切片完成后，可以为每个片段生成向量，并保存文档来源等元数据。收到问题时，系统检索相关片段，再把片段作为上下文交给模型。回答中保留来源信息，可以帮助使用者回到原文核对规则，也方便维护者定位需要更新的资料。</span>
+
+<span class="s2">上线前应准备一组来自真实业务的问题，逐条检查检索结果是否包含回答所需的信息。除了直接询问产品功能的问题，还应加入需要同时理解限制条件、操作步骤和例外情况的问题。发现回答遗漏条件时，要先查看原文是否已经写清楚，再检查切片边界是否把条件和结论分开，最后检查检索是否找到了相关片段。调整切片长度或重叠量后，应使用同一组问题重新比较结果，不能只凭某一个回答看起来更顺畅就认定方案更好。知识库内容发生更新时，也需要同步更新相关片段和索引，并检查旧规则是否仍然出现在回答中。持续记录这些检查结果，才能知道一次调整究竟改善了哪些问题，又带来了哪些新的限制。"""</span>
+
+<span class="n">paragraphs</span> <span class="o">=</span> <span class="n">text</span><span class="o">.</span><span class="n">split</span><span class="p">(</span><span class="s2">"</span><span class="se">\n\n</span><span class="s2">"</span><span class="p">)</span>
+<span class="nb">print</span><span class="p">(</span><span class="s2">"全文字符数:"</span><span class="p">,</span> <span class="nb">len</span><span class="p">(</span><span class="n">text</span><span class="p">))</span>
+<span class="nb">print</span><span class="p">(</span><span class="s2">"段落数:"</span><span class="p">,</span> <span class="nb">len</span><span class="p">(</span><span class="n">paragraphs</span><span class="p">))</span>
+<span class="nb">print</span><span class="p">(</span><span class="s2">"各段字符数:"</span><span class="p">,</span> <span class="p">[</span><span class="nb">len</span><span class="p">(</span><span class="n">p</span><span class="p">)</span> <span class="k">for</span> <span class="n">p</span> <span class="ow">in</span> <span class="n">paragraphs</span><span class="p">])</span>
+</pre></div>
+<div class="nb-out"><pre class="nb-stream">全文字符数: 1113
+段落数: 7
+各段字符数: [106, 107, 323, 97, 96, 101, 271]
+</pre></div></div>
+<h2 id="先认识长度和重叠参数">先认识长度和重叠参数</h2>
+<table>
+<thead>
+<tr>
+<th>参数</th>
+<th>含义</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>chunk_size</code></td>
+<td>目标切片长度上限；普通切分器遇到过长的基本片段时可能超限</td>
+</tr>
+<tr>
+<td><code>chunk_overlap</code></td>
+<td>相邻切片的目标重叠长度；实际受片段边界约束</td>
+</tr>
+<tr>
+<td><code>length_function</code></td>
+<td>长度计算函数；默认 <code>len</code>，按字符计数</td>
+</tr>
+</tbody>
+</table>
+<p>本课先用 <code>chunk_size=180</code>、<code>chunk_overlap=0</code>，看清切分边界后再加入重叠。
+这里的长度是 Python <code>len()</code>，不是字节数，也不是模型 token 数。示例参数用于观察行为，不代表业务最优值。</p>
+<div class="nb-cell"><div class="codehilite lang-nb"><pre><span></span><span class="n">chunk_size</span> <span class="o">=</span> <span class="mi">180</span>
+
+
+<span class="k">def</span><span class="w"> </span><span class="nf">show_chunks</span><span class="p">(</span><span class="n">chunks</span><span class="p">:</span> <span class="nb">list</span><span class="p">[</span><span class="nb">str</span><span class="p">])</span> <span class="o">-&gt;</span> <span class="kc">None</span><span class="p">:</span>
+<span class="w">    </span><span class="sd">"""打印切片内容；换行排版只影响显示，不修改原切片。"""</span>
+    <span class="nb">print</span><span class="p">(</span><span class="sa">f</span><span class="s2">"共 </span><span class="si">{</span><span class="nb">len</span><span class="p">(</span><span class="n">chunks</span><span class="p">)</span><span class="si">}</span><span class="s2"> 个切片，长度: </span><span class="si">{</span><span class="p">[</span><span class="nb">len</span><span class="p">(</span><span class="n">chunk</span><span class="p">)</span><span class="w"> </span><span class="k">for</span><span class="w"> </span><span class="n">chunk</span><span class="w"> </span><span class="ow">in</span><span class="w"> </span><span class="n">chunks</span><span class="p">]</span><span class="si">}</span><span class="s2">"</span><span class="p">)</span>
+    <span class="k">for</span> <span class="n">index</span><span class="p">,</span> <span class="n">chunk</span> <span class="ow">in</span> <span class="nb">enumerate</span><span class="p">(</span><span class="n">chunks</span><span class="p">,</span> <span class="n">start</span><span class="o">=</span><span class="mi">1</span><span class="p">):</span>
+        <span class="nb">print</span><span class="p">(</span><span class="sa">f</span><span class="s2">"</span><span class="se">\n</span><span class="s2">--- 切片 </span><span class="si">{</span><span class="n">index</span><span class="si">}</span><span class="s2"> | </span><span class="si">{</span><span class="nb">len</span><span class="p">(</span><span class="n">chunk</span><span class="p">)</span><span class="si">}</span><span class="s2"> 字符 ---"</span><span class="p">)</span>
+        <span class="nb">print</span><span class="p">(</span><span class="n">fill</span><span class="p">(</span><span class="n">chunk</span><span class="p">,</span> <span class="n">width</span><span class="o">=</span><span class="mi">60</span><span class="p">))</span>
+</pre></div>
+</div>
+<h2 id="普通文本切分器CharacterTextSplitter">普通文本切分器：CharacterTextSplitter</h2>
+<p><code>separator</code> 是一个分隔规则，默认是 <code>"\n\n"</code>。本例按空行拆成段落，再按顺序合并能放进同一块的短段落；合并时分隔符也计入长度。</p>
+<p>这里显式设置 <code>keep_separator="end"</code>，把分隔符保留在前一个片段末尾，方便观察；普通切分器默认不保留分隔符，而会在合并时重新插入。默认 <code>strip_whitespace=True</code> 会去掉最终切片两端的空白。</p>
+<div class="nb-cell"><div class="codehilite lang-nb"><pre><span></span><span class="n">character_splitter</span> <span class="o">=</span> <span class="n">CharacterTextSplitter</span><span class="p">(</span>
+    <span class="n">separator</span><span class="o">=</span><span class="s2">"</span><span class="se">\n\n</span><span class="s2">"</span><span class="p">,</span>
+    <span class="n">chunk_size</span><span class="o">=</span><span class="n">chunk_size</span><span class="p">,</span>
+    <span class="n">chunk_overlap</span><span class="o">=</span><span class="mi">0</span><span class="p">,</span>
+    <span class="n">length_function</span><span class="o">=</span><span class="nb">len</span><span class="p">,</span>
+    <span class="n">keep_separator</span><span class="o">=</span><span class="s2">"end"</span><span class="p">,</span>
+<span class="p">)</span>
+
+<span class="n">character_chunks</span> <span class="o">=</span> <span class="n">character_splitter</span><span class="o">.</span><span class="n">split_text</span><span class="p">(</span><span class="n">text</span><span class="p">)</span>
+<span class="n">show_chunks</span><span class="p">(</span><span class="n">character_chunks</span><span class="p">)</span>
+</pre></div>
+<div class="nb-out"><pre class="nb-stream">Created a chunk of size 325, which is longer than the specified 180
+</pre><pre class="nb-stream">共 7 个切片，长度: [106, 107, 323, 97, 96, 101, 271]
+
+--- 切片 1 | 106 字符 ---
+企业知识库使用指南 销售团队每天需要查询产品资料、报价规则和客户案例。过去，这些内容散落在聊天记录和个人文件夹中，新同事
+往往不知道该从哪里开始寻找。建设统一知识库的第一步，是把这些资料整理到可以持续维护的文档中。
+
+--- 切片 2 | 107 字符 ---
+知识库中的每篇文档都应注明负责人、适用范围和更新时间。负责人负责核对内容是否准确，适用范围帮助读者判断规则是否与当前业务
+有关，更新时间则提醒读者注意信息是否已经过期。已经失效的规则要及时归档，避免与新规则混在一起。
+
+--- 切片 3 | 323 字符 ---
+新员工第一次使用知识库时，可以先阅读入门导航，了解产品、销售流程和常见问题分别存放在哪里。遇到客户询问产品功能时，应先确
+认客户使用的版本，再查找对应版本的功能说明，不要直接把其他版本的能力当作当前承诺。遇到价格问题时，应同时阅读基础报价、折
+扣条件和审批要求，因为一条单独的价格记录通常不能说明最终成交条件。准备客户方案时，可以参考历史案例，但需要检查案例中的行
+业、规模和部署方式是否与当前客户相近，不能直接复制其中的结论。如果搜索没有找到答案，应记录已经使用的关键词和仍然缺失的信
+息，再向文档负责人反馈，这样可以帮助维护者补充真正有价值的内容。负责人补充文档后，还应把新内容加入导航，并说明它解决了什
+么问题，让后续读者能够沿着同一条路径找到答案。
+
+--- 切片 4 | 97 字符 ---
+客户案例应保留问题背景、实施过程和最终结果。只有结果而没有前提的案例容易被误用，因此维护者需要说明方案成立的条件，也要记
+录不能直接推广到其他客户的限制。涉及客户隐私的内容应按公司的实际制度处理。
+
+--- 切片 5 | 96 字符 ---
+为知识库增加智能问答时，需要先把文档读取成文本，再切成大小合适的片段。片段过长，检索结果可能包含大量无关内容；片段过短，
+问题的条件与答案可能被分到不同位置。切片时应同时考虑长度和自然语言边界。
+
+--- 切片 6 | 101 字符 ---
+切片完成后，可以为每个片段生成向量，并保存文档来源等元数据。收到问题时，系统检索相关片段，再把片段作为上下文交给模型。回
+答中保留来源信息，可以帮助使用者回到原文核对规则，也方便维护者定位需要更新的资料。
+
+--- 切片 7 | 271 字符 ---
+上线前应准备一组来自真实业务的问题，逐条检查检索结果是否包含回答所需的信息。除了直接询问产品功能的问题，还应加入需要同时
+理解限制条件、操作步骤和例外情况的问题。发现回答遗漏条件时，要先查看原文是否已经写清楚，再检查切片边界是否把条件和结论分
+开，最后检查检索是否找到了相关片段。调整切片长度或重叠量后，应使用同一组问题重新比较结果，不能只凭某一个回答看起来更顺畅
+就认定方案更好。知识库内容发生更新时，也需要同步更新相关片段和索引，并检查旧规则是否仍然出现在回答中。持续记录这些检查结
+果，才能知道一次调整究竟改善了哪些问题，又带来了哪些新的限制。
+</pre></div></div>
+<h3 id="改变-separator改变基本切分单位">改变 separator，改变基本切分单位</h3>
+<p>把分隔符改为中文句号 <code>。</code>，同一段文字就可以按句子拆分，再合并成片。
+<code>keep_separator="end"</code> 将句号保留在前一句末尾；但超过长度的单个长句仍可能超限。</p>
+<p><code>separator</code> 默认按普通字符串处理；只有设置 <code>is_separator_regex=True</code>，才会把它当作正则表达式。</p>
+<div class="nb-cell"><div class="codehilite lang-nb"><pre><span></span><span class="n">sentence_splitter</span> <span class="o">=</span> <span class="n">CharacterTextSplitter</span><span class="p">(</span>
+    <span class="n">separator</span><span class="o">=</span><span class="s2">"。"</span><span class="p">,</span>
+    <span class="n">chunk_size</span><span class="o">=</span><span class="n">chunk_size</span><span class="p">,</span>
+    <span class="n">chunk_overlap</span><span class="o">=</span><span class="mi">0</span><span class="p">,</span>
+    <span class="n">keep_separator</span><span class="o">=</span><span class="s2">"end"</span><span class="p">,</span>
+<span class="p">)</span>
+
+<span class="n">sentence_chunks</span> <span class="o">=</span> <span class="n">sentence_splitter</span><span class="o">.</span><span class="n">split_text</span><span class="p">(</span><span class="n">text</span><span class="p">)</span>
+<span class="n">show_chunks</span><span class="p">(</span><span class="n">sentence_chunks</span><span class="p">)</span>
+</pre></div>
+<div class="nb-out"><pre class="nb-stream">共 8 个切片，长度: [135, 127, 166, 136, 173, 141, 150, 83]
+
+--- 切片 1 | 135 字符 ---
+企业知识库使用指南 销售团队每天需要查询产品资料、报价规则和客户案例。过去，这些内容散落在聊天记录和个人文件夹中，新同事
+往往不知道该从哪里开始寻找。建设统一知识库的第一步，是把这些资料整理到可以持续维护的文档中。
+知识库中的每篇文档都应注明负责人、适用范围和更新时间。
+
+--- 切片 2 | 127 字符 ---
+负责人负责核对内容是否准确，适用范围帮助读者判断规则是否与当前业务有关，更新时间则提醒读者注意信息是否已经过期。已经失效
+的规则要及时归档，避免与新规则混在一起。
+新员工第一次使用知识库时，可以先阅读入门导航，了解产品、销售流程和常见问题分别存放在哪里。
+
+--- 切片 3 | 166 字符 ---
+遇到客户询问产品功能时，应先确认客户使用的版本，再查找对应版本的功能说明，不要直接把其他版本的能力当作当前承诺。遇到价格
+问题时，应同时阅读基础报价、折扣条件和审批要求，因为一条单独的价格记录通常不能说明最终成交条件。准备客户方案时，可以参考
+历史案例，但需要检查案例中的行业、规模和部署方式是否与当前客户相近，不能直接复制其中的结论。
+
+--- 切片 4 | 136 字符 ---
+如果搜索没有找到答案，应记录已经使用的关键词和仍然缺失的信息，再向文档负责人反馈，这样可以帮助维护者补充真正有价值的内容
+。负责人补充文档后，还应把新内容加入导航，并说明它解决了什么问题，让后续读者能够沿着同一条路径找到答案。
+客户案例应保留问题背景、实施过程和最终结果。
+
+--- 切片 5 | 173 字符 ---
+只有结果而没有前提的案例容易被误用，因此维护者需要说明方案成立的条件，也要记录不能直接推广到其他客户的限制。涉及客户隐私
+的内容应按公司的实际制度处理。  为知识库增加智能问答时，需要先把文档读取成文本，再切成大小合适的片段。片段过长，检索结
+果可能包含大量无关内容；片段过短，问题的条件与答案可能被分到不同位置。切片时应同时考虑长度和自然语言边界。
+
+--- 切片 6 | 141 字符 ---
+切片完成后，可以为每个片段生成向量，并保存文档来源等元数据。收到问题时，系统检索相关片段，再把片段作为上下文交给模型。回
+答中保留来源信息，可以帮助使用者回到原文核对规则，也方便维护者定位需要更新的资料。
+上线前应准备一组来自真实业务的问题，逐条检查检索结果是否包含回答所需的信息。
+
+--- 切片 7 | 150 字符 ---
+除了直接询问产品功能的问题，还应加入需要同时理解限制条件、操作步骤和例外情况的问题。发现回答遗漏条件时，要先查看原文是否
+已经写清楚，再检查切片边界是否把条件和结论分开，最后检查检索是否找到了相关片段。调整切片长度或重叠量后，应使用同一组问题
+重新比较结果，不能只凭某一个回答看起来更顺畅就认定方案更好。
+
+--- 切片 8 | 83 字符 ---
+知识库内容发生更新时，也需要同步更新相关片段和索引，并检查旧规则是否仍然出现在回答中。持续记录这些检查结果，才能知道一次
+调整究竟改善了哪些问题，又带来了哪些新的限制。
+</pre></div></div>
+<h3 id="如果就是要按固定字符数切分">如果就是要按固定字符数切分</h3>
+<p>设置 <code>separator=""</code>，每个字符都会成为基本单元，再合并成片。无重叠时，除最后一片外通常都会填满 <code>chunk_size</code>，但可能从句子中间断开。</p>
+<div class="nb-cell"><div class="codehilite lang-nb"><pre><span></span><span class="n">fixed_splitter</span> <span class="o">=</span> <span class="n">CharacterTextSplitter</span><span class="p">(</span>
+    <span class="n">separator</span><span class="o">=</span><span class="s2">""</span><span class="p">,</span>
+    <span class="n">chunk_size</span><span class="o">=</span><span class="n">chunk_size</span><span class="p">,</span>
+    <span class="n">chunk_overlap</span><span class="o">=</span><span class="mi">0</span><span class="p">,</span>
+<span class="p">)</span>
+
+<span class="n">fixed_chunks</span> <span class="o">=</span> <span class="n">fixed_splitter</span><span class="o">.</span><span class="n">split_text</span><span class="p">(</span><span class="n">text</span><span class="p">)</span>
+<span class="n">show_chunks</span><span class="p">(</span><span class="n">fixed_chunks</span><span class="p">)</span>
+</pre></div>
+<div class="nb-out"><pre class="nb-stream">共 7 个切片，长度: [180, 180, 180, 178, 180, 180, 33]
+
+--- 切片 1 | 180 字符 ---
+企业知识库使用指南 销售团队每天需要查询产品资料、报价规则和客户案例。过去，这些内容散落在聊天记录和个人文件夹中，新同事
+往往不知道该从哪里开始寻找。建设统一知识库的第一步，是把这些资料整理到可以持续维护的文档中。  知识库中的每篇文档都应注
+明负责人、适用范围和更新时间。负责人负责核对内容是否准确，适用范围帮助读者判断规则是否与当前业务有关，更新时间则提醒读者
+
+--- 切片 2 | 180 字符 ---
+注意信息是否已经过期。已经失效的规则要及时归档，避免与新规则混在一起。  新员工第一次使用知识库时，可以先阅读入门导航，
+了解产品、销售流程和常见问题分别存放在哪里。遇到客户询问产品功能时，应先确认客户使用的版本，再查找对应版本的功能说明，不
+要直接把其他版本的能力当作当前承诺。遇到价格问题时，应同时阅读基础报价、折扣条件和审批要求，因为一条单独的价格记录通常不
+
+--- 切片 3 | 180 字符 ---
+能说明最终成交条件。准备客户方案时，可以参考历史案例，但需要检查案例中的行业、规模和部署方式是否与当前客户相近，不能直接
+复制其中的结论。如果搜索没有找到答案，应记录已经使用的关键词和仍然缺失的信息，再向文档负责人反馈，这样可以帮助维护者补充
+真正有价值的内容。负责人补充文档后，还应把新内容加入导航，并说明它解决了什么问题，让后续读者能够沿着同一条路径找到答案。
+
+--- 切片 4 | 178 字符 ---
+客户案例应保留问题背景、实施过程和最终结果。只有结果而没有前提的案例容易被误用，因此维护者需要说明方案成立的条件，也要记
+录不能直接推广到其他客户的限制。涉及客户隐私的内容应按公司的实际制度处理。  为知识库增加智能问答时，需要先把文档读取成
+文本，再切成大小合适的片段。片段过长，检索结果可能包含大量无关内容；片段过短，问题的条件与答案可能被分到不同位置。切
+
+--- 切片 5 | 180 字符 ---
+片时应同时考虑长度和自然语言边界。  切片完成后，可以为每个片段生成向量，并保存文档来源等元数据。收到问题时，系统检索相
+关片段，再把片段作为上下文交给模型。回答中保留来源信息，可以帮助使用者回到原文核对规则，也方便维护者定位需要更新的资料。
+上线前应准备一组来自真实业务的问题，逐条检查检索结果是否包含回答所需的信息。除了直接询问产品功能的问题，还应加入需要
+
+--- 切片 6 | 180 字符 ---
+同时理解限制条件、操作步骤和例外情况的问题。发现回答遗漏条件时，要先查看原文是否已经写清楚，再检查切片边界是否把条件和结
+论分开，最后检查检索是否找到了相关片段。调整切片长度或重叠量后，应使用同一组问题重新比较结果，不能只凭某一个回答看起来更
+顺畅就认定方案更好。知识库内容发生更新时，也需要同步更新相关片段和索引，并检查旧规则是否仍然出现在回答中。持续记录这些检
+
+--- 切片 7 | 33 字符 ---
+查结果，才能知道一次调整究竟改善了哪些问题，又带来了哪些新的限制。
+</pre></div></div>
+<h2 id="递归文本切分器RecursiveCharacterTextSplitter">递归文本切分器：RecursiveCharacterTextSplitter</h2>
+<p>递归切分器使用 <code>separators</code> 列表，默认优先级为：</p>
+<div class="codehilite"><pre><span></span><code>["\n\n", "\n", " ", ""]
+     空行 → 换行 → 空格 → 字符
+</code></pre></div>
+
+<p>先选择当前文本中存在的优先分隔符。短片段按顺序合并，过长的局部用后续更细的分隔符继续拆分。它不会把全文不加区别地依次切四遍。</p>
+<p>默认规则包含末尾的 <code>""</code>，在本课按字符计数的设置下，可以把过长文本继续拆到长度范围内。</p>
+<div class="nb-cell"><div class="codehilite lang-nb"><pre><span></span><span class="n">recursive_splitter</span> <span class="o">=</span> <span class="n">RecursiveCharacterTextSplitter</span><span class="p">(</span>
+    <span class="n">chunk_size</span><span class="o">=</span><span class="n">chunk_size</span><span class="p">,</span>
+    <span class="n">chunk_overlap</span><span class="o">=</span><span class="mi">0</span><span class="p">,</span>
+    <span class="n">length_function</span><span class="o">=</span><span class="nb">len</span><span class="p">,</span>
+    <span class="n">keep_separator</span><span class="o">=</span><span class="s2">"end"</span><span class="p">,</span>
+<span class="p">)</span>
+
+<span class="n">recursive_chunks</span> <span class="o">=</span> <span class="n">recursive_splitter</span><span class="o">.</span><span class="n">split_text</span><span class="p">(</span><span class="n">text</span><span class="p">)</span>
+<span class="n">show_chunks</span><span class="p">(</span><span class="n">recursive_chunks</span><span class="p">)</span>
+</pre></div>
+<div class="nb-out"><pre class="nb-stream">共 9 个切片，长度: [106, 107, 180, 143, 97, 96, 101, 180, 91]
+
+--- 切片 1 | 106 字符 ---
+企业知识库使用指南 销售团队每天需要查询产品资料、报价规则和客户案例。过去，这些内容散落在聊天记录和个人文件夹中，新同事
+往往不知道该从哪里开始寻找。建设统一知识库的第一步，是把这些资料整理到可以持续维护的文档中。
+
+--- 切片 2 | 107 字符 ---
+知识库中的每篇文档都应注明负责人、适用范围和更新时间。负责人负责核对内容是否准确，适用范围帮助读者判断规则是否与当前业务
+有关，更新时间则提醒读者注意信息是否已经过期。已经失效的规则要及时归档，避免与新规则混在一起。
+
+--- 切片 3 | 180 字符 ---
+新员工第一次使用知识库时，可以先阅读入门导航，了解产品、销售流程和常见问题分别存放在哪里。遇到客户询问产品功能时，应先确
+认客户使用的版本，再查找对应版本的功能说明，不要直接把其他版本的能力当作当前承诺。遇到价格问题时，应同时阅读基础报价、折
+扣条件和审批要求，因为一条单独的价格记录通常不能说明最终成交条件。准备客户方案时，可以参考历史案例，但需要检查案例中的行
+
+--- 切片 4 | 143 字符 ---
+业、规模和部署方式是否与当前客户相近，不能直接复制其中的结论。如果搜索没有找到答案，应记录已经使用的关键词和仍然缺失的信
+息，再向文档负责人反馈，这样可以帮助维护者补充真正有价值的内容。负责人补充文档后，还应把新内容加入导航，并说明它解决了什
+么问题，让后续读者能够沿着同一条路径找到答案。
+
+--- 切片 5 | 97 字符 ---
+客户案例应保留问题背景、实施过程和最终结果。只有结果而没有前提的案例容易被误用，因此维护者需要说明方案成立的条件，也要记
+录不能直接推广到其他客户的限制。涉及客户隐私的内容应按公司的实际制度处理。
+
+--- 切片 6 | 96 字符 ---
+为知识库增加智能问答时，需要先把文档读取成文本，再切成大小合适的片段。片段过长，检索结果可能包含大量无关内容；片段过短，
+问题的条件与答案可能被分到不同位置。切片时应同时考虑长度和自然语言边界。
+
+--- 切片 7 | 101 字符 ---
+切片完成后，可以为每个片段生成向量，并保存文档来源等元数据。收到问题时，系统检索相关片段，再把片段作为上下文交给模型。回
+答中保留来源信息，可以帮助使用者回到原文核对规则，也方便维护者定位需要更新的资料。
+
+--- 切片 8 | 180 字符 ---
+上线前应准备一组来自真实业务的问题，逐条检查检索结果是否包含回答所需的信息。除了直接询问产品功能的问题，还应加入需要同时
+理解限制条件、操作步骤和例外情况的问题。发现回答遗漏条件时，要先查看原文是否已经写清楚，再检查切片边界是否把条件和结论分
+开，最后检查检索是否找到了相关片段。调整切片长度或重叠量后，应使用同一组问题重新比较结果，不能只凭某一个回答看起来更顺畅
+
+--- 切片 9 | 91 字符 ---
+就认定方案更好。知识库内容发生更新时，也需要同步更新相关片段和索引，并检查旧规则是否仍然出现在回答中。持续记录这些检查结
+果，才能知道一次调整究竟改善了哪些问题，又带来了哪些新的限制。
+</pre></div></div>
+<h3 id="默认规则对中文有什么影响">默认规则对中文有什么影响？</h3>
+<p>默认列表没有中文句号。刚才的长段落没有换行和空格，所以最终会降到字符级，可能在一句话中间切开。</p>
+<p>可以加入中文标点，让过长段落先尝试按句子、短句切，再退到字符。</p>
+<div class="nb-cell"><div class="codehilite lang-nb"><pre><span></span><span class="n">chinese_separators</span> <span class="o">=</span> <span class="p">[</span><span class="s2">"</span><span class="se">\n\n</span><span class="s2">"</span><span class="p">,</span> <span class="s2">"</span><span class="se">\n</span><span class="s2">"</span><span class="p">,</span> <span class="s2">"。"</span><span class="p">,</span> <span class="s2">"！"</span><span class="p">,</span> <span class="s2">"？"</span><span class="p">,</span> <span class="s2">"；"</span><span class="p">,</span> <span class="s2">"，"</span><span class="p">,</span> <span class="s2">" "</span><span class="p">,</span> <span class="s2">""</span><span class="p">]</span>
+
+<span class="n">chinese_splitter</span> <span class="o">=</span> <span class="n">RecursiveCharacterTextSplitter</span><span class="p">(</span>
+    <span class="n">separators</span><span class="o">=</span><span class="n">chinese_separators</span><span class="p">,</span>
+    <span class="n">chunk_size</span><span class="o">=</span><span class="n">chunk_size</span><span class="p">,</span>
+    <span class="n">chunk_overlap</span><span class="o">=</span><span class="mi">0</span><span class="p">,</span>
+    <span class="n">keep_separator</span><span class="o">=</span><span class="s2">"end"</span><span class="p">,</span>
+<span class="p">)</span>
+
+<span class="n">default_paragraph_chunks</span> <span class="o">=</span> <span class="n">recursive_splitter</span><span class="o">.</span><span class="n">split_text</span><span class="p">(</span><span class="n">text</span><span class="p">)</span>
+<span class="n">chinese_paragraph_chunks</span> <span class="o">=</span> <span class="n">chinese_splitter</span><span class="o">.</span><span class="n">split_text</span><span class="p">(</span><span class="n">text</span><span class="p">)</span>
+
+<span class="nb">print</span><span class="p">(</span><span class="s2">"默认规则："</span><span class="p">)</span>
+<span class="k">for</span> <span class="n">index</span><span class="p">,</span> <span class="n">chunk</span> <span class="ow">in</span> <span class="nb">enumerate</span><span class="p">(</span><span class="n">default_paragraph_chunks</span><span class="p">,</span> <span class="n">start</span><span class="o">=</span><span class="mi">1</span><span class="p">):</span>
+    <span class="nb">print</span><span class="p">(</span><span class="sa">f</span><span class="s2">"切片 </span><span class="si">{</span><span class="n">index</span><span class="si">}</span><span class="s2"> | </span><span class="si">{</span><span class="nb">len</span><span class="p">(</span><span class="n">chunk</span><span class="p">)</span><span class="si">}</span><span class="s2"> 字符 | 结尾: </span><span class="si">{</span><span class="n">chunk</span><span class="p">[</span><span class="o">-</span><span class="mi">25</span><span class="p">:]</span><span class="si">!r}</span><span class="s2">"</span><span class="p">)</span>
+
+<span class="nb">print</span><span class="p">(</span><span class="s2">"</span><span class="se">\n</span><span class="s2">加入中文标点："</span><span class="p">)</span>
+<span class="n">show_chunks</span><span class="p">(</span><span class="n">chinese_paragraph_chunks</span><span class="p">)</span>
+</pre></div>
+<div class="nb-out"><pre class="nb-stream">默认规则：
+切片 1 | 106 字符 | 结尾: &#x27;的第一步，是把这些资料整理到可以持续维护的文档中。&#x27;
+切片 2 | 107 字符 | 结尾: &#x27;。已经失效的规则要及时归档，避免与新规则混在一起。&#x27;
+切片 3 | 180 字符 | 结尾: &#x27;客户方案时，可以参考历史案例，但需要检查案例中的行&#x27;
+切片 4 | 143 字符 | 结尾: &#x27;了什么问题，让后续读者能够沿着同一条路径找到答案。&#x27;
+切片 5 | 97 字符 | 结尾: &#x27;的限制。涉及客户隐私的内容应按公司的实际制度处理。&#x27;
+切片 6 | 96 字符 | 结尾: &#x27;分到不同位置。切片时应同时考虑长度和自然语言边界。&#x27;
+切片 7 | 101 字符 | 结尾: &#x27;回到原文核对规则，也方便维护者定位需要更新的资料。&#x27;
+切片 8 | 180 字符 | 结尾: &#x27;组问题重新比较结果，不能只凭某一个回答看起来更顺畅&#x27;
+切片 9 | 91 字符 | 结尾: &#x27;一次调整究竟改善了哪些问题，又带来了哪些新的限制。&#x27;
+
+加入中文标点：
+共 9 个切片，长度: [106, 107, 153, 170, 97, 96, 101, 138, 133]
+
+--- 切片 1 | 106 字符 ---
+企业知识库使用指南 销售团队每天需要查询产品资料、报价规则和客户案例。过去，这些内容散落在聊天记录和个人文件夹中，新同事
+往往不知道该从哪里开始寻找。建设统一知识库的第一步，是把这些资料整理到可以持续维护的文档中。
+
+--- 切片 2 | 107 字符 ---
+知识库中的每篇文档都应注明负责人、适用范围和更新时间。负责人负责核对内容是否准确，适用范围帮助读者判断规则是否与当前业务
+有关，更新时间则提醒读者注意信息是否已经过期。已经失效的规则要及时归档，避免与新规则混在一起。
+
+--- 切片 3 | 153 字符 ---
+新员工第一次使用知识库时，可以先阅读入门导航，了解产品、销售流程和常见问题分别存放在哪里。遇到客户询问产品功能时，应先确
+认客户使用的版本，再查找对应版本的功能说明，不要直接把其他版本的能力当作当前承诺。遇到价格问题时，应同时阅读基础报价、折
+扣条件和审批要求，因为一条单独的价格记录通常不能说明最终成交条件。
+
+--- 切片 4 | 170 字符 ---
+准备客户方案时，可以参考历史案例，但需要检查案例中的行业、规模和部署方式是否与当前客户相近，不能直接复制其中的结论。如果
+搜索没有找到答案，应记录已经使用的关键词和仍然缺失的信息，再向文档负责人反馈，这样可以帮助维护者补充真正有价值的内容。负
+责人补充文档后，还应把新内容加入导航，并说明它解决了什么问题，让后续读者能够沿着同一条路径找到答案。
+
+--- 切片 5 | 97 字符 ---
+客户案例应保留问题背景、实施过程和最终结果。只有结果而没有前提的案例容易被误用，因此维护者需要说明方案成立的条件，也要记
+录不能直接推广到其他客户的限制。涉及客户隐私的内容应按公司的实际制度处理。
+
+--- 切片 6 | 96 字符 ---
+为知识库增加智能问答时，需要先把文档读取成文本，再切成大小合适的片段。片段过长，检索结果可能包含大量无关内容；片段过短，
+问题的条件与答案可能被分到不同位置。切片时应同时考虑长度和自然语言边界。
+
+--- 切片 7 | 101 字符 ---
+切片完成后，可以为每个片段生成向量，并保存文档来源等元数据。收到问题时，系统检索相关片段，再把片段作为上下文交给模型。回
+答中保留来源信息，可以帮助使用者回到原文核对规则，也方便维护者定位需要更新的资料。
+
+--- 切片 8 | 138 字符 ---
+上线前应准备一组来自真实业务的问题，逐条检查检索结果是否包含回答所需的信息。除了直接询问产品功能的问题，还应加入需要同时
+理解限制条件、操作步骤和例外情况的问题。发现回答遗漏条件时，要先查看原文是否已经写清楚，再检查切片边界是否把条件和结论分
+开，最后检查检索是否找到了相关片段。
+
+--- 切片 9 | 133 字符 ---
+调整切片长度或重叠量后，应使用同一组问题重新比较结果，不能只凭某一个回答看起来更顺畅就认定方案更好。知识库内容发生更新时
+，也需要同步更新相关片段和索引，并检查旧规则是否仍然出现在回答中。持续记录这些检查结果，才能知道一次调整究竟改善了哪些问
+题，又带来了哪些新的限制。
+</pre></div></div>
+<h3 id="分隔符列表的顺序代表优先级">分隔符列表的顺序代表优先级</h3>
+<p><code>["。", "！", "？"]</code> 表示先尝试句号；它不是“同时识别三种句末符号”。如果希望这些标点具有同一级别，可以把它们放在一个正则规则中：</p>
+<div class="nb-cell"><div class="codehilite lang-nb"><pre><span></span><span class="n">regex_splitter</span> <span class="o">=</span> <span class="n">RecursiveCharacterTextSplitter</span><span class="p">(</span>
+    <span class="n">separators</span><span class="o">=</span><span class="p">[</span><span class="sa">r</span><span class="s2">"\n\n"</span><span class="p">,</span> <span class="sa">r</span><span class="s2">"\n"</span><span class="p">,</span> <span class="sa">r</span><span class="s2">"[。！？]"</span><span class="p">,</span> <span class="sa">r</span><span class="s2">"[；，]"</span><span class="p">,</span> <span class="sa">r</span><span class="s2">"\s"</span><span class="p">,</span> <span class="s2">""</span><span class="p">],</span>
+    <span class="n">is_separator_regex</span><span class="o">=</span><span class="kc">True</span><span class="p">,</span>
+    <span class="n">keep_separator</span><span class="o">=</span><span class="s2">"end"</span><span class="p">,</span>
+    <span class="n">chunk_size</span><span class="o">=</span><span class="mi">12</span><span class="p">,</span>
+    <span class="n">chunk_overlap</span><span class="o">=</span><span class="mi">0</span><span class="p">,</span>
+<span class="p">)</span>
+
+<span class="n">mixed_text</span> <span class="o">=</span> <span class="s2">"先确认客户使用的版本！再检查功能限制？最后核对报价条件。"</span>
+<span class="nb">print</span><span class="p">(</span><span class="n">regex_splitter</span><span class="o">.</span><span class="n">split_text</span><span class="p">(</span><span class="n">mixed_text</span><span class="p">))</span>
+</pre></div>
+</div>
+<h3 id="保留字符级兜底">保留字符级兜底</h3>
+<p>如果自定义列表中去掉 <code>""</code>，遇到没有匹配分隔符的长文本，递归切分器也可能返回超长切片。长度约束能否满足，取决于分隔规则是否允许继续拆分。</p>
+<div class="nb-cell"><div class="codehilite lang-nb"><pre><span></span><span class="n">no_fallback_splitter</span> <span class="o">=</span> <span class="n">RecursiveCharacterTextSplitter</span><span class="p">(</span>
+    <span class="n">separators</span><span class="o">=</span><span class="p">[</span><span class="s2">"</span><span class="se">\n\n</span><span class="s2">"</span><span class="p">,</span> <span class="s2">"</span><span class="se">\n</span><span class="s2">"</span><span class="p">],</span>
+    <span class="n">chunk_size</span><span class="o">=</span><span class="n">chunk_size</span><span class="p">,</span>
+    <span class="n">chunk_overlap</span><span class="o">=</span><span class="mi">0</span><span class="p">,</span>
+<span class="p">)</span>
+
+<span class="nb">print</span><span class="p">(</span><span class="s2">"没有字符兜底:"</span><span class="p">,</span> <span class="p">[</span><span class="nb">len</span><span class="p">(</span><span class="n">c</span><span class="p">)</span> <span class="k">for</span> <span class="n">c</span> <span class="ow">in</span> <span class="n">no_fallback_splitter</span><span class="o">.</span><span class="n">split_text</span><span class="p">(</span><span class="n">text</span><span class="p">)])</span>
+<span class="nb">print</span><span class="p">(</span><span class="s2">"保留字符兜底:"</span><span class="p">,</span> <span class="p">[</span><span class="nb">len</span><span class="p">(</span><span class="n">c</span><span class="p">)</span> <span class="k">for</span> <span class="n">c</span> <span class="ow">in</span> <span class="n">recursive_splitter</span><span class="o">.</span><span class="n">split_text</span><span class="p">(</span><span class="n">text</span><span class="p">)])</span>
+</pre></div>
+<div class="nb-out"><pre class="nb-stream">没有字符兜底: [106, 107, 324, 97, 96, 101, 272]
+保留字符兜底: [106, 107, 180, 143, 97, 96, 101, 180, 91]
+</pre></div></div>
+<h2 id="加入-chunk_overlap保留一点相邻上下文">加入 chunk_overlap，保留一点相邻上下文</h2>
+<p>先用短字符串看清机制。<code>chunk_size=10</code>、<code>chunk_overlap=3</code> 时，字符级合并可以让上一片末尾的 3 个字符出现在下一片开头。</p>
+<p>两个类都支持这个参数。设置时 <code>chunk_size</code> 必须大于 0，<code>chunk_overlap</code> 不能为负或大于 <code>chunk_size</code>；通常选 <code>0 &lt;= chunk_overlap &lt; chunk_size</code>，让每片有空间放新内容。</p>
+<div class="nb-cell"><div class="codehilite lang-nb"><pre><span></span><span class="n">sequence</span> <span class="o">=</span> <span class="s2">"0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ"</span>
+
+<span class="n">demo_splitter</span> <span class="o">=</span> <span class="n">RecursiveCharacterTextSplitter</span><span class="p">(</span>
+    <span class="n">separators</span><span class="o">=</span><span class="p">[</span><span class="s2">""</span><span class="p">],</span>
+    <span class="n">chunk_size</span><span class="o">=</span><span class="mi">10</span><span class="p">,</span>
+    <span class="n">chunk_overlap</span><span class="o">=</span><span class="mi">3</span><span class="p">,</span>
+<span class="p">)</span>
+<span class="n">demo_splitter</span><span class="o">.</span><span class="n">split_text</span><span class="p">(</span><span class="n">sequence</span><span class="p">)</span>
+</pre></div>
+<div class="nb-out"><pre class="nb-result">[&#x27;0123456789&#x27;, &#x27;789ABCDEFG&#x27;, &#x27;EFGHIJKLMN&#x27;, &#x27;LMNOPQRSTU&#x27;, &#x27;STUVWXYZ&#x27;]</pre></div></div>
+<h3 id="实际重叠可能更少甚至为零">实际重叠可能更少，甚至为零</h3>
+<p>合并时保留的是完整的基本片段。如果一个句子已经长于目标重叠量，切分器通常不会为了凑重叠而额外截取半句。</p>
+<p>下面每句话 9 个字符。每片可以放两句话，但目标重叠只有 3 个字符，放不下一句，因此实际没有重叠。</p>
+<div class="nb-cell"><div class="codehilite lang-nb"><pre><span></span><span class="n">overlap_text</span> <span class="o">=</span> <span class="s2">"甲组负责整理资料。乙组负责核对版本。丙组负责审批价格。丁组负责维护案例。"</span>
+<span class="n">boundary_splitter</span> <span class="o">=</span> <span class="n">RecursiveCharacterTextSplitter</span><span class="p">(</span>
+    <span class="n">separators</span><span class="o">=</span><span class="p">[</span><span class="s2">"。"</span><span class="p">,</span> <span class="s2">""</span><span class="p">],</span>
+    <span class="n">keep_separator</span><span class="o">=</span><span class="s2">"end"</span><span class="p">,</span>
+    <span class="n">chunk_size</span><span class="o">=</span><span class="mi">18</span><span class="p">,</span>
+    <span class="n">chunk_overlap</span><span class="o">=</span><span class="mi">9</span><span class="p">,</span>
+<span class="p">)</span>
+<span class="n">boundary_splitter</span><span class="o">.</span><span class="n">split_text</span><span class="p">(</span><span class="n">overlap_text</span><span class="p">)</span>
+</pre></div>
+<div class="nb-out"><pre class="nb-result">[&#x27;甲组负责整理资料。乙组负责核对版本。&#x27;, &#x27;乙组负责核对版本。丙组负责审批价格。&#x27;, &#x27;丙组负责审批价格。丁组负责维护案例。&#x27;]</pre></div></div>13:["$","article",null,{"className":"doc","id":"content","children":[["$","div",null,{"className":"doc-head-row mb-2 flex items-center justify-between gap-4","children":[["$","p",null,{"className":"kicker","children":[["$","span",null,{"className":"kicker-num","children":"第 15 章"}],["$","span",null,{"className":"kicker-mod","children":"RAG 知识库"}]]}],["$","$L15",null,{"progressKey":"rag-15"}]]}],["$","h1",null,{"className":"doc-h1","children":"langchain切片工具"}],["$","section",null,{"className":"chapter-insight","aria-label":"我的理解","children":[["$","div",null,{"className":"chapter-insight-head","children":[["$","span",null,{"className":"chapter-insight-label","children":"我的理解"}],["$","span",null,{"className":"chapter-insight-note","children":"基于本章内容 · 站点补充"}]]}],["$","p",null,{"children":"CharacterTextSplitter 按单一分隔符切，RecursiveCharacterTextSplitter 按分隔符优先级递归切。中文没有空格，默认分隔符和 chunk_size 的字符口径会显著影响效果，必须结合文档结构调整。"}],["$","$L16",null,{"href":"/quiz/rag/","className":"chapter-insight-link","children":["学完去面试题库 · ",24," 题 →"]}]]}],["$","$L17",null,{"html":"$18"}],"$L19"]}]
+14:["$","$L1a",null,{"sections":"$5:1:props:children:0:props:courses:2:modules:0:chapters:14:sections"}]
+19:["$","nav",null,{"className":"pager","aria-label":"章节导航","children":[["$","$L16",null,{"className":"pager-link pager-prev","href":"/course/rag/14/","children":[["$","span",null,{"className":"pager-dir","children":"上一章"}],["$","span",null,{"className":"pager-name","children":"Document Loader"}]]}],["$","$L16",null,{"className":"pager-link pager-next","href":"/course/rag/16/","children":[["$","span",null,{"className":"pager-dir","children":"下一章"}],["$","span",null,{"className":"pager-name","children":"Embedding模型选型"}]]}]]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+7:null
+9:{"metadata":[["$","title","0",{"children":"第 15 章  · RAG 知识库 · AI大全栈"}],["$","meta","1",{"name":"description","content":"袁进主讲的系列课程手册：Python 语言核心精讲、数据科学工具包、数据库、Python 框架、Agents 底层逻辑、LangGraph、LangChain + DeepAgent、Agent 观测与评估、Agent 基础建设、RAG 知识库。iOS 风格阅读体验，内置可运行的 Python 代码块。"}]],"error":null,"digest":"$undefined"}
+10:"$9:metadata"

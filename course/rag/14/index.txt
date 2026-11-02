@@ -1,0 +1,246 @@
+1:"$Sreact.fragment"
+2:I[6590,["619","static/chunks/619-ba102abea3e3d0e4.js","177","static/chunks/app/layout-1fd0282a046e2468.js"],"default"]
+3:I[9766,[],""]
+4:I[8924,[],""]
+6:I[4431,[],"OutletBoundary"]
+8:I[5278,[],"AsyncMetadataOutlet"]
+b:I[7150,[],""]
+:HL["/ai-course-site/_next/static/css/d95fb35eb6f8b422.css","style"]
+0:{"P":null,"b":"roPj9tBtCm3tsuTIKfjyH","p":"/ai-course-site","c":["","course","rag","14",""],"i":false,"f":[[["",{"children":["course",{"children":[["key","rag","d"],{"children":[["ch","14","d"],{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/ai-course-site/_next/static/css/d95fb35eb6f8b422.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"zh-CN","suppressHydrationWarning":true,"children":[["$","head",null,{"children":["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var t=localStorage.getItem(\"theme\");var d=t?t===\"dark\":window.matchMedia(\"(prefers-color-scheme: dark)\").matches;if(d)document.documentElement.classList.add(\"dark\");}catch(e){}})();"}}]}],["$","body",null,{"children":[["$","$L2",null,{"families":[{"key":"agent","name":"AI · Agent 开发"},{"key":"engineering","name":"AI · Agent 工程化"},{"key":"dev","name":"编程与工程基础"}]}],["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","footer",null,{"className":"mx-auto max-w-[52rem] px-6 pb-10 text-center text-xs text-label3","children":"AI大全栈 · 课程手册 — 由课件自动生成，仅供学习使用"}]]}]]}]]}],{"children":["course",["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["key","rag","d"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["ch","14","d"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L5",null,["$","$L6",null,{"children":["$L7",["$","$L8",null,{"promise":"$@9"}]]}]]}],{},null,false]},[["$","div","l",{"className":"doc-wrap","children":["$","div",null,{"className":"doc","aria-busy":"true","aria-label":"加载中","children":[["$","div",null,{"className":"mb-2 h-3.5 w-28 animate-pulse rounded bg-fill2"}],["$","div",null,{"className":"mb-6 h-8 w-2/3 animate-pulse rounded bg-fill2"}],["$","div",null,{"className":"space-y-3.5","children":[["$","div","0",{"className":"h-4 animate-pulse rounded bg-fill2","style":{"width":"92%"}}],["$","div","1",{"className":"h-4 animate-pulse rounded bg-fill2","style":{"width":"100%"}}],["$","div","2",{"className":"h-4 animate-pulse rounded bg-fill2","style":{"width":"96%"}}],["$","div","3",{"className":"h-4 animate-pulse rounded bg-fill2","style":{"width":"60%"}}]]}],["$","div",null,{"className":"my-8 h-32 animate-pulse rounded-xl bg-fill"}],["$","div",null,{"className":"space-y-3.5","children":[["$","div","0",{"className":"h-4 animate-pulse rounded bg-fill2","style":{"width":"100%"}}],["$","div","1",{"className":"h-4 animate-pulse rounded bg-fill2","style":{"width":"88%"}}],["$","div","2",{"className":"h-4 animate-pulse rounded bg-fill2","style":{"width":"95%"}}],["$","div","3",{"className":"h-4 animate-pulse rounded bg-fill2","style":{"width":"72%"}}],["$","div","4",{"className":"h-4 animate-pulse rounded bg-fill2","style":{"width":"100%"}}]]}]]}]}],[],[]],false]},null,false]},null,false]},null,false],"$La",false]],"m":"$undefined","G":["$b",[]],"s":false,"S":true}
+c:I[4431,[],"ViewportBoundary"]
+e:I[4431,[],"MetadataBoundary"]
+f:"$Sreact.suspense"
+a:["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$f",null,{"fallback":null,"children":"$L10"}]}]}]]}]
+11:I[7010,["619","static/chunks/619-ba102abea3e3d0e4.js","526","static/chunks/app/course/%5Bkey%5D/%5Bch%5D/page-4b7f30b4efe73131.js"],"default"]
+12:I[6710,["619","static/chunks/619-ba102abea3e3d0e4.js","526","static/chunks/app/course/%5Bkey%5D/%5Bch%5D/page-4b7f30b4efe73131.js"],"default"]
+5:[["$","$L11",null,{"url":"/course/rag/14/","title":"Document Loader","course":"RAG 知识库"}],["$","div",null,{"className":"doc-wrap","children":[["$","$L12",null,{"courses":[{"key":"eval","title":"Agent 观测与评估","glyph":"评","cls":"b5","coming_soon":false,"modules":[{"name":"课程内容","chapters":[{"n":1,"slug":"1","title":"必看导言","group":"课程内容","progress_key":"eval-1"},{"n":2,"slug":"2","title":"安装langfuse","group":"课程内容","progress_key":"eval-2"},{"n":3,"slug":"3","title":"数据上报","group":"课程内容","progress_key":"eval-3"},{"n":4,"slug":"4","title":"Observation","group":"课程内容","progress_key":"eval-4"},{"n":5,"slug":"5","title":"提示词管理","group":"课程内容","progress_key":"eval-5"},{"n":6,"slug":"6","title":"演练场","group":"课程内容","progress_key":"eval-6"},{"n":7,"slug":"7","title":"人工评估","group":"课程内容","progress_key":"eval-7"},{"n":8,"slug":"8","title":"评估器","group":"课程内容","progress_key":"eval-8"},{"n":9,"slug":"9","title":"评估器优化","group":"课程内容","progress_key":"eval-9"},{"n":10,"slug":"10","title":"数据集","group":"课程内容","progress_key":"eval-10"},{"n":11,"slug":"11","title":"补充知识","group":"课程内容","progress_key":"eval-11"},{"n":12,"slug":"12","title":"实验","group":"课程内容","progress_key":"eval-12"},{"n":13,"slug":"13","title":"Agent回归测试","group":"课程内容","progress_key":"eval-13"},{"n":14,"slug":"14","title":"使用UI完成离线评估","group":"课程内容","progress_key":"eval-14"},{"n":15,"slug":"15","title":"使用SDK完成离线评估","group":"课程内容","progress_key":"eval-15"},{"n":16,"slug":"16","title":"离线评估接入Pytest","group":"课程内容","progress_key":"eval-16"},{"n":17,"slug":"17","title":"线上实验入口","group":"课程内容","progress_key":"eval-17"},{"n":18,"slug":"18","title":"告警","group":"课程内容","progress_key":"eval-18"},{"n":19,"slug":"19","title":"清理旧数据","group":"课程内容","progress_key":"eval-19"},{"n":20,"slug":"20","title":"dashboard","group":"课程内容","progress_key":"eval-20"},{"n":21,"slug":"21","title":"课程总结","group":"课程内容","progress_key":"eval-21"}]}]},{"key":"infra","title":"Agent 基础建设","glyph":"基","cls":"b-fw","coming_soon":false,"modules":[{"name":"课程内容","chapters":[{"n":1,"slug":"1","title":"课程导言","group":"课程内容","progress_key":"infra-1"},{"n":2,"slug":"2","title":"认识docker-compose","group":"课程内容","progress_key":"infra-2"},{"n":3,"slug":"3","title":"恢复langfuse服务","group":"课程内容","progress_key":"infra-3"},{"n":4,"slug":"4","title":"AI网关服务选型","group":"课程内容","progress_key":"infra-4"},{"n":5,"slug":"5","title":"兼容性问题的最佳实践","group":"课程内容","progress_key":"infra-5"},{"n":6,"slug":"6","title":"网关访问链路","group":"课程内容","progress_key":"infra-6"},{"n":7,"slug":"7","title":"会话粘黏","group":"课程内容","progress_key":"infra-7"},{"n":8,"slug":"8","title":"路由策略","group":"课程内容","progress_key":"infra-8"},{"n":9,"slug":"9","title":"熔断","group":"课程内容","progress_key":"infra-9"},{"n":10,"slug":"10","title":"回退机制","group":"课程内容","progress_key":"infra-10"},{"n":11,"slug":"11","title":"并发控制","group":"课程内容","progress_key":"infra-11"},{"n":12,"slug":"12","title":"Logging Callback","group":"课程内容","progress_key":"infra-12"},{"n":13,"slug":"13","title":"AI资产注册与治理","group":"课程内容","progress_key":"infra-13"},{"n":14,"slug":"14","title":"AgentSpec","group":"课程内容","progress_key":"infra-14"},{"n":15,"slug":"15","title":"Nacos API 接口","group":"课程内容","progress_key":"infra-15"},{"n":16,"slug":"16","title":"集成AgentSpec","group":"课程内容","progress_key":"infra-16"},{"n":17,"slug":"17","title":"Agent动态配置","group":"课程内容","progress_key":"infra-17"},{"n":18,"slug":"18","title":"开源沙箱方案","group":"课程内容","progress_key":"infra-18"},{"n":19,"slug":"19","title":"自定义沙箱镜像","group":"课程内容","progress_key":"infra-19"},{"n":20,"slug":"20","title":"Nacos自定义配置","group":"课程内容","progress_key":"infra-20"},{"n":21,"slug":"21","title":"创建和复用沙箱","group":"课程内容","progress_key":"infra-21"},{"n":22,"slug":"22","title":"实现沙箱后端","group":"课程内容","progress_key":"infra-22"},{"n":23,"slug":"23","title":"Agent接入沙箱后端","group":"课程内容","progress_key":"infra-23"},{"n":24,"slug":"24","title":"搭建MinIO环境","group":"课程内容","progress_key":"infra-24"},{"n":25,"slug":"25","title":"实现minio管理","group":"课程内容","progress_key":"infra-25"},{"n":26,"slug":"26","title":"沙箱直传MinIO","group":"课程内容","progress_key":"infra-26"},{"n":27,"slug":"27","title":"沙箱产物自动部署","group":"课程内容","progress_key":"infra-27"},{"n":28,"slug":"28","title":"沙箱共享卷","group":"课程内容","progress_key":"infra-28"},{"n":29,"slug":"29","title":"连接技能到Agent","group":"课程内容","progress_key":"infra-29"},{"n":30,"slug":"30","title":"课程总结","group":"课程内容","progress_key":"infra-30"}]}]},{"key":"rag","title":"RAG 知识库","glyph":"索","cls":"b-db","coming_soon":false,"modules":[{"name":"课程内容","chapters":[{"n":1,"slug":"1","title":"课程导言","group":"课程内容","progress_key":"rag-1","sections":[{"name":"资料切换","anchor":"资料切换"},{"name":"项目课内容安排","anchor":"项目课内容安排"},{"name":"关于业务","anchor":"关于业务"},{"name":"关于学习重心","anchor":"关于学习重心"},{"name":"工程改动","anchor":"工程改动"}]},{"n":2,"slug":"2","title":"RAG系统概览","group":"课程内容","progress_key":"rag-2","sections":[{"name":"企业中的问题","anchor":"企业中的问题"},{"name":"RAG的解决思路","anchor":"RAG的解决思路"}]},{"n":3,"slug":"3","title":"RAG完整流程","group":"课程内容","progress_key":"rag-3","sections":[{"name":"文档内容规格化","anchor":"文档内容规格化"},{"name":"切片","anchor":"切片"},{"name":"向量化","anchor":"向量化"},{"name":"存储","anchor":"存储"},{"name":"问题向量化","anchor":"问题向量化"},{"name":"相似度检索","anchor":"相似度检索"},{"name":"检索器","anchor":"检索器"},{"name":"拼接上下文","anchor":"拼接上下文"},{"name":"系统提示词","anchor":"系统提示词"},{"name":"调用模型","anchor":"调用模型"}]},{"n":4,"slug":"4","title":"索引流水线","group":"课程内容","progress_key":"rag-4","sections":[]},{"n":5,"slug":"5","title":"飞书开放平台","group":"课程内容","progress_key":"rag-5","sections":[]},{"n":6,"slug":"6","title":"飞书公开API","group":"课程内容","progress_key":"rag-6","sections":[]},{"n":7,"slug":"7","title":"数据归一化","group":"课程内容","progress_key":"rag-7","sections":[{"name":"技术选型","anchor":"技术选型"}]},{"n":8,"slug":"8","title":"构建飞书文档树","group":"课程内容","progress_key":"rag-8","sections":[]},{"n":9,"slug":"9","title":"文档图片的处理","group":"课程内容","progress_key":"rag-9","sections":[]},{"n":10,"slug":"10","title":"OCR提取文字","group":"课程内容","progress_key":"rag-10","sections":[]},{"n":11,"slug":"11","title":"使用视觉模型提取图片信息","group":"课程内容","progress_key":"rag-11","sections":[{"name":"系统提示词","anchor":"系统提示词"}]},{"n":12,"slug":"12","title":"文档结构化切片","group":"课程内容","progress_key":"rag-12","sections":[{"name":"系统提示词","anchor":"系统提示词"}]},{"n":13,"slug":"13","title":"精细化切片","group":"课程内容","progress_key":"rag-13","sections":[{"name":"系统提示词","anchor":"系统提示词"}]},{"n":14,"slug":"14","title":"Document Loader","group":"课程内容","progress_key":"rag-14","sections":[{"name":"准备","anchor":"准备"},{"name":"纯文本：TextLoader","anchor":"纯文本TextLoader"},{"name":"Markdown：UnstructuredMarkdownLoader","anchor":"MarkdownUnstructuredMarkdownLoader"},{"name":"CSV：CSVLoader","anchor":"CSVCSVLoader"},{"name":"JSON：JSONLoader","anchor":"JSONJSONLoader"},{"name":"PDF：PyPDFLoader","anchor":"PDFPyPDFLoader"},{"name":"参考","anchor":"参考"}]},{"n":15,"slug":"15","title":"langchain切片工具","group":"课程内容","progress_key":"rag-15","sections":[{"name":"准备一篇长文本","anchor":"准备一篇长文本"},{"name":"先认识长度和重叠参数","anchor":"先认识长度和重叠参数"},{"name":"普通文本切分器：CharacterTextSplitter","anchor":"普通文本切分器CharacterTextSplitter"},{"name":"递归文本切分器：RecursiveCharacterTextSplitter","anchor":"递归文本切分器RecursiveCharacterTextSplitter"},{"name":"加入 chunk_overlap，保留一点相邻上下文","anchor":"加入-chunk_overlap保留一点相邻上下文"}]},{"n":16,"slug":"16","title":"Embedding模型选型","group":"课程内容","progress_key":"rag-16","sections":[{"name":"选型维度","anchor":"选型维度"}]},{"n":17,"slug":"17","title":"创建Embedding模型","group":"课程内容","progress_key":"rag-17","sections":[]},{"n":18,"slug":"18","title":"Milvus环境搭建","group":"课程内容","progress_key":"rag-18","sections":[{"name":"向量数据库","anchor":"向量数据库"},{"name":"Mivlus安装","anchor":"Mivlus安装"},{"name":"[可选]安装GUI管理工具","anchor":"可选安装GUI管理工具"}]},{"n":19,"slug":"19","title":"Milvus DDL","group":"课程内容","progress_key":"rag-19","sections":[{"name":"环境准备","anchor":"环境准备"},{"name":"Database","anchor":"Database"},{"name":"Schema","anchor":"Schema"},{"name":"Collection","anchor":"Collection"},{"name":"Index","anchor":"Index"}]},{"n":20,"slug":"20","title":"Milvus DML","group":"课程内容","progress_key":"rag-20","sections":[{"name":"准备数据","anchor":"准备数据"},{"name":"增","anchor":"增"},{"name":"删","anchor":"删"}]},{"n":21,"slug":"21","title":"Milvus DQL","group":"课程内容","progress_key":"rag-21","sections":[{"name":"环境准备","anchor":"环境准备"},{"name":"标量查询","anchor":"标量查询"},{"name":"向量检索","anchor":"向量检索"},{"name":"关闭连接","anchor":"关闭连接"}]},{"n":22,"slug":"22","title":"Attu使用技巧","group":"课程内容","progress_key":"rag-22","sections":[]},{"n":23,"slug":"23","title":"分析器","group":"课程内容","progress_key":"rag-23","sections":[{"name":"准备测试数据","anchor":"准备测试数据"}]},{"n":24,"slug":"24","title":"全文检索","group":"课程内容","progress_key":"rag-24","sections":[{"name":"常见的全文检索技术","anchor":"常见的全文检索技术"},{"name":"词频统计","anchor":"词频统计"},{"name":"倒排索引","anchor":"倒排索引"},{"name":"添加数据","anchor":"添加数据"},{"name":"BM25 检索","anchor":"BM25-检索"}]},{"n":25,"slug":"25","title":"创建飞书文档数据集","group":"课程内容","progress_key":"rag-25","sections":[]},{"n":26,"slug":"26","title":"VectorStore","group":"课程内容","progress_key":"rag-26","sections":[]},{"n":27,"slug":"27","title":"加入业务测试数据","group":"课程内容","progress_key":"rag-27","sections":[]}]}]}],"currentKey":"rag","currentSlug":"14"}],"$L13","$L14"]}]]
+15:I[756,["619","static/chunks/619-ba102abea3e3d0e4.js","526","static/chunks/app/course/%5Bkey%5D/%5Bch%5D/page-4b7f30b4efe73131.js"],"default"]
+16:I[2619,["619","static/chunks/619-ba102abea3e3d0e4.js","526","static/chunks/app/course/%5Bkey%5D/%5Bch%5D/page-4b7f30b4efe73131.js"],""]
+17:I[1599,["619","static/chunks/619-ba102abea3e3d0e4.js","526","static/chunks/app/course/%5Bkey%5D/%5Bch%5D/page-4b7f30b4efe73131.js"],"default"]
+1a:I[5340,["619","static/chunks/619-ba102abea3e3d0e4.js","526","static/chunks/app/course/%5Bkey%5D/%5Bch%5D/page-4b7f30b4efe73131.js"],"default"]
+18:T3e8c,<h1 id="Document-Loader">Document Loader</h1>
+<p>将不同来源的数据加载为统一的 <code>Document</code>：<code>page_content</code> 保存正文，<code>metadata</code> 保存来源等信息。</p>
+<h2 id="准备">准备</h2>
+<p>先选择项目的 Python 内核，运行下面的单元格安装依赖。安装后如遇到导入问题，重启内核再继续。</p>
+<p>PDF 使用项目已有的 <code>pypdf</code>。示例文件位于 <code>resource/document_loader/</code>，PDF 复用 <code>resource/ECMA.pdf</code>。</p>
+<div class="nb-cell"><div class="codehilite lang-nb"><pre><span></span><span class="kn">import</span><span class="w"> </span><span class="nn">warnings</span>
+
+<span class="n">warnings</span><span class="o">.</span><span class="n">filterwarnings</span><span class="p">(</span>
+    <span class="s2">"ignore"</span><span class="p">,</span>
+    <span class="n">message</span><span class="o">=</span><span class="sa">r</span><span class="s2">"`langchain-community` is being sunset.*"</span><span class="p">,</span>
+    <span class="n">category</span><span class="o">=</span><span class="ne">DeprecationWarning</span><span class="p">,</span>
+<span class="p">)</span>
+</pre></div>
+</div>
+<div class="nb-cell"><div class="codehilite lang-nb"><pre><span></span><span class="kn">import</span><span class="w"> </span><span class="nn">sys</span>
+
+<span class="n">sys</span><span class="o">.</span><span class="n">executable</span>
+</pre></div>
+</div>
+<div class="nb-cell"><div class="codehilite lang-nb"><pre><span></span><span class="kn">import</span><span class="w"> </span><span class="nn">sys</span>
+
+<span class="c1"># 安装到当前 Notebook 内核使用的 Python 环境</span>
+<span class="err">!</span><span class="n">uv</span> <span class="n">pip</span> <span class="n">install</span> <span class="o">--</span><span class="n">python</span> <span class="s2">"</span><span class="si">{sys.executable}</span><span class="s2">"</span> <span class="n">langchain</span><span class="o">-</span><span class="n">community</span> <span class="s2">"unstructured[md]"</span> <span class="n">jq</span>
+</pre></div>
+</div>
+<div class="nb-cell"><div class="codehilite lang-nb"><pre><span></span><span class="kn">from</span><span class="w"> </span><span class="nn">pathlib</span><span class="w"> </span><span class="kn">import</span> <span class="n">Path</span>
+
+<span class="c1"># 兼容从项目根目录或课件目录启动 Notebook</span>
+<span class="n">project_dir</span> <span class="o">=</span> <span class="n">Path</span><span class="o">.</span><span class="n">cwd</span><span class="p">()</span>
+<span class="k">if</span> <span class="ow">not</span> <span class="p">(</span><span class="n">project_dir</span> <span class="o">/</span> <span class="s2">"pyproject.toml"</span><span class="p">)</span><span class="o">.</span><span class="n">exists</span><span class="p">():</span>
+    <span class="n">project_dir</span> <span class="o">=</span> <span class="n">project_dir</span><span class="o">.</span><span class="n">parent</span>
+
+<span class="n">resource_dir</span> <span class="o">=</span> <span class="n">project_dir</span> <span class="o">/</span> <span class="s2">"resource"</span>
+<span class="n">sample_dir</span> <span class="o">=</span> <span class="n">resource_dir</span> <span class="o">/</span> <span class="s2">"document_loader"</span>
+</pre></div>
+</div>
+<h2 id="纯文本TextLoader">纯文本：TextLoader</h2>
+<p>整个文本文件加载为一个 <code>Document</code>，指定 UTF-8 编码。</p>
+<div class="nb-cell"><div class="codehilite lang-nb"><pre><span></span><span class="kn">from</span><span class="w"> </span><span class="nn">langchain_community.document_loaders</span><span class="w"> </span><span class="kn">import</span> <span class="n">TextLoader</span>
+
+<span class="n">text_loader</span> <span class="o">=</span> <span class="n">TextLoader</span><span class="p">(</span><span class="n">sample_dir</span> <span class="o">/</span> <span class="s2">"sales_policy.txt"</span><span class="p">,</span> <span class="n">encoding</span><span class="o">=</span><span class="s2">"utf-8"</span><span class="p">)</span>
+<span class="n">text_docs</span> <span class="o">=</span> <span class="n">text_loader</span><span class="o">.</span><span class="n">load</span><span class="p">()</span>
+
+<span class="nb">len</span><span class="p">(</span><span class="n">text_docs</span><span class="p">)</span>
+</pre></div>
+</div>
+<div class="nb-cell"><div class="codehilite lang-nb"><pre><span></span><span class="nb">print</span><span class="p">(</span><span class="n">text_docs</span><span class="p">[</span><span class="mi">0</span><span class="p">]</span><span class="o">.</span><span class="n">page_content</span><span class="p">)</span>
+<span class="n">text_docs</span><span class="p">[</span><span class="mi">0</span><span class="p">]</span><span class="o">.</span><span class="n">metadata</span>
+</pre></div>
+</div>
+<h2 id="MarkdownUnstructuredMarkdownLoader">Markdown：UnstructuredMarkdownLoader</h2>
+<p><code>mode="elements"</code> 按标题、段落、列表项等元素输出多个 <code>Document</code>。正文是解析后的文本，元素类别记录在 <code>metadata["category"]</code> 中，不保留原始 Markdown 标记。</p>
+<p>首次运行时，Unstructured 会自动下载其 spaCy 文本分析模型，需要联网。</p>
+<div class="nb-cell"><div class="codehilite lang-nb"><pre><span></span><span class="kn">from</span><span class="w"> </span><span class="nn">langchain_community.document_loaders</span><span class="w"> </span><span class="kn">import</span> <span class="n">UnstructuredMarkdownLoader</span>
+
+<span class="n">markdown_loader</span> <span class="o">=</span> <span class="n">UnstructuredMarkdownLoader</span><span class="p">(</span>
+    <span class="nb">str</span><span class="p">(</span><span class="n">sample_dir</span> <span class="o">/</span> <span class="s2">"sales_faq.md"</span><span class="p">),</span>
+    <span class="n">mode</span><span class="o">=</span><span class="s2">"elements"</span><span class="p">,</span>
+<span class="p">)</span>
+<span class="n">markdown_docs</span> <span class="o">=</span> <span class="n">markdown_loader</span><span class="o">.</span><span class="n">load</span><span class="p">()</span>
+
+<span class="nb">len</span><span class="p">(</span><span class="n">markdown_docs</span><span class="p">)</span>
+</pre></div>
+</div>
+<div class="nb-cell"><div class="codehilite lang-nb"><pre><span></span><span class="k">for</span> <span class="n">doc</span> <span class="ow">in</span> <span class="n">markdown_docs</span><span class="p">:</span>
+    <span class="nb">print</span><span class="p">(</span><span class="n">doc</span><span class="o">.</span><span class="n">metadata</span><span class="o">.</span><span class="n">get</span><span class="p">(</span><span class="s2">"category"</span><span class="p">),</span> <span class="s2">"|"</span><span class="p">,</span> <span class="n">doc</span><span class="o">.</span><span class="n">page_content</span><span class="p">)</span>
+
+<span class="n">markdown_docs</span><span class="p">[</span><span class="mi">0</span><span class="p">]</span><span class="o">.</span><span class="n">metadata</span>
+</pre></div>
+</div>
+<h2 id="CSVCSVLoader">CSV：CSVLoader</h2>
+<p>每条数据行生成一个 <code>Document</code>，列名和值组成正文；<code>metadata["row"]</code> 从 0 开始。</p>
+<div class="nb-cell"><div class="codehilite lang-nb"><pre><span></span><span class="kn">from</span><span class="w"> </span><span class="nn">langchain_community.document_loaders</span><span class="w"> </span><span class="kn">import</span> <span class="n">CSVLoader</span>
+
+<span class="n">csv_loader</span> <span class="o">=</span> <span class="n">CSVLoader</span><span class="p">(</span>
+    <span class="n">file_path</span><span class="o">=</span><span class="nb">str</span><span class="p">(</span><span class="n">sample_dir</span> <span class="o">/</span> <span class="s2">"products.csv"</span><span class="p">),</span>
+    <span class="n">encoding</span><span class="o">=</span><span class="s2">"utf-8"</span><span class="p">,</span>
+<span class="p">)</span>
+<span class="n">csv_docs</span> <span class="o">=</span> <span class="n">csv_loader</span><span class="o">.</span><span class="n">load</span><span class="p">()</span>
+
+<span class="nb">len</span><span class="p">(</span><span class="n">csv_docs</span><span class="p">)</span>
+</pre></div>
+<div class="nb-out"><pre class="nb-result">12</pre></div></div>
+<div class="nb-cell"><div class="codehilite lang-nb"><pre><span></span><span class="nb">print</span><span class="p">(</span><span class="n">csv_docs</span><span class="p">[</span><span class="mi">0</span><span class="p">]</span><span class="o">.</span><span class="n">page_content</span><span class="p">)</span>
+<span class="n">csv_docs</span><span class="p">[</span><span class="mi">0</span><span class="p">]</span><span class="o">.</span><span class="n">metadata</span>
+</pre></div>
+<div class="nb-out"><pre class="nb-stream">产品名称: 标准版
+部署方式: 云端部署
+适用客户: 需要快速搭建内部知识库的小型团队，以产品资料查询和常见问题问答为主要场景。
+</pre><pre class="nb-result">{&#x27;source&#x27;: &#x27;/Volumes/数据盘/课程资料/AI/deal-pilot-rag/resource/document_loader/products.csv&#x27;,
+ &#x27;row&#x27;: 0}</pre></div></div>
+<h2 id="JSONJSONLoader">JSON：JSONLoader</h2>
+<p><code>jq_schema=".faqs[].answer"</code> 提取每条问答的 <code>answer</code>，每个答案生成一个 <code>Document</code>；默认元数据包含文件来源和从 1 开始的 <code>seq_num</code>。</p>
+<div class="nb-cell"><div class="codehilite lang-nb"><pre><span></span><span class="kn">from</span><span class="w"> </span><span class="nn">langchain_community.document_loaders</span><span class="w"> </span><span class="kn">import</span> <span class="n">JSONLoader</span>
+
+<span class="n">json_loader</span> <span class="o">=</span> <span class="n">JSONLoader</span><span class="p">(</span>
+    <span class="n">file_path</span><span class="o">=</span><span class="n">sample_dir</span> <span class="o">/</span> <span class="s2">"faq.json"</span><span class="p">,</span>
+    <span class="n">jq_schema</span><span class="o">=</span><span class="s2">".faqs[].answer"</span><span class="p">,</span>
+    <span class="n">text_content</span><span class="o">=</span><span class="kc">True</span><span class="p">,</span>
+<span class="p">)</span>
+<span class="n">json_docs</span> <span class="o">=</span> <span class="n">json_loader</span><span class="o">.</span><span class="n">load</span><span class="p">()</span>
+
+<span class="nb">len</span><span class="p">(</span><span class="n">json_docs</span><span class="p">)</span>
+</pre></div>
+<div class="nb-out"><pre class="nb-result">12</pre></div></div>
+<div class="nb-cell"><div class="codehilite lang-nb"><pre><span></span><span class="nb">print</span><span class="p">(</span><span class="n">json_docs</span><span class="p">[</span><span class="mi">0</span><span class="p">]</span><span class="o">.</span><span class="n">page_content</span><span class="p">)</span>
+<span class="n">json_docs</span><span class="p">[</span><span class="mi">0</span><span class="p">]</span><span class="o">.</span><span class="n">metadata</span>
+</pre></div>
+<div class="nb-out"><pre class="nb-stream">标准版适合小型团队，提供知识库问答和基础数据分析。客户可以先选择产品资料查询或常见问题问答等单一场景开展试点，确认使用效果后再逐步扩大范围。本文件中的产品权益和服务约定均为课程演示内容。
+</pre><pre class="nb-result">{&#x27;source&#x27;: &#x27;/Volumes/数据盘/课程资料/AI/deal-pilot-rag/resource/document_loader/faq.json&#x27;,
+ &#x27;seq_num&#x27;: 1}</pre></div></div>
+<h2 id="PDFPyPDFLoader">PDF：PyPDFLoader</h2>
+<p><code>mode="page"</code> 每页生成一个 <code>Document</code>，<code>metadata["page"]</code> 从 0 开始。</p>
+<p>示例通过 <code>load()</code> 加载全部页面。这里提取 PDF 文本层；扫描件的识字需要另行配置 OCR。</p>
+<div class="nb-cell"><div class="codehilite lang-nb"><pre><span></span><span class="kn">from</span><span class="w"> </span><span class="nn">langchain_community.document_loaders</span><span class="w"> </span><span class="kn">import</span> <span class="n">PyPDFLoader</span>
+
+<span class="n">pdf_loader</span> <span class="o">=</span> <span class="n">PyPDFLoader</span><span class="p">(</span><span class="nb">str</span><span class="p">(</span><span class="n">resource_dir</span> <span class="o">/</span> <span class="s2">"ECMA.pdf"</span><span class="p">),</span> <span class="n">mode</span><span class="o">=</span><span class="s2">"page"</span><span class="p">)</span>
+<span class="n">pdf_docs</span> <span class="o">=</span> <span class="n">pdf_loader</span><span class="o">.</span><span class="n">load</span><span class="p">()</span>
+
+<span class="nb">len</span><span class="p">(</span><span class="n">pdf_docs</span><span class="p">)</span>
+</pre></div>
+<div class="nb-out"><pre class="nb-result">328</pre></div></div>
+<div class="nb-cell"><div class="codehilite lang-nb"><pre><span></span><span class="nb">print</span><span class="p">(</span><span class="n">pdf_docs</span><span class="p">[</span><span class="mi">100</span><span class="p">]</span><span class="o">.</span><span class="n">page_content</span><span class="p">[:</span><span class="mi">800</span><span class="p">])</span>
+<span class="n">pdf_docs</span><span class="p">[</span><span class="mi">100</span><span class="p">]</span><span class="o">.</span><span class="n">metadata</span>
+</pre></div>
+<div class="nb-out"><pre class="nb-stream">解构的参数是必需的
+参数解构有一个怪异点：默认情况下调用函数时未给参数解构传值会抛出错误。例如，用以
+下方式调用上例中的
+	
+	
+setCookie()
+	
+	
+函数就会出错：
+One	quirk	of	using	destructured	parameters	is	that,	by	default,	an	error	is	thrown	when	they
+are	not	provided	in	a	function	call.	For	instance,	this	call	to	the	
+	
+setCookie()
+	
+	function	in	the
+last	example	throws	an	error:
+//	
+出错！
+setCookie(
+&quot;type&quot;
+,	
+&quot;js&quot;
+);
+调用时第三个参数缺失了，因此它不出预料地等于
+	
+	
+undefined
+	
+	
+。这导致了一个错误，因为参
+数解构实际上只是解构声明的简写。当
+	
+	
+setCookie()
+	
+	
+函数被调用时，
+	JS	
+引擎实际上是这么
+做的：
+function
+	
+setCookie
+(
+name,	value,	options
+)	
+{
+				
+let
+	{	secure,	path,	domain,	expires	}	= 	options;
+				
+//	
+设置
+	cookie	
+的代码
+}
+既然在赋值右侧的值为
+	
+	
+null
+	
+	
+或
+	
+	
+undefined
+	
+	
+时，解构会抛出错误，那么未向
+	
+	
+setCookie()
+	
+函数传递第三个参数就同样会出错。
+若你让解构的参数作为必选参数，那么上述行为并不会令人困扰。但若你要求它是可选的，
+可以给解构的参数提供默认值来处理这种行为，就像这样：
+function
+	
+setCookie
+(
+name,	value,	
+</pre><pre class="nb-result">{&#x27;producer&#x27;: &#x27;calibre 2.57.1 [http://calibre-ebook.com]&#x27;,
+ &#x27;creator&#x27;: &#x27;calibre 2.57.1 [http://calibre-ebook.com]&#x27;,
+ &#x27;creationdate&#x27;: &#x27;2017-03-26T17:39:43+00:00&#x27;,
+ &#x27;author&#x27;: &#x27;sagittarius-rev&#x27;,
+ &#x27;title&#x27;: &#x27;《Understanding ECMAScript 6》中文翻译&#x27;,
+ &#x27;source&#x27;: &#x27;/Volumes/数据盘/课程资料/AI/deal-pilot-rag/resource/ECMA.pdf&#x27;,
+ &#x27;total_pages&#x27;: 328,
+ &#x27;page&#x27;: 100,
+ &#x27;page_label&#x27;: &#x27;101&#x27;}</pre></div></div>
+<h2 id="参考">参考</h2>
+<ul>
+<li><a href="https://docs.langchain.com/oss/python/integrations/document_loaders/">LangChain Document Loaders</a></li>
+<li><a href="https://reference.langchain.com/python/langchain-community/document_loaders">Community Loader API</a></li>
+</ul>13:["$","article",null,{"className":"doc","id":"content","children":[["$","div",null,{"className":"doc-head-row mb-2 flex items-center justify-between gap-4","children":[["$","p",null,{"className":"kicker","children":[["$","span",null,{"className":"kicker-num","children":"第 14 章"}],["$","span",null,{"className":"kicker-mod","children":"RAG 知识库"}]]}],["$","$L15",null,{"progressKey":"rag-14"}]]}],["$","h1",null,{"className":"doc-h1","children":"Document Loader"}],["$","section",null,{"className":"chapter-insight","aria-label":"我的理解","children":[["$","div",null,{"className":"chapter-insight-head","children":[["$","span",null,{"className":"chapter-insight-label","children":"我的理解"}],["$","span",null,{"className":"chapter-insight-note","children":"基于本章内容 · 站点补充"}]]}],["$","p",null,{"children":"Loader 的职责是把不同格式统一成 Document：page_content 放正文，metadata 放来源。选 Loader 要看它是否保留结构；能读出文本不等于能保留标题、表格和页码。"}],["$","$L16",null,{"href":"/quiz/rag/","className":"chapter-insight-link","children":["学完去面试题库 · ",24," 题 →"]}]]}],["$","$L17",null,{"html":"$18"}],"$L19"]}]
+14:["$","$L1a",null,{"sections":"$5:1:props:children:0:props:courses:2:modules:0:chapters:13:sections"}]
+19:["$","nav",null,{"className":"pager","aria-label":"章节导航","children":[["$","$L16",null,{"className":"pager-link pager-prev","href":"/course/rag/13/","children":[["$","span",null,{"className":"pager-dir","children":"上一章"}],["$","span",null,{"className":"pager-name","children":"精细化切片"}]]}],["$","$L16",null,{"className":"pager-link pager-next","href":"/course/rag/15/","children":[["$","span",null,{"className":"pager-dir","children":"下一章"}],["$","span",null,{"className":"pager-name","children":"langchain切片工具"}]]}]]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+7:null
+9:{"metadata":[["$","title","0",{"children":"第 14 章  · RAG 知识库 · AI大全栈"}],["$","meta","1",{"name":"description","content":"袁进主讲的系列课程手册：Python 语言核心精讲、数据科学工具包、数据库、Python 框架、Agents 底层逻辑、LangGraph、LangChain + DeepAgent、Agent 观测与评估、Agent 基础建设、RAG 知识库。iOS 风格阅读体验，内置可运行的 Python 代码块。"}]],"error":null,"digest":"$undefined"}
+10:"$9:metadata"
