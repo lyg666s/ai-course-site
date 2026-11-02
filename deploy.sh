@@ -70,15 +70,15 @@ git worktree remove "$WORKTREE" --force 2>/dev/null || true
 # 5. 校验线上是否真的切到本次构建（Pages 构建有几十秒延迟）
 CSS_PATH=$(grep -o '/ai-course-site/_next/static/css/[a-z0-9]*\.css' web/out/index.html | head -1 || true)
 if [ -n "$CSS_PATH" ]; then
-  for i in 1 2 3 4 5 6 7 8; do
+  for i in $(seq 1 12); do
     if curl -sf --max-time 10 "$SITE_URL$CSS_PATH" -o /dev/null; then
       echo "✓ 部署完成，线上已是本次构建：$SITE_URL/"
       exit 0
     fi
-    echo "… 等待 GitHub Pages 构建（$i/8）"
+    echo "… 等待 GitHub Pages 构建（$i/12）"
     sleep 15
   done
-  echo "已推送，但线上仍是旧版本（Pages 可能还在构建），稍后刷新 $SITE_URL/" >&2
+  echo "已推送，但 3 分钟内还没探测到新构建（Pages 可能仍在排队），稍后刷新 $SITE_URL/" >&2
   exit 0
 fi
 
