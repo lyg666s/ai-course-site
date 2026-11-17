@@ -1,0 +1,454 @@
+1:"$Sreact.fragment"
+2:I[6590,["619","static/chunks/619-ba102abea3e3d0e4.js","177","static/chunks/app/layout-1fd0282a046e2468.js"],"default"]
+3:I[9766,[],""]
+4:I[8924,[],""]
+6:I[4431,[],"OutletBoundary"]
+8:I[5278,[],"AsyncMetadataOutlet"]
+b:I[7150,[],""]
+:HL["/ai-course-site/_next/static/css/d95fb35eb6f8b422.css","style"]
+0:{"P":null,"b":"X8etduvi9QkiRbgJrCKEG","p":"/ai-course-site","c":["","course","java-basic","24",""],"i":false,"f":[[["",{"children":["course",{"children":[["key","java-basic","d"],{"children":[["ch","24","d"],{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/ai-course-site/_next/static/css/d95fb35eb6f8b422.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"zh-CN","suppressHydrationWarning":true,"children":[["$","head",null,{"children":["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var t=localStorage.getItem(\"theme\");var d=t?t===\"dark\":window.matchMedia(\"(prefers-color-scheme: dark)\").matches;if(d)document.documentElement.classList.add(\"dark\");}catch(e){}})();"}}]}],["$","body",null,{"children":[["$","$L2",null,{"families":[{"key":"agent","name":"AI · Agent 开发"},{"key":"engineering","name":"AI · Agent 工程化"},{"key":"dev","name":"编程与工程基础"}]}],["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","footer",null,{"className":"mx-auto max-w-[52rem] px-6 pb-10 text-center text-xs text-label3","children":"AI大全栈 · 课程手册 — 由课件自动生成，仅供学习使用"}]]}]]}]]}],{"children":["course",["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["key","java-basic","d"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["ch","24","d"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L5",null,["$","$L6",null,{"children":["$L7",["$","$L8",null,{"promise":"$@9"}]]}]]}],{},null,false]},[["$","div","l",{"className":"doc-wrap","children":["$","div",null,{"className":"doc","aria-busy":"true","aria-label":"加载中","children":[["$","div",null,{"className":"mb-2 h-3.5 w-28 animate-pulse rounded bg-fill2"}],["$","div",null,{"className":"mb-6 h-8 w-2/3 animate-pulse rounded bg-fill2"}],["$","div",null,{"className":"space-y-3.5","children":[["$","div","0",{"className":"h-4 animate-pulse rounded bg-fill2","style":{"width":"92%"}}],["$","div","1",{"className":"h-4 animate-pulse rounded bg-fill2","style":{"width":"100%"}}],["$","div","2",{"className":"h-4 animate-pulse rounded bg-fill2","style":{"width":"96%"}}],["$","div","3",{"className":"h-4 animate-pulse rounded bg-fill2","style":{"width":"60%"}}]]}],["$","div",null,{"className":"my-8 h-32 animate-pulse rounded-xl bg-fill"}],["$","div",null,{"className":"space-y-3.5","children":[["$","div","0",{"className":"h-4 animate-pulse rounded bg-fill2","style":{"width":"100%"}}],["$","div","1",{"className":"h-4 animate-pulse rounded bg-fill2","style":{"width":"88%"}}],["$","div","2",{"className":"h-4 animate-pulse rounded bg-fill2","style":{"width":"95%"}}],["$","div","3",{"className":"h-4 animate-pulse rounded bg-fill2","style":{"width":"72%"}}],["$","div","4",{"className":"h-4 animate-pulse rounded bg-fill2","style":{"width":"100%"}}]]}]]}]}],[],[]],false]},null,false]},null,false]},null,false],"$La",false]],"m":"$undefined","G":["$b",[]],"s":false,"S":true}
+c:I[4431,[],"ViewportBoundary"]
+e:I[4431,[],"MetadataBoundary"]
+f:"$Sreact.suspense"
+a:["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$f",null,{"fallback":null,"children":"$L10"}]}]}]]}]
+11:I[7010,["619","static/chunks/619-ba102abea3e3d0e4.js","526","static/chunks/app/course/%5Bkey%5D/%5Bch%5D/page-4b7f30b4efe73131.js"],"default"]
+12:I[6710,["619","static/chunks/619-ba102abea3e3d0e4.js","526","static/chunks/app/course/%5Bkey%5D/%5Bch%5D/page-4b7f30b4efe73131.js"],"default"]
+5:[["$","$L11",null,{"url":"/course/java-basic/24/","title":"POM文件与依赖管理","course":"Java语言核心精讲"}],["$","div",null,{"className":"doc-wrap","children":[["$","$L12",null,{"courses":[{"key":"py","title":"Python语言核心精讲","glyph":"Py","cls":"b1","coming_soon":false,"modules":[{"name":"语言基础","chapters":[{"n":1,"slug":"1","title":"必看导言","group":"语言基础","progress_key":"1"},{"n":2,"slug":"2","title":"python环境安装","group":"语言基础","progress_key":"2"},{"n":3,"slug":"3","title":"python基本语法","group":"语言基础","progress_key":"3"},{"n":4,"slug":"4","title":"容器类型","group":"语言基础","progress_key":"4"},{"n":5,"slug":"5","title":"函数","group":"语言基础","progress_key":"5"},{"n":6,"slug":"6","title":"作用域","group":"语言基础","progress_key":"6"},{"n":7,"slug":"7","title":"lambda表达式","group":"语言基础","progress_key":"7"}]},{"name":"面向对象","chapters":[{"n":8,"slug":"8","title":"类和对象","group":"面向对象","progress_key":"8"},{"n":9,"slug":"9","title":"对象的类型","group":"面向对象","progress_key":"9"},{"n":10,"slug":"10","title":"对象的创建过程","group":"面向对象","progress_key":"10"},{"n":11,"slug":"11","title":"可调用对象","group":"面向对象","progress_key":"11"},{"n":12,"slug":"12","title":"元类","group":"面向对象","progress_key":"12"},{"n":13,"slug":"13","title":"装饰器","group":"面向对象","progress_key":"13"},{"n":14,"slug":"14","title":"魔术方法","group":"面向对象","progress_key":"14"},{"n":15,"slug":"15","title":"描述符","group":"面向对象","progress_key":"15"}]},{"name":"语言进阶","chapters":[{"n":16,"slug":"16","title":"异常处理","group":"语言进阶","progress_key":"16"},{"n":17,"slug":"17","title":"迭代器与生成器","group":"语言进阶","progress_key":"17"},{"n":18,"slug":"18","title":"上下文管理器","group":"语言进阶","progress_key":"18"},{"n":19,"slug":"19","title":"ABC","group":"语言进阶","progress_key":"19"},{"n":20,"slug":"20","title":"类型标注","group":"语言进阶","progress_key":"20"},{"n":21,"slug":"21","title":"模块化","group":"语言进阶","progress_key":"21"},{"n":22,"slug":"22","title":"标准库","group":"语言进阶","progress_key":"22"},{"n":23,"slug":"23","title":"第三方库","group":"语言进阶","progress_key":"23"}]},{"name":"异步与并发","chapters":[{"n":24,"slug":"24","title":"事件循环","group":"异步与并发","progress_key":"24"},{"n":25,"slug":"25","title":"Future类","group":"异步与并发","progress_key":"25"},{"n":26,"slug":"26","title":"协程 Coroutine","group":"异步与并发","progress_key":"26"},{"n":27,"slug":"27","title":"异步编程","group":"异步与并发","progress_key":"27"},{"n":28,"slug":"28","title":"多线程与多进程","group":"异步与并发","progress_key":"28"}]},{"name":"工程化实践","chapters":[{"n":29,"slug":"29","title":"构建发布","group":"工程化实践","progress_key":"29"},{"n":30,"slug":"30","title":"项目管理工具","group":"工程化实践","progress_key":"30"},{"n":31,"slug":"31","title":"monorepo","group":"工程化实践","progress_key":"31"},{"n":32,"slug":"32","title":"断点调试","group":"工程化实践","progress_key":"32"}]},{"name":"项目案例","chapters":[{"n":null,"slug":"proj-async-agents","title":"多智能体协同调研系统","group":"项目案例","progress_key":""},{"n":null,"slug":"proj-duyi-utils","title":"duyi-utils 构建发布示例","group":"项目案例","progress_key":""}]}]},{"key":"fw","title":"Python框架","glyph":"架","cls":"b-fw","coming_soon":false,"modules":[{"name":"课程内容","chapters":[{"n":1,"slug":"1","title":"Web服务框架","group":"课程内容","progress_key":"fw-1"},{"n":2,"slug":"2","title":"优化包结构","group":"课程内容","progress_key":"fw-2"},{"n":3,"slug":"3","title":"初识SQLAlchemy","group":"课程内容","progress_key":"fw-3"},{"n":4,"slug":"4","title":"ORM","group":"课程内容","progress_key":"fw-4"},{"n":5,"slug":"5","title":"数据操作","group":"课程内容","progress_key":"fw-5"},{"n":6,"slug":"6","title":"数据迁移","group":"课程内容","progress_key":"fw-6"},{"n":7,"slug":"7","title":"业务逻辑","group":"课程内容","progress_key":"fw-7"},{"n":8,"slug":"8","title":"依赖注入","group":"课程内容","progress_key":"fw-8"},{"n":9,"slug":"9","title":"统一异常处理","group":"课程内容","progress_key":"fw-9"},{"n":10,"slug":"10","title":"中间件","group":"课程内容","progress_key":"fw-10"},{"n":11,"slug":"11","title":"测试框架","group":"课程内容","progress_key":"fw-11"},{"n":12,"slug":"12","title":"测试方案","group":"课程内容","progress_key":"fw-12"},{"n":13,"slug":"13","title":"三层架构","group":"课程内容","progress_key":"fw-13"},{"n":14,"slug":"14","title":"文件上传","group":"课程内容","progress_key":"fw-14"},{"n":15,"slug":"15","title":"系统设置","group":"课程内容","progress_key":"fw-15"},{"n":17,"slug":"17","title":"用户系统","group":"课程内容","progress_key":"fw-17"},{"n":18,"slug":"18","title":"日志","group":"课程内容","progress_key":"fw-18"},{"n":20,"slug":"20","title":"流式响应","group":"课程内容","progress_key":"fw-20"},{"n":26,"slug":"26","title":"python收官检验","group":"课程内容","progress_key":"fw-26"}]},{"name":"部署","chapters":[{"n":21,"slug":"21","title":"部署-认识Docker","group":"部署","progress_key":"fw-21"},{"n":22,"slug":"22","title":"部署-云资产","group":"部署","progress_key":"fw-22"},{"n":23,"slug":"23","title":"部署-k8s","group":"部署","progress_key":"fw-23"},{"n":24,"slug":"24","title":"部署-CICD","group":"部署","progress_key":"fw-24"},{"n":25,"slug":"25","title":"部署-总结","group":"部署","progress_key":"fw-25"}]}]},{"key":"db","title":"数据库","glyph":"库","cls":"b-db","coming_soon":false,"modules":[{"name":"课程内容","chapters":[{"n":1,"slug":"1","title":"PostgreSQL安装","group":"课程内容","progress_key":"db-1"},{"n":2,"slug":"2","title":"DDL","group":"课程内容","progress_key":"db-2"},{"n":3,"slug":"3","title":"表间关系","group":"课程内容","progress_key":"db-3"},{"n":4,"slug":"4","title":"DML","group":"课程内容","progress_key":"db-4"},{"n":5,"slug":"5","title":"事务","group":"课程内容","progress_key":"db-5"},{"n":6,"slug":"6","title":"索引","group":"课程内容","progress_key":"db-6"},{"n":7,"slug":"7","title":"拓展知识","group":"课程内容","progress_key":"db-7"}]}]},{"key":"dst","title":"数据科学工具包","glyph":"数","cls":"b-ds","coming_soon":false,"modules":[{"name":"课程内容","chapters":[{"n":1,"slug":"1","title":"课程导言","group":"课程内容","progress_key":"dst-1"},{"n":2,"slug":"2","title":"Jupyter","group":"课程内容","progress_key":"dst-2"},{"n":10,"slug":"10","title":"Seaborn","group":"课程内容","progress_key":"dst-10"}]},{"name":"Numpy","chapters":[{"n":3,"slug":"3","title":"Numpy - 核心概念","group":"Numpy","progress_key":"dst-3"},{"n":4,"slug":"4","title":"Numpy - 数据操作","group":"Numpy","progress_key":"dst-4"}]},{"name":"Pandas","chapters":[{"n":5,"slug":"5","title":"Pandas - 数据类型","group":"Pandas","progress_key":"dst-5"},{"n":6,"slug":"6","title":"Pandas - 数据清洗","group":"Pandas","progress_key":"dst-6"}]},{"name":"Matplotlib","chapters":[{"n":7,"slug":"7","title":"Matplotlib - 核心概念","group":"Matplotlib","progress_key":"dst-7"},{"n":8,"slug":"8","title":"Matplotlib - 动画","group":"Matplotlib","progress_key":"dst-8"},{"n":9,"slug":"9","title":"Matplotlib - 交互式组件","group":"Matplotlib","progress_key":"dst-9"}]}]},{"key":"java-basic","title":"Java语言核心精讲","glyph":"J","cls":"b-java","coming_soon":false,"modules":[{"name":"课程内容","chapters":[{"n":1,"slug":"1","title":"课程导言","group":"课程内容","progress_key":"java-basic-1","sections":[{"name":"三个问题","anchor":"三个问题"},{"name":"讲师介绍：郑天民","anchor":"讲师介绍郑天民"},{"name":"为什么要学Java？","anchor":"为什么要学Java"},{"name":"怎么学Java？","anchor":"怎么学Java"},{"name":"作业","anchor":"作业"}]},{"n":2,"slug":"2","title":"构建第一个Java应用程序","group":"课程内容","progress_key":"java-basic-2","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"Java核心概念","anchor":"Java核心概念"},{"name":"安装和配置JDK","anchor":"安装和配置JDK"},{"name":"创建和运行第一个Java项目","anchor":"创建和运行第一个Java项目"},{"name":"常见问题总结","anchor":"常见问题总结"},{"name":"作业","anchor":"作业"}]},{"n":3,"slug":"3","title":"Java基础语法","group":"课程内容","progress_key":"java-basic-3","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"语言基本特征","anchor":"语言基本特征"},{"name":"注释","anchor":"注释"},{"name":"数据类型","anchor":"数据类型"},{"name":"instanceof 与类型检查","anchor":"instanceof-与类型检查"},{"name":"变量","anchor":"变量"},{"name":"字符串格式化","anchor":"字符串格式化"},{"name":"运算符","anchor":"运算符"},{"name":"输入输出","anchor":"输入输出"},{"name":"流程控制","anchor":"流程控制"},{"name":"循环","anchor":"循环"},{"name":"作业","anchor":"作业"}]},{"n":4,"slug":"4","title":"容器类型","group":"课程内容","progress_key":"java-basic-4","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"什么是容器类型？","anchor":"什么是容器类型"},{"name":"List 接口（列表）","anchor":"List-接口列表"},{"name":"Set 接口（集合）","anchor":"Set-接口集合"},{"name":"Map 接口（字典，映射表，键值对）","anchor":"Map-接口字典映射表键值对"},{"name":"数组（Array）","anchor":"数组Array"},{"name":"String 作为字符序列","anchor":"String-作为字符序列"},{"name":"通用操作","anchor":"通用操作"},{"name":"常用运算符与操作","anchor":"常用运算符与操作"},{"name":"遍历容器","anchor":"遍历容器"},{"name":"思维导图","anchor":"思维导图"},{"name":"作业","anchor":"作业"}]},{"n":5,"slug":"5","title":"方法","group":"课程内容","progress_key":"java-basic-5","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"关于类和方法","anchor":"关于类和方法"},{"name":"静态方法 vs 实例方法","anchor":"静态方法-vs-实例方法"},{"name":"定义方法","anchor":"定义方法"},{"name":"参数","anchor":"参数"},{"name":"返回值","anchor":"返回值"},{"name":"访问修饰符（控制方法可见性）","anchor":"访问修饰符控制方法可见性"},{"name":"文档注释（Javadoc）","anchor":"文档注释Javadoc"},{"name":"作业","anchor":"作业"}]},{"n":6,"slug":"6","title":"Lambda表达式","group":"课程内容","progress_key":"java-basic-6","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"什么是 Lambda 表达式","anchor":"什么是-Lambda-表达式"},{"name":"函数式接口（Functional Interface）","anchor":"函数式接口Functional-Interface"},{"name":"Lambda 表达式语法","anchor":"Lambda-表达式语法"},{"name":"Java 内置函数式接口详解","anchor":"Java-内置函数式接口详解"},{"name":"方法引用（Method Reference）","anchor":"方法引用Method-Reference"},{"name":"对比：匿名内部类 vs Lambda","anchor":"对比匿名内部类-vs-Lambda"},{"name":"注意事项","anchor":"注意事项"},{"name":"作业","anchor":"作业"}]},{"n":7,"slug":"7","title":"Stream API","group":"课程内容","progress_key":"java-basic-7","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"什么是 Stream API","anchor":"什么是-Stream-API"},{"name":"Stream 的创建","anchor":"Stream-的创建"},{"name":"终端操作（Terminal Operations）","anchor":"终端操作Terminal-Operations"},{"name":"中间操作（Intermediate Operations）","anchor":"中间操作Intermediate-Operations"},{"name":"Stream 操作经典示例","anchor":"Stream-操作经典示例"},{"name":"注意事项","anchor":"注意事项"},{"name":"作业","anchor":"作业"}]},{"n":8,"slug":"8","title":"类和对象","group":"课程内容","progress_key":"java-basic-8","sections":[{"name":"类和对象","anchor":"类和对象"},{"name":"课程目标","anchor":"课程目标"},{"name":"面向对象编程概述","anchor":"面向对象编程概述"},{"name":"类的基本定义","anchor":"类的基本定义"},{"name":"对象的创建和使用","anchor":"对象的创建和使用"},{"name":"构造方法（Constructor）","anchor":"构造方法Constructor"},{"name":"this 关键字","anchor":"this-关键字"},{"name":"静态成员（static）","anchor":"静态成员static"},{"name":"代码块","anchor":"代码块"},{"name":"作业","anchor":"作业"}]},{"n":9,"slug":"9","title":"封装、继承和多态","group":"课程内容","progress_key":"java-basic-9","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"封装（Encapsulation）","anchor":"封装Encapsulation"},{"name":"继承（Inheritance）","anchor":"继承Inheritance"},{"name":"多态（Polymorphism）","anchor":"多态Polymorphism"},{"name":"综合示例：动物园饲养系统","anchor":"综合示例动物园饲养系统"},{"name":"作业","anchor":"作业"}]},{"n":10,"slug":"10","title":"抽象类和接口","group":"课程内容","progress_key":"java-basic-10","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"抽象类（Abstract Class）","anchor":"抽象类Abstract-Class"},{"name":"接口（Interface）","anchor":"接口Interface"},{"name":"抽象类 vs 接口","anchor":"抽象类-vs-接口"},{"name":"综合示例：绘图系统（抽象类 + 接口）","anchor":"综合示例绘图系统抽象类-接口"},{"name":"作业","anchor":"作业"}]},{"n":11,"slug":"11","title":"包管理","group":"课程内容","progress_key":"java-basic-11","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"什么是包","anchor":"什么是包"},{"name":"包的作用","anchor":"包的作用"},{"name":"包名命名规范","anchor":"包名命名规范"},{"name":"包的声明","anchor":"包的声明"},{"name":"包的导入","anchor":"包的导入"},{"name":"包与目录结构","anchor":"包与目录结构"},{"name":"包的可见性与访问控制","anchor":"包的可见性与访问控制"},{"name":"Java 模块化系统（Java 9+）","anchor":"Java-模块化系统Java-9"},{"name":"注意事项","anchor":"注意事项"},{"name":"作业","anchor":"作业"}]},{"n":12,"slug":"12","title":"异常处理","group":"课程内容","progress_key":"java-basic-12","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"什么是异常","anchor":"什么是异常"},{"name":"Java 异常体系","anchor":"Java-异常体系"},{"name":"异常处理关键字","anchor":"异常处理关键字"},{"name":"try-catch 块","anchor":"try-catch-块"},{"name":"finally 块","anchor":"finally-块"},{"name":"throw 和 throws","anchor":"throw-和-throws"},{"name":"自定义异常","anchor":"自定义异常"},{"name":"try-with-resources（自动资源管理）","anchor":"try-with-resources自动资源管理"},{"name":"异常处理最佳实践","anchor":"异常处理最佳实践"},{"name":"作业","anchor":"作业"}]},{"n":13,"slug":"13","title":"反射","group":"课程内容","progress_key":"java-basic-13","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"什么是反射","anchor":"什么是反射"},{"name":"获取 Class 对象","anchor":"获取-Class-对象"},{"name":"通过反射获取类信息","anchor":"通过反射获取类信息"},{"name":"通过反射创建对象","anchor":"通过反射创建对象"},{"name":"通过反射调用方法","anchor":"通过反射调用方法"},{"name":"通过反射访问字段","anchor":"通过反射访问字段"},{"name":"反射操作数组","anchor":"反射操作数组"},{"name":"反射的优缺点","anchor":"反射的优缺点"},{"name":"典型应用场景","anchor":"典型应用场景"},{"name":"作业","anchor":"作业"}]},{"n":14,"slug":"14","title":"泛型","group":"课程内容","progress_key":"java-basic-14","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"什么是泛型","anchor":"什么是泛型"},{"name":"泛型类（Generic Class）","anchor":"泛型类Generic-Class"},{"name":"泛型方法（Generic Method）","anchor":"泛型方法Generic-Method"},{"name":"泛型接口（Generic Interface）","anchor":"泛型接口Generic-Interface"},{"name":"类型通配符（Wildcard）","anchor":"类型通配符Wildcard"},{"name":"泛型的使用限制","anchor":"泛型的使用限制"},{"name":"泛型与继承","anchor":"泛型与继承"},{"name":"完整示例：泛型在集合中的应用","anchor":"完整示例泛型在集合中的应用"},{"name":"作业","anchor":"作业"}]},{"n":15,"slug":"15","title":"注解","group":"课程内容","progress_key":"java-basic-15","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"什么是注解","anchor":"什么是注解"},{"name":"内置注解（Built-in Annotations）","anchor":"内置注解Built-in-Annotations"},{"name":"元注解（Meta-Annotations）","anchor":"元注解Meta-Annotations"},{"name":"自定义注解","anchor":"自定义注解"},{"name":"注解的应用场景","anchor":"注解的应用场景"},{"name":"注意事项","anchor":"注意事项"},{"name":"作业","anchor":"作业"}]},{"n":16,"slug":"16","title":"Java特性拾遗与精进","group":"课程内容","progress_key":"java-basic-16","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"生活中的类比","anchor":"生活中的类比"},{"name":"final 的精细化","anchor":"final-的精细化"},{"name":"枚举（enum）","anchor":"枚举enum"},{"name":"文本块（Text Blocks）","anchor":"文本块Text-Blocks"},{"name":"Record类","anchor":"Record类"},{"name":"Optional 容器类","anchor":"Optional-容器类"},{"name":"== 与 equals 的终极对比","anchor":"与-equals-的终极对比"},{"name":"assert 断言语法","anchor":"assert-断言语法"},{"name":"常用工具类","anchor":"常用工具类"},{"name":"代码风格与规范（Google Java Style）","anchor":"代码风格与规范Google-Java-Style"},{"name":"作业","anchor":"作业"}]},{"n":17,"slug":"17","title":"线程基础与创建方式","group":"课程内容","progress_key":"java-basic-17","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"生活中的多线程","anchor":"生活中的多线程"},{"name":"进程与线程概述","anchor":"进程与线程概述"},{"name":"Java 中的主线程","anchor":"Java-中的主线程"},{"name":"创建线程的三种方式","anchor":"创建线程的三种方式"},{"name":"start() vs run() 的重要区别","anchor":"start-vs-run-的重要区别"},{"name":"作业","anchor":"作业"}]},{"n":18,"slug":"18","title":"线程生命周期与控制方法","group":"课程内容","progress_key":"java-basic-18","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"生活中的状态类比","anchor":"生活中的状态类比"},{"name":"线程的六种状态","anchor":"线程的六种状态"},{"name":"线程状态转换图","anchor":"线程状态转换图"},{"name":"线程控制方法详解","anchor":"线程控制方法详解"},{"name":"守护线程","anchor":"守护线程"},{"name":"作业","anchor":"作业"}]},{"n":19,"slug":"19","title":"线程安全与锁机制","group":"课程内容","progress_key":"java-basic-19","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"生活中的线程安全问题","anchor":"生活中的线程安全问题"},{"name":"线程安全问题引入","anchor":"线程安全问题引入"},{"name":"synchronized 内置锁","anchor":"synchronized-内置锁"},{"name":"volatile 关键字","anchor":"volatile-关键字"},{"name":"Lock 接口与 ReentrantLock","anchor":"Lock-接口与-ReentrantLock"},{"name":"synchronized vs ReentrantLock 对比","anchor":"synchronized-vs-ReentrantLock-对比"},{"name":"死锁","anchor":"死锁"},{"name":"作业","anchor":"作业"}]},{"n":20,"slug":"20","title":"线程池与Executor框架","group":"课程内容","progress_key":"java-basic-20","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"生活中的线程池类比","anchor":"生活中的线程池类比"},{"name":"Executor 框架体系","anchor":"Executor-框架体系"},{"name":"四种常用线程池","anchor":"四种常用线程池"},{"name":"ThreadPoolExecutor 核心参数","anchor":"ThreadPoolExecutor-核心参数"},{"name":"提交任务","anchor":"提交任务"},{"name":"Callable 与 Future","anchor":"Callable-与-Future"},{"name":"关闭线程池","anchor":"关闭线程池"},{"name":"注意事项与最佳实践","anchor":"注意事项与最佳实践"},{"name":"作业","anchor":"作业"}]},{"n":21,"slug":"21","title":"并发集合与同步工具类","group":"课程内容","progress_key":"java-basic-21","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"生活中的并发容器与协同工具","anchor":"生活中的并发容器与协同工具"},{"name":"传统集合的线程安全问题","anchor":"传统集合的线程安全问题"},{"name":"ConcurrentHashMap","anchor":"ConcurrentHashMap"},{"name":"CopyOnWriteArrayList","anchor":"CopyOnWriteArrayList"},{"name":"阻塞队列 BlockingQueue","anchor":"阻塞队列-BlockingQueue"},{"name":"同步工具类","anchor":"同步工具类"},{"name":"对比总结","anchor":"对比总结"},{"name":"作业","anchor":"作业"}]},{"n":22,"slug":"22","title":"高级并发与最佳实践","group":"课程内容","progress_key":"java-basic-22","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"CompletableFuture —— 异步编程的利器","anchor":"CompletableFuture-异步编程的利器"},{"name":"ThreadLocal —— 线程本地变量","anchor":"ThreadLocal-线程本地变量"},{"name":"原子类","anchor":"原子类"},{"name":"作业","anchor":"作业"}]},{"n":23,"slug":"23","title":"Maven入门与环境配置","group":"课程内容","progress_key":"java-basic-23","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"从一个简单项目看传统依赖管理的痛点","anchor":"从一个简单项目看传统依赖管理的痛点"},{"name":"Maven安装与配置","anchor":"Maven安装与配置"},{"name":"settings.xml配置","anchor":"settingsxml配置"},{"name":"第一个Maven项目","anchor":"第一个Maven项目"},{"name":"Maven常用命令初体验","anchor":"Maven常用命令初体验"},{"name":"作业","anchor":"作业"}]},{"n":24,"slug":"24","title":"POM文件与依赖管理","group":"课程内容","progress_key":"java-basic-24","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"POM 文件结构详解","anchor":"POM-文件结构详解"},{"name":"依赖管理（Dependency Management）","anchor":"依赖管理Dependency-Management"},{"name":"版本管理策略","anchor":"版本管理策略"},{"name":"实践示例：将上节课的手工项目转为 Maven 项目","anchor":"实践示例将上节课的手工项目转为-Maven-项目"},{"name":"作业","anchor":"作业"}]},{"n":25,"slug":"25","title":"Maven生命周期与插件体系","group":"课程内容","progress_key":"java-basic-25","sections":[{"name":"生活中的类比：从咖啡店到构建工厂","anchor":"生活中的类比从咖啡店到构建工厂"},{"name":"Maven 生命周期","anchor":"Maven-生命周期"},{"name":"Maven 插件体系","anchor":"Maven-插件体系"},{"name":"常用命令与实战","anchor":"常用命令与实战"},{"name":"常见问题与解决方案","anchor":"常见问题与解决方案"},{"name":"作业","anchor":"作业"}]},{"n":26,"slug":"26","title":"多模块项目管理","group":"课程内容","progress_key":"java-basic-26","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"生活中的多模块类比","anchor":"生活中的多模块类比"},{"name":"为什么需要多模块项目","anchor":"为什么需要多模块项目"},{"name":"聚合（Aggregation）","anchor":"聚合Aggregation"},{"name":"继承（Inheritance）","anchor":"继承Inheritance"},{"name":"聚合 vs 继承","anchor":"聚合-vs-继承"},{"name":"多模块项目结构最佳实践","anchor":"多模块项目结构最佳实践"},{"name":"版本管理最佳实践","anchor":"版本管理最佳实践"},{"name":"常见问题与解决方案","anchor":"常见问题与解决方案"},{"name":"作业","anchor":"作业"}]}]}]},{"key":"spring-boot","title":"单体系统和Spring Boot","glyph":"B","cls":"b-ds","coming_soon":false,"modules":[{"name":"课程内容","chapters":[{"n":1,"slug":"1","title":"课程导言","group":"课程内容","progress_key":"spring-boot-1"},{"n":2,"slug":"2","title":"Spring Boot概述与快速入门","group":"课程内容","progress_key":"spring-boot-2"},{"n":3,"slug":"3","title":"Spring Boot应用程序结构与分层设计","group":"课程内容","progress_key":"spring-boot-3"},{"n":4,"slug":"4","title":"Spring Boot配置体系","group":"课程内容","progress_key":"spring-boot-4"},{"n":5,"slug":"5","title":"自动配置原理与Starter机制","group":"课程内容","progress_key":"spring-boot-5"},{"n":6,"slug":"6","title":"依赖注入基本概念与三种注入方式","group":"课程内容","progress_key":"spring-boot-6"},{"n":7,"slug":"7","title":"@Autowired详解与注入决策流程","group":"课程内容","progress_key":"spring-boot-7"},{"n":8,"slug":"8","title":"循环依赖与三级缓存机制","group":"课程内容","progress_key":"spring-boot-8"},{"n":9,"slug":"9","title":"AOP编程思想与动态代理机制","group":"课程内容","progress_key":"spring-boot-9"},{"n":10,"slug":"10","title":"Spring AOP实战：日志切面","group":"课程内容","progress_key":"spring-boot-10"},{"n":11,"slug":"11","title":"Spring AOP实战：性能监控与异常处理","group":"课程内容","progress_key":"spring-boot-11"},{"n":12,"slug":"12","title":"HTTP协议与Web服务开发流程","group":"课程内容","progress_key":"spring-boot-12"},{"n":13,"slug":"13","title":"Servlet与Spring WebMVC架构解析","group":"课程内容","progress_key":"spring-boot-13"},{"n":14,"slug":"14","title":"REST API开发：请求映射与参数处理","group":"课程内容","progress_key":"spring-boot-14"},{"n":15,"slug":"15","title":"REST API开发：响应封装和全局异常处理","group":"课程内容","progress_key":"spring-boot-15"},{"n":16,"slug":"16","title":"REST API高级：过滤器与拦截器实战","group":"课程内容","progress_key":"spring-boot-16"},{"n":17,"slug":"17","title":"REST API文档自动生成与API规范","group":"课程内容","progress_key":"spring-boot-17"},{"n":18,"slug":"18","title":"RestTemplate与服务间调用","group":"课程内容","progress_key":"spring-boot-18"},{"n":19,"slug":"19","title":"Spring WebFlux编程模型与实战","group":"课程内容","progress_key":"spring-boot-19"},{"n":20,"slug":"20","title":"JDBC规范解析","group":"课程内容","progress_key":"spring-boot-20"},{"n":21,"slug":"21","title":"Spring JDBC解决方案与JdbcTemplate基础","group":"课程内容","progress_key":"spring-boot-21"},{"n":22,"slug":"22","title":"JdbcTemplate高级操作与SimpleJdbcInsert","group":"课程内容","progress_key":"spring-boot-22"},{"n":23,"slug":"23","title":"自己动手写一个JdbcTemplate","group":"课程内容","progress_key":"spring-boot-23"},{"n":24,"slug":"24","title":"Spring事务管理基础","group":"课程内容","progress_key":"spring-boot-24"},{"n":25,"slug":"25","title":"Spring声明式事务与事务传播","group":"课程内容","progress_key":"spring-boot-25"},{"n":26,"slug":"26","title":"ORM核心概念与Spring Data架构","group":"课程内容","progress_key":"spring-boot-26"},{"n":27,"slug":"27","title":"Spring Data JPA快速上手","group":"课程内容","progress_key":"spring-boot-27"},{"n":28,"slug":"28","title":"Spring Data JPA高级查询","group":"课程内容","progress_key":"spring-boot-28"},{"n":29,"slug":"29","title":"Spring Data JPA关联映射与实战","group":"课程内容","progress_key":"spring-boot-29"},{"n":30,"slug":"30","title":"MyBatis 概述与 Spring Boot 集成","group":"课程内容","progress_key":"spring-boot-30"},{"n":31,"slug":"31","title":"MyBatis 映射文件与动态 SQL","group":"课程内容","progress_key":"spring-boot-31"},{"n":32,"slug":"32","title":"MyBatis 高级特性","group":"课程内容","progress_key":"spring-boot-32"},{"n":33,"slug":"33","title":"MyBatis-Plus 概述与快速上手","group":"课程内容","progress_key":"spring-boot-33"},{"n":34,"slug":"34","title":"MyBatis-Plus 条件构造器与分页插件","group":"课程内容","progress_key":"spring-boot-34"},{"n":35,"slug":"35","title":"MyBatis-Plus 扩展","group":"课程内容","progress_key":"spring-boot-35"},{"n":36,"slug":"36","title":"缓存概述与 Spring Cache 入门","group":"课程内容","progress_key":"spring-boot-36"},{"n":37,"slug":"37","title":"Spring Cache 核心注解详解","group":"课程内容","progress_key":"spring-boot-37"},{"n":38,"slug":"38","title":"缓存管理器与缓存存储配置","group":"课程内容","progress_key":"spring-boot-38"},{"n":39,"slug":"39","title":"缓存注解高级特性","group":"课程内容","progress_key":"spring-boot-39"},{"n":40,"slug":"40","title":"缓存原理与自定义扩展","group":"课程内容","progress_key":"spring-boot-40"},{"n":41,"slug":"41","title":"缓存核心问题与最佳实践","group":"课程内容","progress_key":"spring-boot-41"},{"n":42,"slug":"42","title":"异步处理概述与 Spring Async 入门","group":"课程内容","progress_key":"spring-boot-42"},{"n":43,"slug":"43","title":"任务执行器配置与线程池管理","group":"课程内容","progress_key":"spring-boot-43"},{"n":44,"slug":"44","title":"异步方法返回值与异常处理","group":"课程内容","progress_key":"spring-boot-44"},{"n":45,"slug":"45","title":"异步事件与 ApplicationEvent","group":"课程内容","progress_key":"spring-boot-45"},{"n":46,"slug":"46","title":"Web 异步处理","group":"课程内容","progress_key":"spring-boot-46"},{"n":47,"slug":"47","title":"TaskScheduler 调度器","group":"课程内容","progress_key":"spring-boot-47"},{"n":48,"slug":"48","title":"@Scheduled 注解应用","group":"课程内容","progress_key":"spring-boot-48"},{"n":49,"slug":"49","title":"Cron 表达式与调度综合实战","group":"课程内容","progress_key":"spring-boot-49"},{"n":50,"slug":"50","title":"批处理机制与 Spring Batch 快速入门","group":"课程内容","progress_key":"spring-boot-50"},{"n":51,"slug":"51","title":"ItemReader、Processor和Writer 实战","group":"课程内容","progress_key":"spring-boot-51"},{"n":52,"slug":"52","title":"JobRepository 与作业元数据管理","group":"课程内容","progress_key":"spring-boot-52"},{"n":53,"slug":"53","title":"批处理异常处理与重启机制","group":"课程内容","progress_key":"spring-boot-53"},{"n":54,"slug":"54","title":"批处理监听器与任务调度","group":"课程内容","progress_key":"spring-boot-54"},{"n":55,"slug":"55","title":"Actuator 入门与常用端点","group":"课程内容","progress_key":"spring-boot-55"},{"n":56,"slug":"56","title":"健康检查与自定义健康指示器","group":"课程内容","progress_key":"spring-boot-56"},{"n":57,"slug":"57","title":"指标监控与 Micrometer","group":"课程内容","progress_key":"spring-boot-57"},{"n":58,"slug":"58","title":"Spring Boot Admin 可视化监控","group":"课程内容","progress_key":"spring-boot-58"},{"n":59,"slug":"59","title":"测试概述与 JUnit 5 基础","group":"课程内容","progress_key":"spring-boot-59"},{"n":60,"slug":"60","title":"Mockito 与单元测试","group":"课程内容","progress_key":"spring-boot-60"},{"n":61,"slug":"61","title":"Web 层测试：@WebMvcTest","group":"课程内容","progress_key":"spring-boot-61"},{"n":62,"slug":"62","title":"数据层测试：@MybatisPlusTest","group":"课程内容","progress_key":"spring-boot-62"},{"n":63,"slug":"63","title":"端到端集成测试：@SpringBootTest","group":"课程内容","progress_key":"spring-boot-63"}]}]},{"key":"spring-cloud","title":"Spring Cloud Alibaba","glyph":"C","cls":"b3","coming_soon":false,"modules":[{"name":"课程内容","chapters":[{"n":1,"slug":"1","title":"课程导言","group":"课程内容","progress_key":"spring-cloud-1"},{"n":2,"slug":"2","title":"微服务架构与案例系统初始化","group":"课程内容","progress_key":"spring-cloud-2"},{"n":3,"slug":"3","title":"Spring Cloud Alibaba技术栈集成","group":"课程内容","progress_key":"spring-cloud-3"},{"n":4,"slug":"4","title":"微服务拆分与接口设计","group":"课程内容","progress_key":"spring-cloud-4"},{"n":5,"slug":"5","title":"公共模块建设","group":"课程内容","progress_key":"spring-cloud-5"},{"n":6,"slug":"6","title":"Nacos部署与快速上手","group":"课程内容","progress_key":"spring-cloud-6"},{"n":7,"slug":"7","title":"Nacos高可用集群搭建","group":"课程内容","progress_key":"spring-cloud-7"},{"n":8,"slug":"8","title":"图书服务注册到Nacos","group":"课程内容","progress_key":"spring-cloud-8"},{"n":9,"slug":"9","title":"用户与订单服务注册","group":"课程内容","progress_key":"spring-cloud-9"},{"n":10,"slug":"10","title":"Nacos服务发现实战","group":"课程内容","progress_key":"spring-cloud-10"},{"n":11,"slug":"11","title":"Nacos分级模型与Namespace环境隔离","group":"课程内容","progress_key":"spring-cloud-11"},{"n":12,"slug":"12","title":"Nacos Group分组与多环境切换","group":"课程内容","progress_key":"spring-cloud-12"},{"n":13,"slug":"13","title":"Nacos权重路由","group":"课程内容","progress_key":"spring-cloud-13"},{"n":14,"slug":"14","title":"Nacos API 专题","group":"课程内容","progress_key":"spring-cloud-14"},{"n":15,"slug":"15","title":"OpenFeign快速上手","group":"课程内容","progress_key":"spring-cloud-15"},{"n":16,"slug":"16","title":"OpenFeign核心注解详解","group":"课程内容","progress_key":"spring-cloud-16"},{"n":17,"slug":"17","title":"OpenFeign拦截器","group":"课程内容","progress_key":"spring-cloud-17"},{"n":18,"slug":"18","title":"OpenFeign与LoadBalancer集成","group":"课程内容","progress_key":"spring-cloud-18"},{"n":19,"slug":"19","title":"订单-图书远程调用重构","group":"课程内容","progress_key":"spring-cloud-19"},{"n":20,"slug":"20","title":"Spring Cloud LoadBalancer快速上手","group":"课程内容","progress_key":"spring-cloud-20"},{"n":21,"slug":"21","title":"负载均衡算法与LoadBalancer","group":"课程内容","progress_key":"spring-cloud-21"},{"n":22,"slug":"22","title":"自定义负载均衡算法","group":"课程内容","progress_key":"spring-cloud-22"},{"n":23,"slug":"23","title":"标签化负载均衡与灰度发布","group":"课程内容","progress_key":"spring-cloud-23"},{"n":24,"slug":"24","title":"Nacos Config集成与配置迁移","group":"课程内容","progress_key":"spring-cloud-24"},{"n":25,"slug":"25","title":"配置分级模型与DataId实战","group":"课程内容","progress_key":"spring-cloud-25"},{"n":26,"slug":"26","title":"配置灰度发布实战","group":"课程内容","progress_key":"spring-cloud-26"}]}]},{"key":"cloud","title":"云计算","glyph":"云","cls":"b-cloud","coming_soon":true,"modules":[]}],"currentKey":"java-basic","currentSlug":"24"}],"$L13","$L14"]}]]
+15:I[756,["619","static/chunks/619-ba102abea3e3d0e4.js","526","static/chunks/app/course/%5Bkey%5D/%5Bch%5D/page-4b7f30b4efe73131.js"],"default"]
+16:I[1599,["619","static/chunks/619-ba102abea3e3d0e4.js","526","static/chunks/app/course/%5Bkey%5D/%5Bch%5D/page-4b7f30b4efe73131.js"],"default"]
+19:I[5340,["619","static/chunks/619-ba102abea3e3d0e4.js","526","static/chunks/app/course/%5Bkey%5D/%5Bch%5D/page-4b7f30b4efe73131.js"],"default"]
+17:T696a,<h1 id="POM文件与依赖管理">POM文件与依赖管理</h1>
+<h2 id="课程目标">课程目标</h2>
+<ul>
+<li>深入理解 <code>pom.xml</code> 文件的各个核心元素</li>
+<li>掌握 Maven 依赖的声明方式、范围和作用域</li>
+<li>理解传递性依赖机制及其带来的版本冲突问题</li>
+<li>掌握版本管理的最佳实践（属性管理、SNAPSHOT 版本）</li>
+<li>学会使用 <code>dependency:tree</code> 分析依赖关系</li>
+</ul>
+<h2 id="POM-文件结构详解">POM 文件结构详解</h2>
+<p><code>pom.xml</code>（Project Object Model）是 Maven 项目的核心配置文件，它定义了项目的基本信息、构建配置、依赖关系等。以下是一个完整的 POM 文件结构示例：</p>
+<div class="codehilite lang-xml"><pre><span></span><code><span class="cp">&lt;?xml version="1.0" encoding="UTF-8"?&gt;</span>
+<span class="nt">&lt;project</span><span class="w"> </span><span class="na">xmlns=</span><span class="s">"http://maven.apache.org/POM/4.0.0"</span>
+<span class="w">         </span><span class="na">xmlns:xsi=</span><span class="s">"http://www.w3.org/2001/XMLSchema-instance"</span>
+<span class="w">         </span><span class="na">xsi:schemaLocation=</span><span class="s">"http://maven.apache.org/POM/4.0.0</span>
+<span class="s">         http://maven.apache.org/xsd/maven-4.0.0.xsd"</span><span class="nt">&gt;</span>
+
+<span class="w">    </span><span class="nt">&lt;modelVersion&gt;</span>4.0.0<span class="nt">&lt;/modelVersion&gt;</span>
+
+<span class="w">    </span><span class="cm">&lt;!-- ========== 项目坐标 ========== --&gt;</span>
+<span class="w">    </span><span class="nt">&lt;groupId&gt;</span>com.example<span class="nt">&lt;/groupId&gt;</span>
+<span class="w">    </span><span class="nt">&lt;artifactId&gt;</span>my-app<span class="nt">&lt;/artifactId&gt;</span>
+<span class="w">    </span><span class="nt">&lt;version&gt;</span>1.0-SNAPSHOT<span class="nt">&lt;/version&gt;</span>
+
+<span class="w">    </span><span class="nt">&lt;packaging&gt;</span>jar<span class="nt">&lt;/packaging&gt;</span>
+
+<span class="w">    </span><span class="cm">&lt;!-- ========== 项目元信息 ========== --&gt;</span>
+<span class="w">    </span><span class="nt">&lt;name&gt;</span>My<span class="w"> </span>Application<span class="nt">&lt;/name&gt;</span>
+<span class="w">    </span><span class="nt">&lt;description&gt;</span>A<span class="w"> </span>simple<span class="w"> </span>Maven<span class="w"> </span>project<span class="nt">&lt;/description&gt;</span>
+<span class="w">    </span><span class="nt">&lt;url&gt;</span>https://example.com<span class="nt">&lt;/url&gt;</span>
+
+<span class="w">    </span><span class="cm">&lt;!-- ========== 父 POM（继承） ========== --&gt;</span>
+<span class="w">    </span><span class="nt">&lt;parent&gt;</span>
+<span class="w">        </span><span class="nt">&lt;groupId&gt;</span>org.springframework.boot<span class="nt">&lt;/groupId&gt;</span>
+<span class="w">        </span><span class="nt">&lt;artifactId&gt;</span>spring-boot-starter-parent<span class="nt">&lt;/artifactId&gt;</span>
+<span class="w">        </span><span class="nt">&lt;version&gt;</span>2.7.0<span class="nt">&lt;/version&gt;</span>
+<span class="w">        </span><span class="nt">&lt;relativePath/&gt;</span><span class="w"> </span><span class="cm">&lt;!-- 从本地/远程仓库查找父 POM --&gt;</span>
+<span class="w">    </span><span class="nt">&lt;/parent&gt;</span>
+
+<span class="w">    </span><span class="cm">&lt;!-- ========== 属性定义 ========== --&gt;</span>
+<span class="w">    </span><span class="nt">&lt;properties&gt;</span>
+<span class="w">        </span><span class="nt">&lt;project.build.sourceEncoding&gt;</span>UTF-8<span class="nt">&lt;/project.build.sourceEncoding&gt;</span>
+<span class="w">        </span><span class="nt">&lt;maven.compiler.source&gt;</span>11<span class="nt">&lt;/maven.compiler.source&gt;</span>
+<span class="w">        </span><span class="nt">&lt;maven.compiler.target&gt;</span>11<span class="nt">&lt;/maven.compiler.target&gt;</span>
+
+<span class="w">        </span><span class="nt">&lt;jackson.version&gt;</span>2.13.0<span class="nt">&lt;/jackson.version&gt;</span>
+<span class="w">    </span><span class="nt">&lt;/properties&gt;</span>
+
+<span class="w">    </span><span class="cm">&lt;!-- ========== 依赖管理 ========== --&gt;</span>
+<span class="w">    </span><span class="nt">&lt;dependencyManagement&gt;</span>
+<span class="w">        </span><span class="nt">&lt;dependencies&gt;</span>
+<span class="w">            </span><span class="cm">&lt;!-- 统一管理子模块依赖版本（不实际引入） --&gt;</span>
+<span class="w">        </span><span class="nt">&lt;/dependencies&gt;</span>
+<span class="w">    </span><span class="nt">&lt;/dependencyManagement&gt;</span>
+
+<span class="w">    </span><span class="cm">&lt;!-- ========== 实际依赖 ========== --&gt;</span>
+<span class="w">    </span><span class="nt">&lt;dependencies&gt;</span>
+<span class="w">        </span><span class="nt">&lt;dependency&gt;</span>
+<span class="w">            </span><span class="nt">&lt;groupId&gt;</span>org.apache.httpcomponents<span class="nt">&lt;/groupId&gt;</span>
+<span class="w">            </span><span class="nt">&lt;artifactId&gt;</span>httpclient<span class="nt">&lt;/artifactId&gt;</span>
+<span class="w">            </span><span class="nt">&lt;version&gt;</span>4.5.13<span class="nt">&lt;/version&gt;</span>
+<span class="w">        </span><span class="nt">&lt;/dependency&gt;</span>
+<span class="w">        </span><span class="nt">&lt;dependency&gt;</span>
+<span class="w">            </span><span class="nt">&lt;groupId&gt;</span>com.fasterxml.jackson.core<span class="nt">&lt;/groupId&gt;</span>
+<span class="w">            </span><span class="nt">&lt;artifactId&gt;</span>jackson-databind<span class="nt">&lt;/artifactId&gt;</span>
+<span class="w">            </span><span class="nt">&lt;version&gt;</span>${jackson.version}<span class="nt">&lt;/version&gt;</span>
+<span class="w">        </span><span class="nt">&lt;/dependency&gt;</span>
+<span class="w">        </span><span class="nt">&lt;dependency&gt;</span>
+<span class="w">            </span><span class="nt">&lt;groupId&gt;</span>junit<span class="nt">&lt;/groupId&gt;</span>
+<span class="w">            </span><span class="nt">&lt;artifactId&gt;</span>junit<span class="nt">&lt;/artifactId&gt;</span>
+<span class="w">            </span><span class="nt">&lt;version&gt;</span>4.13.2<span class="nt">&lt;/version&gt;</span>
+<span class="w">            </span><span class="nt">&lt;scope&gt;</span>test<span class="nt">&lt;/scope&gt;</span>
+<span class="w">        </span><span class="nt">&lt;/dependency&gt;</span>
+<span class="w">    </span><span class="nt">&lt;/dependencies&gt;</span>
+
+<span class="w">    </span><span class="cm">&lt;!-- ========== 构建配置 ========== --&gt;</span>
+<span class="w">    </span><span class="nt">&lt;build&gt;</span>
+<span class="w">        </span><span class="nt">&lt;plugins&gt;</span>
+<span class="w">            </span><span class="cm">&lt;!-- 插件配置 --&gt;</span>
+<span class="w">        </span><span class="nt">&lt;/plugins&gt;</span>
+<span class="w">    </span><span class="nt">&lt;/build&gt;</span>
+<span class="nt">&lt;/project&gt;</span>
+</code></pre></div>
+
+<h3 id="项目坐标groupId-artifactId-version">项目坐标（groupId, artifactId, version）</h3>
+<p>项目坐标是 Maven 仓库中唯一标识一个构件的三元组，类似于数据库中的复合主键。</p>
+<table>
+<thead>
+<tr>
+<th>元素</th>
+<th>说明</th>
+<th>示例</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>groupId</code></td>
+<td>组织或公司的域名反写，用于分组</td>
+<td><code>com.example</code>、<code>org.apache</code></td>
+</tr>
+<tr>
+<td><code>artifactId</code></td>
+<td>项目本身的唯一标识符</td>
+<td><code>my-app</code>、<code>httpclient</code></td>
+</tr>
+<tr>
+<td><code>version</code></td>
+<td>项目的版本号</td>
+<td><code>1.0-SNAPSHOT</code>、<code>4.5.13</code></td>
+</tr>
+</tbody>
+</table>
+<h3 id="packaging-类型">packaging 类型</h3>
+<p><code>&lt;packaging&gt;</code> 定义项目的打包方式，常见值：</p>
+<ul>
+<li><code>jar</code>：默认，打包为 Java 归档文件</li>
+<li><code>war</code>：打包为 Web 应用归档文件（用于部署到 Servlet 容器）</li>
+<li><code>pom</code>：仅用于父模块（不包含代码，只做依赖管理和聚合）</li>
+</ul>
+<h3 id="parent-元素继承">parent 元素（继承）</h3>
+<p><code>&lt;parent&gt;</code> 用于声明父 POM，子项目可以继承父项目的配置（如依赖版本、插件配置等），实现配置复用。</p>
+<div class="codehilite lang-xml"><pre><span></span><code><span class="nt">&lt;parent&gt;</span>
+<span class="w">    </span><span class="nt">&lt;groupId&gt;</span>org.springframework.boot<span class="nt">&lt;/groupId&gt;</span>
+<span class="w">    </span><span class="nt">&lt;artifactId&gt;</span>spring-boot-starter-parent<span class="nt">&lt;/artifactId&gt;</span>
+<span class="w">    </span><span class="nt">&lt;version&gt;</span>2.7.0<span class="nt">&lt;/version&gt;</span>
+<span class="w">    </span><span class="nt">&lt;relativePath/&gt;</span><span class="w"> </span><span class="cm">&lt;!-- 从本地仓库查找，若省略则从远程仓库查找 --&gt;</span>
+<span class="nt">&lt;/parent&gt;</span>
+</code></pre></div>
+
+<h3 id="properties-元素属性">properties 元素（属性）</h3>
+<p><code>&lt;properties&gt;</code> 用于定义可重用的变量，常用于统一版本号、指定编码等：</p>
+<div class="codehilite lang-xml"><pre><span></span><code><span class="nt">&lt;properties&gt;</span>
+<span class="w">    </span><span class="nt">&lt;java.version&gt;</span>11<span class="nt">&lt;/java.version&gt;</span>
+<span class="w">    </span><span class="nt">&lt;jackson.version&gt;</span>2.13.0<span class="nt">&lt;/jackson.version&gt;</span>
+<span class="nt">&lt;/properties&gt;</span>
+</code></pre></div>
+
+<p>后续通过 <code>${...}</code> 引用：</p>
+<div class="codehilite lang-xml"><pre><span></span><code><span class="nt">&lt;version&gt;</span>${jackson.version}<span class="nt">&lt;/version&gt;</span>
+</code></pre></div>
+
+<h2 id="依赖管理Dependency-Management">依赖管理（Dependency Management）</h2>
+<h3 id="依赖声明结构">依赖声明结构</h3>
+<p>一个完整的依赖声明由三要素组成（坐标）：</p>
+<div class="codehilite lang-xml"><pre><span></span><code><span class="nt">&lt;dependency&gt;</span>
+<span class="w">    </span><span class="nt">&lt;groupId&gt;</span>org.apache.httpcomponents<span class="nt">&lt;/groupId&gt;</span>
+<span class="w">    </span><span class="nt">&lt;artifactId&gt;</span>httpclient<span class="nt">&lt;/artifactId&gt;</span>
+<span class="w">    </span><span class="nt">&lt;version&gt;</span>4.5.13<span class="nt">&lt;/version&gt;</span>
+
+
+<span class="w">    </span><span class="nt">&lt;scope&gt;</span>compile<span class="nt">&lt;/scope&gt;</span><span class="w">   </span><span class="cm">&lt;!-- 可选，默认 compile --&gt;</span>
+
+<span class="w">    </span><span class="nt">&lt;optional&gt;</span>false<span class="nt">&lt;/optional&gt;</span>
+
+<span class="w">    </span><span class="nt">&lt;exclusions&gt;</span>
+<span class="w">        </span><span class="cm">&lt;!-- 排除传递依赖 --&gt;</span>
+<span class="w">    </span><span class="nt">&lt;/exclusions&gt;</span>
+<span class="nt">&lt;/dependency&gt;</span>
+</code></pre></div>
+
+<h3 id="依赖范围scope">依赖范围（scope）</h3>
+<p><code>&lt;scope&gt;</code> 控制依赖在哪些构建阶段中被包含，分为以下 5 种：</p>
+<table>
+<thead>
+<tr>
+<th>scope</th>
+<th>编译时</th>
+<th>测试时</th>
+<th>运行时</th>
+<th>打包时</th>
+<th>示例</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>compile</code>（默认）</td>
+<td>✅</td>
+<td>✅</td>
+<td>✅</td>
+<td>✅</td>
+<td>Apache HttpClient</td>
+</tr>
+<tr>
+<td><code>provided</code></td>
+<td>✅</td>
+<td>✅</td>
+<td>❌</td>
+<td>❌</td>
+<td>Servlet API（容器已提供）</td>
+</tr>
+<tr>
+<td><code>runtime</code></td>
+<td>❌</td>
+<td>✅</td>
+<td>✅</td>
+<td>✅</td>
+<td>JDBC 驱动</td>
+</tr>
+<tr>
+<td><code>test</code></td>
+<td>❌</td>
+<td>✅</td>
+<td>❌</td>
+<td>❌</td>
+<td>JUnit</td>
+</tr>
+<tr>
+<td><code>system</code></td>
+<td>✅</td>
+<td>✅</td>
+<td>❌</td>
+<td>❌</td>
+<td>本地 JAR（不推荐，需指定路径）</td>
+</tr>
+</tbody>
+</table>
+<p><strong>典型场景：</strong></p>
+<ul>
+<li><strong>test</strong>：仅测试阶段使用，不会被打入最终 JAR。</li>
+<li><strong>provided</strong>：编译和测试时需要，但运行时由容器提供（如 Tomcat 的 <code>servlet-api</code>）。</li>
+<li><strong>runtime</strong>：编译时不需要，运行时需要（如数据库驱动）。</li>
+</ul>
+<h3 id="传递性依赖Transitive-Dependency">传递性依赖（Transitive Dependency）</h3>
+<p>Maven 会自动解析并引入依赖所依赖的其他 JAR 包（传递依赖），无需手动添加。</p>
+<p><strong>示例：</strong> 我们在项目中声明了 <code>httpclient</code>，而 <code>httpclient</code> 本身依赖 <code>httpcore</code> 和 <code>commons-logging</code>。Maven 会自动下载并引入这两个传递依赖。</p>
+<p><strong>传递依赖带来的好处：</strong> 大大减少了人工工作量，避免遗漏依赖。</p>
+<p><strong>传递依赖带来的问题：</strong> 可能引入版本冲突（不同路径引入同一依赖的不同版本）。</p>
+<h3 id="依赖冲突与版本仲裁">依赖冲突与版本仲裁</h3>
+<p>当多个传递依赖路径引入了同一个依赖的不同版本时，Maven 会进行版本仲裁，规则如下：</p>
+<ol>
+<li><strong>最短路径优先</strong>：路径最短的依赖版本被选中。</li>
+<li><strong>第一声明优先</strong>：若路径长度相同，则先声明的依赖版本被选中。</li>
+</ol>
+<p><strong>示例：</strong></p>
+<ul>
+<li>项目 A 直接依赖了 <code>jackson-databind:2.12.0</code></li>
+<li>项目 A 又依赖了 B，而 B 依赖了 <code>jackson-databind:2.10.0</code></li>
+<li>那么 2.12.0 会被选中（因为直接依赖路径最短）。</li>
+</ul>
+<h3 id="查看依赖树">查看依赖树</h3>
+<p>使用 <code>mvn dependency:tree</code> 可以查看完整的依赖树，便于排查冲突：</p>
+<div class="codehilite"><pre><span></span><code>mvn dependency:tree
+</code></pre></div>
+
+<p>输出示例：</p>
+<div class="codehilite"><pre><span></span><code>[INFO] com.example:my-app:jar:1.0-SNAPSHOT
+[INFO] +- org.apache.httpcomponents:httpclient:jar:4.5.13:compile
+[INFO] |  +- org.apache.httpcomponents:httpcore:jar:4.4.13:compile
+[INFO] |  \- commons-logging:commons-logging:jar:1.2:compile
+[INFO] +- com.fasterxml.jackson.core:jackson-databind:jar:2.13.0:compile
+[INFO] |  +- jackson-core:jackson-core:jar:2.13.0:compile
+[INFO] |  \- jackson-annotations:jackson-annotations:jar:2.13.0:compile
+[INFO] \- junit:junit:jar:4.13.2:test
+</code></pre></div>
+
+<h3 id="排除传递依赖">排除传递依赖</h3>
+<p>如果不想引入某个传递依赖，可以使用 <code>&lt;exclusions&gt;</code> 排除：</p>
+<div class="codehilite lang-xml"><pre><span></span><code><span class="nt">&lt;dependency&gt;</span>
+<span class="w">    </span><span class="nt">&lt;groupId&gt;</span>org.apache.httpcomponents<span class="nt">&lt;/groupId&gt;</span>
+<span class="w">    </span><span class="nt">&lt;artifactId&gt;</span>httpclient<span class="nt">&lt;/artifactId&gt;</span>
+<span class="w">    </span><span class="nt">&lt;version&gt;</span>4.5.13<span class="nt">&lt;/version&gt;</span>
+<span class="w">    </span><span class="nt">&lt;exclusions&gt;</span>
+<span class="w">        </span><span class="nt">&lt;exclusion&gt;</span>
+<span class="w">            </span><span class="nt">&lt;groupId&gt;</span>commons-logging<span class="nt">&lt;/groupId&gt;</span>
+<span class="w">            </span><span class="nt">&lt;artifactId&gt;</span>commons-logging<span class="nt">&lt;/artifactId&gt;</span>
+<span class="w">        </span><span class="nt">&lt;/exclusion&gt;</span>
+<span class="w">    </span><span class="nt">&lt;/exclusions&gt;</span>
+<span class="nt">&lt;/dependency&gt;</span>
+</code></pre></div>
+
+<h3 id="dependencyManagement-统一管理版本">dependencyManagement 统一管理版本</h3>
+<p>在父 POM 中使用 <code>&lt;dependencyManagement&gt;</code>，可以统一管理子模块的依赖版本，但不会实际引入依赖，子模块只需声明 <code>groupId</code> 和 <code>artifactId</code>，版本从父继承。</p>
+<p><strong>父 POM：</strong></p>
+<div class="codehilite lang-xml"><pre><span></span><code><span class="nt">&lt;dependencyManagement&gt;</span>
+<span class="w">    </span><span class="nt">&lt;dependencies&gt;</span>
+<span class="w">        </span><span class="nt">&lt;dependency&gt;</span>
+<span class="w">            </span><span class="nt">&lt;groupId&gt;</span>com.fasterxml.jackson.core<span class="nt">&lt;/groupId&gt;</span>
+<span class="w">            </span><span class="nt">&lt;artifactId&gt;</span>jackson-databind<span class="nt">&lt;/artifactId&gt;</span>
+<span class="w">            </span><span class="nt">&lt;version&gt;</span>2.13.0<span class="nt">&lt;/version&gt;</span>
+<span class="w">        </span><span class="nt">&lt;/dependency&gt;</span>
+<span class="w">    </span><span class="nt">&lt;/dependencies&gt;</span>
+<span class="nt">&lt;/dependencyManagement&gt;</span>
+</code></pre></div>
+
+<p><strong>子模块：</strong> 只需声明，无需指定版本：</p>
+<div class="codehilite lang-xml"><pre><span></span><code><span class="nt">&lt;dependency&gt;</span>
+<span class="w">    </span><span class="nt">&lt;groupId&gt;</span>com.fasterxml.jackson.core<span class="nt">&lt;/groupId&gt;</span>
+<span class="w">    </span><span class="nt">&lt;artifactId&gt;</span>jackson-databind<span class="nt">&lt;/artifactId&gt;</span>
+<span class="nt">&lt;/dependency&gt;</span>
+</code></pre></div>
+
+<h2 id="版本管理策略">版本管理策略</h2>
+<h3 id="使用属性管理版本">使用属性管理版本</h3>
+<p>将所有依赖版本集中定义在 <code>&lt;properties&gt;</code> 中，便于统一升级：</p>
+<div class="codehilite lang-xml"><pre><span></span><code><span class="nt">&lt;properties&gt;</span>
+<span class="w">    </span><span class="nt">&lt;jackson.version&gt;</span>2.13.0<span class="nt">&lt;/jackson.version&gt;</span>
+<span class="w">    </span><span class="nt">&lt;httpclient.version&gt;</span>4.5.13<span class="nt">&lt;/httpclient.version&gt;</span>
+<span class="nt">&lt;/properties&gt;</span>
+...
+<span class="nt">&lt;dependency&gt;</span>
+<span class="w">    </span><span class="nt">&lt;groupId&gt;</span>com.fasterxml.jackson.core<span class="nt">&lt;/groupId&gt;</span>
+<span class="w">    </span><span class="nt">&lt;artifactId&gt;</span>jackson-databind<span class="nt">&lt;/artifactId&gt;</span>
+<span class="w">    </span><span class="nt">&lt;version&gt;</span>${jackson.version}<span class="nt">&lt;/version&gt;</span>
+<span class="nt">&lt;/dependency&gt;</span>
+</code></pre></div>
+
+<h3 id="SNAPSHOT-版本">SNAPSHOT 版本</h3>
+<ul>
+<li><strong>SNAPSHOT</strong> 表示“开发中的版本”，Maven 不会缓存 SNAPSHOT 版本，每次都会去仓库检查更新。</li>
+<li><strong>RELEASE</strong> 表示“正式发布版本”，会被缓存，除非强制更新。</li>
+<li><strong>版本号规范</strong>：一般使用 <code>x.y.z-SNAPSHOT</code>（如 <code>1.0.0-SNAPSHOT</code>），正式版去 <code>-SNAPSHOT</code>。</li>
+</ul>
+<h2 id="实践示例将上节课的手工项目转为-Maven-项目">实践示例：将上节课的手工项目转为 Maven 项目</h2>
+<p>让我们将第 1 课中的 <code>GithubApiClient</code> 手工项目转换为 Maven 项目，只需在 <code>pom.xml</code> 中添加以下依赖：</p>
+<div class="codehilite"><pre><span></span><code>&lt;dependencies&gt;
+    &lt;!-- Apache HttpClient --&gt;
+    &lt;dependency&gt;
+        &lt;groupId&gt;org.apache.httpcomponents&lt;/groupId&gt;
+        &lt;artifactId&gt;httpclient&lt;/artifactId&gt;
+        &lt;version&gt;4.5.13&lt;/version&gt;
+    &lt;/dependency&gt;
+
+    &lt;!-- Jackson Databind（自动传递 jackson-core 和 annotations） --&gt;
+    &lt;dependency&gt;
+        &lt;groupId&gt;com.fasterxml.jackson.core&lt;/groupId&gt;
+        &lt;artifactId&gt;jackson-databind&lt;/artifactId&gt;
+        &lt;version&gt;2.13.0&lt;/version&gt;
+    &lt;/dependency&gt;
+&lt;/dependencies&gt;
+</code></pre></div>
+
+<p>执行 <code>mvn compile</code>，Maven 自动下载所有依赖（包括传递依赖），项目即可编译通过，无需手动下载任何 JAR 包。对比之前的手工过程，效率提升显著。</p>
+<h2 id="作业">作业</h2>
+<h3 id="作业一代码阅读理解-POM-文件">作业一：代码阅读——理解 POM 文件</h3>
+<p>阅读以下 <code>pom.xml</code> 片段，回答问题。</p>
+<div class="codehilite lang-xml"><pre><span></span><code><span class="nt">&lt;project&gt;</span>
+<span class="w">    </span><span class="nt">&lt;modelVersion&gt;</span>4.0.0<span class="nt">&lt;/modelVersion&gt;</span>
+<span class="w">    </span><span class="nt">&lt;groupId&gt;</span>com.example<span class="nt">&lt;/groupId&gt;</span>
+<span class="w">    </span><span class="nt">&lt;artifactId&gt;</span>demo<span class="nt">&lt;/artifactId&gt;</span>
+<span class="w">    </span><span class="nt">&lt;version&gt;</span>1.0-SNAPSHOT<span class="nt">&lt;/version&gt;</span>
+<span class="w">    </span><span class="nt">&lt;packaging&gt;</span>war<span class="nt">&lt;/packaging&gt;</span>
+
+<span class="w">    </span><span class="nt">&lt;properties&gt;</span>
+<span class="w">        </span><span class="nt">&lt;spring.version&gt;</span>5.3.10<span class="nt">&lt;/spring.version&gt;</span>
+<span class="w">    </span><span class="nt">&lt;/properties&gt;</span>
+
+<span class="w">    </span><span class="nt">&lt;dependencies&gt;</span>
+<span class="w">        </span><span class="nt">&lt;dependency&gt;</span>
+<span class="w">            </span><span class="nt">&lt;groupId&gt;</span>org.springframework<span class="nt">&lt;/groupId&gt;</span>
+<span class="w">            </span><span class="nt">&lt;artifactId&gt;</span>spring-web<span class="nt">&lt;/artifactId&gt;</span>
+<span class="w">            </span><span class="nt">&lt;version&gt;</span>${spring.version}<span class="nt">&lt;/version&gt;</span>
+<span class="w">        </span><span class="nt">&lt;/dependency&gt;</span>
+<span class="w">        </span><span class="nt">&lt;dependency&gt;</span>
+<span class="w">            </span><span class="nt">&lt;groupId&gt;</span>org.springframework<span class="nt">&lt;/groupId&gt;</span>
+<span class="w">            </span><span class="nt">&lt;artifactId&gt;</span>spring-test<span class="nt">&lt;/artifactId&gt;</span>
+<span class="w">            </span><span class="nt">&lt;version&gt;</span>${spring.version}<span class="nt">&lt;/version&gt;</span>
+<span class="w">            </span><span class="nt">&lt;scope&gt;</span>test<span class="nt">&lt;/scope&gt;</span>
+<span class="w">        </span><span class="nt">&lt;/dependency&gt;</span>
+<span class="w">        </span><span class="nt">&lt;dependency&gt;</span>
+<span class="w">            </span><span class="nt">&lt;groupId&gt;</span>javax.servlet<span class="nt">&lt;/groupId&gt;</span>
+<span class="w">            </span><span class="nt">&lt;artifactId&gt;</span>javax.servlet-api<span class="nt">&lt;/artifactId&gt;</span>
+<span class="w">            </span><span class="nt">&lt;version&gt;</span>4.0.1<span class="nt">&lt;/version&gt;</span>
+<span class="w">            </span><span class="nt">&lt;scope&gt;</span>provided<span class="nt">&lt;/scope&gt;</span>
+<span class="w">        </span><span class="nt">&lt;/dependency&gt;</span>
+<span class="w">    </span><span class="nt">&lt;/dependencies&gt;</span>
+<span class="nt">&lt;/project&gt;</span>
+</code></pre></div>
+
+<p><strong>问题：</strong></p>
+<ol>
+<li>该项目的打包类型是什么？主要用途是什么？</li>
+<li><code>spring-web</code> 和 <code>spring-test</code> 的 scope 分别是什么？它们分别在哪些构建阶段起作用？</li>
+<li><code>javax.servlet-api</code> 的 scope 是 <code>provided</code>，为什么？如果不设置 <code>provided</code> 会有什么问题？</li>
+<li>使用 <code>${spring.version}</code> 的好处是什么？</li>
+</ol>
+<hr />
+<h3 id="作业二依赖冲突分析">作业二：依赖冲突分析</h3>
+<p>假设你有以下依赖：</p>
+<ul>
+<li>项目 A 直接依赖 <code>jackson-databind:2.12.0</code></li>
+<li>项目 A 还依赖 <code>module-X</code>，而 <code>module-X</code> 依赖 <code>jackson-databind:2.10.0</code></li>
+</ul>
+<p>请回答：</p>
+<ol>
+<li>最终 Maven 会选用哪个版本的 <code>jackson-databind</code>？为什么？</li>
+<li>如果 <code>module-X</code> 依赖的版本是 <code>2.12.0</code>，而项目 A 直接依赖 <code>2.10.0</code>，最终版本会是什么？为什么？</li>
+<li>如果不希望 <code>module-X</code> 传递它的 <code>jackson-databind</code> 依赖，应该怎么做？（写 XML 代码）</li>
+</ol>
+<hr />
+<h3 id="作业三使用-dependencytree-分析项目依赖">作业三：使用 dependency:tree 分析项目依赖</h3>
+<p><strong>要求：</strong></p>
+<ol>
+<li>
+<p>基于第 1 课中创建的 <code>hello-maven</code> 项目（或新建一个使用 Maven 的简单项目）。</p>
+</li>
+<li>
+<p>在 <code>pom.xml</code> 中添加如下依赖：</p>
+</li>
+</ol>
+<p><code>xml
+   &lt;dependency&gt;
+       &lt;groupId&gt;org.apache.httpcomponents&lt;/groupId&gt;
+       &lt;artifactId&gt;httpclient&lt;/artifactId&gt;
+       &lt;version&gt;4.5.13&lt;/version&gt;
+   &lt;/dependency&gt;</code></p>
+<ol start="3">
+<li>执行 <code>mvn dependency:tree</code>，将输出结果截图，并指出：</li>
+</ol>
+<ul>
+<li>哪些是直接依赖？</li>
+<li>哪些是传递依赖？</li>
+<li>传递依赖的层次结构（列出层次）。</li>
+</ul>
+<ol start="4">
+<li>尝试使用 <code>&lt;exclusions&gt;</code> 排除 <code>commons-logging</code> 传递依赖，再次执行 <code>dependency:tree</code>，观察输出变化。</li>
+</ol>
+<hr />
+<h3 id="作业四定义属性管理版本">作业四：定义属性管理版本</h3>
+<p><strong>要求：</strong></p>
+<ol>
+<li>创建一个新的 Maven 项目（或使用现有项目）。</li>
+<li>在 <code>pom.xml</code> 的 <code>&lt;properties&gt;</code> 中定义以下版本属性：
+   - <code>junit.version</code>：<code>4.13.2</code>
+   - <code>httpclient.version</code>：<code>4.5.13</code></li>
+<li>声明依赖时使用这些属性。</li>
+<li>验证修改后 <code>mvn compile</code> 可以正常执行。</li>
+<li>思考：如果将属性值改为 <code>4.5.14</code>（假设存在），所有使用该属性的依赖版本都会更新，这有什么好处？</li>
+</ol>13:["$","article",null,{"className":"doc","id":"content","children":[["$","div",null,{"className":"doc-head-row mb-2 flex items-center justify-between gap-4","children":[["$","p",null,{"className":"kicker","children":[["$","span",null,{"className":"kicker-num","children":"第 24 章"}],["$","span",null,{"className":"kicker-mod","children":"Java语言核心精讲"}]]}],["$","$L15",null,{"progressKey":"java-basic-24"}]]}],["$","h1",null,{"className":"doc-h1","children":"POM文件与依赖管理"}],"$undefined",["$","$L16",null,{"html":"$17"}],"$L18"]}]
+14:["$","$L19",null,{"sections":"$5:1:props:children:0:props:courses:4:modules:0:chapters:23:sections"}]
+1a:I[2619,["619","static/chunks/619-ba102abea3e3d0e4.js","526","static/chunks/app/course/%5Bkey%5D/%5Bch%5D/page-4b7f30b4efe73131.js"],""]
+18:["$","nav",null,{"className":"pager","aria-label":"章节导航","children":[["$","$L1a",null,{"className":"pager-link pager-prev","href":"/course/java-basic/23/","children":[["$","span",null,{"className":"pager-dir","children":"上一章"}],["$","span",null,{"className":"pager-name","children":"Maven入门与环境配置"}]]}],["$","$L1a",null,{"className":"pager-link pager-next","href":"/course/java-basic/25/","children":[["$","span",null,{"className":"pager-dir","children":"下一章"}],["$","span",null,{"className":"pager-name","children":"Maven生命周期与插件体系"}]]}]]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+7:null
+9:{"metadata":[["$","title","0",{"children":"第 24 章  · Java语言核心精讲 · AI大全栈"}],["$","meta","1",{"name":"description","content":"袁进主讲的系列课程手册：Python 语言核心精讲、数据科学工具包、数据库、Python 框架、Agents 底层逻辑、LangGraph、LangChain + DeepAgent、Agent 观测与评估、Agent 基础建设、RAG 知识库。iOS 风格阅读体验，内置可运行的 Python 代码块。"}]],"error":null,"digest":"$undefined"}
+10:"$9:metadata"

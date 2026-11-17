@@ -1,0 +1,943 @@
+1:"$Sreact.fragment"
+2:I[6590,["619","static/chunks/619-ba102abea3e3d0e4.js","177","static/chunks/app/layout-1fd0282a046e2468.js"],"default"]
+3:I[9766,[],""]
+4:I[8924,[],""]
+6:I[4431,[],"OutletBoundary"]
+8:I[5278,[],"AsyncMetadataOutlet"]
+b:I[7150,[],""]
+:HL["/ai-course-site/_next/static/css/d95fb35eb6f8b422.css","style"]
+0:{"P":null,"b":"X8etduvi9QkiRbgJrCKEG","p":"/ai-course-site","c":["","course","spring-boot","54",""],"i":false,"f":[[["",{"children":["course",{"children":[["key","spring-boot","d"],{"children":[["ch","54","d"],{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/ai-course-site/_next/static/css/d95fb35eb6f8b422.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"zh-CN","suppressHydrationWarning":true,"children":[["$","head",null,{"children":["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var t=localStorage.getItem(\"theme\");var d=t?t===\"dark\":window.matchMedia(\"(prefers-color-scheme: dark)\").matches;if(d)document.documentElement.classList.add(\"dark\");}catch(e){}})();"}}]}],["$","body",null,{"children":[["$","$L2",null,{"families":[{"key":"agent","name":"AI · Agent 开发"},{"key":"engineering","name":"AI · Agent 工程化"},{"key":"dev","name":"编程与工程基础"}]}],["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","footer",null,{"className":"mx-auto max-w-[52rem] px-6 pb-10 text-center text-xs text-label3","children":"AI大全栈 · 课程手册 — 由课件自动生成，仅供学习使用"}]]}]]}]]}],{"children":["course",["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["key","spring-boot","d"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["ch","54","d"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L5",null,["$","$L6",null,{"children":["$L7",["$","$L8",null,{"promise":"$@9"}]]}]]}],{},null,false]},[["$","div","l",{"className":"doc-wrap","children":["$","div",null,{"className":"doc","aria-busy":"true","aria-label":"加载中","children":[["$","div",null,{"className":"mb-2 h-3.5 w-28 animate-pulse rounded bg-fill2"}],["$","div",null,{"className":"mb-6 h-8 w-2/3 animate-pulse rounded bg-fill2"}],["$","div",null,{"className":"space-y-3.5","children":[["$","div","0",{"className":"h-4 animate-pulse rounded bg-fill2","style":{"width":"92%"}}],["$","div","1",{"className":"h-4 animate-pulse rounded bg-fill2","style":{"width":"100%"}}],["$","div","2",{"className":"h-4 animate-pulse rounded bg-fill2","style":{"width":"96%"}}],["$","div","3",{"className":"h-4 animate-pulse rounded bg-fill2","style":{"width":"60%"}}]]}],["$","div",null,{"className":"my-8 h-32 animate-pulse rounded-xl bg-fill"}],["$","div",null,{"className":"space-y-3.5","children":[["$","div","0",{"className":"h-4 animate-pulse rounded bg-fill2","style":{"width":"100%"}}],["$","div","1",{"className":"h-4 animate-pulse rounded bg-fill2","style":{"width":"88%"}}],["$","div","2",{"className":"h-4 animate-pulse rounded bg-fill2","style":{"width":"95%"}}],["$","div","3",{"className":"h-4 animate-pulse rounded bg-fill2","style":{"width":"72%"}}],["$","div","4",{"className":"h-4 animate-pulse rounded bg-fill2","style":{"width":"100%"}}]]}]]}]}],[],[]],false]},null,false]},null,false]},null,false],"$La",false]],"m":"$undefined","G":["$b",[]],"s":false,"S":true}
+c:I[4431,[],"ViewportBoundary"]
+e:I[4431,[],"MetadataBoundary"]
+f:"$Sreact.suspense"
+a:["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$f",null,{"fallback":null,"children":"$L10"}]}]}]]}]
+11:I[7010,["619","static/chunks/619-ba102abea3e3d0e4.js","526","static/chunks/app/course/%5Bkey%5D/%5Bch%5D/page-4b7f30b4efe73131.js"],"default"]
+12:I[6710,["619","static/chunks/619-ba102abea3e3d0e4.js","526","static/chunks/app/course/%5Bkey%5D/%5Bch%5D/page-4b7f30b4efe73131.js"],"default"]
+5:[["$","$L11",null,{"url":"/course/spring-boot/54/","title":"批处理监听器与任务调度","course":"单体系统和Spring Boot"}],["$","div",null,{"className":"doc-wrap","children":[["$","$L12",null,{"courses":[{"key":"py","title":"Python语言核心精讲","glyph":"Py","cls":"b1","coming_soon":false,"modules":[{"name":"语言基础","chapters":[{"n":1,"slug":"1","title":"必看导言","group":"语言基础","progress_key":"1"},{"n":2,"slug":"2","title":"python环境安装","group":"语言基础","progress_key":"2"},{"n":3,"slug":"3","title":"python基本语法","group":"语言基础","progress_key":"3"},{"n":4,"slug":"4","title":"容器类型","group":"语言基础","progress_key":"4"},{"n":5,"slug":"5","title":"函数","group":"语言基础","progress_key":"5"},{"n":6,"slug":"6","title":"作用域","group":"语言基础","progress_key":"6"},{"n":7,"slug":"7","title":"lambda表达式","group":"语言基础","progress_key":"7"}]},{"name":"面向对象","chapters":[{"n":8,"slug":"8","title":"类和对象","group":"面向对象","progress_key":"8"},{"n":9,"slug":"9","title":"对象的类型","group":"面向对象","progress_key":"9"},{"n":10,"slug":"10","title":"对象的创建过程","group":"面向对象","progress_key":"10"},{"n":11,"slug":"11","title":"可调用对象","group":"面向对象","progress_key":"11"},{"n":12,"slug":"12","title":"元类","group":"面向对象","progress_key":"12"},{"n":13,"slug":"13","title":"装饰器","group":"面向对象","progress_key":"13"},{"n":14,"slug":"14","title":"魔术方法","group":"面向对象","progress_key":"14"},{"n":15,"slug":"15","title":"描述符","group":"面向对象","progress_key":"15"}]},{"name":"语言进阶","chapters":[{"n":16,"slug":"16","title":"异常处理","group":"语言进阶","progress_key":"16"},{"n":17,"slug":"17","title":"迭代器与生成器","group":"语言进阶","progress_key":"17"},{"n":18,"slug":"18","title":"上下文管理器","group":"语言进阶","progress_key":"18"},{"n":19,"slug":"19","title":"ABC","group":"语言进阶","progress_key":"19"},{"n":20,"slug":"20","title":"类型标注","group":"语言进阶","progress_key":"20"},{"n":21,"slug":"21","title":"模块化","group":"语言进阶","progress_key":"21"},{"n":22,"slug":"22","title":"标准库","group":"语言进阶","progress_key":"22"},{"n":23,"slug":"23","title":"第三方库","group":"语言进阶","progress_key":"23"}]},{"name":"异步与并发","chapters":[{"n":24,"slug":"24","title":"事件循环","group":"异步与并发","progress_key":"24"},{"n":25,"slug":"25","title":"Future类","group":"异步与并发","progress_key":"25"},{"n":26,"slug":"26","title":"协程 Coroutine","group":"异步与并发","progress_key":"26"},{"n":27,"slug":"27","title":"异步编程","group":"异步与并发","progress_key":"27"},{"n":28,"slug":"28","title":"多线程与多进程","group":"异步与并发","progress_key":"28"}]},{"name":"工程化实践","chapters":[{"n":29,"slug":"29","title":"构建发布","group":"工程化实践","progress_key":"29"},{"n":30,"slug":"30","title":"项目管理工具","group":"工程化实践","progress_key":"30"},{"n":31,"slug":"31","title":"monorepo","group":"工程化实践","progress_key":"31"},{"n":32,"slug":"32","title":"断点调试","group":"工程化实践","progress_key":"32"}]},{"name":"项目案例","chapters":[{"n":null,"slug":"proj-async-agents","title":"多智能体协同调研系统","group":"项目案例","progress_key":""},{"n":null,"slug":"proj-duyi-utils","title":"duyi-utils 构建发布示例","group":"项目案例","progress_key":""}]}]},{"key":"fw","title":"Python框架","glyph":"架","cls":"b-fw","coming_soon":false,"modules":[{"name":"课程内容","chapters":[{"n":1,"slug":"1","title":"Web服务框架","group":"课程内容","progress_key":"fw-1"},{"n":2,"slug":"2","title":"优化包结构","group":"课程内容","progress_key":"fw-2"},{"n":3,"slug":"3","title":"初识SQLAlchemy","group":"课程内容","progress_key":"fw-3"},{"n":4,"slug":"4","title":"ORM","group":"课程内容","progress_key":"fw-4"},{"n":5,"slug":"5","title":"数据操作","group":"课程内容","progress_key":"fw-5"},{"n":6,"slug":"6","title":"数据迁移","group":"课程内容","progress_key":"fw-6"},{"n":7,"slug":"7","title":"业务逻辑","group":"课程内容","progress_key":"fw-7"},{"n":8,"slug":"8","title":"依赖注入","group":"课程内容","progress_key":"fw-8"},{"n":9,"slug":"9","title":"统一异常处理","group":"课程内容","progress_key":"fw-9"},{"n":10,"slug":"10","title":"中间件","group":"课程内容","progress_key":"fw-10"},{"n":11,"slug":"11","title":"测试框架","group":"课程内容","progress_key":"fw-11"},{"n":12,"slug":"12","title":"测试方案","group":"课程内容","progress_key":"fw-12"},{"n":13,"slug":"13","title":"三层架构","group":"课程内容","progress_key":"fw-13"},{"n":14,"slug":"14","title":"文件上传","group":"课程内容","progress_key":"fw-14"},{"n":15,"slug":"15","title":"系统设置","group":"课程内容","progress_key":"fw-15"},{"n":17,"slug":"17","title":"用户系统","group":"课程内容","progress_key":"fw-17"},{"n":18,"slug":"18","title":"日志","group":"课程内容","progress_key":"fw-18"},{"n":20,"slug":"20","title":"流式响应","group":"课程内容","progress_key":"fw-20"},{"n":26,"slug":"26","title":"python收官检验","group":"课程内容","progress_key":"fw-26"}]},{"name":"部署","chapters":[{"n":21,"slug":"21","title":"部署-认识Docker","group":"部署","progress_key":"fw-21"},{"n":22,"slug":"22","title":"部署-云资产","group":"部署","progress_key":"fw-22"},{"n":23,"slug":"23","title":"部署-k8s","group":"部署","progress_key":"fw-23"},{"n":24,"slug":"24","title":"部署-CICD","group":"部署","progress_key":"fw-24"},{"n":25,"slug":"25","title":"部署-总结","group":"部署","progress_key":"fw-25"}]}]},{"key":"db","title":"数据库","glyph":"库","cls":"b-db","coming_soon":false,"modules":[{"name":"课程内容","chapters":[{"n":1,"slug":"1","title":"PostgreSQL安装","group":"课程内容","progress_key":"db-1"},{"n":2,"slug":"2","title":"DDL","group":"课程内容","progress_key":"db-2"},{"n":3,"slug":"3","title":"表间关系","group":"课程内容","progress_key":"db-3"},{"n":4,"slug":"4","title":"DML","group":"课程内容","progress_key":"db-4"},{"n":5,"slug":"5","title":"事务","group":"课程内容","progress_key":"db-5"},{"n":6,"slug":"6","title":"索引","group":"课程内容","progress_key":"db-6"},{"n":7,"slug":"7","title":"拓展知识","group":"课程内容","progress_key":"db-7"}]}]},{"key":"dst","title":"数据科学工具包","glyph":"数","cls":"b-ds","coming_soon":false,"modules":[{"name":"课程内容","chapters":[{"n":1,"slug":"1","title":"课程导言","group":"课程内容","progress_key":"dst-1"},{"n":2,"slug":"2","title":"Jupyter","group":"课程内容","progress_key":"dst-2"},{"n":10,"slug":"10","title":"Seaborn","group":"课程内容","progress_key":"dst-10"}]},{"name":"Numpy","chapters":[{"n":3,"slug":"3","title":"Numpy - 核心概念","group":"Numpy","progress_key":"dst-3"},{"n":4,"slug":"4","title":"Numpy - 数据操作","group":"Numpy","progress_key":"dst-4"}]},{"name":"Pandas","chapters":[{"n":5,"slug":"5","title":"Pandas - 数据类型","group":"Pandas","progress_key":"dst-5"},{"n":6,"slug":"6","title":"Pandas - 数据清洗","group":"Pandas","progress_key":"dst-6"}]},{"name":"Matplotlib","chapters":[{"n":7,"slug":"7","title":"Matplotlib - 核心概念","group":"Matplotlib","progress_key":"dst-7"},{"n":8,"slug":"8","title":"Matplotlib - 动画","group":"Matplotlib","progress_key":"dst-8"},{"n":9,"slug":"9","title":"Matplotlib - 交互式组件","group":"Matplotlib","progress_key":"dst-9"}]}]},{"key":"java-basic","title":"Java语言核心精讲","glyph":"J","cls":"b-java","coming_soon":false,"modules":[{"name":"课程内容","chapters":[{"n":1,"slug":"1","title":"课程导言","group":"课程内容","progress_key":"java-basic-1"},{"n":2,"slug":"2","title":"构建第一个Java应用程序","group":"课程内容","progress_key":"java-basic-2"},{"n":3,"slug":"3","title":"Java基础语法","group":"课程内容","progress_key":"java-basic-3"},{"n":4,"slug":"4","title":"容器类型","group":"课程内容","progress_key":"java-basic-4"},{"n":5,"slug":"5","title":"方法","group":"课程内容","progress_key":"java-basic-5"},{"n":6,"slug":"6","title":"Lambda表达式","group":"课程内容","progress_key":"java-basic-6"},{"n":7,"slug":"7","title":"Stream API","group":"课程内容","progress_key":"java-basic-7"},{"n":8,"slug":"8","title":"类和对象","group":"课程内容","progress_key":"java-basic-8"},{"n":9,"slug":"9","title":"封装、继承和多态","group":"课程内容","progress_key":"java-basic-9"},{"n":10,"slug":"10","title":"抽象类和接口","group":"课程内容","progress_key":"java-basic-10"},{"n":11,"slug":"11","title":"包管理","group":"课程内容","progress_key":"java-basic-11"},{"n":12,"slug":"12","title":"异常处理","group":"课程内容","progress_key":"java-basic-12"},{"n":13,"slug":"13","title":"反射","group":"课程内容","progress_key":"java-basic-13"},{"n":14,"slug":"14","title":"泛型","group":"课程内容","progress_key":"java-basic-14"},{"n":15,"slug":"15","title":"注解","group":"课程内容","progress_key":"java-basic-15"},{"n":16,"slug":"16","title":"Java特性拾遗与精进","group":"课程内容","progress_key":"java-basic-16"},{"n":17,"slug":"17","title":"线程基础与创建方式","group":"课程内容","progress_key":"java-basic-17"},{"n":18,"slug":"18","title":"线程生命周期与控制方法","group":"课程内容","progress_key":"java-basic-18"},{"n":19,"slug":"19","title":"线程安全与锁机制","group":"课程内容","progress_key":"java-basic-19"},{"n":20,"slug":"20","title":"线程池与Executor框架","group":"课程内容","progress_key":"java-basic-20"},{"n":21,"slug":"21","title":"并发集合与同步工具类","group":"课程内容","progress_key":"java-basic-21"},{"n":22,"slug":"22","title":"高级并发与最佳实践","group":"课程内容","progress_key":"java-basic-22"},{"n":23,"slug":"23","title":"Maven入门与环境配置","group":"课程内容","progress_key":"java-basic-23"},{"n":24,"slug":"24","title":"POM文件与依赖管理","group":"课程内容","progress_key":"java-basic-24"},{"n":25,"slug":"25","title":"Maven生命周期与插件体系","group":"课程内容","progress_key":"java-basic-25"},{"n":26,"slug":"26","title":"多模块项目管理","group":"课程内容","progress_key":"java-basic-26"}]}]},{"key":"spring-boot","title":"单体系统和Spring Boot","glyph":"B","cls":"b-ds","coming_soon":false,"modules":[{"name":"课程内容","chapters":[{"n":1,"slug":"1","title":"课程导言","group":"课程内容","progress_key":"spring-boot-1","sections":[{"name":"三个问题","anchor":"三个问题"},{"name":"为什么要学Spring Boot？","anchor":"为什么要学Spring-Boot"},{"name":"如何学习Spring Boot？","anchor":"如何学习Spring-Boot"},{"name":"学完Spring Boot你能做什么？","anchor":"学完Spring-Boot你能做什么"},{"name":"常见学习问题","anchor":"常见学习问题"}]},{"n":2,"slug":"2","title":"Spring Boot概述与快速入门","group":"课程内容","progress_key":"spring-boot-2","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"Spring 框架概述","anchor":"Spring-框架概述"},{"name":"从 Spring 到 Spring Boot","anchor":"从-Spring-到-Spring-Boot"},{"name":"开发第一个 Spring Boot 应用程序","anchor":"开发第一个-Spring-Boot-应用程序"},{"name":"作业","anchor":"作业"}]},{"n":3,"slug":"3","title":"Spring Boot应用程序结构与分层设计","group":"课程内容","progress_key":"spring-boot-3","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"贯穿项目：图书管理系统","anchor":"贯穿项目图书管理系统"},{"name":"Spring Boot 标准目录结构","anchor":"Spring-Boot-标准目录结构"},{"name":"三层架构设计","anchor":"三层架构设计"},{"name":"搭建项目分层骨架","anchor":"搭建项目分层骨架"},{"name":"依赖注入与层间调用","anchor":"依赖注入与层间调用"},{"name":"启动与测试","anchor":"启动与测试"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":4,"slug":"4","title":"Spring Boot配置体系","group":"课程内容","progress_key":"spring-boot-4","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"配置文件格式","anchor":"配置文件格式"},{"name":"读取配置的两种方式","anchor":"读取配置的两种方式"},{"name":"多环境配置（Profile）","anchor":"多环境配置Profile"},{"name":"配置加载优先级","anchor":"配置加载优先级"},{"name":"实战：为图书管理系统添加多环境配置","anchor":"实战为图书管理系统添加多环境配置"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":5,"slug":"5","title":"自动配置原理与Starter机制","group":"课程内容","progress_key":"spring-boot-5","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"自动配置概述","anchor":"自动配置概述"},{"name":"@SpringBootApplication 注解分析","anchor":"SpringBootApplication-注解分析"},{"name":"spring.factories 与自动配置加载","anchor":"springfactories-与自动配置加载"},{"name":"条件注解体系","anchor":"条件注解体系"},{"name":"案例分析：spring-boot-starter-web 自动配置","anchor":"案例分析spring-boot-starter-web-自动配置"},{"name":"查看自动配置报告","anchor":"查看自动配置报告"},{"name":"自动配置的覆盖与排除","anchor":"自动配置的覆盖与排除"},{"name":"自动配置原理总结","anchor":"自动配置原理总结"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":6,"slug":"6","title":"依赖注入基本概念与三种注入方式","group":"课程内容","progress_key":"spring-boot-6","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"IoC 与 DI 基本概念","anchor":"IoC-与-DI-基本概念"},{"name":"三种依赖注入方式","anchor":"三种依赖注入方式"},{"name":"推荐与不推荐的理由","anchor":"推荐与不推荐的理由"},{"name":"实战示例：为图书管理系统注入依赖","anchor":"实战示例为图书管理系统注入依赖"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":7,"slug":"7","title":"@Autowired详解与注入决策流程","group":"课程内容","progress_key":"spring-boot-7","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"@Autowired 的基本用法","anchor":"Autowired-的基本用法"},{"name":"在字段上使用","anchor":"在字段上使用"},{"name":"@Autowired 的核心特性","anchor":"Autowired-的核心特性"},{"name":"多 Bean 场景与注入决策","anchor":"多-Bean-场景与注入决策"},{"name":"使用 @Primary 指定首选 Bean","anchor":"使用-Primary-指定首选-Bean"},{"name":"使用 @Qualifier 精确指定 Bean","anchor":"使用-Qualifier-精确指定-Bean"},{"name":"@Resource 注解","anchor":"Resource-注解"},{"name":"实战：图书管理系统中的多 Bean 场景","anchor":"实战图书管理系统中的多-Bean-场景"},{"name":"常见问题与注意事项","anchor":"常见问题与注意事项"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":8,"slug":"8","title":"循环依赖与三级缓存机制","group":"课程内容","progress_key":"spring-boot-8","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"什么是循环依赖","anchor":"什么是循环依赖"},{"name":"构造器注入导致的循环依赖","anchor":"构造器注入导致的循环依赖"},{"name":"字段/Setter 注入解决循环依赖","anchor":"字段Setter-注入解决循环依赖"},{"name":"三级缓存机制","anchor":"三级缓存机制"},{"name":"@Lazy 延迟注入解决循环依赖","anchor":"Lazy-延迟注入解决循环依赖"},{"name":"场景分析：真实项目中的循环依赖","anchor":"场景分析真实项目中的循环依赖"},{"name":"避免循环依赖的设计原则","anchor":"避免循环依赖的设计原则"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":9,"slug":"9","title":"AOP编程思想与动态代理机制","group":"课程内容","progress_key":"spring-boot-9","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"AOP 概述","anchor":"AOP-概述"},{"name":"AOP 核心概念","anchor":"AOP-核心概念"},{"name":"动态代理基础","anchor":"动态代理基础"},{"name":"JDK 动态代理","anchor":"JDK-动态代理"},{"name":"CGLIB 动态代理","anchor":"CGLIB-动态代理"},{"name":"Spring AOP 的代理选择策略","anchor":"Spring-AOP-的代理选择策略"},{"name":"JDK 代理 vs CGLIB 代理对比","anchor":"JDK-代理-vs-CGLIB-代理对比"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":10,"slug":"10","title":"Spring AOP实战：日志切面","group":"课程内容","progress_key":"spring-boot-10","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"导入：从理论到实践","anchor":"导入从理论到实践"},{"name":"定义日志切面","anchor":"定义日志切面"},{"name":"切入点表达式详解","anchor":"切入点表达式详解"},{"name":"通知类型详解","anchor":"通知类型详解"},{"name":"获取请求信息","anchor":"获取请求信息"},{"name":"实战：为图书管理系统添加日志切面","anchor":"实战为图书管理系统添加日志切面"},{"name":"注意事项","anchor":"注意事项"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":11,"slug":"11","title":"Spring AOP实战：性能监控与异常处理","group":"课程内容","progress_key":"spring-boot-11","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"导入：从日志到监控","anchor":"导入从日志到监控"},{"name":"@Around 环绕通知","anchor":"Around-环绕通知"},{"name":"性能监控切面","anchor":"性能监控切面"},{"name":"统一异常处理切面","anchor":"统一异常处理切面"},{"name":"多切面协作与执行顺序","anchor":"多切面协作与执行顺序"},{"name":"注意事项","anchor":"注意事项"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":12,"slug":"12","title":"HTTP协议与Web服务开发流程","group":"课程内容","progress_key":"spring-boot-12","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"HTTP 协议概述","anchor":"HTTP-协议概述"},{"name":"HTTP 方法","anchor":"HTTP-方法"},{"name":"HTTP 状态码","anchor":"HTTP-状态码"},{"name":"HTTP 请求头与响应头","anchor":"HTTP-请求头与响应头"},{"name":"Web 服务开发流程","anchor":"Web-服务开发流程"},{"name":"使用 Postman 调试接口","anchor":"使用-Postman-调试接口"},{"name":"实战：使用 Postman 测试图书管理系统","anchor":"实战使用-Postman-测试图书管理系统"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":13,"slug":"13","title":"Servlet与Spring WebMVC架构解析","group":"课程内容","progress_key":"spring-boot-13","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"Servlet 概述","anchor":"Servlet-概述"},{"name":"传统 Servlet 示例（对比 Spring WebMVC）","anchor":"传统-Servlet-示例对比-Spring-WebMVC"},{"name":"Spring WebMVC 架构","anchor":"Spring-WebMVC-架构"},{"name":"DispatcherServlet 详解","anchor":"DispatcherServlet-详解"},{"name":"Spring WebMVC 核心组件","anchor":"Spring-WebMVC-核心组件"},{"name":"请求处理完整流程（时序图）","anchor":"请求处理完整流程时序图"},{"name":"Spring WebMVC vs 传统 Servlet","anchor":"Spring-WebMVC-vs-传统-Servlet"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":14,"slug":"14","title":"REST API开发：请求映射与参数处理","group":"课程内容","progress_key":"spring-boot-14","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"请求映射注解","anchor":"请求映射注解"},{"name":"参数绑定","anchor":"参数绑定"},{"name":"RESTful API 设计规范","anchor":"RESTful-API-设计规范"},{"name":"实战：为图书管理系统编写完整接口","anchor":"实战为图书管理系统编写完整接口"},{"name":"参数校验","anchor":"参数校验"},{"name":"实战：图书管理系统集成校验与异常","anchor":"实战图书管理系统集成校验与异常"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":15,"slug":"15","title":"REST API开发：响应封装和全局异常处理","group":"课程内容","progress_key":"spring-boot-15","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"为什么需要统一响应封装","anchor":"为什么需要统一响应封装"},{"name":"统一响应类设计","anchor":"统一响应类设计"},{"name":"业务状态码设计","anchor":"业务状态码设计"},{"name":"HTTP 状态码与业务状态码的关系","anchor":"HTTP-状态码与业务状态码的关系"},{"name":"实战：为图书管理系统统一响应格式","anchor":"实战为图书管理系统统一响应格式"},{"name":"全局异常处理","anchor":"全局异常处理"},{"name":"实战：图书管理系统集成校验与异常","anchor":"实战图书管理系统集成校验与异常"},{"name":"注意事项","anchor":"注意事项"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":16,"slug":"16","title":"REST API高级：过滤器与拦截器实战","group":"课程内容","progress_key":"spring-boot-16","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"过滤器与拦截器概述","anchor":"过滤器与拦截器概述"},{"name":"Filter 实战","anchor":"Filter-实战"},{"name":"Interceptor 实战","anchor":"Interceptor-实战"},{"name":"请求处理链路完整流程","anchor":"请求处理链路完整流程"},{"name":"过滤器与拦截器的选择建议","anchor":"过滤器与拦截器的选择建议"},{"name":"注意事项","anchor":"注意事项"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":17,"slug":"17","title":"REST API文档自动生成与API规范","group":"课程内容","progress_key":"spring-boot-17","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"API 文档的重要性","anchor":"API-文档的重要性"},{"name":"OpenAPI 规范简介","anchor":"OpenAPI-规范简介"},{"name":"集成 SpringDoc","anchor":"集成-SpringDoc"},{"name":"常用注解增强文档","anchor":"常用注解增强文档"},{"name":"API 分组管理","anchor":"API-分组管理"},{"name":"导出 OpenAPI 文档","anchor":"导出-OpenAPI-文档"},{"name":"API 规范最佳实践","anchor":"API-规范最佳实践"},{"name":"注意事项","anchor":"注意事项"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":18,"slug":"18","title":"RestTemplate与服务间调用","group":"课程内容","progress_key":"spring-boot-18","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"服务间调用概述","anchor":"服务间调用概述"},{"name":"RestTemplate 简介","anchor":"RestTemplate-简介"},{"name":"创建和配置 RestTemplate","anchor":"创建和配置-RestTemplate"},{"name":"GET 请求实战","anchor":"GET-请求实战"},{"name":"POST 请求示例","anchor":"POST-请求示例"},{"name":"异常处理","anchor":"异常处理"},{"name":"实战：在图书管理系统中整合天气信息","anchor":"实战在图书管理系统中整合天气信息"},{"name":"注意事项","anchor":"注意事项"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":19,"slug":"19","title":"Spring WebFlux编程模型与实战","group":"课程内容","progress_key":"spring-boot-19","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"从 Spring MVC 到 Spring WebFlux","anchor":"从-Spring-MVC-到-Spring-WebFlux"},{"name":"响应式编程核心概念","anchor":"响应式编程核心概念"},{"name":"Spring WebFlux vs Spring MVC","anchor":"Spring-WebFlux-vs-Spring-MVC"},{"name":"Reactor 核心类型","anchor":"Reactor-核心类型"},{"name":"创建第一个 Spring WebFlux 应用","anchor":"创建第一个-Spring-WebFlux-应用"},{"name":"Spring WebFlux 两种编程模型","anchor":"Spring-WebFlux-两种编程模型"},{"name":"注解式控制器（Annotated Controllers）","anchor":"注解式控制器Annotated-Controllers"},{"name":"函数式端点（Functional Endpoints）","anchor":"函数式端点Functional-Endpoints"},{"name":"注解式 vs 函数式：如何选择","anchor":"注解式-vs-函数式如何选择"},{"name":"WebClient 响应式 HTTP 客户端","anchor":"WebClient-响应式-HTTP-客户端"},{"name":"注意事项","anchor":"注意事项"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":20,"slug":"20","title":"JDBC规范解析","group":"课程内容","progress_key":"spring-boot-20","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"数据访问层次概述","anchor":"数据访问层次概述"},{"name":"JDBC 规范概述","anchor":"JDBC-规范概述"},{"name":"传统 JDBC 开发实战","anchor":"传统-JDBC-开发实战"},{"name":"传统 JDBC 的痛点分析","anchor":"传统-JDBC-的痛点分析"},{"name":"Spring JDBC 解决方案预览","anchor":"Spring-JDBC-解决方案预览"},{"name":"在图书管理系统中的应用","anchor":"在图书管理系统中的应用"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":21,"slug":"21","title":"Spring JDBC解决方案与JdbcTemplate基础","group":"课程内容","progress_key":"spring-boot-21","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"从传统 JDBC 到 Spring JDBC","anchor":"从传统-JDBC-到-Spring-JDBC"},{"name":"配置数据源与 JdbcTemplate","anchor":"配置数据源与-JdbcTemplate"},{"name":"JdbcTemplate 基础 CRUD","anchor":"JdbcTemplate-基础-CRUD"},{"name":"实战：将图书管理系统迁移到 JdbcTemplate","anchor":"实战将图书管理系统迁移到-JdbcTemplate"},{"name":"JdbcTemplate 与 RowMapper 的工作流程","anchor":"JdbcTemplate-与-RowMapper-的工作流程"},{"name":"注意事项","anchor":"注意事项"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":22,"slug":"22","title":"JdbcTemplate高级操作与SimpleJdbcInsert","group":"课程内容","progress_key":"spring-boot-22","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"回顾与导入","anchor":"回顾与导入"},{"name":"批量操作","anchor":"批量操作"},{"name":"分页查询与排序","anchor":"分页查询与排序"},{"name":"SimpleJdbcInsert 使用","anchor":"SimpleJdbcInsert-使用"},{"name":"实战：图书管理系统整合高级操作","anchor":"实战图书管理系统整合高级操作"},{"name":"注意事项","anchor":"注意事项"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":23,"slug":"23","title":"自己动手写一个JdbcTemplate","group":"课程内容","progress_key":"spring-boot-23","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"导入：从原生 JDBC 到 JdbcTemplate","anchor":"导入从原生-JDBC-到-JdbcTemplate"},{"name":"设计模式基础：模板方法模式","anchor":"设计模式基础模板方法模式"},{"name":"设计模式基础：回调机制","anchor":"设计模式基础回调机制"},{"name":"第一步：使用模板方法模式重构","anchor":"第一步使用模板方法模式重构"},{"name":"第二步：使用回调机制重构","anchor":"第二步使用回调机制重构"},{"name":"第三步：通用 RowMapper 设计","anchor":"第三步通用-RowMapper-设计"},{"name":"第四步：对标 Spring JdbcTemplate 源码","anchor":"第四步对标-Spring-JdbcTemplate-源码"},{"name":"我们的实现 vs Spring 实现对比","anchor":"我们的实现-vs-Spring-实现对比"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":24,"slug":"24","title":"Spring事务管理基础","group":"课程内容","progress_key":"spring-boot-24","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"事务核心概念","anchor":"事务核心概念"},{"name":"Spring 事务抽象","anchor":"Spring-事务抽象"},{"name":"编程式事务管理","anchor":"编程式事务管理"},{"name":"TransactionTemplate vs PlatformTransactionManager","anchor":"TransactionTemplate-vs-PlatformTransactionManager"},{"name":"在图书管理系统中应用编程式事务","anchor":"在图书管理系统中应用编程式事务"},{"name":"编程式事务 vs 声明式事务","anchor":"编程式事务-vs-声明式事务"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":25,"slug":"25","title":"Spring声明式事务与事务传播","group":"课程内容","progress_key":"spring-boot-25","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"从编程式事务到声明式事务","anchor":"从编程式事务到声明式事务"},{"name":"启用声明式事务","anchor":"启用声明式事务"},{"name":"@Transactional 注解详解","anchor":"Transactional-注解详解"},{"name":"事务传播行为","anchor":"事务传播行为"},{"name":"事务隔离级别","anchor":"事务隔离级别"},{"name":"@Transactional 失效场景分析","anchor":"Transactional-失效场景分析"},{"name":"实战：在图书管理系统中使用声明式事务","anchor":"实战在图书管理系统中使用声明式事务"},{"name":"注意事项","anchor":"注意事项"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":26,"slug":"26","title":"ORM核心概念与Spring Data架构","group":"课程内容","progress_key":"spring-boot-26","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"从 JDBC 到 ORM 的演进","anchor":"从-JDBC-到-ORM-的演进"},{"name":"ORM 核心概念","anchor":"ORM-核心概念"},{"name":"JPA 规范","anchor":"JPA-规范"},{"name":"Hibernate 与 JPA 的关系","anchor":"Hibernate-与-JPA-的关系"},{"name":"Spring Data 整体架构","anchor":"Spring-Data-整体架构"},{"name":"Spring Data 核心接口","anchor":"Spring-Data-核心接口"},{"name":"Spring Data JPA vs Spring JDBC","anchor":"Spring-Data-JPA-vs-Spring-JDBC"},{"name":"在图书管理系统中规划迁移路线","anchor":"在图书管理系统中规划迁移路线"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":27,"slug":"27","title":"Spring Data JPA快速上手","group":"课程内容","progress_key":"spring-boot-27","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"初始化Spring Data JPA开发环境","anchor":"初始化Spring-Data-JPA开发环境"},{"name":"定义 JPA 实体","anchor":"定义-JPA-实体"},{"name":"定义 Repository 接口","anchor":"定义-Repository-接口"},{"name":"使用 Repository 完成 CRUD","anchor":"使用-Repository-完成-CRUD"},{"name":"Entity 的生命周期回调","anchor":"Entity-的生命周期回调"},{"name":"Spring Data JPA vs JdbcTemplate 对比","anchor":"Spring-Data-JPA-vs-JdbcTemplate-对比"},{"name":"注意事项","anchor":"注意事项"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":28,"slug":"28","title":"Spring Data JPA高级查询","group":"课程内容","progress_key":"spring-boot-28","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"回顾与导入","anchor":"回顾与导入"},{"name":"方法命名查询（Query Methods）","anchor":"方法命名查询Query-Methods"},{"name":"@Query 注解","anchor":"Query-注解"},{"name":"分页与排序","anchor":"分页与排序"},{"name":"@Modifying 更新与删除操作","anchor":"Modifying-更新与删除操作"},{"name":"查询方式的选择策略","anchor":"查询方式的选择策略"},{"name":"实战：图书管理系统高级查询示例","anchor":"实战图书管理系统高级查询示例"},{"name":"注意事项","anchor":"注意事项"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":29,"slug":"29","title":"Spring Data JPA关联映射与实战","group":"课程内容","progress_key":"spring-boot-29","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"导入：从单表到关联表","anchor":"导入从单表到关联表"},{"name":"数据库表结构定义","anchor":"数据库表结构定义"},{"name":"关联关系概述","anchor":"关联关系概述"},{"name":"定义 JPA 实体","anchor":"定义-JPA-实体"},{"name":"级联操作（CascadeType）","anchor":"级联操作CascadeType"},{"name":"懒加载（LAZY）与急加载（EAGER）","anchor":"懒加载LAZY与急加载EAGER"},{"name":"N+1 查询问题与解决方案","anchor":"N1-查询问题与解决方案"},{"name":"实战：Repository 与 Service","anchor":"实战Repository-与-Service"},{"name":"注意事项","anchor":"注意事项"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":30,"slug":"30","title":"MyBatis 概述与 Spring Boot 集成","group":"课程内容","progress_key":"spring-boot-30","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"ORM 核心概念回顾","anchor":"ORM-核心概念回顾"},{"name":"MyBatis 概述","anchor":"MyBatis-概述"},{"name":"Spring Boot 集成 MyBatis","anchor":"Spring-Boot-集成-MyBatis"},{"name":"第一个 Mapper：XML 映射文件","anchor":"第一个-MapperXML-映射文件"},{"name":"在 Service 层注入 Mapper 并测试","anchor":"在-Service-层注入-Mapper-并测试"},{"name":"注意事项","anchor":"注意事项"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":31,"slug":"31","title":"MyBatis 映射文件与动态 SQL","group":"课程内容","progress_key":"spring-boot-31","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"回顾与导入","anchor":"回顾与导入"},{"name":"动态 SQL","anchor":"动态-SQL"},{"name":"结果集映射（resultMap）","anchor":"结果集映射resultMap"},{"name":"完整实战：图书订单管理","anchor":"完整实战图书订单管理"},{"name":"注意事项","anchor":"注意事项"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":32,"slug":"32","title":"MyBatis 高级特性","group":"课程内容","progress_key":"spring-boot-32","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"回顾与导入","anchor":"回顾与导入"},{"name":"分页实现方式","anchor":"分页实现方式"},{"name":"PageHelper 分页插件集成","anchor":"PageHelper-分页插件集成"},{"name":"MyBatis 注解开发","anchor":"MyBatis-注解开发"},{"name":"MyBatis 缓存机制","anchor":"MyBatis-缓存机制"},{"name":"实战：整合分页与缓存","anchor":"实战整合分页与缓存"},{"name":"MyBatis 拦截器","anchor":"MyBatis-拦截器"},{"name":"注意事项","anchor":"注意事项"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":33,"slug":"33","title":"MyBatis-Plus 概述与快速上手","group":"课程内容","progress_key":"spring-boot-33","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"回顾与导入","anchor":"回顾与导入"},{"name":"MyBatis-Plus 概述","anchor":"MyBatis-Plus-概述"},{"name":"Spring Boot 集成 MyBatis-Plus","anchor":"Spring-Boot-集成-MyBatis-Plus"},{"name":"实体类注解","anchor":"实体类注解"},{"name":"BaseMapper 通用 CRUD","anchor":"BaseMapper-通用-CRUD"},{"name":"逻辑删除","anchor":"逻辑删除"},{"name":"实战：将图书管理系统从 MyBatis 迁移到 MyBatis-Plus","anchor":"实战将图书管理系统从-MyBatis-迁移到-MyBatis-Plus"},{"name":"注意事项","anchor":"注意事项"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":34,"slug":"34","title":"MyBatis-Plus 条件构造器与分页插件","group":"课程内容","progress_key":"spring-boot-34","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"条件构造器体系","anchor":"条件构造器体系"},{"name":"QueryWrapper 常用方法","anchor":"QueryWrapper-常用方法"},{"name":"LambdaQueryWrapper（推荐）","anchor":"LambdaQueryWrapper推荐"},{"name":"UpdateWrapper 条件更新","anchor":"UpdateWrapper-条件更新"},{"name":"分页插件","anchor":"分页插件"},{"name":"实战：在图书管理系统中集成 Wrapper 和分页","anchor":"实战在图书管理系统中集成-Wrapper-和分页"},{"name":"注意事项","anchor":"注意事项"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":35,"slug":"35","title":"MyBatis-Plus 扩展","group":"课程内容","progress_key":"spring-boot-35","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"回顾与导入","anchor":"回顾与导入"},{"name":"通用 Service（IService 与 ServiceImpl）","anchor":"通用-ServiceIService-与-ServiceImpl"},{"name":"自动填充功能","anchor":"自动填充功能"},{"name":"乐观锁插件","anchor":"乐观锁插件"},{"name":"代码生成器","anchor":"代码生成器"},{"name":"注意事项","anchor":"注意事项"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":36,"slug":"36","title":"缓存概述与 Spring Cache 入门","group":"课程内容","progress_key":"spring-boot-36","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"缓存概述","anchor":"缓存概述"},{"name":"本地缓存 vs 分布式缓存","anchor":"本地缓存-vs-分布式缓存"},{"name":"Spring Cache 简介","anchor":"Spring-Cache-简介"},{"name":"Spring Cache 快速上手","anchor":"Spring-Cache-快速上手"},{"name":"缓存工作流程","anchor":"缓存工作流程"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":37,"slug":"37","title":"Spring Cache 核心注解详解","group":"课程内容","progress_key":"spring-boot-37","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"回顾与导入","anchor":"回顾与导入"},{"name":"查看 Spring Cache 缓存","anchor":"查看-Spring-Cache-缓存"},{"name":"@Cacheable 详解","anchor":"Cacheable-详解"},{"name":"@CachePut 详解","anchor":"CachePut-详解"},{"name":"@CacheEvict 详解","anchor":"CacheEvict-详解"},{"name":"@Caching 详解","anchor":"Caching-详解"},{"name":"实战：图书管理系统完整缓存策略","anchor":"实战图书管理系统完整缓存策略"},{"name":"注意事项","anchor":"注意事项"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":38,"slug":"38","title":"缓存管理器与缓存存储配置","group":"课程内容","progress_key":"spring-boot-38","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"回顾与导入","anchor":"回顾与导入"},{"name":"CacheManager 与缓存配置体系","anchor":"CacheManager-与缓存配置体系"},{"name":"ConcurrentMapCacheManager（默认）","anchor":"ConcurrentMapCacheManager默认"},{"name":"Caffeine 本地缓存配置","anchor":"Caffeine-本地缓存配置"},{"name":"多缓存管理器配置","anchor":"多缓存管理器配置"},{"name":"实战：为图书管理系统配置 Caffeine 缓存","anchor":"实战为图书管理系统配置-Caffeine-缓存"},{"name":"注意事项","anchor":"注意事项"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":39,"slug":"39","title":"缓存注解高级特性","group":"课程内容","progress_key":"spring-boot-39","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"回顾与导入","anchor":"回顾与导入"},{"name":"条件缓存（condition）","anchor":"条件缓存condition"},{"name":"排除缓存（unless）","anchor":"排除缓存unless"},{"name":"自定义 KeyGenerator","anchor":"自定义-KeyGenerator"},{"name":"sync 属性（同步缓存）","anchor":"sync-属性同步缓存"},{"name":"实战：为图书管理系统应用高级特性","anchor":"实战为图书管理系统应用高级特性"},{"name":"注意事项","anchor":"注意事项"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":40,"slug":"40","title":"缓存原理与自定义扩展","group":"课程内容","progress_key":"spring-boot-40","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"回顾与导入","anchor":"回顾与导入"},{"name":"Spring Cache 工作原理","anchor":"Spring-Cache-工作原理"},{"name":"自定义 Cache 实现","anchor":"自定义-Cache-实现"},{"name":"自定义 CacheManager","anchor":"自定义-CacheManager"},{"name":"JCache（JSR-107）支持","anchor":"JCacheJSR-107支持"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":41,"slug":"41","title":"缓存核心问题与最佳实践","group":"课程内容","progress_key":"spring-boot-41","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"回顾与导入","anchor":"回顾与导入"},{"name":"缓存三大问题","anchor":"缓存三大问题"},{"name":"缓存一致性","anchor":"缓存一致性"},{"name":"缓存最佳实践","anchor":"缓存最佳实践"},{"name":"实战：图书管理系统完整缓存方案","anchor":"实战图书管理系统完整缓存方案"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":42,"slug":"42","title":"异步处理概述与 Spring Async 入门","group":"课程内容","progress_key":"spring-boot-42","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"同步 vs 异步","anchor":"同步-vs-异步"},{"name":"Spring Async 简介","anchor":"Spring-Async-简介"},{"name":"Spring Async 快速上手","anchor":"Spring-Async-快速上手"},{"name":"@Async 方法自调用问题","anchor":"Async-方法自调用问题"},{"name":"实战：在图书管理系统中应用异步日志","anchor":"实战在图书管理系统中应用异步日志"},{"name":"注意事项","anchor":"注意事项"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":43,"slug":"43","title":"任务执行器配置与线程池管理","group":"课程内容","progress_key":"spring-boot-43","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"回顾与导入","anchor":"回顾与导入"},{"name":"TaskExecutor 体系概述","anchor":"TaskExecutor-体系概述"},{"name":"配置 ThreadPoolTaskExecutor","anchor":"配置-ThreadPoolTaskExecutor"},{"name":"多个独立线程池","anchor":"多个独立线程池"},{"name":"拒绝策略详解","anchor":"拒绝策略详解"},{"name":"线程池监控与调优","anchor":"线程池监控与调优"},{"name":"注意事项","anchor":"注意事项"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":44,"slug":"44","title":"异步方法返回值与异常处理","group":"课程内容","progress_key":"spring-boot-44","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"回顾与导入","anchor":"回顾与导入"},{"name":"无返回值异步方法","anchor":"无返回值异步方法"},{"name":"有返回值异步方法","anchor":"有返回值异步方法"},{"name":"CompletableFuture 进阶","anchor":"CompletableFuture-进阶"},{"name":"实战：图书管理系统异步报表导出","anchor":"实战图书管理系统异步报表导出"},{"name":"注意事项","anchor":"注意事项"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":45,"slug":"45","title":"异步事件与 ApplicationEvent","group":"课程内容","progress_key":"spring-boot-45","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"回顾与导入","anchor":"回顾与导入"},{"name":"Spring 事件机制概述","anchor":"Spring-事件机制概述"},{"name":"自定义事件","anchor":"自定义事件"},{"name":"@EventListener 注解","anchor":"EventListener-注解"},{"name":"异步事件监听","anchor":"异步事件监听"},{"name":"条件事件监听","anchor":"条件事件监听"},{"name":"事件顺序控制","anchor":"事件顺序控制"},{"name":"事务绑定事件","anchor":"事务绑定事件"},{"name":"实战：订单创建事件驱动异步处理","anchor":"实战订单创建事件驱动异步处理"},{"name":"注意事项","anchor":"注意事项"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":46,"slug":"46","title":"Web 异步处理","group":"课程内容","progress_key":"spring-boot-46","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"回顾与导入","anchor":"回顾与导入"},{"name":"Web 异步处理背景","anchor":"Web-异步处理背景"},{"name":"Callable 方式","anchor":"Callable-方式"},{"name":"WebAsyncTask 方式","anchor":"WebAsyncTask-方式"},{"name":"异步请求拦截器","anchor":"异步请求拦截器"},{"name":"实战：图书管理系统异步统计查询","anchor":"实战图书管理系统异步统计查询"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":47,"slug":"47","title":"TaskScheduler 调度器","group":"课程内容","progress_key":"spring-boot-47","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"回顾与导入","anchor":"回顾与导入"},{"name":"启用任务调度器","anchor":"启用任务调度器"},{"name":"TaskScheduler 快速入门","anchor":"TaskScheduler-快速入门"},{"name":"TaskScheduler 接口核心方法","anchor":"TaskScheduler-接口核心方法"},{"name":"ThreadPoolTaskScheduler 配置","anchor":"ThreadPoolTaskScheduler-配置"},{"name":"编程式调度","anchor":"编程式调度"},{"name":"实战：图书管理系统完整定时盘点模块","anchor":"实战图书管理系统完整定时盘点模块"},{"name":"注意事项","anchor":"注意事项"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":48,"slug":"48","title":"@Scheduled 注解应用","group":"课程内容","progress_key":"spring-boot-48","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"回顾与导入","anchor":"回顾与导入"},{"name":"@Scheduled 四种调度模式","anchor":"Scheduled-四种调度模式"},{"name":"@Scheduled 与 @Async 组合使用","anchor":"Scheduled-与-Async-组合使用"},{"name":"实战：图书管理系统定时任务","anchor":"实战图书管理系统定时任务"},{"name":"注意事项","anchor":"注意事项"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":49,"slug":"49","title":"Cron 表达式与调度综合实战","group":"课程内容","progress_key":"spring-boot-49","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"回顾与导入","anchor":"回顾与导入"},{"name":"Cron 表达式基础","anchor":"Cron-表达式基础"},{"name":"特殊字符详解","anchor":"特殊字符详解"},{"name":"常用 Cron 示例","anchor":"常用-Cron-示例"},{"name":"Cron 表达式验证","anchor":"Cron-表达式验证"},{"name":"综合实战：图书管理系统定时任务模块","anchor":"综合实战图书管理系统定时任务模块"},{"name":"常见错误与调试技巧","anchor":"常见错误与调试技巧"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":50,"slug":"50","title":"批处理机制与 Spring Batch 快速入门","group":"课程内容","progress_key":"spring-boot-50","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"批处理概述","anchor":"批处理概述"},{"name":"Spring Batch 核心概念","anchor":"Spring-Batch-核心概念"},{"name":"Spring Boot 集成 Spring Batch","anchor":"Spring-Boot-集成-Spring-Batch"},{"name":"第一个批处理任务：批量导入图书","anchor":"第一个批处理任务批量导入图书"},{"name":"运行批处理任务","anchor":"运行批处理任务"},{"name":"查看执行记录","anchor":"查看执行记录"},{"name":"注意事项","anchor":"注意事项"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":51,"slug":"51","title":"ItemReader、Processor和Writer 实战","group":"课程内容","progress_key":"spring-boot-51","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"回顾与导入","anchor":"回顾与导入"},{"name":"ItemReader 详解","anchor":"ItemReader-详解"},{"name":"ItemProcessor 详解","anchor":"ItemProcessor-详解"},{"name":"ItemWriter 详解","anchor":"ItemWriter-详解"},{"name":"Chunk 模型深入","anchor":"Chunk-模型深入"},{"name":"实战：从 CSV 文件导入图书数据","anchor":"实战从-CSV-文件导入图书数据"},{"name":"注意事项","anchor":"注意事项"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":52,"slug":"52","title":"JobRepository 与作业元数据管理","group":"课程内容","progress_key":"spring-boot-52","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"回顾与导入","anchor":"回顾与导入"},{"name":"JobRepository 概述","anchor":"JobRepository-概述"},{"name":"元数据表详解","anchor":"元数据表详解"},{"name":"使用 JobExplorer 查询作业","anchor":"使用-JobExplorer-查询作业"},{"name":"使用 JobOperator 管理作业","anchor":"使用-JobOperator-管理作业"},{"name":"实战：图书管理系统作业监控接口","anchor":"实战图书管理系统作业监控接口"},{"name":"注意事项","anchor":"注意事项"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":53,"slug":"53","title":"批处理异常处理与重启机制","group":"课程内容","progress_key":"spring-boot-53","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"回顾与导入","anchor":"回顾与导入"},{"name":"异常处理概述","anchor":"异常处理概述"},{"name":"Skip 跳过机制","anchor":"Skip-跳过机制"},{"name":"Retry 重试机制","anchor":"Retry-重试机制"},{"name":"Restart 断点续传","anchor":"Restart-断点续传"},{"name":"错误数据管理","anchor":"错误数据管理"},{"name":"实战：图书管理系统健壮的 CSV 导入","anchor":"实战图书管理系统健壮的-CSV-导入"},{"name":"注意事项","anchor":"注意事项"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":54,"slug":"54","title":"批处理监听器与任务调度","group":"课程内容","progress_key":"spring-boot-54","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"回顾与导入","anchor":"回顾与导入"},{"name":"监听器体系概览","anchor":"监听器体系概览"},{"name":"Job 级别监听器","anchor":"Job-级别监听器"},{"name":"Step 级别监听器","anchor":"Step-级别监听器"},{"name":"Chunk 级别监听器","anchor":"Chunk-级别监听器"},{"name":"Item 级别监听器","anchor":"Item-级别监听器"},{"name":"实战：图书管理系统定时统计任务","anchor":"实战图书管理系统定时统计任务"},{"name":"监听器组合实战","anchor":"监听器组合实战"},{"name":"注意事项","anchor":"注意事项"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":55,"slug":"55","title":"Actuator 入门与常用端点","group":"课程内容","progress_key":"spring-boot-55","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"系统监控概述","anchor":"系统监控概述"},{"name":"Actuator 快速集成","anchor":"Actuator-快速集成"},{"name":"常用端点详解","anchor":"常用端点详解"},{"name":"端点配置","anchor":"端点配置"},{"name":"实战：为图书管理系统开启监控","anchor":"实战为图书管理系统开启监控"},{"name":"端点安全配置","anchor":"端点安全配置"},{"name":"注意事项","anchor":"注意事项"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":56,"slug":"56","title":"健康检查与自定义健康指示器","group":"课程内容","progress_key":"spring-boot-56","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"回顾与导入","anchor":"回顾与导入"},{"name":"健康检查机制","anchor":"健康检查机制"},{"name":"内置健康指示器详解","anchor":"内置健康指示器详解"},{"name":"自定义健康指示器","anchor":"自定义健康指示器"},{"name":"健康检查分组","anchor":"健康检查分组"},{"name":"实战：为图书管理系统添加自定义健康检查","anchor":"实战为图书管理系统添加自定义健康检查"},{"name":"注意事项","anchor":"注意事项"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":57,"slug":"57","title":"指标监控与 Micrometer","group":"课程内容","progress_key":"spring-boot-57","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"回顾与导入","anchor":"回顾与导入"},{"name":"Micrometer 核心概念","anchor":"Micrometer-核心概念"},{"name":"内置指标","anchor":"内置指标"},{"name":"集成与配置","anchor":"集成与配置"},{"name":"自定义指标","anchor":"自定义指标"},{"name":"注意事项","anchor":"注意事项"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":58,"slug":"58","title":"Spring Boot Admin 可视化监控","group":"课程内容","progress_key":"spring-boot-58","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"回顾与导入","anchor":"回顾与导入"},{"name":"Spring Boot Admin 简介","anchor":"Spring-Boot-Admin-简介"},{"name":"搭建 Admin Server","anchor":"搭建-Admin-Server"},{"name":"接入客户端","anchor":"接入客户端"},{"name":"核心监控功能","anchor":"核心监控功能"},{"name":"告警通知","anchor":"告警通知"},{"name":"实战：搭建图书管理系统监控平台","anchor":"实战搭建图书管理系统监控平台"},{"name":"注意事项","anchor":"注意事项"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":59,"slug":"59","title":"测试概述与 JUnit 5 基础","group":"课程内容","progress_key":"spring-boot-59","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"为什么需要测试","anchor":"为什么需要测试"},{"name":"JUnit 5 基础","anchor":"JUnit-5-基础"},{"name":"实战：为 ISBN 校验工具类编写单元测试","anchor":"实战为-ISBN-校验工具类编写单元测试"},{"name":"注意事项","anchor":"注意事项"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":60,"slug":"60","title":"Mockito 与单元测试","group":"课程内容","progress_key":"spring-boot-60","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"回顾与导入","anchor":"回顾与导入"},{"name":"什么是 Mock","anchor":"什么是-Mock"},{"name":"Mockito 核心 API","anchor":"Mockito-核心-API"},{"name":"编写 Service 单元测试","anchor":"编写-Service-单元测试"},{"name":"Mockito 常用技巧","anchor":"Mockito-常用技巧"},{"name":"常见陷阱与注意事项","anchor":"常见陷阱与注意事项"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":61,"slug":"61","title":"Web 层测试：@WebMvcTest","group":"课程内容","progress_key":"spring-boot-61","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"回顾与导入","anchor":"回顾与导入"},{"name":"测试切片（Test Slice）","anchor":"测试切片Test-Slice"},{"name":"MockMvc 核心用法","anchor":"MockMvc-核心用法"},{"name":"依赖 Mock","anchor":"依赖-Mock"},{"name":"实战：测试 BookController","anchor":"实战测试-BookController"},{"name":"测试报告输出","anchor":"测试报告输出"},{"name":"参数校验的测试","anchor":"参数校验的测试"},{"name":"常见的 JSON 断言","anchor":"常见的-JSON-断言"},{"name":"注意事项","anchor":"注意事项"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":62,"slug":"62","title":"数据层测试：@MybatisPlusTest","group":"课程内容","progress_key":"spring-boot-62","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"回顾与导入","anchor":"回顾与导入"},{"name":"@MybatisPlusTest 概述","anchor":"MybatisPlusTest-概述"},{"name":"使用 @MybatisPlusTest","anchor":"使用-MybatisPlusTest"},{"name":"使用 @Sql 加载测试数据","anchor":"使用-Sql-加载测试数据"},{"name":"测试断言最佳实践","anchor":"测试断言最佳实践"},{"name":"注意事项","anchor":"注意事项"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":63,"slug":"63","title":"端到端集成测试：@SpringBootTest","group":"课程内容","progress_key":"spring-boot-63","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"回顾与导入","anchor":"回顾与导入"},{"name":"@SpringBootTest 概述","anchor":"SpringBootTest-概述"},{"name":"TestRestTemplate","anchor":"TestRestTemplate"},{"name":"测试配置管理","anchor":"测试配置管理"},{"name":"实战：图书管理系统集成测试","anchor":"实战图书管理系统集成测试"},{"name":"使用 MockMvc 的集成测试","anchor":"使用-MockMvc-的集成测试"},{"name":"分层测试策略","anchor":"分层测试策略"},{"name":"注意事项","anchor":"注意事项"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]}]}]},{"key":"spring-cloud","title":"Spring Cloud Alibaba","glyph":"C","cls":"b3","coming_soon":false,"modules":[{"name":"课程内容","chapters":[{"n":1,"slug":"1","title":"课程导言","group":"课程内容","progress_key":"spring-cloud-1"},{"n":2,"slug":"2","title":"微服务架构与案例系统初始化","group":"课程内容","progress_key":"spring-cloud-2"},{"n":3,"slug":"3","title":"Spring Cloud Alibaba技术栈集成","group":"课程内容","progress_key":"spring-cloud-3"},{"n":4,"slug":"4","title":"微服务拆分与接口设计","group":"课程内容","progress_key":"spring-cloud-4"},{"n":5,"slug":"5","title":"公共模块建设","group":"课程内容","progress_key":"spring-cloud-5"},{"n":6,"slug":"6","title":"Nacos部署与快速上手","group":"课程内容","progress_key":"spring-cloud-6"},{"n":7,"slug":"7","title":"Nacos高可用集群搭建","group":"课程内容","progress_key":"spring-cloud-7"},{"n":8,"slug":"8","title":"图书服务注册到Nacos","group":"课程内容","progress_key":"spring-cloud-8"},{"n":9,"slug":"9","title":"用户与订单服务注册","group":"课程内容","progress_key":"spring-cloud-9"},{"n":10,"slug":"10","title":"Nacos服务发现实战","group":"课程内容","progress_key":"spring-cloud-10"},{"n":11,"slug":"11","title":"Nacos分级模型与Namespace环境隔离","group":"课程内容","progress_key":"spring-cloud-11"},{"n":12,"slug":"12","title":"Nacos Group分组与多环境切换","group":"课程内容","progress_key":"spring-cloud-12"},{"n":13,"slug":"13","title":"Nacos权重路由","group":"课程内容","progress_key":"spring-cloud-13"},{"n":14,"slug":"14","title":"Nacos API 专题","group":"课程内容","progress_key":"spring-cloud-14"},{"n":15,"slug":"15","title":"OpenFeign快速上手","group":"课程内容","progress_key":"spring-cloud-15"},{"n":16,"slug":"16","title":"OpenFeign核心注解详解","group":"课程内容","progress_key":"spring-cloud-16"},{"n":17,"slug":"17","title":"OpenFeign拦截器","group":"课程内容","progress_key":"spring-cloud-17"},{"n":18,"slug":"18","title":"OpenFeign与LoadBalancer集成","group":"课程内容","progress_key":"spring-cloud-18"},{"n":19,"slug":"19","title":"订单-图书远程调用重构","group":"课程内容","progress_key":"spring-cloud-19"},{"n":20,"slug":"20","title":"Spring Cloud LoadBalancer快速上手","group":"课程内容","progress_key":"spring-cloud-20"},{"n":21,"slug":"21","title":"负载均衡算法与LoadBalancer","group":"课程内容","progress_key":"spring-cloud-21"},{"n":22,"slug":"22","title":"自定义负载均衡算法","group":"课程内容","progress_key":"spring-cloud-22"},{"n":23,"slug":"23","title":"标签化负载均衡与灰度发布","group":"课程内容","progress_key":"spring-cloud-23"},{"n":24,"slug":"24","title":"Nacos Config集成与配置迁移","group":"课程内容","progress_key":"spring-cloud-24"},{"n":25,"slug":"25","title":"配置分级模型与DataId实战","group":"课程内容","progress_key":"spring-cloud-25"},{"n":26,"slug":"26","title":"配置灰度发布实战","group":"课程内容","progress_key":"spring-cloud-26"}]}]},{"key":"cloud","title":"云计算","glyph":"云","cls":"b-cloud","coming_soon":true,"modules":[]}],"currentKey":"spring-boot","currentSlug":"54"}],"$L13","$L14"]}]]
+15:I[756,["619","static/chunks/619-ba102abea3e3d0e4.js","526","static/chunks/app/course/%5Bkey%5D/%5Bch%5D/page-4b7f30b4efe73131.js"],"default"]
+16:I[1599,["619","static/chunks/619-ba102abea3e3d0e4.js","526","static/chunks/app/course/%5Bkey%5D/%5Bch%5D/page-4b7f30b4efe73131.js"],"default"]
+19:I[5340,["619","static/chunks/619-ba102abea3e3d0e4.js","526","static/chunks/app/course/%5Bkey%5D/%5Bch%5D/page-4b7f30b4efe73131.js"],"default"]
+17:T1768e,<h1 id="监听器与任务调度">监听器与任务调度</h1>
+<h2 id="课程目标">课程目标</h2>
+<ul>
+<li>理解 Spring Batch 监听器的作用和分类</li>
+<li>掌握 Job、Step、Chunk 三级监听器的使用</li>
+<li>掌握 ItemRead、ItemProcess、ItemWrite、Skip 等细粒度监听器</li>
+<li>掌握使用 @Scheduled 触发批处理作业</li>
+<li>能够为图书管理系统实现带监听器日志的定时统计任务</li>
+</ul>
+<h2 id="回顾与导入">回顾与导入</h2>
+<p>到目前为止，我们学习了 Spring Batch 的核心组件、异常处理和重启机制。但每次执行作业时，我们只能通过日志碎片或数据库表来了解执行情况：</p>
+<div class="codehilite lang-mermaid"><pre><span></span><code>flowchart LR
+    A[Job 执行] --&gt; B[不知道何时开始/结束]
+    A --&gt; C[不知道处理了多少条]
+    A --&gt; D[不知道哪些失败了]
+    A --&gt; E[不知道耗时多久]
+
+    style A fill:#ffcdd2
+</code></pre></div>
+
+<p><strong>Spring Batch 监听器</strong> 提供了对作业执行过程的<strong>全方位观察</strong>能力，可以在关键时刻插入自定义逻辑，用于：</p>
+<table>
+<thead>
+<tr>
+<th>场景</th>
+<th>说明</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>日志记录</strong></td>
+<td>记录作业开始、结束、耗时</td>
+</tr>
+<tr>
+<td><strong>性能监控</strong></td>
+<td>统计读写数量、处理速度</td>
+</tr>
+<tr>
+<td><strong>异常告警</strong></td>
+<td>失败时发送通知</td>
+</tr>
+<tr>
+<td><strong>数据审计</strong></td>
+<td>记录谁在什么时候执行了什么</td>
+</tr>
+<tr>
+<td><strong>定时触发</strong></td>
+<td>与调度器结合，定时执行</td>
+</tr>
+</tbody>
+</table>
+<p>本节课将系统学习 Spring Batch 的监听器体系，并实现定时执行批处理任务。</p>
+<h2 id="监听器体系概览">监听器体系概览</h2>
+<h3 id="监听器的分类">监听器的分类</h3>
+<p>Spring Batch 提供了丰富的监听器接口，按监听粒度分为以下几类：</p>
+<div class="codehilite lang-mermaid"><pre><span></span><code>flowchart TB
+    subgraph Job级别
+        A1[JobExecutionListener]
+    end
+
+    subgraph Step级别
+        B1[StepExecutionListener]
+        B2[ChunkListener]
+    end
+
+    subgraph Item级别
+        C1[ItemReadListener]
+        C2[ItemProcessListener]
+        C3[ItemWriteListener]
+    end
+
+    subgraph 异常级别
+        D1[SkipListener]
+        D2[RetryListener]
+    end
+
+    A1 --&gt; B1
+    B1 --&gt; C1
+    D1 --&gt; C1
+
+    style A1 fill:#e3f2fd
+    style B1 fill:#e8f5e9
+    style C1 fill:#fff3e0
+    style D1 fill:#ffcdd2
+</code></pre></div>
+
+<h3 id="监听器对比">监听器对比</h3>
+<table>
+<thead>
+<tr>
+<th>监听器</th>
+<th>作用范围</th>
+<th>触发时机</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>JobExecutionListener</code></td>
+<td>Job</td>
+<td>作业开始前、作业结束后</td>
+</tr>
+<tr>
+<td><code>StepExecutionListener</code></td>
+<td>Step</td>
+<td>步骤开始前、步骤结束后</td>
+</tr>
+<tr>
+<td><code>ChunkListener</code></td>
+<td>Chunk</td>
+<td>Chunk 开始前、Chunk 结束后、Chunk 异常时</td>
+</tr>
+<tr>
+<td><code>ItemReadListener</code></td>
+<td>Item</td>
+<td>读取前、读取后、读取异常</td>
+</tr>
+<tr>
+<td><code>ItemProcessListener</code></td>
+<td>Item</td>
+<td>处理前、处理后、处理异常</td>
+</tr>
+<tr>
+<td><code>ItemWriteListener</code></td>
+<td>Item</td>
+<td>写入前、写入后、写入异常</td>
+</tr>
+<tr>
+<td><code>SkipListener</code></td>
+<td>Item</td>
+<td>跳过时（上一节已讲）</td>
+</tr>
+<tr>
+<td><code>RetryListener</code></td>
+<td>Item</td>
+<td>重试时（上一节已讲）</td>
+</tr>
+</tbody>
+</table>
+<h2 id="Job-级别监听器">Job 级别监听器</h2>
+<h3 id="JobExecutionListener-接口">JobExecutionListener 接口</h3>
+<div class="codehilite lang-java"><pre><span></span><code><span class="kd">public</span><span class="w"> </span><span class="kd">interface</span> <span class="nc">JobExecutionListener</span><span class="w"> </span><span class="p">{</span>
+<span class="w">    </span><span class="c1">// 作业开始前执行</span>
+<span class="w">    </span><span class="kt">void</span><span class="w"> </span><span class="nf">beforeJob</span><span class="p">(</span><span class="n">JobExecution</span><span class="w"> </span><span class="n">jobExecution</span><span class="p">);</span>
+
+<span class="w">    </span><span class="c1">// 作业结束后执行（无论成功、失败、停止）</span>
+<span class="w">    </span><span class="kt">void</span><span class="w"> </span><span class="nf">afterJob</span><span class="p">(</span><span class="n">JobExecution</span><span class="w"> </span><span class="n">jobExecution</span><span class="p">);</span>
+<span class="p">}</span>
+</code></pre></div>
+
+<h3 id="实现日志监听器">实现日志监听器</h3>
+<div class="codehilite lang-java"><pre><span></span><code><span class="nd">@Component</span>
+<span class="kd">public</span><span class="w"> </span><span class="kd">class</span> <span class="nc">JobLoggingListener</span><span class="w"> </span><span class="kd">implements</span><span class="w"> </span><span class="n">JobExecutionListener</span><span class="w"> </span><span class="p">{</span>
+
+<span class="w">    </span><span class="kd">private</span><span class="w"> </span><span class="kd">static</span><span class="w"> </span><span class="kd">final</span><span class="w"> </span><span class="n">Logger</span><span class="w"> </span><span class="n">logger</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">LoggerFactory</span><span class="p">.</span><span class="na">getLogger</span><span class="p">(</span><span class="n">JobLoggingListener</span><span class="p">.</span><span class="na">class</span><span class="p">);</span>
+<span class="w">    </span><span class="kd">private</span><span class="w"> </span><span class="kd">static</span><span class="w"> </span><span class="kd">final</span><span class="w"> </span><span class="n">DateTimeFormatter</span><span class="w"> </span><span class="n">FORMATTER</span><span class="w"> </span><span class="o">=</span>
+<span class="w">            </span><span class="n">DateTimeFormatter</span><span class="p">.</span><span class="na">ofPattern</span><span class="p">(</span><span class="s">"yyyy-MM-dd HH:mm:ss"</span><span class="p">);</span>
+
+<span class="w">    </span><span class="nd">@Override</span>
+<span class="w">    </span><span class="kd">public</span><span class="w"> </span><span class="kt">void</span><span class="w"> </span><span class="nf">beforeJob</span><span class="p">(</span><span class="n">JobExecution</span><span class="w"> </span><span class="n">jobExecution</span><span class="p">)</span><span class="w"> </span><span class="p">{</span>
+<span class="w">        </span><span class="n">String</span><span class="w"> </span><span class="n">jobName</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">jobExecution</span><span class="p">.</span><span class="na">getJobInstance</span><span class="p">().</span><span class="na">getJobName</span><span class="p">();</span>
+<span class="w">        </span><span class="n">logger</span><span class="p">.</span><span class="na">info</span><span class="p">(</span><span class="s">"========== 作业开始 =========="</span><span class="p">);</span>
+<span class="w">        </span><span class="n">logger</span><span class="p">.</span><span class="na">info</span><span class="p">(</span><span class="s">"作业名称: {}"</span><span class="p">,</span><span class="w"> </span><span class="n">jobName</span><span class="p">);</span>
+<span class="w">        </span><span class="n">logger</span><span class="p">.</span><span class="na">info</span><span class="p">(</span><span class="s">"执行ID: {}"</span><span class="p">,</span><span class="w"> </span><span class="n">jobExecution</span><span class="p">.</span><span class="na">getId</span><span class="p">());</span>
+<span class="w">        </span><span class="n">logger</span><span class="p">.</span><span class="na">info</span><span class="p">(</span><span class="s">"开始时间: {}"</span><span class="p">,</span><span class="w"> </span><span class="n">LocalDateTime</span><span class="p">.</span><span class="na">now</span><span class="p">().</span><span class="na">format</span><span class="p">(</span><span class="n">FORMATTER</span><span class="p">));</span>
+<span class="w">        </span><span class="n">logger</span><span class="p">.</span><span class="na">info</span><span class="p">(</span><span class="s">"作业参数: {}"</span><span class="p">,</span><span class="w"> </span><span class="n">jobExecution</span><span class="p">.</span><span class="na">getJobParameters</span><span class="p">());</span>
+<span class="w">    </span><span class="p">}</span>
+
+<span class="w">    </span><span class="nd">@Override</span>
+<span class="w">    </span><span class="kd">public</span><span class="w"> </span><span class="kt">void</span><span class="w"> </span><span class="nf">afterJob</span><span class="p">(</span><span class="n">JobExecution</span><span class="w"> </span><span class="n">jobExecution</span><span class="p">)</span><span class="w"> </span><span class="p">{</span>
+<span class="w">        </span><span class="n">String</span><span class="w"> </span><span class="n">jobName</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">jobExecution</span><span class="p">.</span><span class="na">getJobInstance</span><span class="p">().</span><span class="na">getJobName</span><span class="p">();</span>
+<span class="w">        </span><span class="kt">long</span><span class="w"> </span><span class="n">duration</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="mi">0</span><span class="p">;</span>
+
+<span class="w">        </span><span class="k">if</span><span class="w"> </span><span class="p">(</span><span class="n">jobExecution</span><span class="p">.</span><span class="na">getStartTime</span><span class="p">()</span><span class="w"> </span><span class="o">!=</span><span class="w"> </span><span class="kc">null</span><span class="w"> </span><span class="o">&amp;&amp;</span><span class="w"> </span><span class="n">jobExecution</span><span class="p">.</span><span class="na">getEndTime</span><span class="p">()</span><span class="w"> </span><span class="o">!=</span><span class="w"> </span><span class="kc">null</span><span class="p">)</span><span class="w"> </span><span class="p">{</span>
+<span class="w">            </span><span class="n">duration</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">Duration</span><span class="p">.</span><span class="na">between</span><span class="p">(</span>
+<span class="w">                    </span><span class="n">jobExecution</span><span class="p">.</span><span class="na">getStartTime</span><span class="p">(),</span>
+<span class="w">                    </span><span class="n">jobExecution</span><span class="p">.</span><span class="na">getEndTime</span><span class="p">()</span>
+<span class="w">            </span><span class="p">).</span><span class="na">toMillis</span><span class="p">();</span>
+<span class="w">        </span><span class="p">}</span>
+
+<span class="w">        </span><span class="n">logger</span><span class="p">.</span><span class="na">info</span><span class="p">(</span><span class="s">"========== 作业结束 =========="</span><span class="p">);</span>
+<span class="w">        </span><span class="n">logger</span><span class="p">.</span><span class="na">info</span><span class="p">(</span><span class="s">"作业名称: {}"</span><span class="p">,</span><span class="w"> </span><span class="n">jobName</span><span class="p">);</span>
+<span class="w">        </span><span class="n">logger</span><span class="p">.</span><span class="na">info</span><span class="p">(</span><span class="s">"执行状态: {}"</span><span class="p">,</span><span class="w"> </span><span class="n">jobExecution</span><span class="p">.</span><span class="na">getStatus</span><span class="p">());</span>
+<span class="w">        </span><span class="n">logger</span><span class="p">.</span><span class="na">info</span><span class="p">(</span><span class="s">"退出码: {}"</span><span class="p">,</span><span class="w"> </span><span class="n">jobExecution</span><span class="p">.</span><span class="na">getExitStatus</span><span class="p">().</span><span class="na">getExitCode</span><span class="p">());</span>
+<span class="w">        </span><span class="n">logger</span><span class="p">.</span><span class="na">info</span><span class="p">(</span><span class="s">"耗时: {}ms"</span><span class="p">,</span><span class="w"> </span><span class="n">duration</span><span class="p">);</span>
+<span class="w">        </span><span class="n">logger</span><span class="p">.</span><span class="na">info</span><span class="p">(</span><span class="s">"结束时间: {}"</span><span class="p">,</span><span class="w"> </span><span class="n">LocalDateTime</span><span class="p">.</span><span class="na">now</span><span class="p">().</span><span class="na">format</span><span class="p">(</span><span class="n">FORMATTER</span><span class="p">));</span>
+
+<span class="w">        </span><span class="c1">// 失败时告警</span>
+<span class="w">        </span><span class="k">if</span><span class="w"> </span><span class="p">(</span><span class="n">jobExecution</span><span class="p">.</span><span class="na">getStatus</span><span class="p">().</span><span class="na">isUnsuccessful</span><span class="p">())</span><span class="w"> </span><span class="p">{</span>
+<span class="w">            </span><span class="n">logger</span><span class="p">.</span><span class="na">error</span><span class="p">(</span><span class="s">"作业执行失败！失败原因: {}"</span><span class="p">,</span>
+<span class="w">                    </span><span class="n">jobExecution</span><span class="p">.</span><span class="na">getExitStatus</span><span class="p">().</span><span class="na">getExitDescription</span><span class="p">());</span>
+<span class="w">            </span><span class="c1">// 可以在这里发送告警邮件或通知</span>
+<span class="w">        </span><span class="p">}</span>
+<span class="w">    </span><span class="p">}</span>
+<span class="p">}</span>
+</code></pre></div>
+
+<h3 id="注册到-Job">注册到 Job</h3>
+<div class="codehilite lang-java"><pre><span></span><code><span class="nd">@Bean</span>
+<span class="kd">public</span><span class="w"> </span><span class="n">Job</span><span class="w"> </span><span class="nf">csvImportJob</span><span class="p">(</span><span class="n">JobRepository</span><span class="w"> </span><span class="n">jobRepository</span><span class="p">,</span>
+<span class="w">                         </span><span class="n">Step</span><span class="w"> </span><span class="n">importBookStep</span><span class="p">,</span>
+<span class="w">                         </span><span class="n">JobLoggingListener</span><span class="w"> </span><span class="n">jobLoggingListener</span><span class="p">)</span><span class="w"> </span><span class="p">{</span>
+<span class="w">    </span><span class="k">return</span><span class="w"> </span><span class="k">new</span><span class="w"> </span><span class="n">JobBuilder</span><span class="p">(</span><span class="s">"csvImportJob"</span><span class="p">,</span><span class="w"> </span><span class="n">jobRepository</span><span class="p">)</span>
+<span class="w">            </span><span class="p">.</span><span class="na">start</span><span class="p">(</span><span class="n">importBookStep</span><span class="p">)</span>
+<span class="w">            </span><span class="p">.</span><span class="na">listener</span><span class="p">(</span><span class="n">jobLoggingListener</span><span class="p">)</span><span class="w">  </span><span class="c1">// 注册 Job 监听器</span>
+<span class="w">            </span><span class="p">.</span><span class="na">build</span><span class="p">();</span>
+<span class="p">}</span>
+</code></pre></div>
+
+<h3 id="执行日志示例">执行日志示例</h3>
+<div class="codehilite"><pre><span></span><code>========== 作业开始 ==========
+作业名称: csvImportJob
+执行ID: 1
+开始时间: 2026-09-23 10:30:00
+作业参数: {timestamp=1727000000000}
+
+（作业执行中...）
+
+========== 作业结束 ==========
+作业名称: csvImportJob
+执行状态: COMPLETED
+退出码: COMPLETED
+耗时: 3500ms
+结束时间: 2026-09-23 10:30:03
+</code></pre></div>
+
+<h2 id="Step-级别监听器">Step 级别监听器</h2>
+<h3 id="StepExecutionListener-接口">StepExecutionListener 接口</h3>
+<div class="codehilite lang-java"><pre><span></span><code><span class="kd">public</span><span class="w"> </span><span class="kd">interface</span> <span class="nc">StepExecutionListener</span><span class="w"> </span><span class="kd">extends</span><span class="w"> </span><span class="n">StepListener</span><span class="w"> </span><span class="p">{</span>
+<span class="w">    </span><span class="c1">// 步骤开始前执行</span>
+<span class="w">    </span><span class="kt">void</span><span class="w"> </span><span class="nf">beforeStep</span><span class="p">(</span><span class="n">StepExecution</span><span class="w"> </span><span class="n">stepExecution</span><span class="p">);</span>
+
+<span class="w">    </span><span class="c1">// 步骤结束后执行（返回 null 表示不影响退出状态）</span>
+<span class="w">    </span><span class="n">ExitStatus</span><span class="w"> </span><span class="nf">afterStep</span><span class="p">(</span><span class="n">StepExecution</span><span class="w"> </span><span class="n">stepExecution</span><span class="p">);</span>
+<span class="p">}</span>
+</code></pre></div>
+
+<h3 id="实现步骤日志监听器">实现步骤日志监听器</h3>
+<div class="codehilite lang-java"><pre><span></span><code><span class="nd">@Component</span>
+<span class="kd">public</span><span class="w"> </span><span class="kd">class</span> <span class="nc">StepLoggingListener</span><span class="w"> </span><span class="kd">implements</span><span class="w"> </span><span class="n">StepExecutionListener</span><span class="w"> </span><span class="p">{</span>
+
+<span class="w">    </span><span class="kd">private</span><span class="w"> </span><span class="kd">static</span><span class="w"> </span><span class="kd">final</span><span class="w"> </span><span class="n">Logger</span><span class="w"> </span><span class="n">logger</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">LoggerFactory</span><span class="p">.</span><span class="na">getLogger</span><span class="p">(</span><span class="n">StepLoggingListener</span><span class="p">.</span><span class="na">class</span><span class="p">);</span>
+
+<span class="w">    </span><span class="nd">@Override</span>
+<span class="w">    </span><span class="kd">public</span><span class="w"> </span><span class="kt">void</span><span class="w"> </span><span class="nf">beforeStep</span><span class="p">(</span><span class="n">StepExecution</span><span class="w"> </span><span class="n">stepExecution</span><span class="p">)</span><span class="w"> </span><span class="p">{</span>
+<span class="w">        </span><span class="n">logger</span><span class="p">.</span><span class="na">info</span><span class="p">(</span><span class="s">"---------- 步骤开始 ----------"</span><span class="p">);</span>
+<span class="w">        </span><span class="n">logger</span><span class="p">.</span><span class="na">info</span><span class="p">(</span><span class="s">"步骤名称: {}"</span><span class="p">,</span><span class="w"> </span><span class="n">stepExecution</span><span class="p">.</span><span class="na">getStepName</span><span class="p">());</span>
+<span class="w">        </span><span class="n">logger</span><span class="p">.</span><span class="na">info</span><span class="p">(</span><span class="s">"执行ID: {}"</span><span class="p">,</span><span class="w"> </span><span class="n">stepExecution</span><span class="p">.</span><span class="na">getJobExecutionId</span><span class="p">());</span>
+<span class="w">    </span><span class="p">}</span>
+
+<span class="w">    </span><span class="nd">@Override</span>
+<span class="w">    </span><span class="kd">public</span><span class="w"> </span><span class="n">ExitStatus</span><span class="w"> </span><span class="nf">afterStep</span><span class="p">(</span><span class="n">StepExecution</span><span class="w"> </span><span class="n">stepExecution</span><span class="p">)</span><span class="w"> </span><span class="p">{</span>
+<span class="w">        </span><span class="n">logger</span><span class="p">.</span><span class="na">info</span><span class="p">(</span><span class="s">"---------- 步骤结束 ----------"</span><span class="p">);</span>
+<span class="w">        </span><span class="n">logger</span><span class="p">.</span><span class="na">info</span><span class="p">(</span><span class="s">"步骤名称: {}"</span><span class="p">,</span><span class="w"> </span><span class="n">stepExecution</span><span class="p">.</span><span class="na">getStepName</span><span class="p">());</span>
+<span class="w">        </span><span class="n">logger</span><span class="p">.</span><span class="na">info</span><span class="p">(</span><span class="s">"状态: {}"</span><span class="p">,</span><span class="w"> </span><span class="n">stepExecution</span><span class="p">.</span><span class="na">getStatus</span><span class="p">());</span>
+<span class="w">        </span><span class="n">logger</span><span class="p">.</span><span class="na">info</span><span class="p">(</span><span class="s">"读取数量: {}"</span><span class="p">,</span><span class="w"> </span><span class="n">stepExecution</span><span class="p">.</span><span class="na">getReadCount</span><span class="p">());</span>
+<span class="w">        </span><span class="n">logger</span><span class="p">.</span><span class="na">info</span><span class="p">(</span><span class="s">"过滤数量: {}"</span><span class="p">,</span><span class="w"> </span><span class="n">stepExecution</span><span class="p">.</span><span class="na">getFilterCount</span><span class="p">());</span>
+<span class="w">        </span><span class="n">logger</span><span class="p">.</span><span class="na">info</span><span class="p">(</span><span class="s">"写入数量: {}"</span><span class="p">,</span><span class="w"> </span><span class="n">stepExecution</span><span class="p">.</span><span class="na">getWriteCount</span><span class="p">());</span>
+<span class="w">        </span><span class="n">logger</span><span class="p">.</span><span class="na">info</span><span class="p">(</span><span class="s">"提交次数: {}"</span><span class="p">,</span><span class="w"> </span><span class="n">stepExecution</span><span class="p">.</span><span class="na">getCommitCount</span><span class="p">());</span>
+<span class="w">        </span><span class="n">logger</span><span class="p">.</span><span class="na">info</span><span class="p">(</span><span class="s">"回滚次数: {}"</span><span class="p">,</span><span class="w"> </span><span class="n">stepExecution</span><span class="p">.</span><span class="na">getRollbackCount</span><span class="p">());</span>
+<span class="w">        </span><span class="n">logger</span><span class="p">.</span><span class="na">info</span><span class="p">(</span><span class="s">"耗时: {}ms"</span><span class="p">,</span>
+<span class="w">                </span><span class="n">stepExecution</span><span class="p">.</span><span class="na">getEndTime</span><span class="p">()</span><span class="w"> </span><span class="o">!=</span><span class="w"> </span><span class="kc">null</span><span class="w"> </span><span class="o">&amp;&amp;</span><span class="w"> </span><span class="n">stepExecution</span><span class="p">.</span><span class="na">getStartTime</span><span class="p">()</span><span class="w"> </span><span class="o">!=</span><span class="w"> </span><span class="kc">null</span>
+<span class="w">                        </span><span class="o">?</span><span class="w"> </span><span class="n">java</span><span class="p">.</span><span class="na">time</span><span class="p">.</span><span class="na">Duration</span><span class="p">.</span><span class="na">between</span><span class="p">(</span>
+<span class="w">                                </span><span class="n">stepExecution</span><span class="p">.</span><span class="na">getStartTime</span><span class="p">(),</span>
+<span class="w">                                </span><span class="n">stepExecution</span><span class="p">.</span><span class="na">getEndTime</span><span class="p">()).</span><span class="na">toMillis</span><span class="p">()</span>
+<span class="w">                        </span><span class="p">:</span><span class="w"> </span><span class="mi">0</span><span class="p">);</span>
+
+<span class="w">        </span><span class="c1">// 返回 null 表示不修改退出状态</span>
+<span class="w">        </span><span class="k">return</span><span class="w"> </span><span class="kc">null</span><span class="p">;</span>
+<span class="w">    </span><span class="p">}</span>
+<span class="p">}</span>
+</code></pre></div>
+
+<h3 id="注册到-Step">注册到 Step</h3>
+<div class="codehilite lang-java"><pre><span></span><code><span class="nd">@Bean</span>
+<span class="kd">public</span><span class="w"> </span><span class="n">Step</span><span class="w"> </span><span class="nf">csvImportStep</span><span class="p">(</span><span class="n">JobRepository</span><span class="w"> </span><span class="n">jobRepository</span><span class="p">,</span>
+<span class="w">                          </span><span class="n">PlatformTransactionManager</span><span class="w"> </span><span class="n">transactionManager</span><span class="p">,</span>
+<span class="w">                          </span><span class="n">ItemReader</span><span class="o">&lt;</span><span class="n">Book</span><span class="o">&gt;</span><span class="w"> </span><span class="n">reader</span><span class="p">,</span>
+<span class="w">                          </span><span class="n">ItemProcessor</span><span class="o">&lt;</span><span class="n">Book</span><span class="p">,</span><span class="w"> </span><span class="n">Book</span><span class="o">&gt;</span><span class="w"> </span><span class="n">processor</span><span class="p">,</span>
+<span class="w">                          </span><span class="n">ItemWriter</span><span class="o">&lt;</span><span class="n">Book</span><span class="o">&gt;</span><span class="w"> </span><span class="n">writer</span><span class="p">,</span>
+<span class="w">                          </span><span class="n">StepLoggingListener</span><span class="w"> </span><span class="n">stepLoggingListener</span><span class="p">)</span><span class="w"> </span><span class="p">{</span>
+<span class="w">    </span><span class="k">return</span><span class="w"> </span><span class="k">new</span><span class="w"> </span><span class="n">StepBuilder</span><span class="p">(</span><span class="s">"csvImportStep"</span><span class="p">,</span><span class="w"> </span><span class="n">jobRepository</span><span class="p">)</span>
+<span class="w">            </span><span class="p">.</span><span class="o">&lt;</span><span class="n">Book</span><span class="p">,</span><span class="w"> </span><span class="n">Book</span><span class="o">&gt;</span><span class="n">chunk</span><span class="p">(</span><span class="mi">3</span><span class="p">,</span><span class="w"> </span><span class="n">transactionManager</span><span class="p">)</span>
+<span class="w">            </span><span class="p">.</span><span class="na">reader</span><span class="p">(</span><span class="n">reader</span><span class="p">)</span>
+<span class="w">            </span><span class="p">.</span><span class="na">processor</span><span class="p">(</span><span class="n">processor</span><span class="p">)</span>
+<span class="w">            </span><span class="p">.</span><span class="na">writer</span><span class="p">(</span><span class="n">writer</span><span class="p">)</span>
+<span class="w">            </span><span class="p">.</span><span class="na">listener</span><span class="p">(</span><span class="n">stepLoggingListener</span><span class="p">)</span><span class="w">  </span><span class="c1">// 注册 Step 监听器</span>
+<span class="w">            </span><span class="p">.</span><span class="na">build</span><span class="p">();</span>
+<span class="p">}</span>
+</code></pre></div>
+
+<h3 id="执行日志示例_1">执行日志示例</h3>
+<div class="codehilite"><pre><span></span><code>---------- 步骤开始 ----------
+步骤名称: csvImportStep
+执行ID: 1
+
+（Chunk 处理中...）
+
+---------- 步骤结束 ----------
+步骤名称: csvImportStep
+状态: COMPLETED
+读取数量: 8
+过滤数量: 0
+写入数量: 6
+提交次数: 3
+回滚次数: 0
+耗时: 3200ms
+</code></pre></div>
+
+<h2 id="Chunk-级别监听器">Chunk 级别监听器</h2>
+<h3 id="ChunkListener-接口">ChunkListener 接口</h3>
+<div class="codehilite lang-java"><pre><span></span><code><span class="kd">public</span><span class="w"> </span><span class="kd">interface</span> <span class="nc">ChunkListener</span><span class="w"> </span><span class="kd">extends</span><span class="w"> </span><span class="n">StepListener</span><span class="w"> </span><span class="p">{</span>
+<span class="w">    </span><span class="c1">// Chunk 处理前</span>
+<span class="w">    </span><span class="kt">void</span><span class="w"> </span><span class="nf">beforeChunk</span><span class="p">(</span><span class="n">ChunkContext</span><span class="w"> </span><span class="n">context</span><span class="p">);</span>
+
+<span class="w">    </span><span class="c1">// Chunk 处理后（事务提交后）</span>
+<span class="w">    </span><span class="kt">void</span><span class="w"> </span><span class="nf">afterChunk</span><span class="p">(</span><span class="n">ChunkContext</span><span class="w"> </span><span class="n">context</span><span class="p">);</span>
+
+<span class="w">    </span><span class="c1">// Chunk 处理失败后</span>
+<span class="w">    </span><span class="kt">void</span><span class="w"> </span><span class="nf">afterChunkError</span><span class="p">(</span><span class="n">ChunkContext</span><span class="w"> </span><span class="n">context</span><span class="p">);</span>
+<span class="p">}</span>
+</code></pre></div>
+
+<h3 id="实现-Chunk-监控监听器">实现 Chunk 监控监听器</h3>
+<div class="codehilite lang-java"><pre><span></span><code><span class="nd">@Component</span>
+<span class="kd">public</span><span class="w"> </span><span class="kd">class</span> <span class="nc">ChunkLoggingListener</span><span class="w"> </span><span class="kd">implements</span><span class="w"> </span><span class="n">ChunkListener</span><span class="w"> </span><span class="p">{</span>
+
+<span class="w">    </span><span class="kd">private</span><span class="w"> </span><span class="kd">static</span><span class="w"> </span><span class="kd">final</span><span class="w"> </span><span class="n">Logger</span><span class="w"> </span><span class="n">logger</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">LoggerFactory</span><span class="p">.</span><span class="na">getLogger</span><span class="p">(</span><span class="n">ChunkLoggingListener</span><span class="p">.</span><span class="na">class</span><span class="p">);</span>
+
+<span class="w">    </span><span class="kd">private</span><span class="w"> </span><span class="kt">long</span><span class="w"> </span><span class="n">chunkStartTime</span><span class="p">;</span>
+
+<span class="w">    </span><span class="nd">@Override</span>
+<span class="w">    </span><span class="kd">public</span><span class="w"> </span><span class="kt">void</span><span class="w"> </span><span class="nf">beforeChunk</span><span class="p">(</span><span class="n">ChunkContext</span><span class="w"> </span><span class="n">context</span><span class="p">)</span><span class="w"> </span><span class="p">{</span>
+<span class="w">        </span><span class="n">chunkStartTime</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">System</span><span class="p">.</span><span class="na">currentTimeMillis</span><span class="p">();</span>
+<span class="w">        </span><span class="n">logger</span><span class="p">.</span><span class="na">debug</span><span class="p">(</span><span class="s">"[Chunk 开始] {}"</span><span class="p">,</span><span class="w"> </span><span class="n">context</span><span class="p">.</span><span class="na">getStepContext</span><span class="p">().</span><span class="na">getStepName</span><span class="p">());</span>
+<span class="w">    </span><span class="p">}</span>
+
+<span class="w">    </span><span class="nd">@Override</span>
+<span class="w">    </span><span class="kd">public</span><span class="w"> </span><span class="kt">void</span><span class="w"> </span><span class="nf">afterChunk</span><span class="p">(</span><span class="n">ChunkContext</span><span class="w"> </span><span class="n">context</span><span class="p">)</span><span class="w"> </span><span class="p">{</span>
+<span class="w">        </span><span class="kt">long</span><span class="w"> </span><span class="n">duration</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">System</span><span class="p">.</span><span class="na">currentTimeMillis</span><span class="p">()</span><span class="w"> </span><span class="o">-</span><span class="w"> </span><span class="n">chunkStartTime</span><span class="p">;</span>
+<span class="w">        </span><span class="n">logger</span><span class="p">.</span><span class="na">debug</span><span class="p">(</span><span class="s">"[Chunk 完成] {} 耗时: {}ms"</span><span class="p">,</span>
+<span class="w">                </span><span class="n">context</span><span class="p">.</span><span class="na">getStepContext</span><span class="p">().</span><span class="na">getStepName</span><span class="p">(),</span><span class="w"> </span><span class="n">duration</span><span class="p">);</span>
+<span class="w">    </span><span class="p">}</span>
+
+<span class="w">    </span><span class="nd">@Override</span>
+<span class="w">    </span><span class="kd">public</span><span class="w"> </span><span class="kt">void</span><span class="w"> </span><span class="nf">afterChunkError</span><span class="p">(</span><span class="n">ChunkContext</span><span class="w"> </span><span class="n">context</span><span class="p">)</span><span class="w"> </span><span class="p">{</span>
+<span class="w">        </span><span class="n">logger</span><span class="p">.</span><span class="na">warn</span><span class="p">(</span><span class="s">"[Chunk 失败] {}"</span><span class="p">,</span>
+<span class="w">                </span><span class="n">context</span><span class="p">.</span><span class="na">getStepContext</span><span class="p">().</span><span class="na">getStepName</span><span class="p">());</span>
+<span class="w">    </span><span class="p">}</span>
+<span class="p">}</span>
+</code></pre></div>
+
+<h3 id="注册到-Step_1">注册到 Step</h3>
+<div class="codehilite lang-java"><pre><span></span><code><span class="p">.</span><span class="na">listener</span><span class="p">(</span><span class="n">chunkLoggingListener</span><span class="p">)</span>
+</code></pre></div>
+
+<h2 id="Item-级别监听器">Item 级别监听器</h2>
+<h3 id="三种-Item-监听器">三种 Item 监听器</h3>
+<table>
+<thead>
+<tr>
+<th>监听器</th>
+<th>方法</th>
+<th>触发时机</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>ItemReadListener</code></td>
+<td><code>beforeRead()</code>、<code>afterRead(item)</code>、<code>onReadError(ex)</code></td>
+<td>读取前/后/异常</td>
+</tr>
+<tr>
+<td><code>ItemProcessListener</code></td>
+<td><code>beforeProcess(item)</code>、<code>afterProcess(in, out)</code>、<code>onProcessError(in, ex)</code></td>
+<td>处理前/后/异常</td>
+</tr>
+<tr>
+<td><code>ItemWriteListener</code></td>
+<td><code>beforeWrite(items)</code>、<code>afterWrite(items)</code>、<code>onWriteError(ex, items)</code></td>
+<td>写入前/后/异常</td>
+</tr>
+</tbody>
+</table>
+<h3 id="实现-Item-监控监听器">实现 Item 监控监听器</h3>
+<div class="codehilite lang-java"><pre><span></span><code><span class="nd">@Component</span>
+<span class="kd">public</span><span class="w"> </span><span class="kd">class</span> <span class="nc">ItemLoggingListener</span><span class="w"> </span><span class="kd">implements</span><span class="w"> </span><span class="n">ItemReadListener</span><span class="o">&lt;</span><span class="n">Book</span><span class="o">&gt;</span><span class="p">,</span>
+<span class="w">        </span><span class="n">ItemProcessListener</span><span class="o">&lt;</span><span class="n">Book</span><span class="p">,</span><span class="w"> </span><span class="n">Book</span><span class="o">&gt;</span><span class="p">,</span>
+<span class="w">        </span><span class="n">ItemWriteListener</span><span class="o">&lt;</span><span class="n">Book</span><span class="o">&gt;</span><span class="w"> </span><span class="p">{</span>
+
+<span class="w">    </span><span class="kd">private</span><span class="w"> </span><span class="kd">static</span><span class="w"> </span><span class="kd">final</span><span class="w"> </span><span class="n">Logger</span><span class="w"> </span><span class="n">logger</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">LoggerFactory</span><span class="p">.</span><span class="na">getLogger</span><span class="p">(</span><span class="n">ItemLoggingListener</span><span class="p">.</span><span class="na">class</span><span class="p">);</span>
+
+<span class="w">    </span><span class="c1">// ========== 读取监听 ==========</span>
+
+<span class="w">    </span><span class="nd">@Override</span>
+<span class="w">    </span><span class="kd">public</span><span class="w"> </span><span class="kt">void</span><span class="w"> </span><span class="nf">beforeRead</span><span class="p">()</span><span class="w"> </span><span class="p">{</span>
+<span class="w">        </span><span class="c1">// 每条数据读取前执行（高频，建议只在 DEBUG 级别记录）</span>
+<span class="w">    </span><span class="p">}</span>
+
+<span class="w">    </span><span class="nd">@Override</span>
+<span class="w">    </span><span class="kd">public</span><span class="w"> </span><span class="kt">void</span><span class="w"> </span><span class="nf">afterRead</span><span class="p">(</span><span class="n">Book</span><span class="w"> </span><span class="n">item</span><span class="p">)</span><span class="w"> </span><span class="p">{</span>
+<span class="w">        </span><span class="n">logger</span><span class="p">.</span><span class="na">debug</span><span class="p">(</span><span class="s">"[读取] {}"</span><span class="p">,</span><span class="w"> </span><span class="n">item</span><span class="p">.</span><span class="na">getTitle</span><span class="p">());</span>
+<span class="w">    </span><span class="p">}</span>
+
+<span class="w">    </span><span class="nd">@Override</span>
+<span class="w">    </span><span class="kd">public</span><span class="w"> </span><span class="kt">void</span><span class="w"> </span><span class="nf">onReadError</span><span class="p">(</span><span class="n">Exception</span><span class="w"> </span><span class="n">ex</span><span class="p">)</span><span class="w"> </span><span class="p">{</span>
+<span class="w">        </span><span class="n">logger</span><span class="p">.</span><span class="na">error</span><span class="p">(</span><span class="s">"[读取异常] {}"</span><span class="p">,</span><span class="w"> </span><span class="n">ex</span><span class="p">.</span><span class="na">getMessage</span><span class="p">());</span>
+<span class="w">    </span><span class="p">}</span>
+
+<span class="w">    </span><span class="c1">// ========== 处理监听 ==========</span>
+
+<span class="w">    </span><span class="nd">@Override</span>
+<span class="w">    </span><span class="kd">public</span><span class="w"> </span><span class="kt">void</span><span class="w"> </span><span class="nf">beforeProcess</span><span class="p">(</span><span class="n">Book</span><span class="w"> </span><span class="n">item</span><span class="p">)</span><span class="w"> </span><span class="p">{</span>
+<span class="w">        </span><span class="c1">// 处理前</span>
+<span class="w">    </span><span class="p">}</span>
+
+<span class="w">    </span><span class="nd">@Override</span>
+<span class="w">    </span><span class="kd">public</span><span class="w"> </span><span class="kt">void</span><span class="w"> </span><span class="nf">afterProcess</span><span class="p">(</span><span class="n">Book</span><span class="w"> </span><span class="n">item</span><span class="p">,</span><span class="w"> </span><span class="n">Book</span><span class="w"> </span><span class="n">result</span><span class="p">)</span><span class="w"> </span><span class="p">{</span>
+<span class="w">        </span><span class="k">if</span><span class="w"> </span><span class="p">(</span><span class="n">result</span><span class="w"> </span><span class="o">==</span><span class="w"> </span><span class="kc">null</span><span class="p">)</span><span class="w"> </span><span class="p">{</span>
+<span class="w">            </span><span class="n">logger</span><span class="p">.</span><span class="na">debug</span><span class="p">(</span><span class="s">"[处理过滤] {}"</span><span class="p">,</span><span class="w"> </span><span class="n">item</span><span class="p">.</span><span class="na">getTitle</span><span class="p">());</span>
+<span class="w">        </span><span class="p">}</span><span class="w"> </span><span class="k">else</span><span class="w"> </span><span class="p">{</span>
+<span class="w">            </span><span class="n">logger</span><span class="p">.</span><span class="na">debug</span><span class="p">(</span><span class="s">"[处理成功] {}"</span><span class="p">,</span><span class="w"> </span><span class="n">result</span><span class="p">.</span><span class="na">getTitle</span><span class="p">());</span>
+<span class="w">        </span><span class="p">}</span>
+<span class="w">    </span><span class="p">}</span>
+
+<span class="w">    </span><span class="nd">@Override</span>
+<span class="w">    </span><span class="kd">public</span><span class="w"> </span><span class="kt">void</span><span class="w"> </span><span class="nf">onProcessError</span><span class="p">(</span><span class="n">Book</span><span class="w"> </span><span class="n">item</span><span class="p">,</span><span class="w"> </span><span class="n">Exception</span><span class="w"> </span><span class="n">e</span><span class="p">)</span><span class="w"> </span><span class="p">{</span>
+<span class="w">        </span><span class="n">logger</span><span class="p">.</span><span class="na">error</span><span class="p">(</span><span class="s">"[处理异常] {} - {}"</span><span class="p">,</span><span class="w"> </span><span class="n">item</span><span class="p">.</span><span class="na">getTitle</span><span class="p">(),</span><span class="w"> </span><span class="n">e</span><span class="p">.</span><span class="na">getMessage</span><span class="p">());</span>
+<span class="w">    </span><span class="p">}</span>
+
+<span class="w">    </span><span class="c1">// ========== 写入监听 ==========</span>
+
+<span class="w">    </span><span class="nd">@Override</span>
+<span class="w">    </span><span class="kd">public</span><span class="w"> </span><span class="kt">void</span><span class="w"> </span><span class="nf">beforeWrite</span><span class="p">(</span><span class="n">Chunk</span><span class="o">&lt;?</span><span class="w"> </span><span class="kd">extends</span><span class="w"> </span><span class="n">Book</span><span class="o">&gt;</span><span class="w"> </span><span class="n">items</span><span class="p">)</span><span class="w"> </span><span class="p">{</span>
+<span class="w">        </span><span class="n">logger</span><span class="p">.</span><span class="na">debug</span><span class="p">(</span><span class="s">"[写入开始] {} 条"</span><span class="p">,</span><span class="w"> </span><span class="n">items</span><span class="p">.</span><span class="na">size</span><span class="p">());</span>
+<span class="w">    </span><span class="p">}</span>
+
+<span class="w">    </span><span class="nd">@Override</span>
+<span class="w">    </span><span class="kd">public</span><span class="w"> </span><span class="kt">void</span><span class="w"> </span><span class="nf">afterWrite</span><span class="p">(</span><span class="n">Chunk</span><span class="o">&lt;?</span><span class="w"> </span><span class="kd">extends</span><span class="w"> </span><span class="n">Book</span><span class="o">&gt;</span><span class="w"> </span><span class="n">items</span><span class="p">)</span><span class="w"> </span><span class="p">{</span>
+<span class="w">        </span><span class="n">logger</span><span class="p">.</span><span class="na">info</span><span class="p">(</span><span class="s">"[写入完成] {} 条"</span><span class="p">,</span><span class="w"> </span><span class="n">items</span><span class="p">.</span><span class="na">size</span><span class="p">());</span>
+<span class="w">    </span><span class="p">}</span>
+
+<span class="w">    </span><span class="nd">@Override</span>
+<span class="w">    </span><span class="kd">public</span><span class="w"> </span><span class="kt">void</span><span class="w"> </span><span class="nf">onWriteError</span><span class="p">(</span><span class="n">Exception</span><span class="w"> </span><span class="n">exception</span><span class="p">,</span><span class="w"> </span><span class="n">Chunk</span><span class="o">&lt;?</span><span class="w"> </span><span class="kd">extends</span><span class="w"> </span><span class="n">Book</span><span class="o">&gt;</span><span class="w"> </span><span class="n">items</span><span class="p">)</span><span class="w"> </span><span class="p">{</span>
+<span class="w">        </span><span class="n">logger</span><span class="p">.</span><span class="na">error</span><span class="p">(</span><span class="s">"[写入异常] {} 条失败: {}"</span><span class="p">,</span><span class="w"> </span><span class="n">items</span><span class="p">.</span><span class="na">size</span><span class="p">(),</span><span class="w"> </span><span class="n">exception</span><span class="p">.</span><span class="na">getMessage</span><span class="p">());</span>
+<span class="w">    </span><span class="p">}</span>
+<span class="p">}</span>
+</code></pre></div>
+
+<h3 id="注册到-Step_2">注册到 Step</h3>
+<div class="codehilite lang-java"><pre><span></span><code><span class="p">.</span><span class="na">listener</span><span class="p">(</span><span class="n">Optional</span><span class="p">.</span><span class="na">ofNullable</span><span class="p">(</span><span class="n">itemLoggingListener</span><span class="p">))</span><span class="w"> </span>
+</code></pre></div>
+
+<blockquote>
+<p>[!NOTE]
+Item 级别监听器的触发频率非常高（每条数据都会触发），建议只在 DEBUG 级别记录详细日志，避免影响性能。</p>
+</blockquote>
+<h2 id="实战图书管理系统定时统计任务">实战：图书管理系统定时统计任务</h2>
+<h3 id="需求">需求</h3>
+<p>为图书管理系统实现一个定时统计任务：
+1. 每天凌晨 2 点执行
+2. 统计图书销量并生成报表
+3. 添加监听器记录执行过程
+4. 失败时发送告警</p>
+<h3 id="实现步骤">实现步骤</h3>
+<p><strong>步骤一：创建统计任务数据模型</strong></p>
+<div class="codehilite lang-java"><pre><span></span><code><span class="kn">package</span><span class="w"> </span><span class="nn">com.example.bookmanager.model</span><span class="p">;</span>
+
+<span class="nd">@Data</span>
+<span class="kd">public</span><span class="w"> </span><span class="kd">class</span> <span class="nc">BatchBookStatistics</span><span class="w"> </span><span class="p">{</span>
+<span class="w">    </span><span class="kd">private</span><span class="w"> </span><span class="n">String</span><span class="w"> </span><span class="n">category</span><span class="p">;</span>
+<span class="w">    </span><span class="kd">private</span><span class="w"> </span><span class="n">Long</span><span class="w"> </span><span class="n">bookCount</span><span class="p">;</span>
+<span class="w">    </span><span class="kd">private</span><span class="w"> </span><span class="n">Long</span><span class="w"> </span><span class="n">totalStock</span><span class="p">;</span>
+<span class="w">    </span><span class="kd">private</span><span class="w"> </span><span class="n">Double</span><span class="w"> </span><span class="n">avgPrice</span><span class="p">;</span>
+<span class="p">}</span>
+</code></pre></div>
+
+<p><strong>步骤二：创建统计任务 Job 配置</strong></p>
+<div class="codehilite lang-java"><pre><span></span><code><span class="nd">@Configuration</span>
+<span class="kd">public</span><span class="w"> </span><span class="kd">class</span> <span class="nc">BookStatisticsJobConfig</span><span class="w"> </span><span class="p">{</span>
+
+<span class="w">    </span><span class="cm">/**</span>
+<span class="cm">     * 统计结果的 RowMapper</span>
+<span class="cm">     */</span>
+<span class="w">    </span><span class="kd">private</span><span class="w"> </span><span class="kd">final</span><span class="w"> </span><span class="n">RowMapper</span><span class="o">&lt;</span><span class="n">BatchBookStatistics</span><span class="o">&gt;</span><span class="w"> </span><span class="n">statisticsRowMapper</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="p">(</span><span class="n">rs</span><span class="p">,</span><span class="w"> </span><span class="n">rowNum</span><span class="p">)</span><span class="w"> </span><span class="o">-&gt;</span><span class="w"> </span><span class="p">{</span>
+<span class="w">        </span><span class="n">BatchBookStatistics</span><span class="w"> </span><span class="n">stats</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="k">new</span><span class="w"> </span><span class="n">BatchBookStatistics</span><span class="p">();</span>
+<span class="w">        </span><span class="n">stats</span><span class="p">.</span><span class="na">setCategory</span><span class="p">(</span><span class="n">rs</span><span class="p">.</span><span class="na">getString</span><span class="p">(</span><span class="s">"category"</span><span class="p">));</span>
+<span class="w">        </span><span class="n">stats</span><span class="p">.</span><span class="na">setBookCount</span><span class="p">(</span><span class="n">rs</span><span class="p">.</span><span class="na">getLong</span><span class="p">(</span><span class="s">"book_count"</span><span class="p">));</span>
+<span class="w">        </span><span class="n">stats</span><span class="p">.</span><span class="na">setTotalStock</span><span class="p">(</span><span class="n">rs</span><span class="p">.</span><span class="na">getLong</span><span class="p">(</span><span class="s">"total_stock"</span><span class="p">));</span>
+<span class="w">        </span><span class="n">stats</span><span class="p">.</span><span class="na">setAvgPrice</span><span class="p">(</span><span class="n">rs</span><span class="p">.</span><span class="na">getDouble</span><span class="p">(</span><span class="s">"avg_price"</span><span class="p">));</span>
+<span class="w">        </span><span class="k">return</span><span class="w"> </span><span class="n">stats</span><span class="p">;</span>
+<span class="w">    </span><span class="p">};</span>
+
+<span class="w">    </span><span class="cm">/**</span>
+<span class="cm">     * ItemReader：按分类统计图书</span>
+<span class="cm">     */</span>
+<span class="w">    </span><span class="nd">@Bean</span>
+<span class="w">    </span><span class="kd">public</span><span class="w"> </span><span class="n">JdbcPagingItemReader</span><span class="o">&lt;</span><span class="n">BatchBookStatistics</span><span class="o">&gt;</span><span class="w"> </span><span class="nf">statisticsReader</span><span class="p">(</span><span class="n">DataSource</span><span class="w"> </span><span class="n">dataSource</span><span class="p">)</span><span class="w"> </span><span class="p">{</span>
+<span class="w">        </span><span class="n">Map</span><span class="o">&lt;</span><span class="n">String</span><span class="p">,</span><span class="w"> </span><span class="n">Order</span><span class="o">&gt;</span><span class="w"> </span><span class="n">sortKeys</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="k">new</span><span class="w"> </span><span class="n">HashMap</span><span class="o">&lt;&gt;</span><span class="p">();</span>
+<span class="w">        </span><span class="n">sortKeys</span><span class="p">.</span><span class="na">put</span><span class="p">(</span><span class="s">"category"</span><span class="p">,</span><span class="w"> </span><span class="n">Order</span><span class="p">.</span><span class="na">ASCENDING</span><span class="p">);</span>
+
+<span class="w">        </span><span class="k">return</span><span class="w"> </span><span class="k">new</span><span class="w"> </span><span class="n">JdbcPagingItemReaderBuilder</span><span class="o">&lt;</span><span class="n">BatchBookStatistics</span><span class="o">&gt;</span><span class="p">()</span>
+<span class="w">                </span><span class="p">.</span><span class="na">name</span><span class="p">(</span><span class="s">"statisticsReader"</span><span class="p">)</span>
+<span class="w">                </span><span class="p">.</span><span class="na">dataSource</span><span class="p">(</span><span class="n">dataSource</span><span class="p">)</span>
+<span class="w">                </span><span class="p">.</span><span class="na">selectClause</span><span class="p">(</span><span class="s">"SELECT category, COUNT(*) AS book_count, "</span><span class="w"> </span><span class="o">+</span>
+<span class="w">                        </span><span class="s">"SUM(stock) AS total_stock, AVG(price) AS avg_price"</span><span class="p">)</span>
+<span class="w">                </span><span class="p">.</span><span class="na">fromClause</span><span class="p">(</span><span class="s">"FROM book"</span><span class="p">)</span>
+<span class="w">                </span><span class="p">.</span><span class="na">groupClause</span><span class="p">(</span><span class="s">"GROUP BY category"</span><span class="p">)</span>
+<span class="w">                </span><span class="p">.</span><span class="na">sortKeys</span><span class="p">(</span><span class="n">sortKeys</span><span class="p">)</span>
+<span class="w">                </span><span class="p">.</span><span class="na">rowMapper</span><span class="p">(</span><span class="n">statisticsRowMapper</span><span class="p">)</span>
+<span class="w">                </span><span class="p">.</span><span class="na">pageSize</span><span class="p">(</span><span class="mi">10</span><span class="p">)</span>
+<span class="w">                </span><span class="p">.</span><span class="na">build</span><span class="p">();</span>
+<span class="w">    </span><span class="p">}</span>
+
+<span class="w">    </span><span class="cm">/**</span>
+<span class="cm">     * ItemWriter：将统计结果写入统计表</span>
+<span class="cm">     */</span>
+<span class="w">    </span><span class="nd">@Bean</span>
+<span class="w">    </span><span class="kd">public</span><span class="w"> </span><span class="n">ItemWriter</span><span class="o">&lt;</span><span class="n">BatchBookStatistics</span><span class="o">&gt;</span><span class="w"> </span><span class="nf">statisticsWriter</span><span class="p">(</span><span class="n">DataSource</span><span class="w"> </span><span class="n">dataSource</span><span class="p">)</span><span class="w"> </span><span class="p">{</span>
+<span class="w">        </span><span class="n">JdbcTemplate</span><span class="w"> </span><span class="n">jdbcTemplate</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="k">new</span><span class="w"> </span><span class="n">JdbcTemplate</span><span class="p">(</span><span class="n">dataSource</span><span class="p">);</span>
+<span class="w">        </span><span class="k">return</span><span class="w"> </span><span class="n">items</span><span class="w"> </span><span class="o">-&gt;</span><span class="w"> </span><span class="p">{</span>
+<span class="w">            </span><span class="k">for</span><span class="w"> </span><span class="p">(</span><span class="n">BatchBookStatistics</span><span class="w"> </span><span class="n">stats</span><span class="w"> </span><span class="p">:</span><span class="w"> </span><span class="n">items</span><span class="p">)</span><span class="w"> </span><span class="p">{</span>
+<span class="w">                </span><span class="n">jdbcTemplate</span><span class="p">.</span><span class="na">update</span><span class="p">(</span>
+<span class="w">                        </span><span class="s">"INSERT INTO book_statistics "</span><span class="w"> </span><span class="o">+</span>
+<span class="w">                                </span><span class="s">"(category, book_count, total_stock, avg_price, stat_date) "</span><span class="w"> </span><span class="o">+</span>
+<span class="w">                                </span><span class="s">"VALUES (?, ?, ?, ?, CURRENT_DATE)"</span><span class="p">,</span>
+<span class="w">                        </span><span class="n">stats</span><span class="p">.</span><span class="na">getCategory</span><span class="p">(),</span>
+<span class="w">                        </span><span class="n">stats</span><span class="p">.</span><span class="na">getBookCount</span><span class="p">(),</span>
+<span class="w">                        </span><span class="n">stats</span><span class="p">.</span><span class="na">getTotalStock</span><span class="p">(),</span>
+<span class="w">                        </span><span class="n">stats</span><span class="p">.</span><span class="na">getAvgPrice</span><span class="p">()</span>
+<span class="w">                </span><span class="p">);</span>
+<span class="w">            </span><span class="p">}</span>
+<span class="w">            </span><span class="n">System</span><span class="p">.</span><span class="na">out</span><span class="p">.</span><span class="na">println</span><span class="p">(</span><span class="s">"写入 "</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="n">items</span><span class="p">.</span><span class="na">size</span><span class="p">()</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="s">" 条统计数据"</span><span class="p">);</span>
+<span class="w">        </span><span class="p">};</span>
+<span class="w">    </span><span class="p">}</span>
+
+<span class="w">    </span><span class="cm">/**</span>
+<span class="cm">     * 统计 Step</span>
+<span class="cm">     */</span>
+<span class="w">    </span><span class="nd">@Bean</span>
+<span class="w">    </span><span class="kd">public</span><span class="w"> </span><span class="n">Step</span><span class="w"> </span><span class="nf">statisticsStep</span><span class="p">(</span><span class="n">JobRepository</span><span class="w"> </span><span class="n">jobRepository</span><span class="p">,</span>
+<span class="w">                               </span><span class="n">PlatformTransactionManager</span><span class="w"> </span><span class="n">transactionManager</span><span class="p">,</span>
+<span class="w">                               </span><span class="n">ItemReader</span><span class="o">&lt;</span><span class="n">BatchBookStatistics</span><span class="o">&gt;</span><span class="w"> </span><span class="n">statisticsReader</span><span class="p">,</span>
+<span class="w">                               </span><span class="n">ItemWriter</span><span class="o">&lt;</span><span class="n">BatchBookStatistics</span><span class="o">&gt;</span><span class="w"> </span><span class="n">statisticsWriter</span><span class="p">,</span>
+<span class="w">                               </span><span class="n">StepLoggingListener</span><span class="w"> </span><span class="n">stepLoggingListener</span><span class="p">)</span><span class="w"> </span><span class="p">{</span>
+<span class="w">        </span><span class="k">return</span><span class="w"> </span><span class="k">new</span><span class="w"> </span><span class="n">StepBuilder</span><span class="p">(</span><span class="s">"statisticsStep"</span><span class="p">,</span><span class="w"> </span><span class="n">jobRepository</span><span class="p">)</span>
+<span class="w">                </span><span class="p">.</span><span class="o">&lt;</span><span class="n">BatchBookStatistics</span><span class="p">,</span><span class="w"> </span><span class="n">BatchBookStatistics</span><span class="o">&gt;</span><span class="n">chunk</span><span class="p">(</span><span class="mi">5</span><span class="p">,</span><span class="w"> </span><span class="n">transactionManager</span><span class="p">)</span>
+<span class="w">                </span><span class="p">.</span><span class="na">reader</span><span class="p">(</span><span class="n">statisticsReader</span><span class="p">)</span>
+<span class="w">                </span><span class="p">.</span><span class="na">writer</span><span class="p">(</span><span class="n">statisticsWriter</span><span class="p">)</span>
+<span class="w">                </span><span class="p">.</span><span class="na">listener</span><span class="p">(</span><span class="n">stepLoggingListener</span><span class="p">)</span>
+<span class="w">                </span><span class="p">.</span><span class="na">build</span><span class="p">();</span>
+<span class="w">    </span><span class="p">}</span>
+
+<span class="w">    </span><span class="cm">/**</span>
+<span class="cm">     * 统计 Job</span>
+<span class="cm">     */</span>
+<span class="w">    </span><span class="nd">@Bean</span>
+<span class="w">    </span><span class="kd">public</span><span class="w"> </span><span class="n">Job</span><span class="w"> </span><span class="nf">statisticsJob</span><span class="p">(</span><span class="n">JobRepository</span><span class="w"> </span><span class="n">jobRepository</span><span class="p">,</span>
+<span class="w">                             </span><span class="n">Step</span><span class="w"> </span><span class="n">statisticsStep</span><span class="p">,</span>
+<span class="w">                             </span><span class="n">JobLoggingListener</span><span class="w"> </span><span class="n">jobLoggingListener</span><span class="p">)</span><span class="w"> </span><span class="p">{</span>
+<span class="w">        </span><span class="k">return</span><span class="w"> </span><span class="k">new</span><span class="w"> </span><span class="n">JobBuilder</span><span class="p">(</span><span class="s">"statisticsJob"</span><span class="p">,</span><span class="w"> </span><span class="n">jobRepository</span><span class="p">)</span>
+<span class="w">                </span><span class="p">.</span><span class="na">start</span><span class="p">(</span><span class="n">statisticsStep</span><span class="p">)</span>
+<span class="w">                </span><span class="p">.</span><span class="na">listener</span><span class="p">(</span><span class="n">jobLoggingListener</span><span class="p">)</span>
+<span class="w">                </span><span class="p">.</span><span class="na">build</span><span class="p">();</span>
+<span class="w">    </span><span class="p">}</span>
+<span class="p">}</span>
+</code></pre></div>
+
+<p><strong>步骤三：创建统计表</strong></p>
+<div class="codehilite lang-sql"><pre><span></span><code><span class="k">CREATE</span><span class="w"> </span><span class="k">TABLE</span><span class="w"> </span><span class="k">IF</span><span class="w"> </span><span class="k">NOT</span><span class="w"> </span><span class="k">EXISTS</span><span class="w"> </span><span class="n">book_statistics</span><span class="w"> </span><span class="p">(</span>
+<span class="w">    </span><span class="n">id</span><span class="w"> </span><span class="n">BIGSERIAL</span><span class="w"> </span><span class="k">PRIMARY</span><span class="w"> </span><span class="k">KEY</span><span class="p">,</span>
+<span class="w">    </span><span class="n">category</span><span class="w"> </span><span class="nb">VARCHAR</span><span class="p">(</span><span class="mi">20</span><span class="p">),</span>
+<span class="w">    </span><span class="n">book_count</span><span class="w"> </span><span class="nb">BIGINT</span><span class="p">,</span>
+<span class="w">    </span><span class="n">total_stock</span><span class="w"> </span><span class="nb">BIGINT</span><span class="p">,</span>
+<span class="w">    </span><span class="n">avg_price</span><span class="w"> </span><span class="nb">NUMERIC</span><span class="p">(</span><span class="mi">10</span><span class="p">,</span><span class="w"> </span><span class="mi">2</span><span class="p">),</span>
+<span class="w">    </span><span class="n">stat_date</span><span class="w"> </span><span class="nb">DATE</span><span class="p">,</span>
+<span class="w">    </span><span class="n">created_at</span><span class="w"> </span><span class="k">TIMESTAMP</span><span class="w"> </span><span class="k">DEFAULT</span><span class="w"> </span><span class="k">CURRENT_TIMESTAMP</span>
+<span class="p">);</span>
+</code></pre></div>
+
+<p><strong>步骤四：通过 @Scheduled 定时执行</strong></p>
+<div class="codehilite lang-java"><pre><span></span><code><span class="nd">@Component</span>
+<span class="kd">public</span><span class="w"> </span><span class="kd">class</span> <span class="nc">StatisticsJobScheduler</span><span class="w"> </span><span class="p">{</span>
+
+<span class="w">    </span><span class="kd">private</span><span class="w"> </span><span class="kd">static</span><span class="w"> </span><span class="kd">final</span><span class="w"> </span><span class="n">Logger</span><span class="w"> </span><span class="n">logger</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">LoggerFactory</span><span class="p">.</span><span class="na">getLogger</span><span class="p">(</span><span class="n">StatisticsJobScheduler</span><span class="p">.</span><span class="na">class</span><span class="p">);</span>
+
+<span class="w">    </span><span class="kd">private</span><span class="w"> </span><span class="kd">final</span><span class="w"> </span><span class="n">JobLauncher</span><span class="w"> </span><span class="n">jobLauncher</span><span class="p">;</span>
+<span class="w">    </span><span class="kd">private</span><span class="w"> </span><span class="kd">final</span><span class="w"> </span><span class="n">Job</span><span class="w"> </span><span class="n">statisticsJob</span><span class="p">;</span>
+
+<span class="w">    </span><span class="kd">public</span><span class="w"> </span><span class="nf">StatisticsJobScheduler</span><span class="p">(</span><span class="n">JobLauncher</span><span class="w"> </span><span class="n">jobLauncher</span><span class="p">,</span>
+<span class="w">                                  </span><span class="nd">@Qualifier</span><span class="p">(</span><span class="s">"statisticsJob"</span><span class="p">)</span><span class="w"> </span><span class="n">Job</span><span class="w"> </span><span class="n">statisticsJob</span><span class="p">)</span><span class="w"> </span><span class="p">{</span>
+<span class="w">        </span><span class="k">this</span><span class="p">.</span><span class="na">jobLauncher</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">jobLauncher</span><span class="p">;</span>
+<span class="w">        </span><span class="k">this</span><span class="p">.</span><span class="na">statisticsJob</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">statisticsJob</span><span class="p">;</span>
+<span class="w">    </span><span class="p">}</span>
+
+<span class="w">    </span><span class="cm">/**</span>
+<span class="cm">     * 每天凌晨 2 点执行统计任务</span>
+<span class="cm">     */</span>
+<span class="w">    </span><span class="nd">@Scheduled</span><span class="p">(</span><span class="n">cron</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s">"0 0 2 * * ?"</span><span class="p">)</span>
+<span class="w">    </span><span class="kd">public</span><span class="w"> </span><span class="kt">void</span><span class="w"> </span><span class="nf">runStatisticsJob</span><span class="p">()</span><span class="w"> </span><span class="p">{</span>
+<span class="w">        </span><span class="n">logger</span><span class="p">.</span><span class="na">info</span><span class="p">(</span><span class="s">"定时触发统计任务"</span><span class="p">);</span>
+
+<span class="w">        </span><span class="k">try</span><span class="w"> </span><span class="p">{</span>
+<span class="w">            </span><span class="n">JobParameters</span><span class="w"> </span><span class="n">params</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="k">new</span><span class="w"> </span><span class="n">JobParametersBuilder</span><span class="p">()</span>
+<span class="w">                    </span><span class="p">.</span><span class="na">addLong</span><span class="p">(</span><span class="s">"timestamp"</span><span class="p">,</span><span class="w"> </span><span class="n">System</span><span class="p">.</span><span class="na">currentTimeMillis</span><span class="p">())</span>
+<span class="w">                    </span><span class="p">.</span><span class="na">toJobParameters</span><span class="p">();</span>
+
+<span class="w">            </span><span class="n">jobLauncher</span><span class="p">.</span><span class="na">run</span><span class="p">(</span><span class="n">statisticsJob</span><span class="p">,</span><span class="w"> </span><span class="n">params</span><span class="p">);</span>
+<span class="w">        </span><span class="p">}</span><span class="w"> </span><span class="k">catch</span><span class="w"> </span><span class="p">(</span><span class="n">Exception</span><span class="w"> </span><span class="n">e</span><span class="p">)</span><span class="w"> </span><span class="p">{</span>
+<span class="w">            </span><span class="n">logger</span><span class="p">.</span><span class="na">error</span><span class="p">(</span><span class="s">"统计任务执行失败"</span><span class="p">,</span><span class="w"> </span><span class="n">e</span><span class="p">);</span>
+<span class="w">            </span><span class="c1">// 可以在这里发送告警</span>
+<span class="w">        </span><span class="p">}</span>
+<span class="w">    </span><span class="p">}</span>
+<span class="p">}</span>
+</code></pre></div>
+
+<p><strong>步骤五：启用调度</strong></p>
+<div class="codehilite lang-java"><pre><span></span><code><span class="nd">@SpringBootApplication</span>
+<span class="nd">@EnableScheduling</span><span class="w">   </span><span class="c1">// 启用定时任务</span>
+<span class="nd">@EnableBatchProcessing</span>
+<span class="kd">public</span><span class="w"> </span><span class="kd">class</span> <span class="nc">BookManagerApplication</span><span class="w"> </span><span class="p">{</span>
+<span class="w">    </span><span class="kd">public</span><span class="w"> </span><span class="kd">static</span><span class="w"> </span><span class="kt">void</span><span class="w"> </span><span class="nf">main</span><span class="p">(</span><span class="n">String</span><span class="o">[]</span><span class="w"> </span><span class="n">args</span><span class="p">)</span><span class="w"> </span><span class="p">{</span>
+<span class="w">        </span><span class="n">SpringApplication</span><span class="p">.</span><span class="na">run</span><span class="p">(</span><span class="n">BookManagerApplication</span><span class="p">.</span><span class="na">class</span><span class="p">,</span><span class="w"> </span><span class="n">args</span><span class="p">);</span>
+<span class="w">    </span><span class="p">}</span>
+<span class="p">}</span>
+</code></pre></div>
+
+<p><strong>步骤六：手动触发接口（用于测试）</strong></p>
+<div class="codehilite lang-java"><pre><span></span><code><span class="nd">@RestController</span>
+<span class="nd">@RequestMapping</span><span class="p">(</span><span class="s">"/api/batch"</span><span class="p">)</span>
+<span class="kd">public</span><span class="w"> </span><span class="kd">class</span> <span class="nc">StatisticsBatchController</span><span class="w"> </span><span class="p">{</span>
+
+<span class="w">    </span><span class="kd">private</span><span class="w"> </span><span class="kd">final</span><span class="w"> </span><span class="n">JobLauncher</span><span class="w"> </span><span class="n">jobLauncher</span><span class="p">;</span>
+<span class="w">    </span><span class="kd">private</span><span class="w"> </span><span class="kd">final</span><span class="w"> </span><span class="n">Job</span><span class="w"> </span><span class="n">statisticsJob</span><span class="p">;</span>
+
+<span class="w">    </span><span class="kd">public</span><span class="w"> </span><span class="nf">StatisticsBatchController</span><span class="p">(</span><span class="n">JobLauncher</span><span class="w"> </span><span class="n">jobLauncher</span><span class="p">,</span>
+<span class="w">                                     </span><span class="nd">@Qualifier</span><span class="p">(</span><span class="s">"statisticsJob"</span><span class="p">)</span><span class="w"> </span><span class="n">Job</span><span class="w"> </span><span class="n">statisticsJob</span><span class="p">)</span><span class="w"> </span><span class="p">{</span>
+<span class="w">        </span><span class="k">this</span><span class="p">.</span><span class="na">jobLauncher</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">jobLauncher</span><span class="p">;</span>
+<span class="w">        </span><span class="k">this</span><span class="p">.</span><span class="na">statisticsJob</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">statisticsJob</span><span class="p">;</span>
+<span class="w">    </span><span class="p">}</span>
+
+<span class="w">    </span><span class="nd">@PostMapping</span><span class="p">(</span><span class="s">"/statistics"</span><span class="p">)</span>
+<span class="w">    </span><span class="kd">public</span><span class="w"> </span><span class="n">Result</span><span class="o">&lt;</span><span class="n">String</span><span class="o">&gt;</span><span class="w"> </span><span class="nf">runStatistics</span><span class="p">()</span><span class="w"> </span><span class="kd">throws</span><span class="w"> </span><span class="n">Exception</span><span class="w"> </span><span class="p">{</span>
+<span class="w">        </span><span class="n">JobParameters</span><span class="w"> </span><span class="n">params</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="k">new</span><span class="w"> </span><span class="n">JobParametersBuilder</span><span class="p">()</span>
+<span class="w">                </span><span class="p">.</span><span class="na">addLong</span><span class="p">(</span><span class="s">"timestamp"</span><span class="p">,</span><span class="w"> </span><span class="n">System</span><span class="p">.</span><span class="na">currentTimeMillis</span><span class="p">())</span>
+<span class="w">                </span><span class="p">.</span><span class="na">toJobParameters</span><span class="p">();</span>
+<span class="w">        </span><span class="n">jobLauncher</span><span class="p">.</span><span class="na">run</span><span class="p">(</span><span class="n">statisticsJob</span><span class="p">,</span><span class="w"> </span><span class="n">params</span><span class="p">);</span>
+<span class="w">        </span><span class="k">return</span><span class="w"> </span><span class="n">Result</span><span class="p">.</span><span class="na">success</span><span class="p">(</span><span class="s">"统计任务已启动"</span><span class="p">);</span>
+<span class="w">    </span><span class="p">}</span>
+<span class="p">}</span>
+</code></pre></div>
+
+<p><strong>步骤七：运行并观察日志</strong></p>
+<div class="codehilite lang-bash"><pre><span></span><code>curl<span class="w"> </span>-X<span class="w"> </span>POST<span class="w"> </span><span class="s2">"http://localhost:8080/api/batch/statistics"</span>
+</code></pre></div>
+
+<p><strong>完整执行日志：</strong></p>
+<div class="codehilite"><pre><span></span><code>========== 作业开始 ==========
+作业名称: statisticsJob
+执行ID: 1
+开始时间: 2026-09-23 10:30:00
+作业参数: {timestamp=1727000000000}
+
+---------- 步骤开始 ----------
+步骤名称: statisticsStep
+执行ID: 1
+
+写入 3 条统计数据
+写入 2 条统计数据
+
+---------- 步骤结束 ----------
+步骤名称: statisticsStep
+状态: COMPLETED
+读取数量: 5
+过滤数量: 0
+写入数量: 5
+提交次数: 2
+回滚次数: 0
+耗时: 1200ms
+
+========== 作业结束 ==========
+作业名称: statisticsJob
+执行状态: COMPLETED
+退出码: COMPLETED
+耗时: 1500ms
+结束时间: 2026-09-23 10:30:02
+</code></pre></div>
+
+<p><strong>查询统计结果：</strong></p>
+<div class="codehilite lang-sql"><pre><span></span><code><span class="k">SELECT</span><span class="w"> </span><span class="o">*</span><span class="w"> </span><span class="k">FROM</span><span class="w"> </span><span class="n">book_statistics</span><span class="p">;</span>
+<span class="c1">-- 编程 | 3 | 23 | 99.00 | 2026-09-23</span>
+<span class="c1">-- 小说 | 1 | 6 | 55.00 | 2026-09-23</span>
+<span class="c1">-- 科学 | 1 | 4 | 45.00 | 2026-09-23</span>
+</code></pre></div>
+
+<h2 id="监听器组合实战">监听器组合实战</h2>
+<h3 id="综合监听器配置">综合监听器配置</h3>
+<p>将 Job、Step、Chunk、Item 监听器整合到一个 Step 中：</p>
+<div class="codehilite lang-java"><pre><span></span><code><span class="nd">@Bean</span>
+<span class="kd">public</span><span class="w"> </span><span class="n">Step</span><span class="w"> </span><span class="nf">fullListenerStep</span><span class="p">(</span><span class="n">JobRepository</span><span class="w"> </span><span class="n">jobRepository</span><span class="p">,</span>
+<span class="w">                                 </span><span class="n">PlatformTransactionManager</span><span class="w"> </span><span class="n">transactionManager</span><span class="p">,</span>
+<span class="w">                                 </span><span class="n">ItemReader</span><span class="o">&lt;</span><span class="n">BatchBookStatistics</span><span class="o">&gt;</span><span class="w"> </span><span class="n">reader</span><span class="p">,</span>
+<span class="w">                                 </span><span class="n">ItemWriter</span><span class="o">&lt;</span><span class="n">BatchBookStatistics</span><span class="o">&gt;</span><span class="w"> </span><span class="n">writer</span><span class="p">,</span>
+<span class="w">                                 </span><span class="n">StepLoggingListener</span><span class="w"> </span><span class="n">stepLoggingListener</span><span class="p">,</span>
+<span class="w">                                 </span><span class="n">ChunkLoggingListener</span><span class="w"> </span><span class="n">chunkLoggingListener</span><span class="p">,</span>
+<span class="w">                                 </span><span class="n">ItemLoggingListener</span><span class="w"> </span><span class="n">itemLoggingListener</span><span class="p">,</span>
+<span class="w">                                 </span><span class="n">BookSkipListener</span><span class="w"> </span><span class="n">bookSkipListener</span><span class="p">)</span><span class="w"> </span><span class="p">{</span>
+<span class="w">        </span><span class="k">return</span><span class="w"> </span><span class="k">new</span><span class="w"> </span><span class="n">StepBuilder</span><span class="p">(</span><span class="s">"fullListenerStep"</span><span class="p">,</span><span class="w"> </span><span class="n">jobRepository</span><span class="p">)</span>
+<span class="w">                </span><span class="p">.</span><span class="o">&lt;</span><span class="n">BatchBookStatistics</span><span class="p">,</span><span class="w"> </span><span class="n">BatchBookStatistics</span><span class="o">&gt;</span><span class="n">chunk</span><span class="p">(</span><span class="mi">3</span><span class="p">,</span><span class="w"> </span><span class="n">transactionManager</span><span class="p">)</span>
+<span class="w">                </span><span class="p">.</span><span class="na">reader</span><span class="p">(</span><span class="n">reader</span><span class="p">)</span>
+<span class="w">                </span><span class="p">.</span><span class="na">writer</span><span class="p">(</span><span class="n">writer</span><span class="p">)</span>
+<span class="w">                </span><span class="p">.</span><span class="na">faultTolerant</span><span class="p">()</span>
+<span class="w">                </span><span class="p">.</span><span class="na">skipLimit</span><span class="p">(</span><span class="mi">5</span><span class="p">)</span>
+<span class="w">                </span><span class="p">.</span><span class="na">skip</span><span class="p">(</span><span class="n">IllegalArgumentException</span><span class="p">.</span><span class="na">class</span><span class="p">)</span>
+<span class="w">                </span><span class="c1">// 注册所有监听器</span>
+<span class="w">                </span><span class="p">.</span><span class="na">listener</span><span class="p">(</span><span class="n">stepLoggingListener</span><span class="p">)</span>
+<span class="w">                </span><span class="p">.</span><span class="na">listener</span><span class="p">(</span><span class="n">chunkLoggingListener</span><span class="p">)</span>
+<span class="w">                </span><span class="p">.</span><span class="na">listener</span><span class="p">(</span><span class="n">itemLoggingListener</span><span class="p">)</span>
+<span class="w">                </span><span class="p">.</span><span class="na">listener</span><span class="p">(</span><span class="n">bookSkipListener</span><span class="p">)</span>
+<span class="w">                </span><span class="p">.</span><span class="na">build</span><span class="p">();</span>
+<span class="p">}</span>
+</code></pre></div>
+
+<h3 id="监听器执行顺序">监听器执行顺序</h3>
+<div class="codehilite lang-mermaid"><pre><span></span><code>sequenceDiagram
+    participant Job as Job
+    participant Step as Step
+    participant Chunk as Chunk
+    participant Item as Item
+    participant Listener as 监听器
+
+    Job-&gt;&gt;Listener: JobExecutionListener.beforeJob()
+    Job-&gt;&gt;Step: 开始
+    Step-&gt;&gt;Listener: StepExecutionListener.beforeStep()
+    loop 每个 Chunk
+        Step-&gt;&gt;Listener: ChunkListener.beforeChunk()
+        loop 每个 Item
+            Step-&gt;&gt;Listener: ItemReadListener.beforeRead()
+            Step-&gt;&gt;Listener: ItemReadListener.afterRead()
+            Step-&gt;&gt;Listener: ItemProcessListener.beforeProcess()
+            Step-&gt;&gt;Listener: ItemProcessListener.afterProcess()
+        end
+        Step-&gt;&gt;Listener: ItemWriteListener.beforeWrite()
+        Step-&gt;&gt;Listener: ItemWriteListener.afterWrite()
+        Step-&gt;&gt;Listener: ChunkListener.afterChunk()
+    end
+    Step-&gt;&gt;Listener: StepExecutionListener.afterStep()
+    Job-&gt;&gt;Listener: JobExecutionListener.afterJob()
+</code></pre></div>
+
+<h2 id="注意事项">注意事项</h2>
+<h3 id="1-监听器的日志级别">1. 监听器的日志级别</h3>
+<table>
+<thead>
+<tr>
+<th>监听器</th>
+<th>建议日志级别</th>
+<th>原因</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Job 监听器</td>
+<td>INFO</td>
+<td>触发频率低</td>
+</tr>
+<tr>
+<td>Step 监听器</td>
+<td>INFO</td>
+<td>触发频率低</td>
+</tr>
+<tr>
+<td>Chunk 监听器</td>
+<td>DEBUG</td>
+<td>每个 Chunk 一次</td>
+</tr>
+<tr>
+<td>Item 监听器</td>
+<td>DEBUG</td>
+<td>每条数据都触发</td>
+</tr>
+</tbody>
+</table>
+<blockquote>
+<p>[!CAUTION]
+Item 级监听器如果使用 INFO 级别，大数据量下会产生海量日志，严重影响性能。</p>
+</blockquote>
+<h3 id="2-监听器中的异常">2. 监听器中的异常</h3>
+<p>监听器抛出的异常会影响作业执行：
+- <code>beforeJob</code>/<code>beforeStep</code> 抛出异常 → 作业/步骤不执行
+- <code>afterJob</code>/<code>afterStep</code> 抛出异常 → 作业状态变为 FAILED（即使任务本身成功）</p>
+<h3 id="3-监听器的执行顺序">3. 监听器的执行顺序</h3>
+<ul>
+<li>多个相同类型的监听器按注册顺序执行</li>
+<li>可以通过 <code>@Order</code> 注解控制顺序（Spring Batch 4.2+）</li>
+</ul>
+<h3 id="4-Scheduled-与-Spring-Batch-结合">4. @Scheduled 与 Spring Batch 结合</h3>
+<table>
+<thead>
+<tr>
+<th>注意点</th>
+<th>说明</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>唯一参数</strong></td>
+<td>每次执行必须提供唯一的 JobParameters（如时间戳）</td>
+</tr>
+<tr>
+<td><strong>异常处理</strong></td>
+<td>使用 try-catch 捕获异常，避免调度器中断</td>
+</tr>
+<tr>
+<td><strong>避免重叠</strong></td>
+<td>长任务可能导致下次调度时上次未完成</td>
+</tr>
+<tr>
+<td><strong>日志记录</strong></td>
+<td>记录调度触发和执行结果</td>
+</tr>
+</tbody>
+</table>
+<h3 id="5-避免重复执行">5. 避免重复执行</h3>
+<div class="codehilite lang-java"><pre><span></span><code><span class="c1">// 错误：固定的参数会导致重复执行被拒绝</span>
+<span class="n">JobParameters</span><span class="w"> </span><span class="n">params</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="k">new</span><span class="w"> </span><span class="n">JobParametersBuilder</span><span class="p">()</span>
+<span class="w">        </span><span class="p">.</span><span class="na">addString</span><span class="p">(</span><span class="s">"date"</span><span class="p">,</span><span class="w"> </span><span class="s">"2026-09-23"</span><span class="p">)</span>
+<span class="w">        </span><span class="p">.</span><span class="na">toJobParameters</span><span class="p">();</span>
+
+<span class="c1">// 正确：添加时间戳确保唯一</span>
+<span class="n">JobParameters</span><span class="w"> </span><span class="n">params</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="k">new</span><span class="w"> </span><span class="n">JobParametersBuilder</span><span class="p">()</span>
+<span class="w">        </span><span class="p">.</span><span class="na">addString</span><span class="p">(</span><span class="s">"date"</span><span class="p">,</span><span class="w"> </span><span class="s">"2026-09-23"</span><span class="p">)</span>
+<span class="w">        </span><span class="p">.</span><span class="na">addLong</span><span class="p">(</span><span class="s">"timestamp"</span><span class="p">,</span><span class="w"> </span><span class="n">System</span><span class="p">.</span><span class="na">currentTimeMillis</span><span class="p">())</span>
+<span class="w">        </span><span class="p">.</span><span class="na">toJobParameters</span><span class="p">();</span>
+</code></pre></div>
+
+<h3 id="6-告警通知">6. 告警通知</h3>
+<p>在 <code>afterJob</code> 中检查作业状态，失败时发送通知：</p>
+<div class="codehilite lang-java"><pre><span></span><code><span class="nd">@Override</span>
+<span class="kd">public</span><span class="w"> </span><span class="kt">void</span><span class="w"> </span><span class="nf">afterJob</span><span class="p">(</span><span class="n">JobExecution</span><span class="w"> </span><span class="n">jobExecution</span><span class="p">)</span><span class="w"> </span><span class="p">{</span>
+<span class="w">    </span><span class="k">if</span><span class="w"> </span><span class="p">(</span><span class="n">jobExecution</span><span class="p">.</span><span class="na">getStatus</span><span class="p">()</span><span class="w"> </span><span class="o">==</span><span class="w"> </span><span class="n">BatchStatus</span><span class="p">.</span><span class="na">FAILED</span><span class="p">)</span><span class="w"> </span><span class="p">{</span>
+<span class="w">        </span><span class="c1">// 发送邮件、钉钉、企业微信告警</span>
+<span class="w">        </span><span class="n">alertService</span><span class="p">.</span><span class="na">sendAlert</span><span class="p">(</span>
+<span class="w">            </span><span class="s">"批处理作业失败: "</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="n">jobExecution</span><span class="p">.</span><span class="na">getJobInstance</span><span class="p">().</span><span class="na">getJobName</span><span class="p">(),</span>
+<span class="w">            </span><span class="n">jobExecution</span><span class="p">.</span><span class="na">getExitStatus</span><span class="p">().</span><span class="na">getExitDescription</span><span class="p">()</span>
+<span class="w">        </span><span class="p">);</span>
+<span class="w">    </span><span class="p">}</span>
+<span class="p">}</span>
+</code></pre></div>
+
+<h2 id="小结">小结</h2>
+<p>本节课我们学习了：</p>
+<ol>
+<li><strong>监听器体系</strong>：
+   - Job 级别：JobExecutionListener
+   - Step 级别：StepExecutionListener、ChunkListener
+   - Item 级别：ItemReadListener、ItemProcessListener、ItemWriteListener
+   - 异常级别：SkipListener、RetryListener</li>
+<li><strong>Job 监听器</strong>：记录作业开始/结束、耗时、状态</li>
+<li><strong>Step 监听器</strong>：记录步骤读写数量、提交次数</li>
+<li><strong>Chunk 监听器</strong>：监控每个 Chunk 的执行情况</li>
+<li><strong>Item 监听器</strong>：细粒度监控每条数据的读取、处理、写入</li>
+<li><strong>任务调度</strong>：使用 @Scheduled 定时触发批处理作业</li>
+<li><strong>实战应用</strong>：图书管理系统定时统计任务</li>
+</ol>
+<h2 id="作业">作业</h2>
+<h3 id="作业一代码阅读监听器识别">作业一：代码阅读——监听器识别</h3>
+<p>阅读以下代码，回答问题。</p>
+<div class="codehilite lang-java"><pre><span></span><code><span class="nd">@Component</span>
+<span class="kd">public</span><span class="w"> </span><span class="kd">class</span> <span class="nc">MyJobListener</span><span class="w"> </span><span class="kd">implements</span><span class="w"> </span><span class="n">JobExecutionListener</span><span class="w"> </span><span class="p">{</span>
+<span class="w">    </span><span class="nd">@Override</span>
+<span class="w">    </span><span class="kd">public</span><span class="w"> </span><span class="kt">void</span><span class="w"> </span><span class="nf">beforeJob</span><span class="p">(</span><span class="n">JobExecution</span><span class="w"> </span><span class="n">jobExecution</span><span class="p">)</span><span class="w"> </span><span class="p">{</span>
+<span class="w">        </span><span class="n">System</span><span class="p">.</span><span class="na">out</span><span class="p">.</span><span class="na">println</span><span class="p">(</span><span class="s">"作业开始: "</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="n">jobExecution</span><span class="p">.</span><span class="na">getJobInstance</span><span class="p">().</span><span class="na">getJobName</span><span class="p">());</span>
+<span class="w">    </span><span class="p">}</span>
+
+<span class="w">    </span><span class="nd">@Override</span>
+<span class="w">    </span><span class="kd">public</span><span class="w"> </span><span class="kt">void</span><span class="w"> </span><span class="nf">afterJob</span><span class="p">(</span><span class="n">JobExecution</span><span class="w"> </span><span class="n">jobExecution</span><span class="p">)</span><span class="w"> </span><span class="p">{</span>
+<span class="w">        </span><span class="n">System</span><span class="p">.</span><span class="na">out</span><span class="p">.</span><span class="na">println</span><span class="p">(</span><span class="s">"作业结束: "</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="n">jobExecution</span><span class="p">.</span><span class="na">getStatus</span><span class="p">());</span>
+<span class="w">        </span><span class="k">if</span><span class="w"> </span><span class="p">(</span><span class="n">jobExecution</span><span class="p">.</span><span class="na">getStatus</span><span class="p">()</span><span class="w"> </span><span class="o">==</span><span class="w"> </span><span class="n">BatchStatus</span><span class="p">.</span><span class="na">FAILED</span><span class="p">)</span><span class="w"> </span><span class="p">{</span>
+<span class="w">            </span><span class="n">System</span><span class="p">.</span><span class="na">out</span><span class="p">.</span><span class="na">println</span><span class="p">(</span><span class="s">"作业失败，发送告警"</span><span class="p">);</span>
+<span class="w">        </span><span class="p">}</span>
+<span class="w">    </span><span class="p">}</span>
+<span class="p">}</span>
+</code></pre></div>
+
+<p><strong>问题：</strong>
+1. 该监听器在什么时候被执行？
+2. 如果作业执行失败，<code>afterJob</code> 会被执行吗？
+3. 如果作业被停止（STOPPED），<code>afterJob</code> 会被执行吗？
+4. 如何在 <code>afterJob</code> 中获取作业执行的耗时？</p>
+<hr />
+<h3 id="作业二实现统计任务及监听器">作业二：实现统计任务及监听器</h3>
+<p>在图书管理系统中完成以下任务：</p>
+<ol>
+<li>创建 <code>book_statistics</code> 表（分类、图书数量、总库存、平均价格、统计日期）。</li>
+<li>创建 <code>StatisticsJobConfig</code>：
+   - 使用 <code>JdbcPagingItemReader</code> 按分类统计图书
+   - 使用 <code>ItemWriter</code> 将统计结果写入 <code>book_statistics</code> 表
+   - Chunk 大小为 5</li>
+<li>创建 <code>JobLoggingListener</code> 和 <code>StepLoggingListener</code>，记录执行日志。</li>
+<li>使用 <code>@Scheduled</code> 配置每天凌晨 2 点自动执行。</li>
+<li>提供手动触发接口，测试执行效果。</li>
+</ol>
+<hr />
+<h3 id="作业三监听器综合应用">作业三：监听器综合应用</h3>
+<p>在作业二的基础上，添加以下监听器：</p>
+<ol>
+<li><code>ChunkLoggingListener</code>：记录每个 Chunk 的执行耗时。</li>
+<li><code>ItemLoggingListener</code>：记录每条数据的处理情况（DEBUG 级别）。</li>
+<li>
+<p>在 <code>JobLoggingListener</code> 的 <code>afterJob</code> 中：
+   - 如果作业失败，记录失败原因并发送告警（控制台模拟）
+   - 如果作业成功，记录执行耗时和写入数量</p>
+</li>
+<li>
+<p>运行作业，观察完整的执行日志。</p>
+</li>
+</ol>13:["$","article",null,{"className":"doc","id":"content","children":[["$","div",null,{"className":"doc-head-row mb-2 flex items-center justify-between gap-4","children":[["$","p",null,{"className":"kicker","children":[["$","span",null,{"className":"kicker-num","children":"第 54 章"}],["$","span",null,{"className":"kicker-mod","children":"单体系统和Spring Boot"}]]}],["$","$L15",null,{"progressKey":"spring-boot-54"}]]}],["$","h1",null,{"className":"doc-h1","children":"批处理监听器与任务调度"}],"$undefined",["$","$L16",null,{"html":"$17"}],"$L18"]}]
+14:["$","$L19",null,{"sections":"$5:1:props:children:0:props:courses:5:modules:0:chapters:53:sections"}]
+1a:I[2619,["619","static/chunks/619-ba102abea3e3d0e4.js","526","static/chunks/app/course/%5Bkey%5D/%5Bch%5D/page-4b7f30b4efe73131.js"],""]
+18:["$","nav",null,{"className":"pager","aria-label":"章节导航","children":[["$","$L1a",null,{"className":"pager-link pager-prev","href":"/course/spring-boot/53/","children":[["$","span",null,{"className":"pager-dir","children":"上一章"}],["$","span",null,{"className":"pager-name","children":"批处理异常处理与重启机制"}]]}],["$","$L1a",null,{"className":"pager-link pager-next","href":"/course/spring-boot/55/","children":[["$","span",null,{"className":"pager-dir","children":"下一章"}],["$","span",null,{"className":"pager-name","children":"Actuator 入门与常用端点"}]]}]]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+7:null
+9:{"metadata":[["$","title","0",{"children":"第 54 章  · 单体系统和Spring Boot · AI大全栈"}],["$","meta","1",{"name":"description","content":"袁进主讲的系列课程手册：Python 语言核心精讲、数据科学工具包、数据库、Python 框架、Agents 底层逻辑、LangGraph、LangChain + DeepAgent、Agent 观测与评估、Agent 基础建设、RAG 知识库。iOS 风格阅读体验，内置可运行的 Python 代码块。"}]],"error":null,"digest":"$undefined"}
+10:"$9:metadata"

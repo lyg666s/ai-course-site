@@ -1,0 +1,1082 @@
+1:"$Sreact.fragment"
+2:I[6590,["619","static/chunks/619-ba102abea3e3d0e4.js","177","static/chunks/app/layout-1fd0282a046e2468.js"],"default"]
+3:I[9766,[],""]
+4:I[8924,[],""]
+6:I[4431,[],"OutletBoundary"]
+8:I[5278,[],"AsyncMetadataOutlet"]
+b:I[7150,[],""]
+:HL["/ai-course-site/_next/static/css/d95fb35eb6f8b422.css","style"]
+0:{"P":null,"b":"X8etduvi9QkiRbgJrCKEG","p":"/ai-course-site","c":["","course","spring-boot","59",""],"i":false,"f":[[["",{"children":["course",{"children":[["key","spring-boot","d"],{"children":[["ch","59","d"],{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/ai-course-site/_next/static/css/d95fb35eb6f8b422.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"zh-CN","suppressHydrationWarning":true,"children":[["$","head",null,{"children":["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var t=localStorage.getItem(\"theme\");var d=t?t===\"dark\":window.matchMedia(\"(prefers-color-scheme: dark)\").matches;if(d)document.documentElement.classList.add(\"dark\");}catch(e){}})();"}}]}],["$","body",null,{"children":[["$","$L2",null,{"families":[{"key":"agent","name":"AI · Agent 开发"},{"key":"engineering","name":"AI · Agent 工程化"},{"key":"dev","name":"编程与工程基础"}]}],["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","footer",null,{"className":"mx-auto max-w-[52rem] px-6 pb-10 text-center text-xs text-label3","children":"AI大全栈 · 课程手册 — 由课件自动生成，仅供学习使用"}]]}]]}]]}],{"children":["course",["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["key","spring-boot","d"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["ch","59","d"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L5",null,["$","$L6",null,{"children":["$L7",["$","$L8",null,{"promise":"$@9"}]]}]]}],{},null,false]},[["$","div","l",{"className":"doc-wrap","children":["$","div",null,{"className":"doc","aria-busy":"true","aria-label":"加载中","children":[["$","div",null,{"className":"mb-2 h-3.5 w-28 animate-pulse rounded bg-fill2"}],["$","div",null,{"className":"mb-6 h-8 w-2/3 animate-pulse rounded bg-fill2"}],["$","div",null,{"className":"space-y-3.5","children":[["$","div","0",{"className":"h-4 animate-pulse rounded bg-fill2","style":{"width":"92%"}}],["$","div","1",{"className":"h-4 animate-pulse rounded bg-fill2","style":{"width":"100%"}}],["$","div","2",{"className":"h-4 animate-pulse rounded bg-fill2","style":{"width":"96%"}}],["$","div","3",{"className":"h-4 animate-pulse rounded bg-fill2","style":{"width":"60%"}}]]}],["$","div",null,{"className":"my-8 h-32 animate-pulse rounded-xl bg-fill"}],["$","div",null,{"className":"space-y-3.5","children":[["$","div","0",{"className":"h-4 animate-pulse rounded bg-fill2","style":{"width":"100%"}}],["$","div","1",{"className":"h-4 animate-pulse rounded bg-fill2","style":{"width":"88%"}}],["$","div","2",{"className":"h-4 animate-pulse rounded bg-fill2","style":{"width":"95%"}}],["$","div","3",{"className":"h-4 animate-pulse rounded bg-fill2","style":{"width":"72%"}}],["$","div","4",{"className":"h-4 animate-pulse rounded bg-fill2","style":{"width":"100%"}}]]}]]}]}],[],[]],false]},null,false]},null,false]},null,false],"$La",false]],"m":"$undefined","G":["$b",[]],"s":false,"S":true}
+c:I[4431,[],"ViewportBoundary"]
+e:I[4431,[],"MetadataBoundary"]
+f:"$Sreact.suspense"
+a:["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$f",null,{"fallback":null,"children":"$L10"}]}]}]]}]
+11:I[7010,["619","static/chunks/619-ba102abea3e3d0e4.js","526","static/chunks/app/course/%5Bkey%5D/%5Bch%5D/page-4b7f30b4efe73131.js"],"default"]
+12:I[6710,["619","static/chunks/619-ba102abea3e3d0e4.js","526","static/chunks/app/course/%5Bkey%5D/%5Bch%5D/page-4b7f30b4efe73131.js"],"default"]
+5:[["$","$L11",null,{"url":"/course/spring-boot/59/","title":"测试概述与 JUnit 5 基础","course":"单体系统和Spring Boot"}],["$","div",null,{"className":"doc-wrap","children":[["$","$L12",null,{"courses":[{"key":"py","title":"Python语言核心精讲","glyph":"Py","cls":"b1","coming_soon":false,"modules":[{"name":"语言基础","chapters":[{"n":1,"slug":"1","title":"必看导言","group":"语言基础","progress_key":"1"},{"n":2,"slug":"2","title":"python环境安装","group":"语言基础","progress_key":"2"},{"n":3,"slug":"3","title":"python基本语法","group":"语言基础","progress_key":"3"},{"n":4,"slug":"4","title":"容器类型","group":"语言基础","progress_key":"4"},{"n":5,"slug":"5","title":"函数","group":"语言基础","progress_key":"5"},{"n":6,"slug":"6","title":"作用域","group":"语言基础","progress_key":"6"},{"n":7,"slug":"7","title":"lambda表达式","group":"语言基础","progress_key":"7"}]},{"name":"面向对象","chapters":[{"n":8,"slug":"8","title":"类和对象","group":"面向对象","progress_key":"8"},{"n":9,"slug":"9","title":"对象的类型","group":"面向对象","progress_key":"9"},{"n":10,"slug":"10","title":"对象的创建过程","group":"面向对象","progress_key":"10"},{"n":11,"slug":"11","title":"可调用对象","group":"面向对象","progress_key":"11"},{"n":12,"slug":"12","title":"元类","group":"面向对象","progress_key":"12"},{"n":13,"slug":"13","title":"装饰器","group":"面向对象","progress_key":"13"},{"n":14,"slug":"14","title":"魔术方法","group":"面向对象","progress_key":"14"},{"n":15,"slug":"15","title":"描述符","group":"面向对象","progress_key":"15"}]},{"name":"语言进阶","chapters":[{"n":16,"slug":"16","title":"异常处理","group":"语言进阶","progress_key":"16"},{"n":17,"slug":"17","title":"迭代器与生成器","group":"语言进阶","progress_key":"17"},{"n":18,"slug":"18","title":"上下文管理器","group":"语言进阶","progress_key":"18"},{"n":19,"slug":"19","title":"ABC","group":"语言进阶","progress_key":"19"},{"n":20,"slug":"20","title":"类型标注","group":"语言进阶","progress_key":"20"},{"n":21,"slug":"21","title":"模块化","group":"语言进阶","progress_key":"21"},{"n":22,"slug":"22","title":"标准库","group":"语言进阶","progress_key":"22"},{"n":23,"slug":"23","title":"第三方库","group":"语言进阶","progress_key":"23"}]},{"name":"异步与并发","chapters":[{"n":24,"slug":"24","title":"事件循环","group":"异步与并发","progress_key":"24"},{"n":25,"slug":"25","title":"Future类","group":"异步与并发","progress_key":"25"},{"n":26,"slug":"26","title":"协程 Coroutine","group":"异步与并发","progress_key":"26"},{"n":27,"slug":"27","title":"异步编程","group":"异步与并发","progress_key":"27"},{"n":28,"slug":"28","title":"多线程与多进程","group":"异步与并发","progress_key":"28"}]},{"name":"工程化实践","chapters":[{"n":29,"slug":"29","title":"构建发布","group":"工程化实践","progress_key":"29"},{"n":30,"slug":"30","title":"项目管理工具","group":"工程化实践","progress_key":"30"},{"n":31,"slug":"31","title":"monorepo","group":"工程化实践","progress_key":"31"},{"n":32,"slug":"32","title":"断点调试","group":"工程化实践","progress_key":"32"}]},{"name":"项目案例","chapters":[{"n":null,"slug":"proj-async-agents","title":"多智能体协同调研系统","group":"项目案例","progress_key":""},{"n":null,"slug":"proj-duyi-utils","title":"duyi-utils 构建发布示例","group":"项目案例","progress_key":""}]}]},{"key":"fw","title":"Python框架","glyph":"架","cls":"b-fw","coming_soon":false,"modules":[{"name":"课程内容","chapters":[{"n":1,"slug":"1","title":"Web服务框架","group":"课程内容","progress_key":"fw-1"},{"n":2,"slug":"2","title":"优化包结构","group":"课程内容","progress_key":"fw-2"},{"n":3,"slug":"3","title":"初识SQLAlchemy","group":"课程内容","progress_key":"fw-3"},{"n":4,"slug":"4","title":"ORM","group":"课程内容","progress_key":"fw-4"},{"n":5,"slug":"5","title":"数据操作","group":"课程内容","progress_key":"fw-5"},{"n":6,"slug":"6","title":"数据迁移","group":"课程内容","progress_key":"fw-6"},{"n":7,"slug":"7","title":"业务逻辑","group":"课程内容","progress_key":"fw-7"},{"n":8,"slug":"8","title":"依赖注入","group":"课程内容","progress_key":"fw-8"},{"n":9,"slug":"9","title":"统一异常处理","group":"课程内容","progress_key":"fw-9"},{"n":10,"slug":"10","title":"中间件","group":"课程内容","progress_key":"fw-10"},{"n":11,"slug":"11","title":"测试框架","group":"课程内容","progress_key":"fw-11"},{"n":12,"slug":"12","title":"测试方案","group":"课程内容","progress_key":"fw-12"},{"n":13,"slug":"13","title":"三层架构","group":"课程内容","progress_key":"fw-13"},{"n":14,"slug":"14","title":"文件上传","group":"课程内容","progress_key":"fw-14"},{"n":15,"slug":"15","title":"系统设置","group":"课程内容","progress_key":"fw-15"},{"n":17,"slug":"17","title":"用户系统","group":"课程内容","progress_key":"fw-17"},{"n":18,"slug":"18","title":"日志","group":"课程内容","progress_key":"fw-18"},{"n":20,"slug":"20","title":"流式响应","group":"课程内容","progress_key":"fw-20"},{"n":26,"slug":"26","title":"python收官检验","group":"课程内容","progress_key":"fw-26"}]},{"name":"部署","chapters":[{"n":21,"slug":"21","title":"部署-认识Docker","group":"部署","progress_key":"fw-21"},{"n":22,"slug":"22","title":"部署-云资产","group":"部署","progress_key":"fw-22"},{"n":23,"slug":"23","title":"部署-k8s","group":"部署","progress_key":"fw-23"},{"n":24,"slug":"24","title":"部署-CICD","group":"部署","progress_key":"fw-24"},{"n":25,"slug":"25","title":"部署-总结","group":"部署","progress_key":"fw-25"}]}]},{"key":"db","title":"数据库","glyph":"库","cls":"b-db","coming_soon":false,"modules":[{"name":"课程内容","chapters":[{"n":1,"slug":"1","title":"PostgreSQL安装","group":"课程内容","progress_key":"db-1"},{"n":2,"slug":"2","title":"DDL","group":"课程内容","progress_key":"db-2"},{"n":3,"slug":"3","title":"表间关系","group":"课程内容","progress_key":"db-3"},{"n":4,"slug":"4","title":"DML","group":"课程内容","progress_key":"db-4"},{"n":5,"slug":"5","title":"事务","group":"课程内容","progress_key":"db-5"},{"n":6,"slug":"6","title":"索引","group":"课程内容","progress_key":"db-6"},{"n":7,"slug":"7","title":"拓展知识","group":"课程内容","progress_key":"db-7"}]}]},{"key":"dst","title":"数据科学工具包","glyph":"数","cls":"b-ds","coming_soon":false,"modules":[{"name":"课程内容","chapters":[{"n":1,"slug":"1","title":"课程导言","group":"课程内容","progress_key":"dst-1"},{"n":2,"slug":"2","title":"Jupyter","group":"课程内容","progress_key":"dst-2"},{"n":10,"slug":"10","title":"Seaborn","group":"课程内容","progress_key":"dst-10"}]},{"name":"Numpy","chapters":[{"n":3,"slug":"3","title":"Numpy - 核心概念","group":"Numpy","progress_key":"dst-3"},{"n":4,"slug":"4","title":"Numpy - 数据操作","group":"Numpy","progress_key":"dst-4"}]},{"name":"Pandas","chapters":[{"n":5,"slug":"5","title":"Pandas - 数据类型","group":"Pandas","progress_key":"dst-5"},{"n":6,"slug":"6","title":"Pandas - 数据清洗","group":"Pandas","progress_key":"dst-6"}]},{"name":"Matplotlib","chapters":[{"n":7,"slug":"7","title":"Matplotlib - 核心概念","group":"Matplotlib","progress_key":"dst-7"},{"n":8,"slug":"8","title":"Matplotlib - 动画","group":"Matplotlib","progress_key":"dst-8"},{"n":9,"slug":"9","title":"Matplotlib - 交互式组件","group":"Matplotlib","progress_key":"dst-9"}]}]},{"key":"java-basic","title":"Java语言核心精讲","glyph":"J","cls":"b-java","coming_soon":false,"modules":[{"name":"课程内容","chapters":[{"n":1,"slug":"1","title":"课程导言","group":"课程内容","progress_key":"java-basic-1"},{"n":2,"slug":"2","title":"构建第一个Java应用程序","group":"课程内容","progress_key":"java-basic-2"},{"n":3,"slug":"3","title":"Java基础语法","group":"课程内容","progress_key":"java-basic-3"},{"n":4,"slug":"4","title":"容器类型","group":"课程内容","progress_key":"java-basic-4"},{"n":5,"slug":"5","title":"方法","group":"课程内容","progress_key":"java-basic-5"},{"n":6,"slug":"6","title":"Lambda表达式","group":"课程内容","progress_key":"java-basic-6"},{"n":7,"slug":"7","title":"Stream API","group":"课程内容","progress_key":"java-basic-7"},{"n":8,"slug":"8","title":"类和对象","group":"课程内容","progress_key":"java-basic-8"},{"n":9,"slug":"9","title":"封装、继承和多态","group":"课程内容","progress_key":"java-basic-9"},{"n":10,"slug":"10","title":"抽象类和接口","group":"课程内容","progress_key":"java-basic-10"},{"n":11,"slug":"11","title":"包管理","group":"课程内容","progress_key":"java-basic-11"},{"n":12,"slug":"12","title":"异常处理","group":"课程内容","progress_key":"java-basic-12"},{"n":13,"slug":"13","title":"反射","group":"课程内容","progress_key":"java-basic-13"},{"n":14,"slug":"14","title":"泛型","group":"课程内容","progress_key":"java-basic-14"},{"n":15,"slug":"15","title":"注解","group":"课程内容","progress_key":"java-basic-15"},{"n":16,"slug":"16","title":"Java特性拾遗与精进","group":"课程内容","progress_key":"java-basic-16"},{"n":17,"slug":"17","title":"线程基础与创建方式","group":"课程内容","progress_key":"java-basic-17"},{"n":18,"slug":"18","title":"线程生命周期与控制方法","group":"课程内容","progress_key":"java-basic-18"},{"n":19,"slug":"19","title":"线程安全与锁机制","group":"课程内容","progress_key":"java-basic-19"},{"n":20,"slug":"20","title":"线程池与Executor框架","group":"课程内容","progress_key":"java-basic-20"},{"n":21,"slug":"21","title":"并发集合与同步工具类","group":"课程内容","progress_key":"java-basic-21"},{"n":22,"slug":"22","title":"高级并发与最佳实践","group":"课程内容","progress_key":"java-basic-22"},{"n":23,"slug":"23","title":"Maven入门与环境配置","group":"课程内容","progress_key":"java-basic-23"},{"n":24,"slug":"24","title":"POM文件与依赖管理","group":"课程内容","progress_key":"java-basic-24"},{"n":25,"slug":"25","title":"Maven生命周期与插件体系","group":"课程内容","progress_key":"java-basic-25"},{"n":26,"slug":"26","title":"多模块项目管理","group":"课程内容","progress_key":"java-basic-26"}]}]},{"key":"spring-boot","title":"单体系统和Spring Boot","glyph":"B","cls":"b-ds","coming_soon":false,"modules":[{"name":"课程内容","chapters":[{"n":1,"slug":"1","title":"课程导言","group":"课程内容","progress_key":"spring-boot-1","sections":[{"name":"三个问题","anchor":"三个问题"},{"name":"为什么要学Spring Boot？","anchor":"为什么要学Spring-Boot"},{"name":"如何学习Spring Boot？","anchor":"如何学习Spring-Boot"},{"name":"学完Spring Boot你能做什么？","anchor":"学完Spring-Boot你能做什么"},{"name":"常见学习问题","anchor":"常见学习问题"}]},{"n":2,"slug":"2","title":"Spring Boot概述与快速入门","group":"课程内容","progress_key":"spring-boot-2","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"Spring 框架概述","anchor":"Spring-框架概述"},{"name":"从 Spring 到 Spring Boot","anchor":"从-Spring-到-Spring-Boot"},{"name":"开发第一个 Spring Boot 应用程序","anchor":"开发第一个-Spring-Boot-应用程序"},{"name":"作业","anchor":"作业"}]},{"n":3,"slug":"3","title":"Spring Boot应用程序结构与分层设计","group":"课程内容","progress_key":"spring-boot-3","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"贯穿项目：图书管理系统","anchor":"贯穿项目图书管理系统"},{"name":"Spring Boot 标准目录结构","anchor":"Spring-Boot-标准目录结构"},{"name":"三层架构设计","anchor":"三层架构设计"},{"name":"搭建项目分层骨架","anchor":"搭建项目分层骨架"},{"name":"依赖注入与层间调用","anchor":"依赖注入与层间调用"},{"name":"启动与测试","anchor":"启动与测试"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":4,"slug":"4","title":"Spring Boot配置体系","group":"课程内容","progress_key":"spring-boot-4","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"配置文件格式","anchor":"配置文件格式"},{"name":"读取配置的两种方式","anchor":"读取配置的两种方式"},{"name":"多环境配置（Profile）","anchor":"多环境配置Profile"},{"name":"配置加载优先级","anchor":"配置加载优先级"},{"name":"实战：为图书管理系统添加多环境配置","anchor":"实战为图书管理系统添加多环境配置"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":5,"slug":"5","title":"自动配置原理与Starter机制","group":"课程内容","progress_key":"spring-boot-5","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"自动配置概述","anchor":"自动配置概述"},{"name":"@SpringBootApplication 注解分析","anchor":"SpringBootApplication-注解分析"},{"name":"spring.factories 与自动配置加载","anchor":"springfactories-与自动配置加载"},{"name":"条件注解体系","anchor":"条件注解体系"},{"name":"案例分析：spring-boot-starter-web 自动配置","anchor":"案例分析spring-boot-starter-web-自动配置"},{"name":"查看自动配置报告","anchor":"查看自动配置报告"},{"name":"自动配置的覆盖与排除","anchor":"自动配置的覆盖与排除"},{"name":"自动配置原理总结","anchor":"自动配置原理总结"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":6,"slug":"6","title":"依赖注入基本概念与三种注入方式","group":"课程内容","progress_key":"spring-boot-6","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"IoC 与 DI 基本概念","anchor":"IoC-与-DI-基本概念"},{"name":"三种依赖注入方式","anchor":"三种依赖注入方式"},{"name":"推荐与不推荐的理由","anchor":"推荐与不推荐的理由"},{"name":"实战示例：为图书管理系统注入依赖","anchor":"实战示例为图书管理系统注入依赖"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":7,"slug":"7","title":"@Autowired详解与注入决策流程","group":"课程内容","progress_key":"spring-boot-7","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"@Autowired 的基本用法","anchor":"Autowired-的基本用法"},{"name":"在字段上使用","anchor":"在字段上使用"},{"name":"@Autowired 的核心特性","anchor":"Autowired-的核心特性"},{"name":"多 Bean 场景与注入决策","anchor":"多-Bean-场景与注入决策"},{"name":"使用 @Primary 指定首选 Bean","anchor":"使用-Primary-指定首选-Bean"},{"name":"使用 @Qualifier 精确指定 Bean","anchor":"使用-Qualifier-精确指定-Bean"},{"name":"@Resource 注解","anchor":"Resource-注解"},{"name":"实战：图书管理系统中的多 Bean 场景","anchor":"实战图书管理系统中的多-Bean-场景"},{"name":"常见问题与注意事项","anchor":"常见问题与注意事项"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":8,"slug":"8","title":"循环依赖与三级缓存机制","group":"课程内容","progress_key":"spring-boot-8","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"什么是循环依赖","anchor":"什么是循环依赖"},{"name":"构造器注入导致的循环依赖","anchor":"构造器注入导致的循环依赖"},{"name":"字段/Setter 注入解决循环依赖","anchor":"字段Setter-注入解决循环依赖"},{"name":"三级缓存机制","anchor":"三级缓存机制"},{"name":"@Lazy 延迟注入解决循环依赖","anchor":"Lazy-延迟注入解决循环依赖"},{"name":"场景分析：真实项目中的循环依赖","anchor":"场景分析真实项目中的循环依赖"},{"name":"避免循环依赖的设计原则","anchor":"避免循环依赖的设计原则"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":9,"slug":"9","title":"AOP编程思想与动态代理机制","group":"课程内容","progress_key":"spring-boot-9","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"AOP 概述","anchor":"AOP-概述"},{"name":"AOP 核心概念","anchor":"AOP-核心概念"},{"name":"动态代理基础","anchor":"动态代理基础"},{"name":"JDK 动态代理","anchor":"JDK-动态代理"},{"name":"CGLIB 动态代理","anchor":"CGLIB-动态代理"},{"name":"Spring AOP 的代理选择策略","anchor":"Spring-AOP-的代理选择策略"},{"name":"JDK 代理 vs CGLIB 代理对比","anchor":"JDK-代理-vs-CGLIB-代理对比"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":10,"slug":"10","title":"Spring AOP实战：日志切面","group":"课程内容","progress_key":"spring-boot-10","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"导入：从理论到实践","anchor":"导入从理论到实践"},{"name":"定义日志切面","anchor":"定义日志切面"},{"name":"切入点表达式详解","anchor":"切入点表达式详解"},{"name":"通知类型详解","anchor":"通知类型详解"},{"name":"获取请求信息","anchor":"获取请求信息"},{"name":"实战：为图书管理系统添加日志切面","anchor":"实战为图书管理系统添加日志切面"},{"name":"注意事项","anchor":"注意事项"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":11,"slug":"11","title":"Spring AOP实战：性能监控与异常处理","group":"课程内容","progress_key":"spring-boot-11","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"导入：从日志到监控","anchor":"导入从日志到监控"},{"name":"@Around 环绕通知","anchor":"Around-环绕通知"},{"name":"性能监控切面","anchor":"性能监控切面"},{"name":"统一异常处理切面","anchor":"统一异常处理切面"},{"name":"多切面协作与执行顺序","anchor":"多切面协作与执行顺序"},{"name":"注意事项","anchor":"注意事项"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":12,"slug":"12","title":"HTTP协议与Web服务开发流程","group":"课程内容","progress_key":"spring-boot-12","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"HTTP 协议概述","anchor":"HTTP-协议概述"},{"name":"HTTP 方法","anchor":"HTTP-方法"},{"name":"HTTP 状态码","anchor":"HTTP-状态码"},{"name":"HTTP 请求头与响应头","anchor":"HTTP-请求头与响应头"},{"name":"Web 服务开发流程","anchor":"Web-服务开发流程"},{"name":"使用 Postman 调试接口","anchor":"使用-Postman-调试接口"},{"name":"实战：使用 Postman 测试图书管理系统","anchor":"实战使用-Postman-测试图书管理系统"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":13,"slug":"13","title":"Servlet与Spring WebMVC架构解析","group":"课程内容","progress_key":"spring-boot-13","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"Servlet 概述","anchor":"Servlet-概述"},{"name":"传统 Servlet 示例（对比 Spring WebMVC）","anchor":"传统-Servlet-示例对比-Spring-WebMVC"},{"name":"Spring WebMVC 架构","anchor":"Spring-WebMVC-架构"},{"name":"DispatcherServlet 详解","anchor":"DispatcherServlet-详解"},{"name":"Spring WebMVC 核心组件","anchor":"Spring-WebMVC-核心组件"},{"name":"请求处理完整流程（时序图）","anchor":"请求处理完整流程时序图"},{"name":"Spring WebMVC vs 传统 Servlet","anchor":"Spring-WebMVC-vs-传统-Servlet"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":14,"slug":"14","title":"REST API开发：请求映射与参数处理","group":"课程内容","progress_key":"spring-boot-14","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"请求映射注解","anchor":"请求映射注解"},{"name":"参数绑定","anchor":"参数绑定"},{"name":"RESTful API 设计规范","anchor":"RESTful-API-设计规范"},{"name":"实战：为图书管理系统编写完整接口","anchor":"实战为图书管理系统编写完整接口"},{"name":"参数校验","anchor":"参数校验"},{"name":"实战：图书管理系统集成校验与异常","anchor":"实战图书管理系统集成校验与异常"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":15,"slug":"15","title":"REST API开发：响应封装和全局异常处理","group":"课程内容","progress_key":"spring-boot-15","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"为什么需要统一响应封装","anchor":"为什么需要统一响应封装"},{"name":"统一响应类设计","anchor":"统一响应类设计"},{"name":"业务状态码设计","anchor":"业务状态码设计"},{"name":"HTTP 状态码与业务状态码的关系","anchor":"HTTP-状态码与业务状态码的关系"},{"name":"实战：为图书管理系统统一响应格式","anchor":"实战为图书管理系统统一响应格式"},{"name":"全局异常处理","anchor":"全局异常处理"},{"name":"实战：图书管理系统集成校验与异常","anchor":"实战图书管理系统集成校验与异常"},{"name":"注意事项","anchor":"注意事项"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":16,"slug":"16","title":"REST API高级：过滤器与拦截器实战","group":"课程内容","progress_key":"spring-boot-16","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"过滤器与拦截器概述","anchor":"过滤器与拦截器概述"},{"name":"Filter 实战","anchor":"Filter-实战"},{"name":"Interceptor 实战","anchor":"Interceptor-实战"},{"name":"请求处理链路完整流程","anchor":"请求处理链路完整流程"},{"name":"过滤器与拦截器的选择建议","anchor":"过滤器与拦截器的选择建议"},{"name":"注意事项","anchor":"注意事项"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":17,"slug":"17","title":"REST API文档自动生成与API规范","group":"课程内容","progress_key":"spring-boot-17","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"API 文档的重要性","anchor":"API-文档的重要性"},{"name":"OpenAPI 规范简介","anchor":"OpenAPI-规范简介"},{"name":"集成 SpringDoc","anchor":"集成-SpringDoc"},{"name":"常用注解增强文档","anchor":"常用注解增强文档"},{"name":"API 分组管理","anchor":"API-分组管理"},{"name":"导出 OpenAPI 文档","anchor":"导出-OpenAPI-文档"},{"name":"API 规范最佳实践","anchor":"API-规范最佳实践"},{"name":"注意事项","anchor":"注意事项"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":18,"slug":"18","title":"RestTemplate与服务间调用","group":"课程内容","progress_key":"spring-boot-18","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"服务间调用概述","anchor":"服务间调用概述"},{"name":"RestTemplate 简介","anchor":"RestTemplate-简介"},{"name":"创建和配置 RestTemplate","anchor":"创建和配置-RestTemplate"},{"name":"GET 请求实战","anchor":"GET-请求实战"},{"name":"POST 请求示例","anchor":"POST-请求示例"},{"name":"异常处理","anchor":"异常处理"},{"name":"实战：在图书管理系统中整合天气信息","anchor":"实战在图书管理系统中整合天气信息"},{"name":"注意事项","anchor":"注意事项"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":19,"slug":"19","title":"Spring WebFlux编程模型与实战","group":"课程内容","progress_key":"spring-boot-19","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"从 Spring MVC 到 Spring WebFlux","anchor":"从-Spring-MVC-到-Spring-WebFlux"},{"name":"响应式编程核心概念","anchor":"响应式编程核心概念"},{"name":"Spring WebFlux vs Spring MVC","anchor":"Spring-WebFlux-vs-Spring-MVC"},{"name":"Reactor 核心类型","anchor":"Reactor-核心类型"},{"name":"创建第一个 Spring WebFlux 应用","anchor":"创建第一个-Spring-WebFlux-应用"},{"name":"Spring WebFlux 两种编程模型","anchor":"Spring-WebFlux-两种编程模型"},{"name":"注解式控制器（Annotated Controllers）","anchor":"注解式控制器Annotated-Controllers"},{"name":"函数式端点（Functional Endpoints）","anchor":"函数式端点Functional-Endpoints"},{"name":"注解式 vs 函数式：如何选择","anchor":"注解式-vs-函数式如何选择"},{"name":"WebClient 响应式 HTTP 客户端","anchor":"WebClient-响应式-HTTP-客户端"},{"name":"注意事项","anchor":"注意事项"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":20,"slug":"20","title":"JDBC规范解析","group":"课程内容","progress_key":"spring-boot-20","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"数据访问层次概述","anchor":"数据访问层次概述"},{"name":"JDBC 规范概述","anchor":"JDBC-规范概述"},{"name":"传统 JDBC 开发实战","anchor":"传统-JDBC-开发实战"},{"name":"传统 JDBC 的痛点分析","anchor":"传统-JDBC-的痛点分析"},{"name":"Spring JDBC 解决方案预览","anchor":"Spring-JDBC-解决方案预览"},{"name":"在图书管理系统中的应用","anchor":"在图书管理系统中的应用"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":21,"slug":"21","title":"Spring JDBC解决方案与JdbcTemplate基础","group":"课程内容","progress_key":"spring-boot-21","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"从传统 JDBC 到 Spring JDBC","anchor":"从传统-JDBC-到-Spring-JDBC"},{"name":"配置数据源与 JdbcTemplate","anchor":"配置数据源与-JdbcTemplate"},{"name":"JdbcTemplate 基础 CRUD","anchor":"JdbcTemplate-基础-CRUD"},{"name":"实战：将图书管理系统迁移到 JdbcTemplate","anchor":"实战将图书管理系统迁移到-JdbcTemplate"},{"name":"JdbcTemplate 与 RowMapper 的工作流程","anchor":"JdbcTemplate-与-RowMapper-的工作流程"},{"name":"注意事项","anchor":"注意事项"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":22,"slug":"22","title":"JdbcTemplate高级操作与SimpleJdbcInsert","group":"课程内容","progress_key":"spring-boot-22","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"回顾与导入","anchor":"回顾与导入"},{"name":"批量操作","anchor":"批量操作"},{"name":"分页查询与排序","anchor":"分页查询与排序"},{"name":"SimpleJdbcInsert 使用","anchor":"SimpleJdbcInsert-使用"},{"name":"实战：图书管理系统整合高级操作","anchor":"实战图书管理系统整合高级操作"},{"name":"注意事项","anchor":"注意事项"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":23,"slug":"23","title":"自己动手写一个JdbcTemplate","group":"课程内容","progress_key":"spring-boot-23","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"导入：从原生 JDBC 到 JdbcTemplate","anchor":"导入从原生-JDBC-到-JdbcTemplate"},{"name":"设计模式基础：模板方法模式","anchor":"设计模式基础模板方法模式"},{"name":"设计模式基础：回调机制","anchor":"设计模式基础回调机制"},{"name":"第一步：使用模板方法模式重构","anchor":"第一步使用模板方法模式重构"},{"name":"第二步：使用回调机制重构","anchor":"第二步使用回调机制重构"},{"name":"第三步：通用 RowMapper 设计","anchor":"第三步通用-RowMapper-设计"},{"name":"第四步：对标 Spring JdbcTemplate 源码","anchor":"第四步对标-Spring-JdbcTemplate-源码"},{"name":"我们的实现 vs Spring 实现对比","anchor":"我们的实现-vs-Spring-实现对比"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":24,"slug":"24","title":"Spring事务管理基础","group":"课程内容","progress_key":"spring-boot-24","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"事务核心概念","anchor":"事务核心概念"},{"name":"Spring 事务抽象","anchor":"Spring-事务抽象"},{"name":"编程式事务管理","anchor":"编程式事务管理"},{"name":"TransactionTemplate vs PlatformTransactionManager","anchor":"TransactionTemplate-vs-PlatformTransactionManager"},{"name":"在图书管理系统中应用编程式事务","anchor":"在图书管理系统中应用编程式事务"},{"name":"编程式事务 vs 声明式事务","anchor":"编程式事务-vs-声明式事务"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":25,"slug":"25","title":"Spring声明式事务与事务传播","group":"课程内容","progress_key":"spring-boot-25","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"从编程式事务到声明式事务","anchor":"从编程式事务到声明式事务"},{"name":"启用声明式事务","anchor":"启用声明式事务"},{"name":"@Transactional 注解详解","anchor":"Transactional-注解详解"},{"name":"事务传播行为","anchor":"事务传播行为"},{"name":"事务隔离级别","anchor":"事务隔离级别"},{"name":"@Transactional 失效场景分析","anchor":"Transactional-失效场景分析"},{"name":"实战：在图书管理系统中使用声明式事务","anchor":"实战在图书管理系统中使用声明式事务"},{"name":"注意事项","anchor":"注意事项"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":26,"slug":"26","title":"ORM核心概念与Spring Data架构","group":"课程内容","progress_key":"spring-boot-26","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"从 JDBC 到 ORM 的演进","anchor":"从-JDBC-到-ORM-的演进"},{"name":"ORM 核心概念","anchor":"ORM-核心概念"},{"name":"JPA 规范","anchor":"JPA-规范"},{"name":"Hibernate 与 JPA 的关系","anchor":"Hibernate-与-JPA-的关系"},{"name":"Spring Data 整体架构","anchor":"Spring-Data-整体架构"},{"name":"Spring Data 核心接口","anchor":"Spring-Data-核心接口"},{"name":"Spring Data JPA vs Spring JDBC","anchor":"Spring-Data-JPA-vs-Spring-JDBC"},{"name":"在图书管理系统中规划迁移路线","anchor":"在图书管理系统中规划迁移路线"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":27,"slug":"27","title":"Spring Data JPA快速上手","group":"课程内容","progress_key":"spring-boot-27","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"初始化Spring Data JPA开发环境","anchor":"初始化Spring-Data-JPA开发环境"},{"name":"定义 JPA 实体","anchor":"定义-JPA-实体"},{"name":"定义 Repository 接口","anchor":"定义-Repository-接口"},{"name":"使用 Repository 完成 CRUD","anchor":"使用-Repository-完成-CRUD"},{"name":"Entity 的生命周期回调","anchor":"Entity-的生命周期回调"},{"name":"Spring Data JPA vs JdbcTemplate 对比","anchor":"Spring-Data-JPA-vs-JdbcTemplate-对比"},{"name":"注意事项","anchor":"注意事项"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":28,"slug":"28","title":"Spring Data JPA高级查询","group":"课程内容","progress_key":"spring-boot-28","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"回顾与导入","anchor":"回顾与导入"},{"name":"方法命名查询（Query Methods）","anchor":"方法命名查询Query-Methods"},{"name":"@Query 注解","anchor":"Query-注解"},{"name":"分页与排序","anchor":"分页与排序"},{"name":"@Modifying 更新与删除操作","anchor":"Modifying-更新与删除操作"},{"name":"查询方式的选择策略","anchor":"查询方式的选择策略"},{"name":"实战：图书管理系统高级查询示例","anchor":"实战图书管理系统高级查询示例"},{"name":"注意事项","anchor":"注意事项"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":29,"slug":"29","title":"Spring Data JPA关联映射与实战","group":"课程内容","progress_key":"spring-boot-29","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"导入：从单表到关联表","anchor":"导入从单表到关联表"},{"name":"数据库表结构定义","anchor":"数据库表结构定义"},{"name":"关联关系概述","anchor":"关联关系概述"},{"name":"定义 JPA 实体","anchor":"定义-JPA-实体"},{"name":"级联操作（CascadeType）","anchor":"级联操作CascadeType"},{"name":"懒加载（LAZY）与急加载（EAGER）","anchor":"懒加载LAZY与急加载EAGER"},{"name":"N+1 查询问题与解决方案","anchor":"N1-查询问题与解决方案"},{"name":"实战：Repository 与 Service","anchor":"实战Repository-与-Service"},{"name":"注意事项","anchor":"注意事项"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":30,"slug":"30","title":"MyBatis 概述与 Spring Boot 集成","group":"课程内容","progress_key":"spring-boot-30","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"ORM 核心概念回顾","anchor":"ORM-核心概念回顾"},{"name":"MyBatis 概述","anchor":"MyBatis-概述"},{"name":"Spring Boot 集成 MyBatis","anchor":"Spring-Boot-集成-MyBatis"},{"name":"第一个 Mapper：XML 映射文件","anchor":"第一个-MapperXML-映射文件"},{"name":"在 Service 层注入 Mapper 并测试","anchor":"在-Service-层注入-Mapper-并测试"},{"name":"注意事项","anchor":"注意事项"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":31,"slug":"31","title":"MyBatis 映射文件与动态 SQL","group":"课程内容","progress_key":"spring-boot-31","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"回顾与导入","anchor":"回顾与导入"},{"name":"动态 SQL","anchor":"动态-SQL"},{"name":"结果集映射（resultMap）","anchor":"结果集映射resultMap"},{"name":"完整实战：图书订单管理","anchor":"完整实战图书订单管理"},{"name":"注意事项","anchor":"注意事项"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":32,"slug":"32","title":"MyBatis 高级特性","group":"课程内容","progress_key":"spring-boot-32","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"回顾与导入","anchor":"回顾与导入"},{"name":"分页实现方式","anchor":"分页实现方式"},{"name":"PageHelper 分页插件集成","anchor":"PageHelper-分页插件集成"},{"name":"MyBatis 注解开发","anchor":"MyBatis-注解开发"},{"name":"MyBatis 缓存机制","anchor":"MyBatis-缓存机制"},{"name":"实战：整合分页与缓存","anchor":"实战整合分页与缓存"},{"name":"MyBatis 拦截器","anchor":"MyBatis-拦截器"},{"name":"注意事项","anchor":"注意事项"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":33,"slug":"33","title":"MyBatis-Plus 概述与快速上手","group":"课程内容","progress_key":"spring-boot-33","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"回顾与导入","anchor":"回顾与导入"},{"name":"MyBatis-Plus 概述","anchor":"MyBatis-Plus-概述"},{"name":"Spring Boot 集成 MyBatis-Plus","anchor":"Spring-Boot-集成-MyBatis-Plus"},{"name":"实体类注解","anchor":"实体类注解"},{"name":"BaseMapper 通用 CRUD","anchor":"BaseMapper-通用-CRUD"},{"name":"逻辑删除","anchor":"逻辑删除"},{"name":"实战：将图书管理系统从 MyBatis 迁移到 MyBatis-Plus","anchor":"实战将图书管理系统从-MyBatis-迁移到-MyBatis-Plus"},{"name":"注意事项","anchor":"注意事项"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":34,"slug":"34","title":"MyBatis-Plus 条件构造器与分页插件","group":"课程内容","progress_key":"spring-boot-34","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"条件构造器体系","anchor":"条件构造器体系"},{"name":"QueryWrapper 常用方法","anchor":"QueryWrapper-常用方法"},{"name":"LambdaQueryWrapper（推荐）","anchor":"LambdaQueryWrapper推荐"},{"name":"UpdateWrapper 条件更新","anchor":"UpdateWrapper-条件更新"},{"name":"分页插件","anchor":"分页插件"},{"name":"实战：在图书管理系统中集成 Wrapper 和分页","anchor":"实战在图书管理系统中集成-Wrapper-和分页"},{"name":"注意事项","anchor":"注意事项"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":35,"slug":"35","title":"MyBatis-Plus 扩展","group":"课程内容","progress_key":"spring-boot-35","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"回顾与导入","anchor":"回顾与导入"},{"name":"通用 Service（IService 与 ServiceImpl）","anchor":"通用-ServiceIService-与-ServiceImpl"},{"name":"自动填充功能","anchor":"自动填充功能"},{"name":"乐观锁插件","anchor":"乐观锁插件"},{"name":"代码生成器","anchor":"代码生成器"},{"name":"注意事项","anchor":"注意事项"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":36,"slug":"36","title":"缓存概述与 Spring Cache 入门","group":"课程内容","progress_key":"spring-boot-36","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"缓存概述","anchor":"缓存概述"},{"name":"本地缓存 vs 分布式缓存","anchor":"本地缓存-vs-分布式缓存"},{"name":"Spring Cache 简介","anchor":"Spring-Cache-简介"},{"name":"Spring Cache 快速上手","anchor":"Spring-Cache-快速上手"},{"name":"缓存工作流程","anchor":"缓存工作流程"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":37,"slug":"37","title":"Spring Cache 核心注解详解","group":"课程内容","progress_key":"spring-boot-37","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"回顾与导入","anchor":"回顾与导入"},{"name":"查看 Spring Cache 缓存","anchor":"查看-Spring-Cache-缓存"},{"name":"@Cacheable 详解","anchor":"Cacheable-详解"},{"name":"@CachePut 详解","anchor":"CachePut-详解"},{"name":"@CacheEvict 详解","anchor":"CacheEvict-详解"},{"name":"@Caching 详解","anchor":"Caching-详解"},{"name":"实战：图书管理系统完整缓存策略","anchor":"实战图书管理系统完整缓存策略"},{"name":"注意事项","anchor":"注意事项"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":38,"slug":"38","title":"缓存管理器与缓存存储配置","group":"课程内容","progress_key":"spring-boot-38","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"回顾与导入","anchor":"回顾与导入"},{"name":"CacheManager 与缓存配置体系","anchor":"CacheManager-与缓存配置体系"},{"name":"ConcurrentMapCacheManager（默认）","anchor":"ConcurrentMapCacheManager默认"},{"name":"Caffeine 本地缓存配置","anchor":"Caffeine-本地缓存配置"},{"name":"多缓存管理器配置","anchor":"多缓存管理器配置"},{"name":"实战：为图书管理系统配置 Caffeine 缓存","anchor":"实战为图书管理系统配置-Caffeine-缓存"},{"name":"注意事项","anchor":"注意事项"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":39,"slug":"39","title":"缓存注解高级特性","group":"课程内容","progress_key":"spring-boot-39","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"回顾与导入","anchor":"回顾与导入"},{"name":"条件缓存（condition）","anchor":"条件缓存condition"},{"name":"排除缓存（unless）","anchor":"排除缓存unless"},{"name":"自定义 KeyGenerator","anchor":"自定义-KeyGenerator"},{"name":"sync 属性（同步缓存）","anchor":"sync-属性同步缓存"},{"name":"实战：为图书管理系统应用高级特性","anchor":"实战为图书管理系统应用高级特性"},{"name":"注意事项","anchor":"注意事项"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":40,"slug":"40","title":"缓存原理与自定义扩展","group":"课程内容","progress_key":"spring-boot-40","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"回顾与导入","anchor":"回顾与导入"},{"name":"Spring Cache 工作原理","anchor":"Spring-Cache-工作原理"},{"name":"自定义 Cache 实现","anchor":"自定义-Cache-实现"},{"name":"自定义 CacheManager","anchor":"自定义-CacheManager"},{"name":"JCache（JSR-107）支持","anchor":"JCacheJSR-107支持"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":41,"slug":"41","title":"缓存核心问题与最佳实践","group":"课程内容","progress_key":"spring-boot-41","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"回顾与导入","anchor":"回顾与导入"},{"name":"缓存三大问题","anchor":"缓存三大问题"},{"name":"缓存一致性","anchor":"缓存一致性"},{"name":"缓存最佳实践","anchor":"缓存最佳实践"},{"name":"实战：图书管理系统完整缓存方案","anchor":"实战图书管理系统完整缓存方案"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":42,"slug":"42","title":"异步处理概述与 Spring Async 入门","group":"课程内容","progress_key":"spring-boot-42","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"同步 vs 异步","anchor":"同步-vs-异步"},{"name":"Spring Async 简介","anchor":"Spring-Async-简介"},{"name":"Spring Async 快速上手","anchor":"Spring-Async-快速上手"},{"name":"@Async 方法自调用问题","anchor":"Async-方法自调用问题"},{"name":"实战：在图书管理系统中应用异步日志","anchor":"实战在图书管理系统中应用异步日志"},{"name":"注意事项","anchor":"注意事项"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":43,"slug":"43","title":"任务执行器配置与线程池管理","group":"课程内容","progress_key":"spring-boot-43","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"回顾与导入","anchor":"回顾与导入"},{"name":"TaskExecutor 体系概述","anchor":"TaskExecutor-体系概述"},{"name":"配置 ThreadPoolTaskExecutor","anchor":"配置-ThreadPoolTaskExecutor"},{"name":"多个独立线程池","anchor":"多个独立线程池"},{"name":"拒绝策略详解","anchor":"拒绝策略详解"},{"name":"线程池监控与调优","anchor":"线程池监控与调优"},{"name":"注意事项","anchor":"注意事项"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":44,"slug":"44","title":"异步方法返回值与异常处理","group":"课程内容","progress_key":"spring-boot-44","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"回顾与导入","anchor":"回顾与导入"},{"name":"无返回值异步方法","anchor":"无返回值异步方法"},{"name":"有返回值异步方法","anchor":"有返回值异步方法"},{"name":"CompletableFuture 进阶","anchor":"CompletableFuture-进阶"},{"name":"实战：图书管理系统异步报表导出","anchor":"实战图书管理系统异步报表导出"},{"name":"注意事项","anchor":"注意事项"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":45,"slug":"45","title":"异步事件与 ApplicationEvent","group":"课程内容","progress_key":"spring-boot-45","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"回顾与导入","anchor":"回顾与导入"},{"name":"Spring 事件机制概述","anchor":"Spring-事件机制概述"},{"name":"自定义事件","anchor":"自定义事件"},{"name":"@EventListener 注解","anchor":"EventListener-注解"},{"name":"异步事件监听","anchor":"异步事件监听"},{"name":"条件事件监听","anchor":"条件事件监听"},{"name":"事件顺序控制","anchor":"事件顺序控制"},{"name":"事务绑定事件","anchor":"事务绑定事件"},{"name":"实战：订单创建事件驱动异步处理","anchor":"实战订单创建事件驱动异步处理"},{"name":"注意事项","anchor":"注意事项"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":46,"slug":"46","title":"Web 异步处理","group":"课程内容","progress_key":"spring-boot-46","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"回顾与导入","anchor":"回顾与导入"},{"name":"Web 异步处理背景","anchor":"Web-异步处理背景"},{"name":"Callable 方式","anchor":"Callable-方式"},{"name":"WebAsyncTask 方式","anchor":"WebAsyncTask-方式"},{"name":"异步请求拦截器","anchor":"异步请求拦截器"},{"name":"实战：图书管理系统异步统计查询","anchor":"实战图书管理系统异步统计查询"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":47,"slug":"47","title":"TaskScheduler 调度器","group":"课程内容","progress_key":"spring-boot-47","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"回顾与导入","anchor":"回顾与导入"},{"name":"启用任务调度器","anchor":"启用任务调度器"},{"name":"TaskScheduler 快速入门","anchor":"TaskScheduler-快速入门"},{"name":"TaskScheduler 接口核心方法","anchor":"TaskScheduler-接口核心方法"},{"name":"ThreadPoolTaskScheduler 配置","anchor":"ThreadPoolTaskScheduler-配置"},{"name":"编程式调度","anchor":"编程式调度"},{"name":"实战：图书管理系统完整定时盘点模块","anchor":"实战图书管理系统完整定时盘点模块"},{"name":"注意事项","anchor":"注意事项"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":48,"slug":"48","title":"@Scheduled 注解应用","group":"课程内容","progress_key":"spring-boot-48","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"回顾与导入","anchor":"回顾与导入"},{"name":"@Scheduled 四种调度模式","anchor":"Scheduled-四种调度模式"},{"name":"@Scheduled 与 @Async 组合使用","anchor":"Scheduled-与-Async-组合使用"},{"name":"实战：图书管理系统定时任务","anchor":"实战图书管理系统定时任务"},{"name":"注意事项","anchor":"注意事项"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":49,"slug":"49","title":"Cron 表达式与调度综合实战","group":"课程内容","progress_key":"spring-boot-49","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"回顾与导入","anchor":"回顾与导入"},{"name":"Cron 表达式基础","anchor":"Cron-表达式基础"},{"name":"特殊字符详解","anchor":"特殊字符详解"},{"name":"常用 Cron 示例","anchor":"常用-Cron-示例"},{"name":"Cron 表达式验证","anchor":"Cron-表达式验证"},{"name":"综合实战：图书管理系统定时任务模块","anchor":"综合实战图书管理系统定时任务模块"},{"name":"常见错误与调试技巧","anchor":"常见错误与调试技巧"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":50,"slug":"50","title":"批处理机制与 Spring Batch 快速入门","group":"课程内容","progress_key":"spring-boot-50","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"批处理概述","anchor":"批处理概述"},{"name":"Spring Batch 核心概念","anchor":"Spring-Batch-核心概念"},{"name":"Spring Boot 集成 Spring Batch","anchor":"Spring-Boot-集成-Spring-Batch"},{"name":"第一个批处理任务：批量导入图书","anchor":"第一个批处理任务批量导入图书"},{"name":"运行批处理任务","anchor":"运行批处理任务"},{"name":"查看执行记录","anchor":"查看执行记录"},{"name":"注意事项","anchor":"注意事项"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":51,"slug":"51","title":"ItemReader、Processor和Writer 实战","group":"课程内容","progress_key":"spring-boot-51","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"回顾与导入","anchor":"回顾与导入"},{"name":"ItemReader 详解","anchor":"ItemReader-详解"},{"name":"ItemProcessor 详解","anchor":"ItemProcessor-详解"},{"name":"ItemWriter 详解","anchor":"ItemWriter-详解"},{"name":"Chunk 模型深入","anchor":"Chunk-模型深入"},{"name":"实战：从 CSV 文件导入图书数据","anchor":"实战从-CSV-文件导入图书数据"},{"name":"注意事项","anchor":"注意事项"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":52,"slug":"52","title":"JobRepository 与作业元数据管理","group":"课程内容","progress_key":"spring-boot-52","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"回顾与导入","anchor":"回顾与导入"},{"name":"JobRepository 概述","anchor":"JobRepository-概述"},{"name":"元数据表详解","anchor":"元数据表详解"},{"name":"使用 JobExplorer 查询作业","anchor":"使用-JobExplorer-查询作业"},{"name":"使用 JobOperator 管理作业","anchor":"使用-JobOperator-管理作业"},{"name":"实战：图书管理系统作业监控接口","anchor":"实战图书管理系统作业监控接口"},{"name":"注意事项","anchor":"注意事项"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":53,"slug":"53","title":"批处理异常处理与重启机制","group":"课程内容","progress_key":"spring-boot-53","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"回顾与导入","anchor":"回顾与导入"},{"name":"异常处理概述","anchor":"异常处理概述"},{"name":"Skip 跳过机制","anchor":"Skip-跳过机制"},{"name":"Retry 重试机制","anchor":"Retry-重试机制"},{"name":"Restart 断点续传","anchor":"Restart-断点续传"},{"name":"错误数据管理","anchor":"错误数据管理"},{"name":"实战：图书管理系统健壮的 CSV 导入","anchor":"实战图书管理系统健壮的-CSV-导入"},{"name":"注意事项","anchor":"注意事项"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":54,"slug":"54","title":"批处理监听器与任务调度","group":"课程内容","progress_key":"spring-boot-54","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"回顾与导入","anchor":"回顾与导入"},{"name":"监听器体系概览","anchor":"监听器体系概览"},{"name":"Job 级别监听器","anchor":"Job-级别监听器"},{"name":"Step 级别监听器","anchor":"Step-级别监听器"},{"name":"Chunk 级别监听器","anchor":"Chunk-级别监听器"},{"name":"Item 级别监听器","anchor":"Item-级别监听器"},{"name":"实战：图书管理系统定时统计任务","anchor":"实战图书管理系统定时统计任务"},{"name":"监听器组合实战","anchor":"监听器组合实战"},{"name":"注意事项","anchor":"注意事项"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":55,"slug":"55","title":"Actuator 入门与常用端点","group":"课程内容","progress_key":"spring-boot-55","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"系统监控概述","anchor":"系统监控概述"},{"name":"Actuator 快速集成","anchor":"Actuator-快速集成"},{"name":"常用端点详解","anchor":"常用端点详解"},{"name":"端点配置","anchor":"端点配置"},{"name":"实战：为图书管理系统开启监控","anchor":"实战为图书管理系统开启监控"},{"name":"端点安全配置","anchor":"端点安全配置"},{"name":"注意事项","anchor":"注意事项"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":56,"slug":"56","title":"健康检查与自定义健康指示器","group":"课程内容","progress_key":"spring-boot-56","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"回顾与导入","anchor":"回顾与导入"},{"name":"健康检查机制","anchor":"健康检查机制"},{"name":"内置健康指示器详解","anchor":"内置健康指示器详解"},{"name":"自定义健康指示器","anchor":"自定义健康指示器"},{"name":"健康检查分组","anchor":"健康检查分组"},{"name":"实战：为图书管理系统添加自定义健康检查","anchor":"实战为图书管理系统添加自定义健康检查"},{"name":"注意事项","anchor":"注意事项"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":57,"slug":"57","title":"指标监控与 Micrometer","group":"课程内容","progress_key":"spring-boot-57","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"回顾与导入","anchor":"回顾与导入"},{"name":"Micrometer 核心概念","anchor":"Micrometer-核心概念"},{"name":"内置指标","anchor":"内置指标"},{"name":"集成与配置","anchor":"集成与配置"},{"name":"自定义指标","anchor":"自定义指标"},{"name":"注意事项","anchor":"注意事项"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":58,"slug":"58","title":"Spring Boot Admin 可视化监控","group":"课程内容","progress_key":"spring-boot-58","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"回顾与导入","anchor":"回顾与导入"},{"name":"Spring Boot Admin 简介","anchor":"Spring-Boot-Admin-简介"},{"name":"搭建 Admin Server","anchor":"搭建-Admin-Server"},{"name":"接入客户端","anchor":"接入客户端"},{"name":"核心监控功能","anchor":"核心监控功能"},{"name":"告警通知","anchor":"告警通知"},{"name":"实战：搭建图书管理系统监控平台","anchor":"实战搭建图书管理系统监控平台"},{"name":"注意事项","anchor":"注意事项"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":59,"slug":"59","title":"测试概述与 JUnit 5 基础","group":"课程内容","progress_key":"spring-boot-59","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"为什么需要测试","anchor":"为什么需要测试"},{"name":"JUnit 5 基础","anchor":"JUnit-5-基础"},{"name":"实战：为 ISBN 校验工具类编写单元测试","anchor":"实战为-ISBN-校验工具类编写单元测试"},{"name":"注意事项","anchor":"注意事项"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":60,"slug":"60","title":"Mockito 与单元测试","group":"课程内容","progress_key":"spring-boot-60","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"回顾与导入","anchor":"回顾与导入"},{"name":"什么是 Mock","anchor":"什么是-Mock"},{"name":"Mockito 核心 API","anchor":"Mockito-核心-API"},{"name":"编写 Service 单元测试","anchor":"编写-Service-单元测试"},{"name":"Mockito 常用技巧","anchor":"Mockito-常用技巧"},{"name":"常见陷阱与注意事项","anchor":"常见陷阱与注意事项"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":61,"slug":"61","title":"Web 层测试：@WebMvcTest","group":"课程内容","progress_key":"spring-boot-61","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"回顾与导入","anchor":"回顾与导入"},{"name":"测试切片（Test Slice）","anchor":"测试切片Test-Slice"},{"name":"MockMvc 核心用法","anchor":"MockMvc-核心用法"},{"name":"依赖 Mock","anchor":"依赖-Mock"},{"name":"实战：测试 BookController","anchor":"实战测试-BookController"},{"name":"测试报告输出","anchor":"测试报告输出"},{"name":"参数校验的测试","anchor":"参数校验的测试"},{"name":"常见的 JSON 断言","anchor":"常见的-JSON-断言"},{"name":"注意事项","anchor":"注意事项"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":62,"slug":"62","title":"数据层测试：@MybatisPlusTest","group":"课程内容","progress_key":"spring-boot-62","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"回顾与导入","anchor":"回顾与导入"},{"name":"@MybatisPlusTest 概述","anchor":"MybatisPlusTest-概述"},{"name":"使用 @MybatisPlusTest","anchor":"使用-MybatisPlusTest"},{"name":"使用 @Sql 加载测试数据","anchor":"使用-Sql-加载测试数据"},{"name":"测试断言最佳实践","anchor":"测试断言最佳实践"},{"name":"注意事项","anchor":"注意事项"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":63,"slug":"63","title":"端到端集成测试：@SpringBootTest","group":"课程内容","progress_key":"spring-boot-63","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"回顾与导入","anchor":"回顾与导入"},{"name":"@SpringBootTest 概述","anchor":"SpringBootTest-概述"},{"name":"TestRestTemplate","anchor":"TestRestTemplate"},{"name":"测试配置管理","anchor":"测试配置管理"},{"name":"实战：图书管理系统集成测试","anchor":"实战图书管理系统集成测试"},{"name":"使用 MockMvc 的集成测试","anchor":"使用-MockMvc-的集成测试"},{"name":"分层测试策略","anchor":"分层测试策略"},{"name":"注意事项","anchor":"注意事项"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]}]}]},{"key":"spring-cloud","title":"Spring Cloud Alibaba","glyph":"C","cls":"b3","coming_soon":false,"modules":[{"name":"课程内容","chapters":[{"n":1,"slug":"1","title":"课程导言","group":"课程内容","progress_key":"spring-cloud-1"},{"n":2,"slug":"2","title":"微服务架构与案例系统初始化","group":"课程内容","progress_key":"spring-cloud-2"},{"n":3,"slug":"3","title":"Spring Cloud Alibaba技术栈集成","group":"课程内容","progress_key":"spring-cloud-3"},{"n":4,"slug":"4","title":"微服务拆分与接口设计","group":"课程内容","progress_key":"spring-cloud-4"},{"n":5,"slug":"5","title":"公共模块建设","group":"课程内容","progress_key":"spring-cloud-5"},{"n":6,"slug":"6","title":"Nacos部署与快速上手","group":"课程内容","progress_key":"spring-cloud-6"},{"n":7,"slug":"7","title":"Nacos高可用集群搭建","group":"课程内容","progress_key":"spring-cloud-7"},{"n":8,"slug":"8","title":"图书服务注册到Nacos","group":"课程内容","progress_key":"spring-cloud-8"},{"n":9,"slug":"9","title":"用户与订单服务注册","group":"课程内容","progress_key":"spring-cloud-9"},{"n":10,"slug":"10","title":"Nacos服务发现实战","group":"课程内容","progress_key":"spring-cloud-10"},{"n":11,"slug":"11","title":"Nacos分级模型与Namespace环境隔离","group":"课程内容","progress_key":"spring-cloud-11"},{"n":12,"slug":"12","title":"Nacos Group分组与多环境切换","group":"课程内容","progress_key":"spring-cloud-12"},{"n":13,"slug":"13","title":"Nacos权重路由","group":"课程内容","progress_key":"spring-cloud-13"},{"n":14,"slug":"14","title":"Nacos API 专题","group":"课程内容","progress_key":"spring-cloud-14"},{"n":15,"slug":"15","title":"OpenFeign快速上手","group":"课程内容","progress_key":"spring-cloud-15"},{"n":16,"slug":"16","title":"OpenFeign核心注解详解","group":"课程内容","progress_key":"spring-cloud-16"},{"n":17,"slug":"17","title":"OpenFeign拦截器","group":"课程内容","progress_key":"spring-cloud-17"},{"n":18,"slug":"18","title":"OpenFeign与LoadBalancer集成","group":"课程内容","progress_key":"spring-cloud-18"},{"n":19,"slug":"19","title":"订单-图书远程调用重构","group":"课程内容","progress_key":"spring-cloud-19"},{"n":20,"slug":"20","title":"Spring Cloud LoadBalancer快速上手","group":"课程内容","progress_key":"spring-cloud-20"},{"n":21,"slug":"21","title":"负载均衡算法与LoadBalancer","group":"课程内容","progress_key":"spring-cloud-21"},{"n":22,"slug":"22","title":"自定义负载均衡算法","group":"课程内容","progress_key":"spring-cloud-22"},{"n":23,"slug":"23","title":"标签化负载均衡与灰度发布","group":"课程内容","progress_key":"spring-cloud-23"},{"n":24,"slug":"24","title":"Nacos Config集成与配置迁移","group":"课程内容","progress_key":"spring-cloud-24"},{"n":25,"slug":"25","title":"配置分级模型与DataId实战","group":"课程内容","progress_key":"spring-cloud-25"},{"n":26,"slug":"26","title":"配置灰度发布实战","group":"课程内容","progress_key":"spring-cloud-26"}]}]},{"key":"cloud","title":"云计算","glyph":"云","cls":"b-cloud","coming_soon":true,"modules":[]}],"currentKey":"spring-boot","currentSlug":"59"}],"$L13","$L14"]}]]
+15:I[756,["619","static/chunks/619-ba102abea3e3d0e4.js","526","static/chunks/app/course/%5Bkey%5D/%5Bch%5D/page-4b7f30b4efe73131.js"],"default"]
+16:I[1599,["619","static/chunks/619-ba102abea3e3d0e4.js","526","static/chunks/app/course/%5Bkey%5D/%5Bch%5D/page-4b7f30b4efe73131.js"],"default"]
+19:I[5340,["619","static/chunks/619-ba102abea3e3d0e4.js","526","static/chunks/app/course/%5Bkey%5D/%5Bch%5D/page-4b7f30b4efe73131.js"],"default"]
+17:T16865,<h1 id="测试概述与-JUnit-5-基础">测试概述与 JUnit 5 基础</h1>
+<h2 id="课程目标">课程目标</h2>
+<ul>
+<li>理解测试在软件开发中的价值和测试金字塔模型</li>
+<li>了解 Spring Boot 测试体系的组成</li>
+<li>掌握 JUnit 5 的核心注解和断言方法</li>
+<li>掌握参数化测试的使用</li>
+<li>能够为图书管理系统的工具类编写单元测试</li>
+</ul>
+<h2 id="为什么需要测试">为什么需要测试</h2>
+<h3 id="没有测试的困境">没有测试的困境</h3>
+<p>在图书管理系统的开发过程中，如果我们不写测试，会面临以下问题：</p>
+<div class="codehilite lang-mermaid"><pre><span></span><code>flowchart LR
+    A[修改代码] --&gt; B{是否引入Bug？}
+    B --&gt;|不知道| C[手动点击测试]
+    C --&gt; D[只覆盖部分场景]
+    D --&gt; E[上线后用户发现问题]
+
+    style E fill:#ffcdd2
+</code></pre></div>
+
+<table>
+<thead>
+<tr>
+<th>问题</th>
+<th>说明</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>回归风险</strong></td>
+<td>修改 A 功能，意外破坏了 B 功能，无法及时发现</td>
+</tr>
+<tr>
+<td><strong>手动测试低效</strong></td>
+<td>每次改动都要手动点击验证，耗时且容易遗漏</td>
+</tr>
+<tr>
+<td><strong>信心不足</strong></td>
+<td>不敢重构代码，因为不知道会不会改坏</td>
+</tr>
+<tr>
+<td><strong>文档缺失</strong></td>
+<td>测试用例本身就是最好的行为文档</td>
+</tr>
+</tbody>
+</table>
+<h3 id="自动化测试的价值">自动化测试的价值</h3>
+<table>
+<thead>
+<tr>
+<th>价值</th>
+<th>说明</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>快速反馈</strong></td>
+<td>修改代码后几秒内知道是否破坏了功能</td>
+</tr>
+<tr>
+<td><strong>回归保障</strong></td>
+<td>确保已修复的 Bug 不会重新出现</td>
+</tr>
+<tr>
+<td><strong>支持重构</strong></td>
+<td>有测试保护，可以放心重构</td>
+</tr>
+<tr>
+<td><strong>行为文档</strong></td>
+<td>测试描述了代码的预期行为</td>
+</tr>
+<tr>
+<td><strong>降低调试成本</strong></td>
+<td>问题在开发阶段被发现，而非生产环境</td>
+</tr>
+</tbody>
+</table>
+<h3 id="测试金字塔">测试金字塔</h3>
+<p><strong>测试金字塔</strong>描述了不同类型测试的合理比例：</p>
+<div class="codehilite lang-mermaid"><pre><span></span><code>flowchart TB
+    A[端到端测试&lt;br/&gt;E2E Tests&lt;br/&gt;少量、慢、脆弱] --&gt; B[集成测试&lt;br/&gt;Integration Tests&lt;br/&gt;适中、中等速度]
+    B --&gt; C[单元测试&lt;br/&gt;Unit Tests&lt;br/&gt;大量、快、稳定]
+
+    style A fill:#ffcdd2
+    style B fill:#fff3e0
+    style C fill:#e8f5e9
+</code></pre></div>
+
+<table>
+<thead>
+<tr>
+<th>层级</th>
+<th>数量</th>
+<th>速度</th>
+<th>依赖</th>
+<th>验证范围</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>单元测试</strong></td>
+<td>最多</td>
+<td>毫秒级</td>
+<td>无（Mock）</td>
+<td>单个类/方法</td>
+</tr>
+<tr>
+<td><strong>集成测试</strong></td>
+<td>适中</td>
+<td>秒级</td>
+<td>数据库、容器</td>
+<td>多个组件协作</td>
+</tr>
+<tr>
+<td><strong>端到端测试</strong></td>
+<td>最少</td>
+<td>分钟级</td>
+<td>完整环境</td>
+<td>完整业务流程</td>
+</tr>
+</tbody>
+</table>
+<blockquote>
+<p>[!NOTE]
+金字塔的核心思想：<strong>多写单元测试，少写端到端测试</strong>。单元测试快、稳定、容易定位问题；端到端测试慢、脆弱，但能验证整体流程。</p>
+</blockquote>
+<h3 id="测试驱动开发TDD简介">测试驱动开发（TDD）简介</h3>
+<p><strong>TDD（Test-Driven Development）</strong> 是一种开发方法论，流程如下：</p>
+<div class="codehilite lang-mermaid"><pre><span></span><code>flowchart LR
+    A[写测试&lt;br/&gt;Red] --&gt; B[运行测试&lt;br/&gt;失败] --&gt; C[写代码&lt;br/&gt;Green] --&gt; D[重构&lt;br/&gt;Refactor] --&gt; A
+
+    style A fill:#ffcdd2
+    style C fill:#e8f5e9
+    style D fill:#e3f2fd
+</code></pre></div>
+
+<table>
+<thead>
+<tr>
+<th>阶段</th>
+<th>说明</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Red</strong></td>
+<td>先写一个失败的测试，描述期望的功能</td>
+</tr>
+<tr>
+<td><strong>Green</strong></td>
+<td>写最少的代码让测试通过</td>
+</tr>
+<tr>
+<td><strong>Refactor</strong></td>
+<td>在测试保护下重构代码，改善设计</td>
+</tr>
+</tbody>
+</table>
+<blockquote>
+<p>[!NOTE]
+TDD 不是强制要求，但理解其思想有助于写出更好的测试。本课程不强制 TDD，但推荐在开发中先思考测试场景。</p>
+</blockquote>
+<h3 id="Spring-Boot-测试体系概览">Spring Boot 测试体系概览</h3>
+<p>Spring Boot 提供了完整的测试支持，核心依赖是 <code>spring-boot-starter-test</code>：</p>
+<div class="codehilite lang-xml"><pre><span></span><code><span class="nt">&lt;dependency&gt;</span>
+<span class="w">    </span><span class="nt">&lt;groupId&gt;</span>org.springframework.boot<span class="nt">&lt;/groupId&gt;</span>
+<span class="w">    </span><span class="nt">&lt;artifactId&gt;</span>spring-boot-starter-test<span class="nt">&lt;/artifactId&gt;</span>
+<span class="w">    </span><span class="nt">&lt;scope&gt;</span>test<span class="nt">&lt;/scope&gt;</span>
+<span class="nt">&lt;/dependency&gt;</span>
+</code></pre></div>
+
+<p>它包含了以下核心库：</p>
+<table>
+<thead>
+<tr>
+<th>库</th>
+<th>用途</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>JUnit 5</strong></td>
+<td>测试框架，提供注解和断言</td>
+</tr>
+<tr>
+<td><strong>Mockito</strong></td>
+<td>Mock 框架，模拟依赖对象</td>
+</tr>
+<tr>
+<td><strong>AssertJ</strong></td>
+<td>流式断言库，更易读</td>
+</tr>
+<tr>
+<td><strong>Hamcrest</strong></td>
+<td>匹配器库</td>
+</tr>
+<tr>
+<td><strong>JSONassert</strong></td>
+<td>JSON 断言</td>
+</tr>
+<tr>
+<td><strong>JsonPath</strong></td>
+<td>JSON 路径查询</td>
+</tr>
+<tr>
+<td><strong>Spring Test</strong></td>
+<td>Spring 测试支持（@SpringBootTest 等）</td>
+</tr>
+</tbody>
+</table>
+<blockquote>
+<p>[!NOTE]
+<code>spring-boot-starter-test</code> 已经包含了上述所有依赖，无需额外添加。</p>
+</blockquote>
+<h2 id="JUnit-5-基础">JUnit 5 基础</h2>
+<h3 id="JUnit-5-简介">JUnit 5 简介</h3>
+<p><strong>JUnit 5</strong> 是当前主流的 Java 测试框架，由三个模块组成：</p>
+<table>
+<thead>
+<tr>
+<th>模块</th>
+<th>说明</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>JUnit Platform</strong></td>
+<td>测试运行平台，负责发现和执行测试</td>
+</tr>
+<tr>
+<td><strong>JUnit Jupiter</strong></td>
+<td>新的编程模型和扩展模型（我们主要使用）</td>
+</tr>
+<tr>
+<td><strong>JUnit Vintage</strong></td>
+<td>兼容 JUnit 3/4 的测试</td>
+</tr>
+</tbody>
+</table>
+<h3 id="核心注解">核心注解</h3>
+<table>
+<thead>
+<tr>
+<th>注解</th>
+<th>说明</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>@Test</code></td>
+<td>标记一个测试方法</td>
+</tr>
+<tr>
+<td><code>@BeforeEach</code></td>
+<td>每个测试方法执行前执行</td>
+</tr>
+<tr>
+<td><code>@AfterEach</code></td>
+<td>每个测试方法执行后执行</td>
+</tr>
+<tr>
+<td><code>@BeforeAll</code></td>
+<td>所有测试方法执行前执行一次（必须是静态方法）</td>
+</tr>
+<tr>
+<td><code>@AfterAll</code></td>
+<td>所有测试方法执行后执行一次（必须是静态方法）</td>
+</tr>
+<tr>
+<td><code>@Disabled</code></td>
+<td>禁用测试方法或类</td>
+</tr>
+<tr>
+<td><code>@DisplayName</code></td>
+<td>为测试方法/类指定可读名称</td>
+</tr>
+<tr>
+<td><code>@Nested</code></td>
+<td>定义嵌套测试类</td>
+</tr>
+<tr>
+<td><code>@Tag</code></td>
+<td>为测试打标签，便于分组执行</td>
+</tr>
+</tbody>
+</table>
+<h3 id="第一个测试类">第一个测试类</h3>
+<div class="codehilite lang-java"><pre><span></span><code><span class="kn">package</span><span class="w"> </span><span class="nn">com.example.bookmanager</span><span class="p">;</span>
+
+<span class="kn">import</span><span class="w"> </span><span class="nn">org.junit.jupiter.api.*</span><span class="p">;</span>
+
+<span class="kn">import static</span><span class="w"> </span><span class="nn">org.junit.jupiter.api.Assertions.*</span><span class="p">;</span>
+
+<span class="nd">@DisplayName</span><span class="p">(</span><span class="s">"JUnit 5 基础示例"</span><span class="p">)</span>
+<span class="kd">class</span> <span class="nc">FirstTest</span><span class="w"> </span><span class="p">{</span>
+
+<span class="w">    </span><span class="nd">@BeforeAll</span>
+<span class="w">    </span><span class="kd">static</span><span class="w"> </span><span class="kt">void</span><span class="w"> </span><span class="nf">beforeAll</span><span class="p">()</span><span class="w"> </span><span class="p">{</span>
+<span class="w">        </span><span class="n">System</span><span class="p">.</span><span class="na">out</span><span class="p">.</span><span class="na">println</span><span class="p">(</span><span class="s">"=== 所有测试开始前执行一次 ==="</span><span class="p">);</span>
+<span class="w">    </span><span class="p">}</span>
+
+<span class="w">    </span><span class="nd">@BeforeEach</span>
+<span class="w">    </span><span class="kt">void</span><span class="w"> </span><span class="nf">beforeEach</span><span class="p">()</span><span class="w"> </span><span class="p">{</span>
+<span class="w">        </span><span class="n">System</span><span class="p">.</span><span class="na">out</span><span class="p">.</span><span class="na">println</span><span class="p">(</span><span class="s">"--- 每个测试方法执行前执行 ---"</span><span class="p">);</span>
+<span class="w">    </span><span class="p">}</span>
+
+<span class="w">    </span><span class="nd">@Test</span>
+<span class="w">    </span><span class="nd">@DisplayName</span><span class="p">(</span><span class="s">"第一个测试方法"</span><span class="p">)</span>
+<span class="w">    </span><span class="kt">void</span><span class="w"> </span><span class="nf">test1</span><span class="p">()</span><span class="w"> </span><span class="p">{</span>
+<span class="w">        </span><span class="n">System</span><span class="p">.</span><span class="na">out</span><span class="p">.</span><span class="na">println</span><span class="p">(</span><span class="s">"执行测试1"</span><span class="p">);</span>
+<span class="w">        </span><span class="n">assertEquals</span><span class="p">(</span><span class="mi">2</span><span class="p">,</span><span class="w"> </span><span class="mi">1</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="mi">1</span><span class="p">);</span>
+<span class="w">    </span><span class="p">}</span>
+
+<span class="w">    </span><span class="nd">@Test</span>
+<span class="w">    </span><span class="nd">@DisplayName</span><span class="p">(</span><span class="s">"第二个测试方法"</span><span class="p">)</span>
+<span class="w">    </span><span class="kt">void</span><span class="w"> </span><span class="nf">test2</span><span class="p">()</span><span class="w"> </span><span class="p">{</span>
+<span class="w">        </span><span class="n">System</span><span class="p">.</span><span class="na">out</span><span class="p">.</span><span class="na">println</span><span class="p">(</span><span class="s">"执行测试2"</span><span class="p">);</span>
+<span class="w">        </span><span class="n">assertTrue</span><span class="p">(</span><span class="mi">5</span><span class="w"> </span><span class="o">&gt;</span><span class="w"> </span><span class="mi">3</span><span class="p">);</span>
+<span class="w">    </span><span class="p">}</span>
+
+<span class="w">    </span><span class="nd">@AfterEach</span>
+<span class="w">    </span><span class="kt">void</span><span class="w"> </span><span class="nf">afterEach</span><span class="p">()</span><span class="w"> </span><span class="p">{</span>
+<span class="w">        </span><span class="n">System</span><span class="p">.</span><span class="na">out</span><span class="p">.</span><span class="na">println</span><span class="p">(</span><span class="s">"--- 每个测试方法执行后执行 ---"</span><span class="p">);</span>
+<span class="w">    </span><span class="p">}</span>
+
+<span class="w">    </span><span class="nd">@AfterAll</span>
+<span class="w">    </span><span class="kd">static</span><span class="w"> </span><span class="kt">void</span><span class="w"> </span><span class="nf">afterAll</span><span class="p">()</span><span class="w"> </span><span class="p">{</span>
+<span class="w">        </span><span class="n">System</span><span class="p">.</span><span class="na">out</span><span class="p">.</span><span class="na">println</span><span class="p">(</span><span class="s">"=== 所有测试结束后执行一次 ==="</span><span class="p">);</span>
+<span class="w">    </span><span class="p">}</span>
+<span class="p">}</span>
+</code></pre></div>
+
+<p><strong>执行输出：</strong></p>
+<div class="codehilite"><pre><span></span><code>=== 所有测试开始前执行一次 ===
+--- 每个测试方法执行前执行 ---
+执行测试1
+--- 每个测试方法执行后执行 ---
+--- 每个测试方法执行前执行 ---
+执行测试2
+--- 每个测试方法执行后执行 ---
+=== 所有测试结束后执行一次 ===
+</code></pre></div>
+
+<h3 id="断言方法">断言方法</h3>
+<p>JUnit 5 提供了丰富的断言方法：</p>
+<table>
+<thead>
+<tr>
+<th>断言</th>
+<th>说明</th>
+<th>示例</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>assertEquals(expected, actual)</code></td>
+<td>相等断言</td>
+<td><code>assertEquals(2, 1+1)</code></td>
+</tr>
+<tr>
+<td><code>assertNotEquals(unexpected, actual)</code></td>
+<td>不相等断言</td>
+<td><code>assertNotEquals(3, 1+1)</code></td>
+</tr>
+<tr>
+<td><code>assertTrue(condition)</code></td>
+<td>真值断言</td>
+<td><code>assertTrue(5 &gt; 3)</code></td>
+</tr>
+<tr>
+<td><code>assertFalse(condition)</code></td>
+<td>假值断言</td>
+<td><code>assertFalse(5 &lt; 3)</code></td>
+</tr>
+<tr>
+<td><code>assertNull(object)</code></td>
+<td>空断言</td>
+<td><code>assertNull(null)</code></td>
+</tr>
+<tr>
+<td><code>assertNotNull(object)</code></td>
+<td>非空断言</td>
+<td><code>assertNotNull("hello")</code></td>
+</tr>
+<tr>
+<td><code>assertThrows(exceptionType, executable)</code></td>
+<td>异常断言</td>
+<td><code>assertThrows(IllegalArgumentException.class, () -&gt; ...)</code></td>
+</tr>
+<tr>
+<td><code>assertDoesNotThrow(executable)</code></td>
+<td>无异常断言</td>
+<td><code>assertDoesNotThrow(() -&gt; ...)</code></td>
+</tr>
+<tr>
+<td><code>assertAll(executables...)</code></td>
+<td>组合断言，全部执行</td>
+<td><code>assertAll(() -&gt; ..., () -&gt; ...)</code></td>
+</tr>
+<tr>
+<td><code>assertArrayEquals(expected, actual)</code></td>
+<td>数组相等断言</td>
+<td><code>assertArrayEquals(new int[]{1,2}, arr)</code></td>
+</tr>
+</tbody>
+</table>
+<p><strong>断言示例：</strong></p>
+<div class="codehilite lang-java"><pre><span></span><code><span class="nd">@Test</span>
+<span class="nd">@DisplayName</span><span class="p">(</span><span class="s">"断言方法示例"</span><span class="p">)</span>
+<span class="kt">void</span><span class="w"> </span><span class="nf">testAssertions</span><span class="p">()</span><span class="w"> </span><span class="p">{</span>
+<span class="w">    </span><span class="c1">// 相等断言</span>
+<span class="w">    </span><span class="n">assertEquals</span><span class="p">(</span><span class="mi">4</span><span class="p">,</span><span class="w"> </span><span class="mi">2</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="mi">2</span><span class="p">,</span><span class="w"> </span><span class="s">"2+2应该等于4"</span><span class="p">);</span>
+
+<span class="w">    </span><span class="c1">// 真值断言</span>
+<span class="w">    </span><span class="n">assertTrue</span><span class="p">(</span><span class="s">"hello"</span><span class="p">.</span><span class="na">length</span><span class="p">()</span><span class="w"> </span><span class="o">&gt;</span><span class="w"> </span><span class="mi">3</span><span class="p">);</span>
+
+<span class="w">    </span><span class="c1">// 异常断言</span>
+<span class="w">    </span><span class="n">IllegalArgumentException</span><span class="w"> </span><span class="n">exception</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">assertThrows</span><span class="p">(</span>
+<span class="w">            </span><span class="n">IllegalArgumentException</span><span class="p">.</span><span class="na">class</span><span class="p">,</span>
+<span class="w">            </span><span class="p">()</span><span class="w"> </span><span class="o">-&gt;</span><span class="w"> </span><span class="n">Integer</span><span class="p">.</span><span class="na">parseInt</span><span class="p">(</span><span class="s">"abc"</span><span class="p">)</span>
+<span class="w">    </span><span class="p">);</span>
+<span class="w">    </span><span class="n">assertEquals</span><span class="p">(</span><span class="s">"For input string: \"abc\""</span><span class="p">,</span><span class="w"> </span><span class="n">exception</span><span class="p">.</span><span class="na">getMessage</span><span class="p">());</span>
+
+<span class="w">    </span><span class="c1">// 组合断言（全部执行，即使前面的失败）</span>
+<span class="w">    </span><span class="n">assertAll</span><span class="p">(</span><span class="s">"用户信息"</span><span class="p">,</span>
+<span class="w">            </span><span class="p">()</span><span class="w"> </span><span class="o">-&gt;</span><span class="w"> </span><span class="n">assertEquals</span><span class="p">(</span><span class="s">"Alice"</span><span class="p">,</span><span class="w"> </span><span class="s">"Alice"</span><span class="p">),</span>
+<span class="w">            </span><span class="p">()</span><span class="w"> </span><span class="o">-&gt;</span><span class="w"> </span><span class="n">assertTrue</span><span class="p">(</span><span class="mi">25</span><span class="w"> </span><span class="o">&gt;</span><span class="w"> </span><span class="mi">18</span><span class="p">),</span>
+<span class="w">            </span><span class="p">()</span><span class="w"> </span><span class="o">-&gt;</span><span class="w"> </span><span class="n">assertNotNull</span><span class="p">(</span><span class="s">"alice@example.com"</span><span class="p">)</span>
+<span class="w">    </span><span class="p">);</span>
+<span class="p">}</span>
+</code></pre></div>
+
+<blockquote>
+<p>[!NOTE]
+<code>assertAll</code> 的优势：多个断言全部执行，一次性看到所有失败信息，而不是遇到第一个失败就停止。</p>
+</blockquote>
+<h3 id="参数化测试">参数化测试</h3>
+<p><strong>参数化测试</strong>允许用不同的参数多次运行同一个测试方法：</p>
+<div class="codehilite lang-java"><pre><span></span><code><span class="kn">import</span><span class="w"> </span><span class="nn">org.junit.jupiter.params.ParameterizedTest</span><span class="p">;</span>
+<span class="kn">import</span><span class="w"> </span><span class="nn">org.junit.jupiter.params.provider.*</span><span class="p">;</span>
+
+<span class="kd">class</span> <span class="nc">ParameterizedTestDemo</span><span class="w"> </span><span class="p">{</span>
+
+<span class="w">    </span><span class="nd">@ParameterizedTest</span>
+<span class="w">    </span><span class="nd">@ValueSource</span><span class="p">(</span><span class="n">ints</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="p">{</span><span class="mi">1</span><span class="p">,</span><span class="w"> </span><span class="mi">2</span><span class="p">,</span><span class="w"> </span><span class="mi">3</span><span class="p">,</span><span class="w"> </span><span class="mi">4</span><span class="p">,</span><span class="w"> </span><span class="mi">5</span><span class="p">})</span>
+<span class="w">    </span><span class="nd">@DisplayName</span><span class="p">(</span><span class="s">"正数测试"</span><span class="p">)</span>
+<span class="w">    </span><span class="kt">void</span><span class="w"> </span><span class="nf">testPositive</span><span class="p">(</span><span class="kt">int</span><span class="w"> </span><span class="n">number</span><span class="p">)</span><span class="w"> </span><span class="p">{</span>
+<span class="w">        </span><span class="n">assertTrue</span><span class="p">(</span><span class="n">number</span><span class="w"> </span><span class="o">&gt;</span><span class="w"> </span><span class="mi">0</span><span class="p">);</span>
+<span class="w">    </span><span class="p">}</span>
+
+<span class="w">    </span><span class="nd">@ParameterizedTest</span>
+<span class="w">    </span><span class="nd">@ValueSource</span><span class="p">(</span><span class="n">strings</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="p">{</span><span class="s">"Alice"</span><span class="p">,</span><span class="w"> </span><span class="s">"Bob"</span><span class="p">,</span><span class="w"> </span><span class="s">"Charlie"</span><span class="p">})</span>
+<span class="w">    </span><span class="nd">@DisplayName</span><span class="p">(</span><span class="s">"字符串长度测试"</span><span class="p">)</span>
+<span class="w">    </span><span class="kt">void</span><span class="w"> </span><span class="nf">testStringLength</span><span class="p">(</span><span class="n">String</span><span class="w"> </span><span class="n">name</span><span class="p">)</span><span class="w"> </span><span class="p">{</span>
+<span class="w">        </span><span class="n">assertTrue</span><span class="p">(</span><span class="n">name</span><span class="p">.</span><span class="na">length</span><span class="p">()</span><span class="w"> </span><span class="o">&gt;</span><span class="w"> </span><span class="mi">2</span><span class="p">);</span>
+<span class="w">    </span><span class="p">}</span>
+
+<span class="w">    </span><span class="nd">@ParameterizedTest</span>
+<span class="w">    </span><span class="nd">@CsvSource</span><span class="p">({</span>
+<span class="w">            </span><span class="s">"1, 1, 2"</span><span class="p">,</span>
+<span class="w">            </span><span class="s">"2, 3, 5"</span><span class="p">,</span>
+<span class="w">            </span><span class="s">"10, 20, 30"</span><span class="p">,</span>
+<span class="w">            </span><span class="s">"-1, 1, 0"</span>
+<span class="w">    </span><span class="p">})</span>
+<span class="w">    </span><span class="nd">@DisplayName</span><span class="p">(</span><span class="s">"加法测试"</span><span class="p">)</span>
+<span class="w">    </span><span class="kt">void</span><span class="w"> </span><span class="nf">testAddition</span><span class="p">(</span><span class="kt">int</span><span class="w"> </span><span class="n">a</span><span class="p">,</span><span class="w"> </span><span class="kt">int</span><span class="w"> </span><span class="n">b</span><span class="p">,</span><span class="w"> </span><span class="kt">int</span><span class="w"> </span><span class="n">expected</span><span class="p">)</span><span class="w"> </span><span class="p">{</span>
+<span class="w">        </span><span class="n">assertEquals</span><span class="p">(</span><span class="n">expected</span><span class="p">,</span><span class="w"> </span><span class="n">a</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="n">b</span><span class="p">);</span>
+<span class="w">    </span><span class="p">}</span>
+
+<span class="w">    </span><span class="nd">@ParameterizedTest</span>
+<span class="w">    </span><span class="nd">@MethodSource</span><span class="p">(</span><span class="s">"provideBookData"</span><span class="p">)</span>
+<span class="w">    </span><span class="nd">@DisplayName</span><span class="p">(</span><span class="s">"图书数据测试"</span><span class="p">)</span>
+<span class="w">    </span><span class="kt">void</span><span class="w"> </span><span class="nf">testBookData</span><span class="p">(</span><span class="n">String</span><span class="w"> </span><span class="n">title</span><span class="p">,</span><span class="w"> </span><span class="kt">double</span><span class="w"> </span><span class="n">price</span><span class="p">)</span><span class="w"> </span><span class="p">{</span>
+<span class="w">        </span><span class="n">assertNotNull</span><span class="p">(</span><span class="n">title</span><span class="p">);</span>
+<span class="w">        </span><span class="n">assertTrue</span><span class="p">(</span><span class="n">price</span><span class="w"> </span><span class="o">&gt;</span><span class="w"> </span><span class="mi">0</span><span class="p">);</span>
+<span class="w">    </span><span class="p">}</span>
+
+<span class="w">    </span><span class="kd">static</span><span class="w"> </span><span class="n">Stream</span><span class="o">&lt;</span><span class="n">Arguments</span><span class="o">&gt;</span><span class="w"> </span><span class="nf">provideBookData</span><span class="p">()</span><span class="w"> </span><span class="p">{</span>
+<span class="w">        </span><span class="k">return</span><span class="w"> </span><span class="n">Stream</span><span class="p">.</span><span class="na">of</span><span class="p">(</span>
+<span class="w">                </span><span class="n">Arguments</span><span class="p">.</span><span class="na">of</span><span class="p">(</span><span class="s">"Spring Boot 实战"</span><span class="p">,</span><span class="w"> </span><span class="mf">79.00</span><span class="p">),</span>
+<span class="w">                </span><span class="n">Arguments</span><span class="p">.</span><span class="na">of</span><span class="p">(</span><span class="s">"Java 核心技术"</span><span class="p">,</span><span class="w"> </span><span class="mf">89.00</span><span class="p">),</span>
+<span class="w">                </span><span class="n">Arguments</span><span class="p">.</span><span class="na">of</span><span class="p">(</span><span class="s">"深入理解 Java 虚拟机"</span><span class="p">,</span><span class="w"> </span><span class="mf">129.00</span><span class="p">)</span>
+<span class="w">        </span><span class="p">);</span>
+<span class="w">    </span><span class="p">}</span>
+<span class="p">}</span>
+</code></pre></div>
+
+<p><strong>常用的参数来源：</strong></p>
+<table>
+<thead>
+<tr>
+<th>注解</th>
+<th>说明</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>@ValueSource</code></td>
+<td>提供基本类型或字符串数组</td>
+</tr>
+<tr>
+<td><code>@CsvSource</code></td>
+<td>提供 CSV 格式的多参数</td>
+</tr>
+<tr>
+<td><code>@MethodSource</code></td>
+<td>提供方法返回的参数流</td>
+</tr>
+<tr>
+<td><code>@EnumSource</code></td>
+<td>提供枚举值</td>
+</tr>
+<tr>
+<td><code>@NullSource</code></td>
+<td>提供 null 值</td>
+</tr>
+<tr>
+<td><code>@EmptySource</code></td>
+<td>提供空值</td>
+</tr>
+</tbody>
+</table>
+<h2 id="实战为-ISBN-校验工具类编写单元测试">实战：为 ISBN 校验工具类编写单元测试</h2>
+<h3 id="需求">需求</h3>
+<p>图书管理系统中需要校验 ISBN 格式。ISBN（国际标准书号）有两种格式：</p>
+<ul>
+<li>ISBN-10：10 位数字，最后一位可能是 X</li>
+<li>ISBN-13：13 位数字，以 978 或 979 开头</li>
+</ul>
+<p>实现一个 <code>IsbnValidator</code> 工具类，并提供完整的单元测试。</p>
+<h3 id="实现工具类">实现工具类</h3>
+<p>使用简单的字符串遍历、去分隔符和长度判断。</p>
+<div class="codehilite lang-java"><pre><span></span><code><span class="cm">/**</span>
+<span class="cm"> * ISBN 校验工具类</span>
+<span class="cm"> * 只校验格式，不校验 ISBN 校验位。</span>
+<span class="cm"> */</span>
+<span class="kd">public</span><span class="w"> </span><span class="kd">class</span> <span class="nc">IsbnValidator</span><span class="w"> </span><span class="p">{</span>
+
+<span class="w">    </span><span class="cm">/**</span>
+<span class="cm">     * 去除 ISBN 中的连字符和空白字符</span>
+<span class="cm">     */</span>
+<span class="w">    </span><span class="kd">private</span><span class="w"> </span><span class="kd">static</span><span class="w"> </span><span class="n">String</span><span class="w"> </span><span class="nf">clean</span><span class="p">(</span><span class="n">String</span><span class="w"> </span><span class="n">isbn</span><span class="p">)</span><span class="w"> </span><span class="p">{</span>
+<span class="w">        </span><span class="n">StringBuilder</span><span class="w"> </span><span class="n">sb</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="k">new</span><span class="w"> </span><span class="n">StringBuilder</span><span class="p">();</span>
+<span class="w">        </span><span class="k">for</span><span class="w"> </span><span class="p">(</span><span class="kt">int</span><span class="w"> </span><span class="n">i</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="mi">0</span><span class="p">;</span><span class="w"> </span><span class="n">i</span><span class="w"> </span><span class="o">&lt;</span><span class="w"> </span><span class="n">isbn</span><span class="p">.</span><span class="na">length</span><span class="p">();</span><span class="w"> </span><span class="n">i</span><span class="o">++</span><span class="p">)</span><span class="w"> </span><span class="p">{</span>
+<span class="w">            </span><span class="kt">char</span><span class="w"> </span><span class="n">c</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">isbn</span><span class="p">.</span><span class="na">charAt</span><span class="p">(</span><span class="n">i</span><span class="p">);</span>
+<span class="w">            </span><span class="k">if</span><span class="w"> </span><span class="p">(</span><span class="n">c</span><span class="w"> </span><span class="o">!=</span><span class="w"> </span><span class="sc">'-'</span><span class="w"> </span><span class="o">&amp;&amp;</span><span class="w"> </span><span class="o">!</span><span class="n">Character</span><span class="p">.</span><span class="na">isWhitespace</span><span class="p">(</span><span class="n">c</span><span class="p">))</span><span class="w"> </span><span class="p">{</span>
+<span class="w">                </span><span class="n">sb</span><span class="p">.</span><span class="na">append</span><span class="p">(</span><span class="n">c</span><span class="p">);</span>
+<span class="w">            </span><span class="p">}</span>
+<span class="w">        </span><span class="p">}</span>
+<span class="w">        </span><span class="k">return</span><span class="w"> </span><span class="n">sb</span><span class="p">.</span><span class="na">toString</span><span class="p">();</span>
+<span class="w">    </span><span class="p">}</span>
+
+<span class="w">    </span><span class="cm">/**</span>
+<span class="cm">     * 校验 ISBN 格式是否合法</span>
+<span class="cm">     */</span>
+<span class="w">    </span><span class="kd">public</span><span class="w"> </span><span class="kd">static</span><span class="w"> </span><span class="kt">boolean</span><span class="w"> </span><span class="nf">isValid</span><span class="p">(</span><span class="n">String</span><span class="w"> </span><span class="n">isbn</span><span class="p">)</span><span class="w"> </span><span class="p">{</span>
+<span class="w">        </span><span class="k">if</span><span class="w"> </span><span class="p">(</span><span class="n">isbn</span><span class="w"> </span><span class="o">==</span><span class="w"> </span><span class="kc">null</span><span class="w"> </span><span class="o">||</span><span class="w"> </span><span class="n">isbn</span><span class="p">.</span><span class="na">isBlank</span><span class="p">())</span><span class="w"> </span><span class="p">{</span>
+<span class="w">            </span><span class="k">return</span><span class="w"> </span><span class="kc">false</span><span class="p">;</span>
+<span class="w">        </span><span class="p">}</span>
+
+<span class="w">        </span><span class="n">String</span><span class="w"> </span><span class="n">cleaned</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">clean</span><span class="p">(</span><span class="n">isbn</span><span class="p">);</span>
+
+<span class="w">        </span><span class="k">if</span><span class="w"> </span><span class="p">(</span><span class="n">cleaned</span><span class="p">.</span><span class="na">length</span><span class="p">()</span><span class="w"> </span><span class="o">==</span><span class="w"> </span><span class="mi">10</span><span class="p">)</span><span class="w"> </span><span class="p">{</span>
+<span class="w">            </span><span class="c1">// ISBN-10：前 9 位必须是数字，最后一位是数字或 X/x</span>
+<span class="w">            </span><span class="k">for</span><span class="w"> </span><span class="p">(</span><span class="kt">int</span><span class="w"> </span><span class="n">i</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="mi">0</span><span class="p">;</span><span class="w"> </span><span class="n">i</span><span class="w"> </span><span class="o">&lt;</span><span class="w"> </span><span class="mi">9</span><span class="p">;</span><span class="w"> </span><span class="n">i</span><span class="o">++</span><span class="p">)</span><span class="w"> </span><span class="p">{</span>
+<span class="w">                </span><span class="k">if</span><span class="w"> </span><span class="p">(</span><span class="o">!</span><span class="n">Character</span><span class="p">.</span><span class="na">isDigit</span><span class="p">(</span><span class="n">cleaned</span><span class="p">.</span><span class="na">charAt</span><span class="p">(</span><span class="n">i</span><span class="p">)))</span><span class="w"> </span><span class="p">{</span>
+<span class="w">                    </span><span class="k">return</span><span class="w"> </span><span class="kc">false</span><span class="p">;</span>
+<span class="w">                </span><span class="p">}</span>
+<span class="w">            </span><span class="p">}</span>
+<span class="w">            </span><span class="kt">char</span><span class="w"> </span><span class="n">last</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">cleaned</span><span class="p">.</span><span class="na">charAt</span><span class="p">(</span><span class="mi">9</span><span class="p">);</span>
+<span class="w">            </span><span class="k">return</span><span class="w"> </span><span class="n">Character</span><span class="p">.</span><span class="na">isDigit</span><span class="p">(</span><span class="n">last</span><span class="p">)</span><span class="w"> </span><span class="o">||</span><span class="w"> </span><span class="n">last</span><span class="w"> </span><span class="o">==</span><span class="w"> </span><span class="sc">'X'</span><span class="w"> </span><span class="o">||</span><span class="w"> </span><span class="n">last</span><span class="w"> </span><span class="o">==</span><span class="w"> </span><span class="sc">'x'</span><span class="p">;</span>
+<span class="w">        </span><span class="p">}</span>
+
+<span class="w">        </span><span class="k">if</span><span class="w"> </span><span class="p">(</span><span class="n">cleaned</span><span class="p">.</span><span class="na">length</span><span class="p">()</span><span class="w"> </span><span class="o">==</span><span class="w"> </span><span class="mi">13</span><span class="p">)</span><span class="w"> </span><span class="p">{</span>
+<span class="w">            </span><span class="c1">// ISBN-13：13 位全是数字，且以 978 或 979 开头</span>
+<span class="w">            </span><span class="k">if</span><span class="w"> </span><span class="p">(</span><span class="o">!</span><span class="n">cleaned</span><span class="p">.</span><span class="na">startsWith</span><span class="p">(</span><span class="s">"978"</span><span class="p">)</span><span class="w"> </span><span class="o">&amp;&amp;</span><span class="w"> </span><span class="o">!</span><span class="n">cleaned</span><span class="p">.</span><span class="na">startsWith</span><span class="p">(</span><span class="s">"979"</span><span class="p">))</span><span class="w"> </span><span class="p">{</span>
+<span class="w">                </span><span class="k">return</span><span class="w"> </span><span class="kc">false</span><span class="p">;</span>
+<span class="w">            </span><span class="p">}</span>
+<span class="w">            </span><span class="k">for</span><span class="w"> </span><span class="p">(</span><span class="kt">int</span><span class="w"> </span><span class="n">i</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="mi">0</span><span class="p">;</span><span class="w"> </span><span class="n">i</span><span class="w"> </span><span class="o">&lt;</span><span class="w"> </span><span class="mi">13</span><span class="p">;</span><span class="w"> </span><span class="n">i</span><span class="o">++</span><span class="p">)</span><span class="w"> </span><span class="p">{</span>
+<span class="w">                </span><span class="k">if</span><span class="w"> </span><span class="p">(</span><span class="o">!</span><span class="n">Character</span><span class="p">.</span><span class="na">isDigit</span><span class="p">(</span><span class="n">cleaned</span><span class="p">.</span><span class="na">charAt</span><span class="p">(</span><span class="n">i</span><span class="p">)))</span><span class="w"> </span><span class="p">{</span>
+<span class="w">                    </span><span class="k">return</span><span class="w"> </span><span class="kc">false</span><span class="p">;</span>
+<span class="w">                </span><span class="p">}</span>
+<span class="w">            </span><span class="p">}</span>
+<span class="w">            </span><span class="k">return</span><span class="w"> </span><span class="kc">true</span><span class="p">;</span>
+<span class="w">        </span><span class="p">}</span>
+
+<span class="w">        </span><span class="k">return</span><span class="w"> </span><span class="kc">false</span><span class="p">;</span>
+<span class="w">    </span><span class="p">}</span>
+
+<span class="w">    </span><span class="cm">/**</span>
+<span class="cm">     * 获取 ISBN 类型</span>
+<span class="cm">     */</span>
+<span class="w">    </span><span class="kd">public</span><span class="w"> </span><span class="kd">static</span><span class="w"> </span><span class="n">String</span><span class="w"> </span><span class="nf">getType</span><span class="p">(</span><span class="n">String</span><span class="w"> </span><span class="n">isbn</span><span class="p">)</span><span class="w"> </span><span class="p">{</span>
+<span class="w">        </span><span class="k">if</span><span class="w"> </span><span class="p">(</span><span class="o">!</span><span class="n">isValid</span><span class="p">(</span><span class="n">isbn</span><span class="p">))</span><span class="w"> </span><span class="p">{</span>
+<span class="w">            </span><span class="k">throw</span><span class="w"> </span><span class="k">new</span><span class="w"> </span><span class="n">IllegalArgumentException</span><span class="p">(</span><span class="s">"无效的 ISBN: "</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="n">isbn</span><span class="p">);</span>
+<span class="w">        </span><span class="p">}</span>
+<span class="w">        </span><span class="n">String</span><span class="w"> </span><span class="n">cleaned</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">clean</span><span class="p">(</span><span class="n">isbn</span><span class="p">);</span>
+<span class="w">        </span><span class="k">return</span><span class="w"> </span><span class="n">cleaned</span><span class="p">.</span><span class="na">length</span><span class="p">()</span><span class="w"> </span><span class="o">==</span><span class="w"> </span><span class="mi">10</span><span class="w"> </span><span class="o">?</span><span class="w"> </span><span class="s">"ISBN-10"</span><span class="w"> </span><span class="p">:</span><span class="w"> </span><span class="s">"ISBN-13"</span><span class="p">;</span>
+<span class="w">    </span><span class="p">}</span>
+
+<span class="w">    </span><span class="cm">/**</span>
+<span class="cm">     * 标准化 ISBN（去除连字符和空格）</span>
+<span class="cm">     */</span>
+<span class="w">    </span><span class="kd">public</span><span class="w"> </span><span class="kd">static</span><span class="w"> </span><span class="n">String</span><span class="w"> </span><span class="nf">normalize</span><span class="p">(</span><span class="n">String</span><span class="w"> </span><span class="n">isbn</span><span class="p">)</span><span class="w"> </span><span class="p">{</span>
+<span class="w">        </span><span class="k">if</span><span class="w"> </span><span class="p">(</span><span class="n">isbn</span><span class="w"> </span><span class="o">==</span><span class="w"> </span><span class="kc">null</span><span class="p">)</span><span class="w"> </span><span class="p">{</span>
+<span class="w">            </span><span class="k">throw</span><span class="w"> </span><span class="k">new</span><span class="w"> </span><span class="n">IllegalArgumentException</span><span class="p">(</span><span class="s">"ISBN 不能为 null"</span><span class="p">);</span>
+<span class="w">        </span><span class="p">}</span>
+<span class="w">        </span><span class="k">return</span><span class="w"> </span><span class="n">clean</span><span class="p">(</span><span class="n">isbn</span><span class="p">);</span>
+<span class="w">    </span><span class="p">}</span>
+<span class="p">}</span>
+</code></pre></div>
+
+<h3 id="编写单元测试">编写单元测试</h3>
+<div class="codehilite lang-java"><pre><span></span><code><span class="nd">@DisplayName</span><span class="p">(</span><span class="s">"ISBN 校验工具类测试"</span><span class="p">)</span>
+<span class="kd">class</span> <span class="nc">IsbnValidatorTest</span><span class="w"> </span><span class="p">{</span>
+
+<span class="w">    </span><span class="c1">// ========== isValid 正常场景 ==========</span>
+
+<span class="w">    </span><span class="nd">@Test</span>
+<span class="w">    </span><span class="nd">@DisplayName</span><span class="p">(</span><span class="s">"有效的 ISBN-10（无连字符）"</span><span class="p">)</span>
+<span class="w">    </span><span class="kt">void</span><span class="w"> </span><span class="nf">testValidIsbn10</span><span class="p">()</span><span class="w"> </span><span class="p">{</span>
+<span class="w">        </span><span class="n">assertTrue</span><span class="p">(</span><span class="n">IsbnValidator</span><span class="p">.</span><span class="na">isValid</span><span class="p">(</span><span class="s">"0306406152"</span><span class="p">));</span>
+<span class="w">    </span><span class="p">}</span>
+
+<span class="w">    </span><span class="nd">@Test</span>
+<span class="w">    </span><span class="nd">@DisplayName</span><span class="p">(</span><span class="s">"有效的 ISBN-10（带连字符）"</span><span class="p">)</span>
+<span class="w">    </span><span class="kt">void</span><span class="w"> </span><span class="nf">testValidIsbn10WithHyphens</span><span class="p">()</span><span class="w"> </span><span class="p">{</span>
+<span class="w">        </span><span class="n">assertTrue</span><span class="p">(</span><span class="n">IsbnValidator</span><span class="p">.</span><span class="na">isValid</span><span class="p">(</span><span class="s">"0-306-40615-2"</span><span class="p">));</span>
+<span class="w">    </span><span class="p">}</span>
+
+<span class="w">    </span><span class="nd">@Test</span>
+<span class="w">    </span><span class="nd">@DisplayName</span><span class="p">(</span><span class="s">"有效的 ISBN-10（最后一位为 X）"</span><span class="p">)</span>
+<span class="w">    </span><span class="kt">void</span><span class="w"> </span><span class="nf">testValidIsbn10WithX</span><span class="p">()</span><span class="w"> </span><span class="p">{</span>
+<span class="w">        </span><span class="n">assertTrue</span><span class="p">(</span><span class="n">IsbnValidator</span><span class="p">.</span><span class="na">isValid</span><span class="p">(</span><span class="s">"097522980X"</span><span class="p">));</span>
+<span class="w">    </span><span class="p">}</span>
+
+<span class="w">    </span><span class="nd">@Test</span>
+<span class="w">    </span><span class="nd">@DisplayName</span><span class="p">(</span><span class="s">"有效的 ISBN-13"</span><span class="p">)</span>
+<span class="w">    </span><span class="kt">void</span><span class="w"> </span><span class="nf">testValidIsbn13</span><span class="p">()</span><span class="w"> </span><span class="p">{</span>
+<span class="w">        </span><span class="n">assertTrue</span><span class="p">(</span><span class="n">IsbnValidator</span><span class="p">.</span><span class="na">isValid</span><span class="p">(</span><span class="s">"9780306406157"</span><span class="p">));</span>
+<span class="w">    </span><span class="p">}</span>
+
+<span class="w">    </span><span class="nd">@Test</span>
+<span class="w">    </span><span class="nd">@DisplayName</span><span class="p">(</span><span class="s">"有效的 ISBN-13（979 开头）"</span><span class="p">)</span>
+<span class="w">    </span><span class="kt">void</span><span class="w"> </span><span class="nf">testValidIsbn13With979</span><span class="p">()</span><span class="w"> </span><span class="p">{</span>
+<span class="w">        </span><span class="n">assertTrue</span><span class="p">(</span><span class="n">IsbnValidator</span><span class="p">.</span><span class="na">isValid</span><span class="p">(</span><span class="s">"9791234567890"</span><span class="p">));</span>
+<span class="w">    </span><span class="p">}</span>
+
+<span class="w">    </span><span class="c1">// ========== isValid 异常场景 ==========</span>
+
+<span class="w">    </span><span class="nd">@ParameterizedTest</span>
+<span class="w">    </span><span class="nd">@NullAndEmptySource</span>
+<span class="w">    </span><span class="nd">@DisplayName</span><span class="p">(</span><span class="s">"null 或空字符串应返回 false"</span><span class="p">)</span>
+<span class="w">    </span><span class="kt">void</span><span class="w"> </span><span class="nf">testInvalidNullOrEmpty</span><span class="p">(</span><span class="n">String</span><span class="w"> </span><span class="n">isbn</span><span class="p">)</span><span class="w"> </span><span class="p">{</span>
+<span class="w">        </span><span class="n">assertFalse</span><span class="p">(</span><span class="n">IsbnValidator</span><span class="p">.</span><span class="na">isValid</span><span class="p">(</span><span class="n">isbn</span><span class="p">));</span>
+<span class="w">    </span><span class="p">}</span>
+
+<span class="w">    </span><span class="nd">@ParameterizedTest</span>
+<span class="w">    </span><span class="nd">@ValueSource</span><span class="p">(</span><span class="n">strings</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="p">{</span>
+<span class="w">            </span><span class="s">"12345"</span><span class="p">,</span><span class="w">                    </span><span class="c1">// 长度不足</span>
+<span class="w">            </span><span class="s">"12345678901234"</span><span class="p">,</span><span class="w">           </span><span class="c1">// 长度超出</span>
+<span class="w">            </span><span class="s">"abcdefghij"</span><span class="p">,</span><span class="w">               </span><span class="c1">// 非数字</span>
+<span class="w">            </span><span class="s">"030640615A"</span><span class="p">,</span><span class="w">               </span><span class="c1">// 最后一位不是数字或 X</span>
+<span class="w">            </span><span class="s">"978030640615"</span><span class="p">,</span><span class="w">             </span><span class="c1">// ISBN-13 长度不足</span>
+<span class="w">            </span><span class="s">"1234567890123"</span><span class="p">,</span><span class="w">            </span><span class="c1">// 不以 978/979 开头</span>
+<span class="w">            </span><span class="s">"978030640615A"</span><span class="w">             </span><span class="c1">// ISBN-13 包含非数字</span>
+<span class="w">    </span><span class="p">})</span>
+<span class="w">    </span><span class="nd">@DisplayName</span><span class="p">(</span><span class="s">"无效的 ISBN 应返回 false"</span><span class="p">)</span>
+<span class="w">    </span><span class="kt">void</span><span class="w"> </span><span class="nf">testInvalidIsbn</span><span class="p">(</span><span class="n">String</span><span class="w"> </span><span class="n">isbn</span><span class="p">)</span><span class="w"> </span><span class="p">{</span>
+<span class="w">        </span><span class="n">assertFalse</span><span class="p">(</span><span class="n">IsbnValidator</span><span class="p">.</span><span class="na">isValid</span><span class="p">(</span><span class="n">isbn</span><span class="p">));</span>
+<span class="w">    </span><span class="p">}</span>
+
+<span class="w">    </span><span class="c1">// ========== getType 测试 ==========</span>
+
+<span class="w">    </span><span class="nd">@ParameterizedTest</span>
+<span class="w">    </span><span class="nd">@CsvSource</span><span class="p">({</span>
+<span class="w">            </span><span class="s">"0306406152, ISBN-10"</span><span class="p">,</span>
+<span class="w">            </span><span class="s">"0-306-40615-2, ISBN-10"</span><span class="p">,</span>
+<span class="w">            </span><span class="s">"097522980X, ISBN-10"</span><span class="p">,</span>
+<span class="w">            </span><span class="s">"9780306406157, ISBN-13"</span><span class="p">,</span>
+<span class="w">            </span><span class="s">"9791234567890, ISBN-13"</span>
+<span class="w">    </span><span class="p">})</span>
+<span class="w">    </span><span class="nd">@DisplayName</span><span class="p">(</span><span class="s">"获取 ISBN 类型"</span><span class="p">)</span>
+<span class="w">    </span><span class="kt">void</span><span class="w"> </span><span class="nf">testGetType</span><span class="p">(</span><span class="n">String</span><span class="w"> </span><span class="n">isbn</span><span class="p">,</span><span class="w"> </span><span class="n">String</span><span class="w"> </span><span class="n">expectedType</span><span class="p">)</span><span class="w"> </span><span class="p">{</span>
+<span class="w">        </span><span class="n">assertEquals</span><span class="p">(</span><span class="n">expectedType</span><span class="p">,</span><span class="w"> </span><span class="n">IsbnValidator</span><span class="p">.</span><span class="na">getType</span><span class="p">(</span><span class="n">isbn</span><span class="p">));</span>
+<span class="w">    </span><span class="p">}</span>
+
+<span class="w">    </span><span class="nd">@Test</span>
+<span class="w">    </span><span class="nd">@DisplayName</span><span class="p">(</span><span class="s">"无效 ISBN 调用 getType 应抛出异常"</span><span class="p">)</span>
+<span class="w">    </span><span class="kt">void</span><span class="w"> </span><span class="nf">testGetTypeWithInvalidIsbn</span><span class="p">()</span><span class="w"> </span><span class="p">{</span>
+<span class="w">        </span><span class="n">IllegalArgumentException</span><span class="w"> </span><span class="n">exception</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">assertThrows</span><span class="p">(</span>
+<span class="w">                </span><span class="n">IllegalArgumentException</span><span class="p">.</span><span class="na">class</span><span class="p">,</span>
+<span class="w">                </span><span class="p">()</span><span class="w"> </span><span class="o">-&gt;</span><span class="w"> </span><span class="n">IsbnValidator</span><span class="p">.</span><span class="na">getType</span><span class="p">(</span><span class="s">"invalid"</span><span class="p">)</span>
+<span class="w">        </span><span class="p">);</span>
+<span class="w">        </span><span class="n">assertTrue</span><span class="p">(</span><span class="n">exception</span><span class="p">.</span><span class="na">getMessage</span><span class="p">().</span><span class="na">contains</span><span class="p">(</span><span class="s">"无效的 ISBN"</span><span class="p">));</span>
+<span class="w">    </span><span class="p">}</span>
+
+<span class="w">    </span><span class="c1">// ========== normalize 测试 ==========</span>
+
+<span class="w">    </span><span class="nd">@ParameterizedTest</span>
+<span class="w">    </span><span class="nd">@CsvSource</span><span class="p">({</span>
+<span class="w">            </span><span class="s">"0-306-40615-2, 0306406152"</span><span class="p">,</span>
+<span class="w">            </span><span class="s">"978 0 306 40615 7, 9780306406157"</span><span class="p">,</span>
+<span class="w">            </span><span class="s">"0306406152, 0306406152"</span>
+<span class="w">    </span><span class="p">})</span>
+<span class="w">    </span><span class="nd">@DisplayName</span><span class="p">(</span><span class="s">"标准化 ISBN"</span><span class="p">)</span>
+<span class="w">    </span><span class="kt">void</span><span class="w"> </span><span class="nf">testNormalize</span><span class="p">(</span><span class="n">String</span><span class="w"> </span><span class="n">input</span><span class="p">,</span><span class="w"> </span><span class="n">String</span><span class="w"> </span><span class="n">expected</span><span class="p">)</span><span class="w"> </span><span class="p">{</span>
+<span class="w">        </span><span class="n">assertEquals</span><span class="p">(</span><span class="n">expected</span><span class="p">,</span><span class="w"> </span><span class="n">IsbnValidator</span><span class="p">.</span><span class="na">normalize</span><span class="p">(</span><span class="n">input</span><span class="p">));</span>
+<span class="w">    </span><span class="p">}</span>
+
+<span class="w">    </span><span class="nd">@Test</span>
+<span class="w">    </span><span class="nd">@DisplayName</span><span class="p">(</span><span class="s">"normalize(null) 应抛出异常"</span><span class="p">)</span>
+<span class="w">    </span><span class="kt">void</span><span class="w"> </span><span class="nf">testNormalizeNull</span><span class="p">()</span><span class="w"> </span><span class="p">{</span>
+<span class="w">        </span><span class="n">assertThrows</span><span class="p">(</span><span class="n">IllegalArgumentException</span><span class="p">.</span><span class="na">class</span><span class="p">,</span>
+<span class="w">                </span><span class="p">()</span><span class="w"> </span><span class="o">-&gt;</span><span class="w"> </span><span class="n">IsbnValidator</span><span class="p">.</span><span class="na">normalize</span><span class="p">(</span><span class="kc">null</span><span class="p">));</span>
+<span class="w">    </span><span class="p">}</span>
+<span class="p">}</span>
+</code></pre></div>
+
+<h3 id="运行测试">运行测试</h3>
+<p>在 IDE 中右键测试类 → Run，或使用 Maven 命令：</p>
+<div class="codehilite lang-bash"><pre><span></span><code>mvn<span class="w"> </span><span class="nb">test</span><span class="w"> </span>-Dtest<span class="o">=</span>IsbnValidatorTest
+</code></pre></div>
+
+<p><strong>预期结果：</strong></p>
+<div class="codehilite lang-text"><pre><span></span><code>IsbnValidatorTest
+  ✓ 有效的 ISBN-10（无连字符）
+  ✓ 有效的 ISBN-10（带连字符）
+  ✓ 有效的 ISBN-10（最后一位为 X）
+  ✓ 有效的 ISBN-13
+  ✓ 有效的 ISBN-13（979 开头）
+  ✓ null 或空字符串应返回 false (2 个参数)
+  ✓ 无效的 ISBN 应返回 false (7 个参数)
+  ✓ 获取 ISBN 类型 (5 个参数)
+  ✓ 无效 ISBN 调用 getType 应抛出异常
+  ✓ 标准化 ISBN (3 个参数)
+  ✓ normalize(null) 应抛出异常
+
+测试结果：24 个测试用例通过
+</code></pre></div>
+
+<h3 id="使用-Nested-组织测试">使用 @Nested 组织测试</h3>
+<p>当测试类较大时，可以使用 <code>@Nested</code> 按功能分组。上面的测试方法可以整理为如下结构：</p>
+<div class="codehilite lang-java"><pre><span></span><code><span class="nd">@DisplayName</span><span class="p">(</span><span class="s">"ISBN 校验工具类测试"</span><span class="p">)</span>
+<span class="kd">class</span> <span class="nc">IsbnValidatorTestUsingNested</span><span class="w"> </span><span class="p">{</span>
+
+<span class="w">    </span><span class="nd">@Nested</span>
+<span class="w">    </span><span class="nd">@DisplayName</span><span class="p">(</span><span class="s">"isValid 方法测试"</span><span class="p">)</span>
+<span class="w">    </span><span class="kd">class</span> <span class="nc">IsValidTests</span><span class="w"> </span><span class="p">{</span>
+
+<span class="w">        </span><span class="nd">@Test</span>
+<span class="w">        </span><span class="nd">@DisplayName</span><span class="p">(</span><span class="s">"有效的 ISBN-10（无连字符）"</span><span class="p">)</span>
+<span class="w">        </span><span class="kt">void</span><span class="w"> </span><span class="nf">testValidIsbn10</span><span class="p">()</span><span class="w"> </span><span class="p">{</span>
+<span class="w">            </span><span class="n">assertTrue</span><span class="p">(</span><span class="n">IsbnValidator</span><span class="p">.</span><span class="na">isValid</span><span class="p">(</span><span class="s">"0306406152"</span><span class="p">));</span>
+<span class="w">        </span><span class="p">}</span>
+
+<span class="w">        </span><span class="nd">@Test</span>
+<span class="w">        </span><span class="nd">@DisplayName</span><span class="p">(</span><span class="s">"有效的 ISBN-10（带连字符）"</span><span class="p">)</span>
+<span class="w">        </span><span class="kt">void</span><span class="w"> </span><span class="nf">testValidIsbn10WithHyphens</span><span class="p">()</span><span class="w"> </span><span class="p">{</span>
+<span class="w">            </span><span class="n">assertTrue</span><span class="p">(</span><span class="n">IsbnValidator</span><span class="p">.</span><span class="na">isValid</span><span class="p">(</span><span class="s">"0-306-40615-2"</span><span class="p">));</span>
+<span class="w">        </span><span class="p">}</span>
+
+<span class="w">        </span><span class="nd">@Test</span>
+<span class="w">        </span><span class="nd">@DisplayName</span><span class="p">(</span><span class="s">"有效的 ISBN-10（最后一位为 X）"</span><span class="p">)</span>
+<span class="w">        </span><span class="kt">void</span><span class="w"> </span><span class="nf">testValidIsbn10WithX</span><span class="p">()</span><span class="w"> </span><span class="p">{</span>
+<span class="w">            </span><span class="n">assertTrue</span><span class="p">(</span><span class="n">IsbnValidator</span><span class="p">.</span><span class="na">isValid</span><span class="p">(</span><span class="s">"097522980X"</span><span class="p">));</span>
+<span class="w">        </span><span class="p">}</span>
+
+<span class="w">        </span><span class="nd">@Test</span>
+<span class="w">        </span><span class="nd">@DisplayName</span><span class="p">(</span><span class="s">"有效的 ISBN-13"</span><span class="p">)</span>
+<span class="w">        </span><span class="kt">void</span><span class="w"> </span><span class="nf">testValidIsbn13</span><span class="p">()</span><span class="w"> </span><span class="p">{</span>
+<span class="w">            </span><span class="n">assertTrue</span><span class="p">(</span><span class="n">IsbnValidator</span><span class="p">.</span><span class="na">isValid</span><span class="p">(</span><span class="s">"9780306406157"</span><span class="p">));</span>
+<span class="w">        </span><span class="p">}</span>
+
+<span class="w">        </span><span class="nd">@Test</span>
+<span class="w">        </span><span class="nd">@DisplayName</span><span class="p">(</span><span class="s">"有效的 ISBN-13（979 开头）"</span><span class="p">)</span>
+<span class="w">        </span><span class="kt">void</span><span class="w"> </span><span class="nf">testValidIsbn13With979</span><span class="p">()</span><span class="w"> </span><span class="p">{</span>
+<span class="w">            </span><span class="n">assertTrue</span><span class="p">(</span><span class="n">IsbnValidator</span><span class="p">.</span><span class="na">isValid</span><span class="p">(</span><span class="s">"9791234567890"</span><span class="p">));</span>
+<span class="w">        </span><span class="p">}</span>
+
+<span class="w">        </span><span class="nd">@ParameterizedTest</span>
+<span class="w">        </span><span class="nd">@NullAndEmptySource</span>
+<span class="w">        </span><span class="nd">@DisplayName</span><span class="p">(</span><span class="s">"null 或空字符串应返回 false"</span><span class="p">)</span>
+<span class="w">        </span><span class="kt">void</span><span class="w"> </span><span class="nf">testInvalidNullOrEmpty</span><span class="p">(</span><span class="n">String</span><span class="w"> </span><span class="n">isbn</span><span class="p">)</span><span class="w"> </span><span class="p">{</span>
+<span class="w">            </span><span class="n">assertFalse</span><span class="p">(</span><span class="n">IsbnValidator</span><span class="p">.</span><span class="na">isValid</span><span class="p">(</span><span class="n">isbn</span><span class="p">));</span>
+<span class="w">        </span><span class="p">}</span>
+
+<span class="w">        </span><span class="nd">@ParameterizedTest</span>
+<span class="w">        </span><span class="nd">@ValueSource</span><span class="p">(</span><span class="n">strings</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="p">{</span>
+<span class="w">                </span><span class="s">"12345"</span><span class="p">,</span>
+<span class="w">                </span><span class="s">"12345678901234"</span><span class="p">,</span>
+<span class="w">                </span><span class="s">"abcdefghij"</span><span class="p">,</span>
+<span class="w">                </span><span class="s">"030640615A"</span><span class="p">,</span>
+<span class="w">                </span><span class="s">"978030640615"</span><span class="p">,</span>
+<span class="w">                </span><span class="s">"1234567890123"</span><span class="p">,</span>
+<span class="w">                </span><span class="s">"978030640615A"</span>
+<span class="w">        </span><span class="p">})</span>
+<span class="w">        </span><span class="nd">@DisplayName</span><span class="p">(</span><span class="s">"无效的 ISBN 应返回 false"</span><span class="p">)</span>
+<span class="w">        </span><span class="kt">void</span><span class="w"> </span><span class="nf">testInvalidIsbn</span><span class="p">(</span><span class="n">String</span><span class="w"> </span><span class="n">isbn</span><span class="p">)</span><span class="w"> </span><span class="p">{</span>
+<span class="w">            </span><span class="n">assertFalse</span><span class="p">(</span><span class="n">IsbnValidator</span><span class="p">.</span><span class="na">isValid</span><span class="p">(</span><span class="n">isbn</span><span class="p">));</span>
+<span class="w">        </span><span class="p">}</span>
+<span class="w">    </span><span class="p">}</span>
+
+<span class="w">    </span><span class="nd">@Nested</span>
+<span class="w">    </span><span class="nd">@DisplayName</span><span class="p">(</span><span class="s">"getType 方法测试"</span><span class="p">)</span>
+<span class="w">    </span><span class="kd">class</span> <span class="nc">GetTypeTests</span><span class="w"> </span><span class="p">{</span>
+
+<span class="w">        </span><span class="nd">@ParameterizedTest</span>
+<span class="w">        </span><span class="nd">@CsvSource</span><span class="p">({</span>
+<span class="w">                </span><span class="s">"0306406152, ISBN-10"</span><span class="p">,</span>
+<span class="w">                </span><span class="s">"0-306-40615-2, ISBN-10"</span><span class="p">,</span>
+<span class="w">                </span><span class="s">"097522980X, ISBN-10"</span><span class="p">,</span>
+<span class="w">                </span><span class="s">"9780306406157, ISBN-13"</span><span class="p">,</span>
+<span class="w">                </span><span class="s">"9791234567890, ISBN-13"</span>
+<span class="w">        </span><span class="p">})</span>
+<span class="w">        </span><span class="nd">@DisplayName</span><span class="p">(</span><span class="s">"获取 ISBN 类型"</span><span class="p">)</span>
+<span class="w">        </span><span class="kt">void</span><span class="w"> </span><span class="nf">testGetType</span><span class="p">(</span><span class="n">String</span><span class="w"> </span><span class="n">isbn</span><span class="p">,</span><span class="w"> </span><span class="n">String</span><span class="w"> </span><span class="n">expectedType</span><span class="p">)</span><span class="w"> </span><span class="p">{</span>
+<span class="w">            </span><span class="n">assertEquals</span><span class="p">(</span><span class="n">expectedType</span><span class="p">,</span><span class="w"> </span><span class="n">IsbnValidator</span><span class="p">.</span><span class="na">getType</span><span class="p">(</span><span class="n">isbn</span><span class="p">));</span>
+<span class="w">        </span><span class="p">}</span>
+
+<span class="w">        </span><span class="nd">@Test</span>
+<span class="w">        </span><span class="nd">@DisplayName</span><span class="p">(</span><span class="s">"无效 ISBN 调用 getType 应抛出异常"</span><span class="p">)</span>
+<span class="w">        </span><span class="kt">void</span><span class="w"> </span><span class="nf">testGetTypeWithInvalidIsbn</span><span class="p">()</span><span class="w"> </span><span class="p">{</span>
+<span class="w">            </span><span class="n">IllegalArgumentException</span><span class="w"> </span><span class="n">exception</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">assertThrows</span><span class="p">(</span>
+<span class="w">                    </span><span class="n">IllegalArgumentException</span><span class="p">.</span><span class="na">class</span><span class="p">,</span>
+<span class="w">                    </span><span class="p">()</span><span class="w"> </span><span class="o">-&gt;</span><span class="w"> </span><span class="n">IsbnValidator</span><span class="p">.</span><span class="na">getType</span><span class="p">(</span><span class="s">"invalid"</span><span class="p">)</span>
+<span class="w">            </span><span class="p">);</span>
+<span class="w">            </span><span class="n">assertTrue</span><span class="p">(</span><span class="n">exception</span><span class="p">.</span><span class="na">getMessage</span><span class="p">().</span><span class="na">contains</span><span class="p">(</span><span class="s">"无效的 ISBN"</span><span class="p">));</span>
+<span class="w">        </span><span class="p">}</span>
+<span class="w">    </span><span class="p">}</span>
+
+<span class="w">    </span><span class="nd">@Nested</span>
+<span class="w">    </span><span class="nd">@DisplayName</span><span class="p">(</span><span class="s">"normalize 方法测试"</span><span class="p">)</span>
+<span class="w">    </span><span class="kd">class</span> <span class="nc">NormalizeTests</span><span class="w"> </span><span class="p">{</span>
+
+<span class="w">        </span><span class="nd">@ParameterizedTest</span>
+<span class="w">        </span><span class="nd">@CsvSource</span><span class="p">({</span>
+<span class="w">                </span><span class="s">"0-306-40615-2, 0306406152"</span><span class="p">,</span>
+<span class="w">                </span><span class="s">"978 0 306 40615 7, 9780306406157"</span><span class="p">,</span>
+<span class="w">                </span><span class="s">"0306406152, 0306406152"</span>
+<span class="w">        </span><span class="p">})</span>
+<span class="w">        </span><span class="nd">@DisplayName</span><span class="p">(</span><span class="s">"标准化 ISBN"</span><span class="p">)</span>
+<span class="w">        </span><span class="kt">void</span><span class="w"> </span><span class="nf">testNormalize</span><span class="p">(</span><span class="n">String</span><span class="w"> </span><span class="n">input</span><span class="p">,</span><span class="w"> </span><span class="n">String</span><span class="w"> </span><span class="n">expected</span><span class="p">)</span><span class="w"> </span><span class="p">{</span>
+<span class="w">            </span><span class="n">assertEquals</span><span class="p">(</span><span class="n">expected</span><span class="p">,</span><span class="w"> </span><span class="n">IsbnValidator</span><span class="p">.</span><span class="na">normalize</span><span class="p">(</span><span class="n">input</span><span class="p">));</span>
+<span class="w">        </span><span class="p">}</span>
+
+<span class="w">        </span><span class="nd">@Test</span>
+<span class="w">        </span><span class="nd">@DisplayName</span><span class="p">(</span><span class="s">"normalize(null) 应抛出异常"</span><span class="p">)</span>
+<span class="w">        </span><span class="kt">void</span><span class="w"> </span><span class="nf">testNormalizeNull</span><span class="p">()</span><span class="w"> </span><span class="p">{</span>
+<span class="w">            </span><span class="n">assertThrows</span><span class="p">(</span><span class="n">IllegalArgumentException</span><span class="p">.</span><span class="na">class</span><span class="p">,</span>
+<span class="w">                    </span><span class="p">()</span><span class="w"> </span><span class="o">-&gt;</span><span class="w"> </span><span class="n">IsbnValidator</span><span class="p">.</span><span class="na">normalize</span><span class="p">(</span><span class="kc">null</span><span class="p">));</span>
+<span class="w">        </span><span class="p">}</span>
+<span class="w">    </span><span class="p">}</span>
+<span class="p">}</span>
+</code></pre></div>
+
+<h2 id="注意事项">注意事项</h2>
+<h3 id="1-测试方法命名规范">1. 测试方法命名规范</h3>
+<table>
+<thead>
+<tr>
+<th>方式</th>
+<th>示例</th>
+<th>说明</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>should_预期结果_when_条件</strong></td>
+<td><code>shouldReturnFalse_whenIsbnIsNull</code></td>
+<td>推荐</td>
+</tr>
+<tr>
+<td><strong>test_方法名_场景</strong></td>
+<td><code>testIsValid_nullIsbn</code></td>
+<td>常用</td>
+</tr>
+</tbody>
+</table>
+<h3 id="2-测试的独立性">2. 测试的独立性</h3>
+<p>每个测试应该<strong>独立运行</strong>，不依赖其他测试的执行顺序或结果：</p>
+<div class="codehilite lang-java"><pre><span></span><code><span class="c1">// ❌ 错误：测试依赖前一个测试的状态</span>
+<span class="kd">private</span><span class="w"> </span><span class="n">List</span><span class="o">&lt;</span><span class="n">Book</span><span class="o">&gt;</span><span class="w"> </span><span class="n">books</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="k">new</span><span class="w"> </span><span class="n">ArrayList</span><span class="o">&lt;&gt;</span><span class="p">();</span>
+
+<span class="nd">@Test</span>
+<span class="kt">void</span><span class="w"> </span><span class="nf">testAdd</span><span class="p">()</span><span class="w"> </span><span class="p">{</span>
+<span class="w">    </span><span class="n">books</span><span class="p">.</span><span class="na">add</span><span class="p">(</span><span class="k">new</span><span class="w"> </span><span class="n">Book</span><span class="p">());</span>
+<span class="p">}</span>
+
+<span class="nd">@Test</span>
+<span class="kt">void</span><span class="w"> </span><span class="nf">testSize</span><span class="p">()</span><span class="w"> </span><span class="p">{</span>
+<span class="w">    </span><span class="n">assertEquals</span><span class="p">(</span><span class="mi">1</span><span class="p">,</span><span class="w"> </span><span class="n">books</span><span class="p">.</span><span class="na">size</span><span class="p">());</span><span class="w">  </span><span class="c1">// 依赖 testAdd 的执行</span>
+<span class="p">}</span>
+
+<span class="c1">// ✅ 正确：每个测试独立初始化</span>
+<span class="kd">private</span><span class="w"> </span><span class="n">List</span><span class="o">&lt;</span><span class="n">Book</span><span class="o">&gt;</span><span class="w"> </span><span class="n">books</span><span class="p">;</span>
+
+<span class="nd">@BeforeEach</span>
+<span class="kt">void</span><span class="w"> </span><span class="nf">setUp</span><span class="p">()</span><span class="w"> </span><span class="p">{</span>
+<span class="w">    </span><span class="n">books</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="k">new</span><span class="w"> </span><span class="n">ArrayList</span><span class="o">&lt;&gt;</span><span class="p">();</span>
+<span class="p">}</span>
+</code></pre></div>
+
+<h3 id="3-一个测试只验证一个行为">3. 一个测试只验证一个行为</h3>
+<div class="codehilite lang-java"><pre><span></span><code><span class="c1">// ❌ 错误：一个测试验证多个不相关的行为</span>
+<span class="nd">@Test</span>
+<span class="kt">void</span><span class="w"> </span><span class="nf">testBook</span><span class="p">()</span><span class="w"> </span><span class="p">{</span>
+<span class="w">    </span><span class="n">Book</span><span class="w"> </span><span class="n">book</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="k">new</span><span class="w"> </span><span class="n">Book</span><span class="p">(</span><span class="s">"Spring Boot 实战"</span><span class="p">,</span><span class="w"> </span><span class="mf">79.0</span><span class="p">);</span>
+<span class="w">    </span><span class="n">assertEquals</span><span class="p">(</span><span class="s">"Spring Boot 实战"</span><span class="p">,</span><span class="w"> </span><span class="n">book</span><span class="p">.</span><span class="na">getTitle</span><span class="p">());</span><span class="w">  </span><span class="c1">// 验证标题</span>
+<span class="w">    </span><span class="n">assertEquals</span><span class="p">(</span><span class="mf">79.0</span><span class="p">,</span><span class="w"> </span><span class="n">book</span><span class="p">.</span><span class="na">getPrice</span><span class="p">());</span><span class="w">                </span><span class="c1">// 验证价格</span>
+<span class="w">    </span><span class="n">assertThrows</span><span class="p">(</span><span class="n">IllegalArgumentException</span><span class="p">.</span><span class="na">class</span><span class="p">,</span><span class="w"> </span><span class="p">()</span><span class="w"> </span><span class="o">-&gt;</span><span class="w"> </span><span class="n">book</span><span class="p">.</span><span class="na">setPrice</span><span class="p">(</span><span class="o">-</span><span class="mi">1</span><span class="p">));</span><span class="w">  </span><span class="c1">// 验证异常</span>
+<span class="p">}</span>
+
+<span class="c1">// ✅ 正确：拆分为多个测试</span>
+<span class="nd">@Test</span>
+<span class="kt">void</span><span class="w"> </span><span class="nf">testBookTitle</span><span class="p">()</span><span class="w"> </span><span class="p">{</span><span class="w"> </span><span class="p">...</span><span class="w"> </span><span class="p">}</span>
+
+<span class="nd">@Test</span>
+<span class="kt">void</span><span class="w"> </span><span class="nf">testBookPrice</span><span class="p">()</span><span class="w"> </span><span class="p">{</span><span class="w"> </span><span class="p">...</span><span class="w"> </span><span class="p">}</span>
+
+<span class="nd">@Test</span>
+<span class="kt">void</span><span class="w"> </span><span class="nf">testNegativePriceThrowsException</span><span class="p">()</span><span class="w"> </span><span class="p">{</span><span class="w"> </span><span class="p">...</span><span class="w"> </span><span class="p">}</span>
+</code></pre></div>
+
+<h3 id="4-测试的可读性">4. 测试的可读性</h3>
+<p>使用 <code>@DisplayName</code> 和 <code>assertAll</code> 让测试更易读：</p>
+<div class="codehilite lang-java"><pre><span></span><code><span class="nd">@Test</span>
+<span class="nd">@DisplayName</span><span class="p">(</span><span class="s">"创建图书时，价格不能为负数"</span><span class="p">)</span>
+<span class="kt">void</span><span class="w"> </span><span class="nf">testCreateBookWithNegativePrice</span><span class="p">()</span><span class="w"> </span><span class="p">{</span>
+<span class="w">    </span><span class="n">Book</span><span class="w"> </span><span class="n">book</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="k">new</span><span class="w"> </span><span class="n">Book</span><span class="p">(</span><span class="s">"测试"</span><span class="p">,</span><span class="w"> </span><span class="o">-</span><span class="mf">10.0</span><span class="p">);</span>
+<span class="w">    </span><span class="n">IllegalArgumentException</span><span class="w"> </span><span class="n">exception</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">assertThrows</span><span class="p">(</span>
+<span class="w">            </span><span class="n">IllegalArgumentException</span><span class="p">.</span><span class="na">class</span><span class="p">,</span>
+<span class="w">            </span><span class="p">()</span><span class="w"> </span><span class="o">-&gt;</span><span class="w"> </span><span class="n">bookService</span><span class="p">.</span><span class="na">createBook</span><span class="p">(</span><span class="n">book</span><span class="p">)</span>
+<span class="w">    </span><span class="p">);</span>
+<span class="w">    </span><span class="n">assertAll</span><span class="p">(</span>
+<span class="w">            </span><span class="p">()</span><span class="w"> </span><span class="o">-&gt;</span><span class="w"> </span><span class="n">assertTrue</span><span class="p">(</span><span class="n">exception</span><span class="p">.</span><span class="na">getMessage</span><span class="p">().</span><span class="na">contains</span><span class="p">(</span><span class="s">"价格"</span><span class="p">)),</span>
+<span class="w">            </span><span class="p">()</span><span class="w"> </span><span class="o">-&gt;</span><span class="w"> </span><span class="n">assertTrue</span><span class="p">(</span><span class="n">exception</span><span class="p">.</span><span class="na">getMessage</span><span class="p">().</span><span class="na">contains</span><span class="p">(</span><span class="s">"负数"</span><span class="p">))</span>
+<span class="w">    </span><span class="p">);</span>
+<span class="p">}</span>
+</code></pre></div>
+
+<h3 id="5-避免在测试中使用-Systemoutprintln">5. 避免在测试中使用 System.out.println</h3>
+<p>使用断言而非打印来验证结果。如果需要调试，使用 IDE 的断点或日志。</p>
+<h3 id="6-测试执行速度">6. 测试执行速度</h3>
+<p>单元测试应该非常快（毫秒级）。如果测试超过 1 秒，可能有以下问题：
+- 做了 I/O 操作（读写文件、网络请求）
+- 初始化了 Spring 上下文
+- 使用了 <code>Thread.sleep()</code></p>
+<h3 id="7-断言失败信息要清晰">7. 断言失败信息要清晰</h3>
+<div class="codehilite lang-java"><pre><span></span><code><span class="c1">// ❌ 失败时不知道实际值</span>
+<span class="n">assertTrue</span><span class="p">(</span><span class="n">book</span><span class="p">.</span><span class="na">getPrice</span><span class="p">()</span><span class="w"> </span><span class="o">&gt;</span><span class="w"> </span><span class="mi">0</span><span class="p">);</span>
+
+<span class="c1">// ✅ 失败时能看到实际值</span>
+<span class="n">assertEquals</span><span class="p">(</span><span class="mf">79.0</span><span class="p">,</span><span class="w"> </span><span class="n">book</span><span class="p">.</span><span class="na">getPrice</span><span class="p">(),</span><span class="w"> </span><span class="s">"图书价格应为 79.0"</span><span class="p">);</span>
+</code></pre></div>
+
+<h2 id="小结">小结</h2>
+<p>本节课我们学习了：</p>
+<ol>
+<li><strong>测试的价值</strong>：快速反馈、回归保障、支持重构、行为文档</li>
+<li><strong>测试金字塔</strong>：单元测试（多）、集成测试（适中）、端到端测试（少）</li>
+<li><strong>Spring Boot 测试体系</strong>：<code>spring-boot-starter-test</code> 包含了 JUnit 5、Mockito、AssertJ 等</li>
+<li><strong>JUnit 5 核心用法</strong>：
+   - 核心注解：<code>@Test</code>、<code>@BeforeEach</code>、<code>@AfterEach</code>、<code>@BeforeAll</code>、<code>@AfterAll</code>
+   - 断言方法：<code>assertEquals</code>、<code>assertTrue</code>、<code>assertThrows</code>、<code>assertAll</code>
+   - 参数化测试：<code>@ParameterizedTest</code>、<code>@ValueSource</code>、<code>@CsvSource</code>、<code>@MethodSource</code></li>
+<li><strong>实战应用</strong>：为 ISBN 校验工具类编写完整的单元测试</li>
+</ol>
+<h2 id="作业">作业</h2>
+<h3 id="作业一代码阅读测试分析">作业一：代码阅读——测试分析</h3>
+<p>阅读以下测试代码，回答问题。</p>
+<div class="codehilite lang-java"><pre><span></span><code><span class="nd">@DisplayName</span><span class="p">(</span><span class="s">"计算器测试"</span><span class="p">)</span>
+<span class="kd">class</span> <span class="nc">CalculatorTest</span><span class="w"> </span><span class="p">{</span>
+
+<span class="w">    </span><span class="kd">private</span><span class="w"> </span><span class="n">Calculator</span><span class="w"> </span><span class="n">calculator</span><span class="p">;</span>
+
+<span class="w">    </span><span class="nd">@BeforeEach</span>
+<span class="w">    </span><span class="kt">void</span><span class="w"> </span><span class="nf">setUp</span><span class="p">()</span><span class="w"> </span><span class="p">{</span>
+<span class="w">        </span><span class="n">calculator</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="k">new</span><span class="w"> </span><span class="n">Calculator</span><span class="p">();</span>
+<span class="w">    </span><span class="p">}</span>
+
+<span class="w">    </span><span class="nd">@Test</span>
+<span class="w">    </span><span class="nd">@DisplayName</span><span class="p">(</span><span class="s">"加法测试"</span><span class="p">)</span>
+<span class="w">    </span><span class="kt">void</span><span class="w"> </span><span class="nf">testAdd</span><span class="p">()</span><span class="w"> </span><span class="p">{</span>
+<span class="w">        </span><span class="n">assertEquals</span><span class="p">(</span><span class="mi">5</span><span class="p">,</span><span class="w"> </span><span class="n">calculator</span><span class="p">.</span><span class="na">add</span><span class="p">(</span><span class="mi">2</span><span class="p">,</span><span class="w"> </span><span class="mi">3</span><span class="p">));</span>
+<span class="w">    </span><span class="p">}</span>
+
+<span class="w">    </span><span class="nd">@Test</span>
+<span class="w">    </span><span class="nd">@DisplayName</span><span class="p">(</span><span class="s">"除法测试"</span><span class="p">)</span>
+<span class="w">    </span><span class="kt">void</span><span class="w"> </span><span class="nf">testDivide</span><span class="p">()</span><span class="w"> </span><span class="p">{</span>
+<span class="w">        </span><span class="n">assertEquals</span><span class="p">(</span><span class="mf">2.5</span><span class="p">,</span><span class="w"> </span><span class="n">calculator</span><span class="p">.</span><span class="na">divide</span><span class="p">(</span><span class="mi">5</span><span class="p">,</span><span class="w"> </span><span class="mi">2</span><span class="p">));</span>
+<span class="w">    </span><span class="p">}</span>
+
+<span class="w">    </span><span class="nd">@Test</span>
+<span class="w">    </span><span class="nd">@DisplayName</span><span class="p">(</span><span class="s">"除零异常测试"</span><span class="p">)</span>
+<span class="w">    </span><span class="kt">void</span><span class="w"> </span><span class="nf">testDivideByZero</span><span class="p">()</span><span class="w"> </span><span class="p">{</span>
+<span class="w">        </span><span class="n">assertThrows</span><span class="p">(</span><span class="n">ArithmeticException</span><span class="p">.</span><span class="na">class</span><span class="p">,</span>
+<span class="w">                </span><span class="p">()</span><span class="w"> </span><span class="o">-&gt;</span><span class="w"> </span><span class="n">calculator</span><span class="p">.</span><span class="na">divide</span><span class="p">(</span><span class="mi">1</span><span class="p">,</span><span class="w"> </span><span class="mi">0</span><span class="p">));</span>
+<span class="w">    </span><span class="p">}</span>
+
+<span class="w">    </span><span class="nd">@ParameterizedTest</span>
+<span class="w">    </span><span class="nd">@CsvSource</span><span class="p">({</span><span class="s">"1, 1, 2"</span><span class="p">,</span><span class="w"> </span><span class="s">"2, 3, 5"</span><span class="p">,</span><span class="w"> </span><span class="s">"-1, 1, 0"</span><span class="p">})</span>
+<span class="w">    </span><span class="nd">@DisplayName</span><span class="p">(</span><span class="s">"参数化加法测试"</span><span class="p">)</span>
+<span class="w">    </span><span class="kt">void</span><span class="w"> </span><span class="nf">testAddParameterized</span><span class="p">(</span><span class="kt">int</span><span class="w"> </span><span class="n">a</span><span class="p">,</span><span class="w"> </span><span class="kt">int</span><span class="w"> </span><span class="n">b</span><span class="p">,</span><span class="w"> </span><span class="kt">int</span><span class="w"> </span><span class="n">expected</span><span class="p">)</span><span class="w"> </span><span class="p">{</span>
+<span class="w">        </span><span class="n">assertEquals</span><span class="p">(</span><span class="n">expected</span><span class="p">,</span><span class="w"> </span><span class="n">calculator</span><span class="p">.</span><span class="na">add</span><span class="p">(</span><span class="n">a</span><span class="p">,</span><span class="w"> </span><span class="n">b</span><span class="p">));</span>
+<span class="w">    </span><span class="p">}</span>
+<span class="p">}</span>
+</code></pre></div>
+
+<p><strong>问题：</strong>
+1. <code>setUp()</code> 方法在什么时候执行？
+2. <code>testDivide</code> 中 <code>assertEquals(2.5, calculator.divide(5, 2))</code> 有什么问题？（提示：考虑浮点数精度）
+3. <code>testDivideByZero</code> 使用的是什么断言？
+4. <code>testAddParameterized</code> 会执行几次？
+5. 如果要测试 <code>calculator.add(-1, -1)</code> 应该返回什么？</p>
+<hr />
+<h3 id="作业二为工具类编写单元测试">作业二：为工具类编写单元测试</h3>
+<p>在图书管理系统中，实现一个 <code>PriceUtil</code> 工具类：</p>
+<div class="codehilite lang-java"><pre><span></span><code><span class="kd">public</span><span class="w"> </span><span class="kd">class</span> <span class="nc">PriceUtil</span><span class="w"> </span><span class="p">{</span>
+<span class="w">    </span><span class="cm">/**</span>
+<span class="cm">     * 格式化价格为两位小数的字符串</span>
+<span class="cm">     * 例如：79 -&gt; "79.00"</span>
+<span class="cm">     */</span>
+<span class="w">    </span><span class="kd">public</span><span class="w"> </span><span class="kd">static</span><span class="w"> </span><span class="n">String</span><span class="w"> </span><span class="nf">format</span><span class="p">(</span><span class="kt">double</span><span class="w"> </span><span class="n">price</span><span class="p">)</span><span class="w"> </span><span class="p">{</span><span class="w"> </span><span class="p">...</span><span class="w"> </span><span class="p">}</span>
+
+<span class="w">    </span><span class="cm">/**</span>
+<span class="cm">     * 计算折扣价</span>
+<span class="cm">     * 例如：原价 100，折扣 0.8 -&gt; 80.00</span>
+<span class="cm">     */</span>
+<span class="w">    </span><span class="kd">public</span><span class="w"> </span><span class="kd">static</span><span class="w"> </span><span class="kt">double</span><span class="w"> </span><span class="nf">applyDiscount</span><span class="p">(</span><span class="kt">double</span><span class="w"> </span><span class="n">price</span><span class="p">,</span><span class="w"> </span><span class="kt">double</span><span class="w"> </span><span class="n">discount</span><span class="p">)</span><span class="w"> </span><span class="p">{</span><span class="w"> </span><span class="p">...</span><span class="w"> </span><span class="p">}</span>
+
+<span class="w">    </span><span class="cm">/**</span>
+<span class="cm">     * 判断价格是否在指定范围内（包含边界）</span>
+<span class="cm">     */</span>
+<span class="w">    </span><span class="kd">public</span><span class="w"> </span><span class="kd">static</span><span class="w"> </span><span class="kt">boolean</span><span class="w"> </span><span class="nf">isInRange</span><span class="p">(</span><span class="kt">double</span><span class="w"> </span><span class="n">price</span><span class="p">,</span><span class="w"> </span><span class="kt">double</span><span class="w"> </span><span class="n">min</span><span class="p">,</span><span class="w"> </span><span class="kt">double</span><span class="w"> </span><span class="n">max</span><span class="p">)</span><span class="w"> </span><span class="p">{</span><span class="w"> </span><span class="p">...</span><span class="w"> </span><span class="p">}</span>
+<span class="p">}</span>
+</code></pre></div>
+
+<p><strong>要求：</strong>
+1. 实现 <code>PriceUtil</code> 工具类。
+2. 为每个方法编写单元测试，覆盖正常场景和边界场景：
+   - <code>format</code>：整数、小数、负数、0
+   - <code>applyDiscount</code>：正常折扣、0 折扣、1 折扣、非法折扣（&lt;0 或 &gt;1）
+   - <code>isInRange</code>：正常范围、边界值（等于 min、等于 max）、超出范围、非法范围（min &gt; max）
+3. 使用 <code>@ParameterizedTest</code> 覆盖多种输入。
+4. 使用 <code>@DisplayName</code> 为每个测试方法添加可读描述。</p>
+<h3 id="作业三使用嵌套测试类组织测试">作业三：使用嵌套测试类组织测试</h3>
+<p>将作业二中的测试代码使用 <code>@Nested</code> 组织为三个嵌套类：
+- <code>FormatTests</code>
+- <code>ApplyDiscountTests</code>
+- <code>IsInRangeTests</code></p>
+<p><strong>要求：</strong>
+1. 使用 <code>@Nested</code> 注解。
+2. 为每个嵌套类添加 <code>@DisplayName</code>。
+3. 运行测试，验证所有测试通过。</p>13:["$","article",null,{"className":"doc","id":"content","children":[["$","div",null,{"className":"doc-head-row mb-2 flex items-center justify-between gap-4","children":[["$","p",null,{"className":"kicker","children":[["$","span",null,{"className":"kicker-num","children":"第 59 章"}],["$","span",null,{"className":"kicker-mod","children":"单体系统和Spring Boot"}]]}],["$","$L15",null,{"progressKey":"spring-boot-59"}]]}],["$","h1",null,{"className":"doc-h1","children":"测试概述与 JUnit 5 基础"}],"$undefined",["$","$L16",null,{"html":"$17"}],"$L18"]}]
+14:["$","$L19",null,{"sections":"$5:1:props:children:0:props:courses:5:modules:0:chapters:58:sections"}]
+1a:I[2619,["619","static/chunks/619-ba102abea3e3d0e4.js","526","static/chunks/app/course/%5Bkey%5D/%5Bch%5D/page-4b7f30b4efe73131.js"],""]
+18:["$","nav",null,{"className":"pager","aria-label":"章节导航","children":[["$","$L1a",null,{"className":"pager-link pager-prev","href":"/course/spring-boot/58/","children":[["$","span",null,{"className":"pager-dir","children":"上一章"}],["$","span",null,{"className":"pager-name","children":"Spring Boot Admin 可视化监控"}]]}],["$","$L1a",null,{"className":"pager-link pager-next","href":"/course/spring-boot/60/","children":[["$","span",null,{"className":"pager-dir","children":"下一章"}],["$","span",null,{"className":"pager-name","children":"Mockito 与单元测试"}]]}]]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+7:null
+9:{"metadata":[["$","title","0",{"children":"第 59 章  · 单体系统和Spring Boot · AI大全栈"}],["$","meta","1",{"name":"description","content":"袁进主讲的系列课程手册：Python 语言核心精讲、数据科学工具包、数据库、Python 框架、Agents 底层逻辑、LangGraph、LangChain + DeepAgent、Agent 观测与评估、Agent 基础建设、RAG 知识库。iOS 风格阅读体验，内置可运行的 Python 代码块。"}]],"error":null,"digest":"$undefined"}
+10:"$9:metadata"

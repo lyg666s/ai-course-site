@@ -1,0 +1,604 @@
+1:"$Sreact.fragment"
+2:I[6590,["619","static/chunks/619-ba102abea3e3d0e4.js","177","static/chunks/app/layout-1fd0282a046e2468.js"],"default"]
+3:I[9766,[],""]
+4:I[8924,[],""]
+6:I[4431,[],"OutletBoundary"]
+8:I[5278,[],"AsyncMetadataOutlet"]
+b:I[7150,[],""]
+:HL["/ai-course-site/_next/static/css/d95fb35eb6f8b422.css","style"]
+0:{"P":null,"b":"X8etduvi9QkiRbgJrCKEG","p":"/ai-course-site","c":["","course","spring-cloud","10",""],"i":false,"f":[[["",{"children":["course",{"children":[["key","spring-cloud","d"],{"children":[["ch","10","d"],{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/ai-course-site/_next/static/css/d95fb35eb6f8b422.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"zh-CN","suppressHydrationWarning":true,"children":[["$","head",null,{"children":["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var t=localStorage.getItem(\"theme\");var d=t?t===\"dark\":window.matchMedia(\"(prefers-color-scheme: dark)\").matches;if(d)document.documentElement.classList.add(\"dark\");}catch(e){}})();"}}]}],["$","body",null,{"children":[["$","$L2",null,{"families":[{"key":"agent","name":"AI · Agent 开发"},{"key":"engineering","name":"AI · Agent 工程化"},{"key":"dev","name":"编程与工程基础"}]}],["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","footer",null,{"className":"mx-auto max-w-[52rem] px-6 pb-10 text-center text-xs text-label3","children":"AI大全栈 · 课程手册 — 由课件自动生成，仅供学习使用"}]]}]]}]]}],{"children":["course",["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["key","spring-cloud","d"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["ch","10","d"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L5",null,["$","$L6",null,{"children":["$L7",["$","$L8",null,{"promise":"$@9"}]]}]]}],{},null,false]},[["$","div","l",{"className":"doc-wrap","children":["$","div",null,{"className":"doc","aria-busy":"true","aria-label":"加载中","children":[["$","div",null,{"className":"mb-2 h-3.5 w-28 animate-pulse rounded bg-fill2"}],["$","div",null,{"className":"mb-6 h-8 w-2/3 animate-pulse rounded bg-fill2"}],["$","div",null,{"className":"space-y-3.5","children":[["$","div","0",{"className":"h-4 animate-pulse rounded bg-fill2","style":{"width":"92%"}}],["$","div","1",{"className":"h-4 animate-pulse rounded bg-fill2","style":{"width":"100%"}}],["$","div","2",{"className":"h-4 animate-pulse rounded bg-fill2","style":{"width":"96%"}}],["$","div","3",{"className":"h-4 animate-pulse rounded bg-fill2","style":{"width":"60%"}}]]}],["$","div",null,{"className":"my-8 h-32 animate-pulse rounded-xl bg-fill"}],["$","div",null,{"className":"space-y-3.5","children":[["$","div","0",{"className":"h-4 animate-pulse rounded bg-fill2","style":{"width":"100%"}}],["$","div","1",{"className":"h-4 animate-pulse rounded bg-fill2","style":{"width":"88%"}}],["$","div","2",{"className":"h-4 animate-pulse rounded bg-fill2","style":{"width":"95%"}}],["$","div","3",{"className":"h-4 animate-pulse rounded bg-fill2","style":{"width":"72%"}}],["$","div","4",{"className":"h-4 animate-pulse rounded bg-fill2","style":{"width":"100%"}}]]}]]}]}],[],[]],false]},null,false]},null,false]},null,false],"$La",false]],"m":"$undefined","G":["$b",[]],"s":false,"S":true}
+c:I[4431,[],"ViewportBoundary"]
+e:I[4431,[],"MetadataBoundary"]
+f:"$Sreact.suspense"
+a:["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$f",null,{"fallback":null,"children":"$L10"}]}]}]]}]
+11:I[7010,["619","static/chunks/619-ba102abea3e3d0e4.js","526","static/chunks/app/course/%5Bkey%5D/%5Bch%5D/page-4b7f30b4efe73131.js"],"default"]
+12:I[6710,["619","static/chunks/619-ba102abea3e3d0e4.js","526","static/chunks/app/course/%5Bkey%5D/%5Bch%5D/page-4b7f30b4efe73131.js"],"default"]
+5:[["$","$L11",null,{"url":"/course/spring-cloud/10/","title":"Nacos服务发现实战","course":"Spring Cloud Alibaba"}],["$","div",null,{"className":"doc-wrap","children":[["$","$L12",null,{"courses":[{"key":"py","title":"Python语言核心精讲","glyph":"Py","cls":"b1","coming_soon":false,"modules":[{"name":"语言基础","chapters":[{"n":1,"slug":"1","title":"必看导言","group":"语言基础","progress_key":"1"},{"n":2,"slug":"2","title":"python环境安装","group":"语言基础","progress_key":"2"},{"n":3,"slug":"3","title":"python基本语法","group":"语言基础","progress_key":"3"},{"n":4,"slug":"4","title":"容器类型","group":"语言基础","progress_key":"4"},{"n":5,"slug":"5","title":"函数","group":"语言基础","progress_key":"5"},{"n":6,"slug":"6","title":"作用域","group":"语言基础","progress_key":"6"},{"n":7,"slug":"7","title":"lambda表达式","group":"语言基础","progress_key":"7"}]},{"name":"面向对象","chapters":[{"n":8,"slug":"8","title":"类和对象","group":"面向对象","progress_key":"8"},{"n":9,"slug":"9","title":"对象的类型","group":"面向对象","progress_key":"9"},{"n":10,"slug":"10","title":"对象的创建过程","group":"面向对象","progress_key":"10"},{"n":11,"slug":"11","title":"可调用对象","group":"面向对象","progress_key":"11"},{"n":12,"slug":"12","title":"元类","group":"面向对象","progress_key":"12"},{"n":13,"slug":"13","title":"装饰器","group":"面向对象","progress_key":"13"},{"n":14,"slug":"14","title":"魔术方法","group":"面向对象","progress_key":"14"},{"n":15,"slug":"15","title":"描述符","group":"面向对象","progress_key":"15"}]},{"name":"语言进阶","chapters":[{"n":16,"slug":"16","title":"异常处理","group":"语言进阶","progress_key":"16"},{"n":17,"slug":"17","title":"迭代器与生成器","group":"语言进阶","progress_key":"17"},{"n":18,"slug":"18","title":"上下文管理器","group":"语言进阶","progress_key":"18"},{"n":19,"slug":"19","title":"ABC","group":"语言进阶","progress_key":"19"},{"n":20,"slug":"20","title":"类型标注","group":"语言进阶","progress_key":"20"},{"n":21,"slug":"21","title":"模块化","group":"语言进阶","progress_key":"21"},{"n":22,"slug":"22","title":"标准库","group":"语言进阶","progress_key":"22"},{"n":23,"slug":"23","title":"第三方库","group":"语言进阶","progress_key":"23"}]},{"name":"异步与并发","chapters":[{"n":24,"slug":"24","title":"事件循环","group":"异步与并发","progress_key":"24"},{"n":25,"slug":"25","title":"Future类","group":"异步与并发","progress_key":"25"},{"n":26,"slug":"26","title":"协程 Coroutine","group":"异步与并发","progress_key":"26"},{"n":27,"slug":"27","title":"异步编程","group":"异步与并发","progress_key":"27"},{"n":28,"slug":"28","title":"多线程与多进程","group":"异步与并发","progress_key":"28"}]},{"name":"工程化实践","chapters":[{"n":29,"slug":"29","title":"构建发布","group":"工程化实践","progress_key":"29"},{"n":30,"slug":"30","title":"项目管理工具","group":"工程化实践","progress_key":"30"},{"n":31,"slug":"31","title":"monorepo","group":"工程化实践","progress_key":"31"},{"n":32,"slug":"32","title":"断点调试","group":"工程化实践","progress_key":"32"}]},{"name":"项目案例","chapters":[{"n":null,"slug":"proj-async-agents","title":"多智能体协同调研系统","group":"项目案例","progress_key":""},{"n":null,"slug":"proj-duyi-utils","title":"duyi-utils 构建发布示例","group":"项目案例","progress_key":""}]}]},{"key":"fw","title":"Python框架","glyph":"架","cls":"b-fw","coming_soon":false,"modules":[{"name":"课程内容","chapters":[{"n":1,"slug":"1","title":"Web服务框架","group":"课程内容","progress_key":"fw-1"},{"n":2,"slug":"2","title":"优化包结构","group":"课程内容","progress_key":"fw-2"},{"n":3,"slug":"3","title":"初识SQLAlchemy","group":"课程内容","progress_key":"fw-3"},{"n":4,"slug":"4","title":"ORM","group":"课程内容","progress_key":"fw-4"},{"n":5,"slug":"5","title":"数据操作","group":"课程内容","progress_key":"fw-5"},{"n":6,"slug":"6","title":"数据迁移","group":"课程内容","progress_key":"fw-6"},{"n":7,"slug":"7","title":"业务逻辑","group":"课程内容","progress_key":"fw-7"},{"n":8,"slug":"8","title":"依赖注入","group":"课程内容","progress_key":"fw-8"},{"n":9,"slug":"9","title":"统一异常处理","group":"课程内容","progress_key":"fw-9"},{"n":10,"slug":"10","title":"中间件","group":"课程内容","progress_key":"fw-10"},{"n":11,"slug":"11","title":"测试框架","group":"课程内容","progress_key":"fw-11"},{"n":12,"slug":"12","title":"测试方案","group":"课程内容","progress_key":"fw-12"},{"n":13,"slug":"13","title":"三层架构","group":"课程内容","progress_key":"fw-13"},{"n":14,"slug":"14","title":"文件上传","group":"课程内容","progress_key":"fw-14"},{"n":15,"slug":"15","title":"系统设置","group":"课程内容","progress_key":"fw-15"},{"n":17,"slug":"17","title":"用户系统","group":"课程内容","progress_key":"fw-17"},{"n":18,"slug":"18","title":"日志","group":"课程内容","progress_key":"fw-18"},{"n":20,"slug":"20","title":"流式响应","group":"课程内容","progress_key":"fw-20"},{"n":26,"slug":"26","title":"python收官检验","group":"课程内容","progress_key":"fw-26"}]},{"name":"部署","chapters":[{"n":21,"slug":"21","title":"部署-认识Docker","group":"部署","progress_key":"fw-21"},{"n":22,"slug":"22","title":"部署-云资产","group":"部署","progress_key":"fw-22"},{"n":23,"slug":"23","title":"部署-k8s","group":"部署","progress_key":"fw-23"},{"n":24,"slug":"24","title":"部署-CICD","group":"部署","progress_key":"fw-24"},{"n":25,"slug":"25","title":"部署-总结","group":"部署","progress_key":"fw-25"}]}]},{"key":"db","title":"数据库","glyph":"库","cls":"b-db","coming_soon":false,"modules":[{"name":"课程内容","chapters":[{"n":1,"slug":"1","title":"PostgreSQL安装","group":"课程内容","progress_key":"db-1"},{"n":2,"slug":"2","title":"DDL","group":"课程内容","progress_key":"db-2"},{"n":3,"slug":"3","title":"表间关系","group":"课程内容","progress_key":"db-3"},{"n":4,"slug":"4","title":"DML","group":"课程内容","progress_key":"db-4"},{"n":5,"slug":"5","title":"事务","group":"课程内容","progress_key":"db-5"},{"n":6,"slug":"6","title":"索引","group":"课程内容","progress_key":"db-6"},{"n":7,"slug":"7","title":"拓展知识","group":"课程内容","progress_key":"db-7"}]}]},{"key":"dst","title":"数据科学工具包","glyph":"数","cls":"b-ds","coming_soon":false,"modules":[{"name":"课程内容","chapters":[{"n":1,"slug":"1","title":"课程导言","group":"课程内容","progress_key":"dst-1"},{"n":2,"slug":"2","title":"Jupyter","group":"课程内容","progress_key":"dst-2"},{"n":10,"slug":"10","title":"Seaborn","group":"课程内容","progress_key":"dst-10"}]},{"name":"Numpy","chapters":[{"n":3,"slug":"3","title":"Numpy - 核心概念","group":"Numpy","progress_key":"dst-3"},{"n":4,"slug":"4","title":"Numpy - 数据操作","group":"Numpy","progress_key":"dst-4"}]},{"name":"Pandas","chapters":[{"n":5,"slug":"5","title":"Pandas - 数据类型","group":"Pandas","progress_key":"dst-5"},{"n":6,"slug":"6","title":"Pandas - 数据清洗","group":"Pandas","progress_key":"dst-6"}]},{"name":"Matplotlib","chapters":[{"n":7,"slug":"7","title":"Matplotlib - 核心概念","group":"Matplotlib","progress_key":"dst-7"},{"n":8,"slug":"8","title":"Matplotlib - 动画","group":"Matplotlib","progress_key":"dst-8"},{"n":9,"slug":"9","title":"Matplotlib - 交互式组件","group":"Matplotlib","progress_key":"dst-9"}]}]},{"key":"java-basic","title":"Java语言核心精讲","glyph":"J","cls":"b-java","coming_soon":false,"modules":[{"name":"课程内容","chapters":[{"n":1,"slug":"1","title":"课程导言","group":"课程内容","progress_key":"java-basic-1"},{"n":2,"slug":"2","title":"构建第一个Java应用程序","group":"课程内容","progress_key":"java-basic-2"},{"n":3,"slug":"3","title":"Java基础语法","group":"课程内容","progress_key":"java-basic-3"},{"n":4,"slug":"4","title":"容器类型","group":"课程内容","progress_key":"java-basic-4"},{"n":5,"slug":"5","title":"方法","group":"课程内容","progress_key":"java-basic-5"},{"n":6,"slug":"6","title":"Lambda表达式","group":"课程内容","progress_key":"java-basic-6"},{"n":7,"slug":"7","title":"Stream API","group":"课程内容","progress_key":"java-basic-7"},{"n":8,"slug":"8","title":"类和对象","group":"课程内容","progress_key":"java-basic-8"},{"n":9,"slug":"9","title":"封装、继承和多态","group":"课程内容","progress_key":"java-basic-9"},{"n":10,"slug":"10","title":"抽象类和接口","group":"课程内容","progress_key":"java-basic-10"},{"n":11,"slug":"11","title":"包管理","group":"课程内容","progress_key":"java-basic-11"},{"n":12,"slug":"12","title":"异常处理","group":"课程内容","progress_key":"java-basic-12"},{"n":13,"slug":"13","title":"反射","group":"课程内容","progress_key":"java-basic-13"},{"n":14,"slug":"14","title":"泛型","group":"课程内容","progress_key":"java-basic-14"},{"n":15,"slug":"15","title":"注解","group":"课程内容","progress_key":"java-basic-15"},{"n":16,"slug":"16","title":"Java特性拾遗与精进","group":"课程内容","progress_key":"java-basic-16"},{"n":17,"slug":"17","title":"线程基础与创建方式","group":"课程内容","progress_key":"java-basic-17"},{"n":18,"slug":"18","title":"线程生命周期与控制方法","group":"课程内容","progress_key":"java-basic-18"},{"n":19,"slug":"19","title":"线程安全与锁机制","group":"课程内容","progress_key":"java-basic-19"},{"n":20,"slug":"20","title":"线程池与Executor框架","group":"课程内容","progress_key":"java-basic-20"},{"n":21,"slug":"21","title":"并发集合与同步工具类","group":"课程内容","progress_key":"java-basic-21"},{"n":22,"slug":"22","title":"高级并发与最佳实践","group":"课程内容","progress_key":"java-basic-22"},{"n":23,"slug":"23","title":"Maven入门与环境配置","group":"课程内容","progress_key":"java-basic-23"},{"n":24,"slug":"24","title":"POM文件与依赖管理","group":"课程内容","progress_key":"java-basic-24"},{"n":25,"slug":"25","title":"Maven生命周期与插件体系","group":"课程内容","progress_key":"java-basic-25"},{"n":26,"slug":"26","title":"多模块项目管理","group":"课程内容","progress_key":"java-basic-26"}]}]},{"key":"spring-boot","title":"单体系统和Spring Boot","glyph":"B","cls":"b-ds","coming_soon":false,"modules":[{"name":"课程内容","chapters":[{"n":1,"slug":"1","title":"课程导言","group":"课程内容","progress_key":"spring-boot-1"},{"n":2,"slug":"2","title":"Spring Boot概述与快速入门","group":"课程内容","progress_key":"spring-boot-2"},{"n":3,"slug":"3","title":"Spring Boot应用程序结构与分层设计","group":"课程内容","progress_key":"spring-boot-3"},{"n":4,"slug":"4","title":"Spring Boot配置体系","group":"课程内容","progress_key":"spring-boot-4"},{"n":5,"slug":"5","title":"自动配置原理与Starter机制","group":"课程内容","progress_key":"spring-boot-5"},{"n":6,"slug":"6","title":"依赖注入基本概念与三种注入方式","group":"课程内容","progress_key":"spring-boot-6"},{"n":7,"slug":"7","title":"@Autowired详解与注入决策流程","group":"课程内容","progress_key":"spring-boot-7"},{"n":8,"slug":"8","title":"循环依赖与三级缓存机制","group":"课程内容","progress_key":"spring-boot-8"},{"n":9,"slug":"9","title":"AOP编程思想与动态代理机制","group":"课程内容","progress_key":"spring-boot-9"},{"n":10,"slug":"10","title":"Spring AOP实战：日志切面","group":"课程内容","progress_key":"spring-boot-10"},{"n":11,"slug":"11","title":"Spring AOP实战：性能监控与异常处理","group":"课程内容","progress_key":"spring-boot-11"},{"n":12,"slug":"12","title":"HTTP协议与Web服务开发流程","group":"课程内容","progress_key":"spring-boot-12"},{"n":13,"slug":"13","title":"Servlet与Spring WebMVC架构解析","group":"课程内容","progress_key":"spring-boot-13"},{"n":14,"slug":"14","title":"REST API开发：请求映射与参数处理","group":"课程内容","progress_key":"spring-boot-14"},{"n":15,"slug":"15","title":"REST API开发：响应封装和全局异常处理","group":"课程内容","progress_key":"spring-boot-15"},{"n":16,"slug":"16","title":"REST API高级：过滤器与拦截器实战","group":"课程内容","progress_key":"spring-boot-16"},{"n":17,"slug":"17","title":"REST API文档自动生成与API规范","group":"课程内容","progress_key":"spring-boot-17"},{"n":18,"slug":"18","title":"RestTemplate与服务间调用","group":"课程内容","progress_key":"spring-boot-18"},{"n":19,"slug":"19","title":"Spring WebFlux编程模型与实战","group":"课程内容","progress_key":"spring-boot-19"},{"n":20,"slug":"20","title":"JDBC规范解析","group":"课程内容","progress_key":"spring-boot-20"},{"n":21,"slug":"21","title":"Spring JDBC解决方案与JdbcTemplate基础","group":"课程内容","progress_key":"spring-boot-21"},{"n":22,"slug":"22","title":"JdbcTemplate高级操作与SimpleJdbcInsert","group":"课程内容","progress_key":"spring-boot-22"},{"n":23,"slug":"23","title":"自己动手写一个JdbcTemplate","group":"课程内容","progress_key":"spring-boot-23"},{"n":24,"slug":"24","title":"Spring事务管理基础","group":"课程内容","progress_key":"spring-boot-24"},{"n":25,"slug":"25","title":"Spring声明式事务与事务传播","group":"课程内容","progress_key":"spring-boot-25"},{"n":26,"slug":"26","title":"ORM核心概念与Spring Data架构","group":"课程内容","progress_key":"spring-boot-26"},{"n":27,"slug":"27","title":"Spring Data JPA快速上手","group":"课程内容","progress_key":"spring-boot-27"},{"n":28,"slug":"28","title":"Spring Data JPA高级查询","group":"课程内容","progress_key":"spring-boot-28"},{"n":29,"slug":"29","title":"Spring Data JPA关联映射与实战","group":"课程内容","progress_key":"spring-boot-29"},{"n":30,"slug":"30","title":"MyBatis 概述与 Spring Boot 集成","group":"课程内容","progress_key":"spring-boot-30"},{"n":31,"slug":"31","title":"MyBatis 映射文件与动态 SQL","group":"课程内容","progress_key":"spring-boot-31"},{"n":32,"slug":"32","title":"MyBatis 高级特性","group":"课程内容","progress_key":"spring-boot-32"},{"n":33,"slug":"33","title":"MyBatis-Plus 概述与快速上手","group":"课程内容","progress_key":"spring-boot-33"},{"n":34,"slug":"34","title":"MyBatis-Plus 条件构造器与分页插件","group":"课程内容","progress_key":"spring-boot-34"},{"n":35,"slug":"35","title":"MyBatis-Plus 扩展","group":"课程内容","progress_key":"spring-boot-35"},{"n":36,"slug":"36","title":"缓存概述与 Spring Cache 入门","group":"课程内容","progress_key":"spring-boot-36"},{"n":37,"slug":"37","title":"Spring Cache 核心注解详解","group":"课程内容","progress_key":"spring-boot-37"},{"n":38,"slug":"38","title":"缓存管理器与缓存存储配置","group":"课程内容","progress_key":"spring-boot-38"},{"n":39,"slug":"39","title":"缓存注解高级特性","group":"课程内容","progress_key":"spring-boot-39"},{"n":40,"slug":"40","title":"缓存原理与自定义扩展","group":"课程内容","progress_key":"spring-boot-40"},{"n":41,"slug":"41","title":"缓存核心问题与最佳实践","group":"课程内容","progress_key":"spring-boot-41"},{"n":42,"slug":"42","title":"异步处理概述与 Spring Async 入门","group":"课程内容","progress_key":"spring-boot-42"},{"n":43,"slug":"43","title":"任务执行器配置与线程池管理","group":"课程内容","progress_key":"spring-boot-43"},{"n":44,"slug":"44","title":"异步方法返回值与异常处理","group":"课程内容","progress_key":"spring-boot-44"},{"n":45,"slug":"45","title":"异步事件与 ApplicationEvent","group":"课程内容","progress_key":"spring-boot-45"},{"n":46,"slug":"46","title":"Web 异步处理","group":"课程内容","progress_key":"spring-boot-46"},{"n":47,"slug":"47","title":"TaskScheduler 调度器","group":"课程内容","progress_key":"spring-boot-47"},{"n":48,"slug":"48","title":"@Scheduled 注解应用","group":"课程内容","progress_key":"spring-boot-48"},{"n":49,"slug":"49","title":"Cron 表达式与调度综合实战","group":"课程内容","progress_key":"spring-boot-49"},{"n":50,"slug":"50","title":"批处理机制与 Spring Batch 快速入门","group":"课程内容","progress_key":"spring-boot-50"},{"n":51,"slug":"51","title":"ItemReader、Processor和Writer 实战","group":"课程内容","progress_key":"spring-boot-51"},{"n":52,"slug":"52","title":"JobRepository 与作业元数据管理","group":"课程内容","progress_key":"spring-boot-52"},{"n":53,"slug":"53","title":"批处理异常处理与重启机制","group":"课程内容","progress_key":"spring-boot-53"},{"n":54,"slug":"54","title":"批处理监听器与任务调度","group":"课程内容","progress_key":"spring-boot-54"},{"n":55,"slug":"55","title":"Actuator 入门与常用端点","group":"课程内容","progress_key":"spring-boot-55"},{"n":56,"slug":"56","title":"健康检查与自定义健康指示器","group":"课程内容","progress_key":"spring-boot-56"},{"n":57,"slug":"57","title":"指标监控与 Micrometer","group":"课程内容","progress_key":"spring-boot-57"},{"n":58,"slug":"58","title":"Spring Boot Admin 可视化监控","group":"课程内容","progress_key":"spring-boot-58"},{"n":59,"slug":"59","title":"测试概述与 JUnit 5 基础","group":"课程内容","progress_key":"spring-boot-59"},{"n":60,"slug":"60","title":"Mockito 与单元测试","group":"课程内容","progress_key":"spring-boot-60"},{"n":61,"slug":"61","title":"Web 层测试：@WebMvcTest","group":"课程内容","progress_key":"spring-boot-61"},{"n":62,"slug":"62","title":"数据层测试：@MybatisPlusTest","group":"课程内容","progress_key":"spring-boot-62"},{"n":63,"slug":"63","title":"端到端集成测试：@SpringBootTest","group":"课程内容","progress_key":"spring-boot-63"}]}]},{"key":"spring-cloud","title":"Spring Cloud Alibaba","glyph":"C","cls":"b3","coming_soon":false,"modules":[{"name":"课程内容","chapters":[{"n":1,"slug":"1","title":"课程导言","group":"课程内容","progress_key":"spring-cloud-1","sections":[{"name":"三个问题","anchor":"三个问题"},{"name":"为什么要学 Spring Cloud Alibaba？","anchor":"为什么要学-Spring-Cloud-Alibaba"},{"name":"如何学习 Spring Cloud Alibaba？","anchor":"如何学习-Spring-Cloud-Alibaba"},{"name":"学完 Spring Cloud Alibaba 你能做什么？","anchor":"学完-Spring-Cloud-Alibaba-你能做什么"},{"name":"常见学习问题","anchor":"常见学习问题"},{"name":"总结","anchor":"总结"}]},{"n":2,"slug":"2","title":"微服务架构与案例系统初始化","group":"课程内容","progress_key":"spring-cloud-2","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"从单体系统到微服务架构","anchor":"从单体系统到微服务架构"},{"name":"图书管理系统需求概述","anchor":"图书管理系统需求概述"},{"name":"多模块工程搭建实战","anchor":"多模块工程搭建实战"},{"name":"注意事项","anchor":"注意事项"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":3,"slug":"3","title":"Spring Cloud Alibaba技术栈集成","group":"课程内容","progress_key":"spring-cloud-3","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"回顾与导入","anchor":"回顾与导入"},{"name":"为什么需要 BOM","anchor":"为什么需要-BOM"},{"name":"版本对应关系","anchor":"版本对应关系"},{"name":"在父 POM 中导入三大 BOM","anchor":"在父-POM-中导入三大-BOM"},{"name":"子模块依赖声明","anchor":"子模块依赖声明"},{"name":"验证 BOM 是否生效","anchor":"验证-BOM-是否生效"},{"name":"使用 IDEA HTTP Request 验证服务","anchor":"使用-IDEA-HTTP-Request-验证服务"},{"name":"注意事项","anchor":"注意事项"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":4,"slug":"4","title":"微服务拆分与接口设计","group":"课程内容","progress_key":"spring-cloud-4","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"回顾与导入","anchor":"回顾与导入"},{"name":"分库设计","anchor":"分库设计"},{"name":"Entity、DTO、VO 的定位与区别","anchor":"EntityDTOVO-的定位与区别"},{"name":"数据库表设计","anchor":"数据库表设计"},{"name":"订单服务的完整实现","anchor":"订单服务的完整实现"},{"name":"使用 IDEA HTTP Request 测试接口","anchor":"使用-IDEA-HTTP-Request-测试接口"},{"name":"注意事项","anchor":"注意事项"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":5,"slug":"5","title":"公共模块建设","group":"课程内容","progress_key":"spring-cloud-5","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"回顾与导入","anchor":"回顾与导入"},{"name":"公共模块的结构设计","anchor":"公共模块的结构设计"},{"name":"状态码枚举设计","anchor":"状态码枚举设计"},{"name":"统一响应体设计","anchor":"统一响应体设计"},{"name":"分页响应体设计","anchor":"分页响应体设计"},{"name":"异常体系设计","anchor":"异常体系设计"},{"name":"全局异常处理器","anchor":"全局异常处理器"},{"name":"各服务集成公共模块","anchor":"各服务集成公共模块"},{"name":"运行与测试","anchor":"运行与测试"},{"name":"注意事项","anchor":"注意事项"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":6,"slug":"6","title":"Nacos部署与快速上手","group":"课程内容","progress_key":"spring-cloud-6","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"回顾与导入","anchor":"回顾与导入"},{"name":"为什么选择Nacos","anchor":"为什么选择Nacos"},{"name":"Nacos 下载与安装","anchor":"Nacos-下载与安装"},{"name":"启动Nacos单机版","anchor":"启动Nacos单机版"},{"name":"Nacos控制台快速上手","anchor":"Nacos控制台快速上手"},{"name":"Nacos 3.x 版本变化说明","anchor":"Nacos-3x-版本变化说明"},{"name":"停止与重启Nacos","anchor":"停止与重启Nacos"},{"name":"注意事项","anchor":"注意事项"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":7,"slug":"7","title":"Nacos高可用集群搭建","group":"课程内容","progress_key":"spring-cloud-7","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"回顾与导入","anchor":"回顾与导入"},{"name":"Nacos集群架构原理","anchor":"Nacos集群架构原理"},{"name":"环境规划与准备","anchor":"环境规划与准备"},{"name":"部署Nacos集群节点","anchor":"部署Nacos集群节点"},{"name":"启动Nacos集群","anchor":"启动Nacos集群"},{"name":"高可用验证实战","anchor":"高可用验证实战"},{"name":"注意事项","anchor":"注意事项"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":8,"slug":"8","title":"图书服务注册到Nacos","group":"课程内容","progress_key":"spring-cloud-8","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"回顾与导入","anchor":"回顾与导入"},{"name":"服务注册与发现机制回顾","anchor":"服务注册与发现机制回顾"},{"name":"依赖确认","anchor":"依赖确认"},{"name":"配置application.yml","anchor":"配置applicationyml"},{"name":"启动类配置","anchor":"启动类配置"},{"name":"启动服务并验证注册","anchor":"启动服务并验证注册"},{"name":"多实例注册验证","anchor":"多实例注册验证"},{"name":"常见问题排查","anchor":"常见问题排查"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":9,"slug":"9","title":"用户与订单服务注册","group":"课程内容","progress_key":"spring-cloud-9","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"回顾与导入","anchor":"回顾与导入"},{"name":"不同微服务的差异化分析","anchor":"不同微服务的差异化分析"},{"name":"book-user和book-order服务注册","anchor":"book-user和book-order服务注册"},{"name":"三服务全部注册后的验证","anchor":"三服务全部注册后的验证"},{"name":"进阶：配置抽取与共享","anchor":"进阶配置抽取与共享"},{"name":"进阶：注册开关、元数据与权重","anchor":"进阶注册开关元数据与权重"},{"name":"服务注册后的运维操作","anchor":"服务注册后的运维操作"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":10,"slug":"10","title":"Nacos服务发现实战","group":"课程内容","progress_key":"spring-cloud-10","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"回顾与导入","anchor":"回顾与导入"},{"name":"服务发现核心概念","anchor":"服务发现核心概念"},{"name":"订单服务集成DiscoveryClient","anchor":"订单服务集成DiscoveryClient"},{"name":"构造调用URL并实现服务调用","anchor":"构造调用URL并实现服务调用"},{"name":"启动与测试","anchor":"启动与测试"},{"name":"多实例发现验证","anchor":"多实例发现验证"},{"name":"常见问题排查","anchor":"常见问题排查"},{"name":"服务发现的局限性","anchor":"服务发现的局限性"},{"name":"注意事项","anchor":"注意事项"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":11,"slug":"11","title":"Nacos分级模型与Namespace环境隔离","group":"课程内容","progress_key":"spring-cloud-11","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"回顾与导入","anchor":"回顾与导入"},{"name":"Nacos分级存储模型","anchor":"Nacos分级存储模型"},{"name":"实战准备：当前环境状态分析","anchor":"实战准备当前环境状态分析"},{"name":"在Nacos控制台创建命名空间","anchor":"在Nacos控制台创建命名空间"},{"name":"配置book-product注册到dev环境","anchor":"配置book-product注册到dev环境"},{"name":"环境隔离验证","anchor":"环境隔离验证"},{"name":"注意事项","anchor":"注意事项"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":12,"slug":"12","title":"Nacos Group分组与多环境切换","group":"课程内容","progress_key":"spring-cloud-12","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"回顾与导入","anchor":"回顾与导入"},{"name":"Group分组核心概念","anchor":"Group分组核心概念"},{"name":"为订单服务配置独立Group","anchor":"为订单服务配置独立Group"},{"name":"环境切换的三种方式","anchor":"环境切换的三种方式"},{"name":"常见问题排查","anchor":"常见问题排查"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":13,"slug":"13","title":"Nacos权重路由","group":"课程内容","progress_key":"spring-cloud-13","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"回顾与导入","anchor":"回顾与导入"},{"name":"权重路由核心原理","anchor":"权重路由核心原理"},{"name":"实战准备：启动多实例环境","anchor":"实战准备启动多实例环境"},{"name":"手动实现加权随机选择","anchor":"手动实现加权随机选择"},{"name":"验证权重路由效果","anchor":"验证权重路由效果"},{"name":"主备实例配置实战","anchor":"主备实例配置实战"},{"name":"注意事项","anchor":"注意事项"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":14,"slug":"14","title":"Nacos API 专题","group":"课程内容","progress_key":"spring-cloud-14","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"回顾与导入","anchor":"回顾与导入"},{"name":"Nacos 3.x API 分类与鉴权","anchor":"Nacos-3x-API-分类与鉴权"},{"name":"Java SDK 核心 API：NamingService","anchor":"Java-SDK-核心-APINamingService"},{"name":"场景一：服务消费者动态发现与客户端负载均衡","anchor":"场景一服务消费者动态发现与客户端负载均衡"},{"name":"场景二：服务提供者动态注册与元数据管理","anchor":"场景二服务提供者动态注册与元数据管理"},{"name":"场景对比","anchor":"场景对比"},{"name":"注意事项","anchor":"注意事项"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":15,"slug":"15","title":"OpenFeign快速上手","group":"课程内容","progress_key":"spring-cloud-15","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"回顾与导入","anchor":"回顾与导入"},{"name":"从RestTemplate到OpenFeign","anchor":"从RestTemplate到OpenFeign"},{"name":"为book-order引入OpenFeign","anchor":"为book-order引入OpenFeign"},{"name":"定义Feign客户端接口","anchor":"定义Feign客户端接口"},{"name":"改造订单服务的调用","anchor":"改造订单服务的调用"},{"name":"Feign日志配置","anchor":"Feign日志配置"},{"name":"Feign超时配置","anchor":"Feign超时配置"},{"name":"常见问题排查","anchor":"常见问题排查"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":16,"slug":"16","title":"OpenFeign核心注解详解","group":"课程内容","progress_key":"spring-cloud-16","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"回顾与导入","anchor":"回顾与导入"},{"name":"定义DTO","anchor":"定义DTO"},{"name":"@FeignClient属性详解","anchor":"FeignClient属性详解"},{"name":"方法级注解与参数绑定","anchor":"方法级注解与参数绑定"},{"name":"实战：扩展BookClient覆盖多种参数场景","anchor":"实战扩展BookClient覆盖多种参数场景"},{"name":"Feign接口继承特性","anchor":"Feign接口继承特性"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":17,"slug":"17","title":"OpenFeign拦截器","group":"课程内容","progress_key":"spring-cloud-17","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"回顾与导入","anchor":"回顾与导入"},{"name":"OpenFeign拦截器","anchor":"OpenFeign拦截器_1"},{"name":"实战：整合拦截器到BookClient","anchor":"实战整合拦截器到BookClient"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":18,"slug":"18","title":"OpenFeign与LoadBalancer集成","group":"课程内容","progress_key":"spring-cloud-18","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"回顾与导入","anchor":"回顾与导入"},{"name":"核心原理：Feign调用链中的LoadBalancer","anchor":"核心原理Feign调用链中的LoadBalancer"},{"name":"实战：实例可见和负载均衡","anchor":"实战实例可见和负载均衡"},{"name":"关键机制：35秒实例缓存与Nacos场景的坑","anchor":"关键机制35秒实例缓存与Nacos场景的坑"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":19,"slug":"19","title":"订单-图书远程调用重构","group":"课程内容","progress_key":"spring-cloud-19","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"回顾与导入","anchor":"回顾与导入"},{"name":"一、下单扣库存的流程设计","anchor":"一下单扣库存的流程设计"},{"name":"二、改造订单服务","anchor":"二改造订单服务"},{"name":"三、写操作的安全设计","anchor":"三写操作的安全设计"},{"name":"四、端到端验证","anchor":"四端到端验证"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":20,"slug":"20","title":"Spring Cloud LoadBalancer快速上手","group":"课程内容","progress_key":"spring-cloud-20","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"回顾与导入","anchor":"回顾与导入"},{"name":"@LoadBalanced是什么：一个标记，而不是实现","anchor":"LoadBalanced是什么一个标记而不是实现"},{"name":"核心组件：谁在真正做决策","anchor":"核心组件谁在真正做决策"},{"name":"实战：配置@LoadBalanced RestTemplate","anchor":"实战配置LoadBalanced-RestTemplate"},{"name":"验证：实例可见与负载均衡","anchor":"验证实例可见与负载均衡"},{"name":"与OpenFeign的对比","anchor":"与OpenFeign的对比"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":21,"slug":"21","title":"负载均衡算法与LoadBalancer","group":"课程内容","progress_key":"spring-cloud-21","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"回顾与导入","anchor":"回顾与导入"},{"name":"负载均衡核心算法原理","anchor":"负载均衡核心算法原理"},{"name":"验证默认轮询策略","anchor":"验证默认轮询策略"},{"name":"切换到随机策略","anchor":"切换到随机策略"},{"name":"轮询与随机的对比分析","anchor":"轮询与随机的对比分析"},{"name":"注意事项和小节","anchor":"注意事项和小节"},{"name":"作业","anchor":"作业"}]},{"n":22,"slug":"22","title":"自定义负载均衡算法","group":"课程内容","progress_key":"spring-cloud-22","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"回顾与导入","anchor":"回顾与导入"},{"name":"自定义负载均衡的开发流程","anchor":"自定义负载均衡的开发流程"},{"name":"Reactor核心对象介绍","anchor":"Reactor核心对象介绍"},{"name":"ReactorServiceInstanceLoadBalancer接口详解","anchor":"ReactorServiceInstanceLoadBalancer接口详解"},{"name":"手写平滑加权轮询负载均衡器","anchor":"手写平滑加权轮询负载均衡器"},{"name":"注册与绑定","anchor":"注册与绑定"},{"name":"验证：平滑加权轮询 vs 加权随机","anchor":"验证平滑加权轮询-vs-加权随机"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":23,"slug":"23","title":"标签化负载均衡与灰度发布","group":"课程内容","progress_key":"spring-cloud-23","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"回顾与导入","anchor":"回顾与导入"},{"name":"灰度发布核心概念","anchor":"灰度发布核心概念"},{"name":"标签化负载均衡的核心原理","anchor":"标签化负载均衡的核心原理"},{"name":"部署v1/v2双版本实例","anchor":"部署v1v2双版本实例"},{"name":"实现标签化负载均衡器","anchor":"实现标签化负载均衡器"},{"name":"端到端验证","anchor":"端到端验证"},{"name":"注意事项","anchor":"注意事项"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":24,"slug":"24","title":"Nacos Config集成与配置迁移","group":"课程内容","progress_key":"spring-cloud-24","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"回顾与导入","anchor":"回顾与导入"},{"name":"配置中心核心概念与模型","anchor":"配置中心核心概念与模型"},{"name":"迁移前的准备：确认依赖与本地配置","anchor":"迁移前的准备确认依赖与本地配置"},{"name":"在Nacos中创建配置","anchor":"在Nacos中创建配置"},{"name":"验证迁移结果","anchor":"验证迁移结果"},{"name":"验证动态刷新","anchor":"验证动态刷新"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":25,"slug":"25","title":"配置分级模型与DataId实战","group":"课程内容","progress_key":"spring-cloud-25","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"回顾与导入","anchor":"回顾与导入"},{"name":"配置中心的三级模型","anchor":"配置中心的三级模型"},{"name":"DataId的构成规则详解","anchor":"DataId的构成规则详解"},{"name":"多环境隔离的两种方案","anchor":"多环境隔离的两种方案"},{"name":"实战一：为book-product配置dev/test两套DataId","anchor":"实战一为book-product配置devtest两套DataId"},{"name":"shared-configs与extension-configs","anchor":"shared-configs与extension-configs"},{"name":"实战二：抽取公共配置，实现book-product与book-user共享","anchor":"实战二抽取公共配置实现book-product与book-user共享"},{"name":"实战三：本地调试覆盖远程配置","anchor":"实战三本地调试覆盖远程配置"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":26,"slug":"26","title":"配置灰度发布实战","group":"课程内容","progress_key":"spring-cloud-26","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"回顾与导入","anchor":"回顾与导入"},{"name":"实验环境与 Actuator 准备","anchor":"实验环境与-Actuator-准备"},{"name":"配置灰度发布的核心概念","anchor":"配置灰度发布的核心概念"},{"name":"Beta 发布实战","anchor":"Beta-发布实战"},{"name":"标签发布原理（拓展）","anchor":"标签发布原理拓展"},{"name":"灰度发布的完整流程","anchor":"灰度发布的完整流程"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]}]}]},{"key":"cloud","title":"云计算","glyph":"云","cls":"b-cloud","coming_soon":true,"modules":[]}],"currentKey":"spring-cloud","currentSlug":"10"}],"$L13","$L14"]}]]
+15:I[756,["619","static/chunks/619-ba102abea3e3d0e4.js","526","static/chunks/app/course/%5Bkey%5D/%5Bch%5D/page-4b7f30b4efe73131.js"],"default"]
+16:I[1599,["619","static/chunks/619-ba102abea3e3d0e4.js","526","static/chunks/app/course/%5Bkey%5D/%5Bch%5D/page-4b7f30b4efe73131.js"],"default"]
+19:I[5340,["619","static/chunks/619-ba102abea3e3d0e4.js","526","static/chunks/app/course/%5Bkey%5D/%5Bch%5D/page-4b7f30b4efe73131.js"],"default"]
+17:Tac93,<h1 id="Nacos服务发现实战">Nacos服务发现实战</h1>
+<h2 id="课程目标">课程目标</h2>
+<ul>
+<li>理解服务发现（Service Discovery）的核心概念与工作流程</li>
+<li>掌握<code>DiscoveryClient</code>接口的核心API及其与Nacos的集成方式</li>
+<li>掌握在订单服务中通过<code>DiscoveryClient</code>获取图书服务实例列表的方法</li>
+<li>掌握从实例列表中解析IP、端口并构造调用URL的技巧</li>
+<li>理解服务发现与负载均衡之间的关系，为后续LoadBalancer课程做铺垫</li>
+<li>完成订单服务动态发现图书服务的实战验证</li>
+</ul>
+<h2 id="回顾与导入">回顾与导入</h2>
+<p>在前三节课中，我们完成了三个服务到Nacos服务器的注册。此时Nacos控制台的服务列表中已经能看到三个服务，每个服务都有健康的实例。</p>
+<p>但这仅仅完成了“注册”这一步。注册的目的是为了被发现——book-order创建订单时需要扣减图书库存，它需要知道book-product在哪里。在传统方式中，我们可能会在配置文件中写死图书服务的地址：</p>
+<div class="codehilite lang-yaml"><pre><span></span><code><span class="c1"># 不推荐的硬编码方式</span>
+<span class="nt">book</span><span class="p">:</span>
+<span class="w">  </span><span class="nt">product</span><span class="p">:</span>
+<span class="w">    </span><span class="nt">url</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">http://localhost:8081</span>
+</code></pre></div>
+
+<p>这种方式的致命缺陷在于：图书服务一旦扩容、迁移或宕机，订单服务就需要手动修改配置并重启。在微服务架构中，服务实例的地址是<strong>动态变化</strong>的，因此必须通过服务发现机制来动态获取。本节内容将关注<strong>通过DiscoveryClient实现服务发现</strong>：</p>
+<div class="codehilite lang-mermaid"><pre><span></span><code>flowchart LR
+    subgraph 本节目标
+        A[book-order:8083] --&gt;|DiscoveryClient查询| N[Nacos]
+        N --&gt;|返回实例列表| A
+        A --&gt;|根据实例信息构造URL| B[book-product:8081]
+    end
+
+    style A fill:#e8f5e9
+    style N fill:#e3f2fd
+</code></pre></div>
+
+<blockquote>
+<p><strong>前置条件：</strong> 请确保三个服务均已成功注册到Nacos服务器，控制台服务列表中能看到book-product、book-user、book-order三个服务。</p>
+</blockquote>
+<h2 id="服务发现核心概念">服务发现核心概念</h2>
+<h3 id="什么是服务发现">什么是服务发现</h3>
+<p><strong>服务发现</strong>是指服务消费者（如订单服务）从注册中心（如Nacos）动态获取服务提供者（如商品服务）的实例列表，并从中选择一个实例进行调用的过程。</p>
+<p>服务发现包含三个核心角色：</p>
+<table>
+<thead>
+<tr>
+<th>角色</th>
+<th>说明</th>
+<th>本课程中的示例</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>服务提供者</strong></td>
+<td>将自己注册到注册中心，对外提供服务</td>
+<td>book-product、book-user</td>
+</tr>
+<tr>
+<td><strong>服务消费者</strong></td>
+<td>从注册中心获取提供者实例列表，发起调用</td>
+<td>book-order</td>
+</tr>
+<tr>
+<td><strong>注册中心</strong></td>
+<td>维护服务注册信息，提供服务发现接口</td>
+<td>Nacos服务器</td>
+</tr>
+</tbody>
+</table>
+<h3 id="服务发现的工作流程">服务发现的工作流程</h3>
+<div class="codehilite lang-mermaid"><pre><span></span><code>sequenceDiagram
+    participant Order as book-order（消费者）
+    participant Nacos as Nacos服务器
+    participant Product as book-product（提供者）
+
+    Note over Product,Nacos: 阶段一：服务注册
+    Product-&gt;&gt;Nacos: 注册（服务名、IP、端口、元数据）
+
+    Note over Order,Nacos: 阶段二：服务发现
+    Order-&gt;&gt;Nacos: 查询 book-product 的实例列表
+    Nacos--&gt;&gt;Order: 返回实例列表（含IP、端口等）
+
+    Note over Order,Product: 阶段三：服务调用
+    Order-&gt;&gt;Order: 选择一个实例，构造URL
+    Order-&gt;&gt;Product: 发起HTTP调用
+    Product--&gt;&gt;Order: 返回响应数据
+</code></pre></div>
+
+<h3 id="Spring-Cloud的DiscoveryClient接口">Spring Cloud的DiscoveryClient接口</h3>
+<p><code>DiscoveryClient</code>是Spring Cloud提供的一个标准接口，用于抽象服务发现功能。它不绑定具体的注册中心实现，Nacos、Eureka、Consul等都有对应的实现类。对于Nacos，其实现类是<code>NacosDiscoveryClient</code>，它将<code>DiscoveryClient</code>的API委托给Nacos客户端来完成实际的服务查询。</p>
+<p><code>DiscoveryClient</code>的核心方法如下：</p>
+<table>
+<thead>
+<tr>
+<th>方法</th>
+<th>返回值</th>
+<th>说明</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>getServices()</code></td>
+<td><code>List&lt;String&gt;</code></td>
+<td>获取所有已注册的服务名列表</td>
+</tr>
+<tr>
+<td><code>getInstances(String serviceId)</code></td>
+<td><code>List&lt;ServiceInstance&gt;</code></td>
+<td>获取指定服务的所有实例列表</td>
+</tr>
+<tr>
+<td><code>getInstances(String serviceId, boolean healthy)</code></td>
+<td><code>List&lt;ServiceInstance&gt;</code></td>
+<td>获取指定服务的实例列表，可指定是否只返回健康实例</td>
+</tr>
+<tr>
+<td><code>description()</code></td>
+<td><code>String</code></td>
+<td>返回服务发现客户端的描述信息</td>
+</tr>
+</tbody>
+</table>
+<h3 id="ServiceInstance接口">ServiceInstance接口</h3>
+<p><code>ServiceInstance</code>封装了一个服务实例的完整信息，主要方法包括：</p>
+<table>
+<thead>
+<tr>
+<th>方法</th>
+<th>返回值</th>
+<th>说明</th>
+<th>示例值</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>getServiceId()</code></td>
+<td><code>String</code></td>
+<td>服务名</td>
+<td><code>book-product</code></td>
+</tr>
+<tr>
+<td><code>getHost()</code></td>
+<td><code>String</code></td>
+<td>主机地址</td>
+<td><code>127.0.0.1</code></td>
+</tr>
+<tr>
+<td><code>getPort()</code></td>
+<td><code>int</code></td>
+<td>端口号</td>
+<td><code>8081</code></td>
+</tr>
+<tr>
+<td><code>getUri()</code></td>
+<td><code>URI</code></td>
+<td>完整URI</td>
+<td><code>http://127.0.0.1:8081</code></td>
+</tr>
+<tr>
+<td><code>getMetadata()</code></td>
+<td><code>Map&lt;String,String&gt;</code></td>
+<td>元数据</td>
+<td><code>{version=1.0.0}</code></td>
+</tr>
+<tr>
+<td><code>getScheme()</code></td>
+<td><code>String</code></td>
+<td>协议</td>
+<td><code>http</code></td>
+</tr>
+<tr>
+<td><code>isSecure()</code></td>
+<td><code>boolean</code></td>
+<td>是否HTTPS</td>
+<td><code>false</code></td>
+</tr>
+<tr>
+<td><code>getInstanceId()</code></td>
+<td><code>String</code></td>
+<td>实例唯一标识</td>
+<td><code>127.0.0.1:8081</code></td>
+</tr>
+</tbody>
+</table>
+<p>在实际开发中，获取到<code>ServiceInstance</code>后，通常使用<code>getUri()</code>获取完整的基地址，然后拼接接口路径发起调用。</p>
+<h2 id="订单服务集成DiscoveryClient">订单服务集成DiscoveryClient</h2>
+<h3 id="确认依赖">确认依赖</h3>
+<p><code>DiscoveryClient</code>接口来自Spring Cloud Commons模块，已通过<code>spring-cloud-starter-alibaba-nacos-discovery</code>依赖间接引入，无需额外添加依赖。确认<code>book-order/pom.xml</code>中包含：</p>
+<div class="codehilite lang-xml"><pre><span></span><code><span class="nt">&lt;dependency&gt;</span>
+<span class="w">    </span><span class="nt">&lt;groupId&gt;</span>com.alibaba.cloud<span class="nt">&lt;/groupId&gt;</span>
+<span class="w">    </span><span class="nt">&lt;artifactId&gt;</span>spring-cloud-starter-alibaba-nacos-discovery<span class="nt">&lt;/artifactId&gt;</span>
+<span class="nt">&lt;/dependency&gt;</span>
+</code></pre></div>
+
+<h3 id="在订单服务中注入DiscoveryClient">在订单服务中注入DiscoveryClient</h3>
+<p>在<code>book-order</code>中，我们创建一个专门的Controller来演示服务发现功能。首先创建一个<code>DiscoveryController</code>：</p>
+<div class="codehilite lang-java"><pre><span></span><code><span class="nd">@Slf4j</span>
+<span class="nd">@RestController</span>
+<span class="nd">@RequestMapping</span><span class="p">(</span><span class="s">"/api/discovery"</span><span class="p">)</span>
+<span class="nd">@RequiredArgsConstructor</span>
+<span class="kd">public</span><span class="w"> </span><span class="kd">class</span> <span class="nc">DiscoveryController</span><span class="w"> </span><span class="p">{</span>
+
+<span class="w">    </span><span class="kd">private</span><span class="w"> </span><span class="kd">final</span><span class="w"> </span><span class="n">DiscoveryClient</span><span class="w"> </span><span class="n">discoveryClient</span><span class="p">;</span>
+
+<span class="w">    </span><span class="kd">private</span><span class="w"> </span><span class="kd">final</span><span class="w"> </span><span class="n">RestTemplate</span><span class="w"> </span><span class="n">restTemplate</span><span class="p">;</span>
+<span class="w">    </span><span class="cm">/**</span>
+<span class="cm">     * 获取所有已注册的服务名列表</span>
+<span class="cm">     * GET /api/discovery/services</span>
+<span class="cm">     */</span>
+<span class="w">    </span><span class="nd">@GetMapping</span><span class="p">(</span><span class="s">"/services"</span><span class="p">)</span>
+<span class="w">    </span><span class="kd">public</span><span class="w"> </span><span class="n">Result</span><span class="o">&lt;</span><span class="n">List</span><span class="o">&lt;</span><span class="n">String</span><span class="o">&gt;&gt;</span><span class="w"> </span><span class="nf">getServices</span><span class="p">()</span><span class="w"> </span><span class="p">{</span>
+<span class="w">        </span><span class="n">List</span><span class="o">&lt;</span><span class="n">String</span><span class="o">&gt;</span><span class="w"> </span><span class="n">services</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">discoveryClient</span><span class="p">.</span><span class="na">getServices</span><span class="p">();</span>
+<span class="w">        </span><span class="n">log</span><span class="p">.</span><span class="na">info</span><span class="p">(</span><span class="s">"当前注册的服务列表: {}"</span><span class="p">,</span><span class="w"> </span><span class="n">services</span><span class="p">);</span>
+<span class="w">        </span><span class="k">return</span><span class="w"> </span><span class="n">Result</span><span class="p">.</span><span class="na">success</span><span class="p">(</span><span class="n">services</span><span class="p">);</span>
+<span class="w">    </span><span class="p">}</span>
+
+<span class="w">    </span><span class="cm">/**</span>
+<span class="cm">     * 获取指定服务的所有实例</span>
+<span class="cm">     * GET /api/discovery/instances/{serviceName}</span>
+<span class="cm">     */</span>
+<span class="w">    </span><span class="nd">@GetMapping</span><span class="p">(</span><span class="s">"/instances/{serviceName}"</span><span class="p">)</span>
+<span class="w">    </span><span class="kd">public</span><span class="w"> </span><span class="n">Result</span><span class="o">&lt;</span><span class="n">List</span><span class="o">&lt;</span><span class="n">ServiceInstance</span><span class="o">&gt;&gt;</span><span class="w"> </span><span class="nf">getInstances</span><span class="p">(</span><span class="nd">@PathVariable</span><span class="p">(</span><span class="s">"serviceName"</span><span class="p">)</span><span class="w"> </span><span class="n">String</span><span class="w"> </span><span class="n">serviceName</span><span class="p">)</span><span class="w"> </span><span class="p">{</span>
+<span class="w">        </span><span class="n">List</span><span class="o">&lt;</span><span class="n">ServiceInstance</span><span class="o">&gt;</span><span class="w"> </span><span class="n">instances</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">discoveryClient</span><span class="p">.</span><span class="na">getInstances</span><span class="p">(</span><span class="n">serviceName</span><span class="p">);</span>
+<span class="w">        </span><span class="n">log</span><span class="p">.</span><span class="na">info</span><span class="p">(</span><span class="s">"服务 {} 的实例列表: {}"</span><span class="p">,</span><span class="w"> </span><span class="n">serviceName</span><span class="p">,</span><span class="w"> </span><span class="n">instances</span><span class="p">);</span>
+<span class="w">        </span><span class="k">return</span><span class="w"> </span><span class="n">Result</span><span class="p">.</span><span class="na">success</span><span class="p">(</span><span class="n">instances</span><span class="p">);</span>
+<span class="w">    </span><span class="p">}</span>
+
+<span class="w">    </span><span class="cm">/**</span>
+<span class="cm">     * 获取图书服务的实例信息（带详细信息输出）</span>
+<span class="cm">     * GET /api/discovery/book-instances</span>
+<span class="cm">     */</span>
+<span class="w">    </span><span class="nd">@GetMapping</span><span class="p">(</span><span class="s">"/book-instances"</span><span class="p">)</span>
+<span class="w">    </span><span class="kd">public</span><span class="w"> </span><span class="n">Result</span><span class="o">&lt;</span><span class="n">List</span><span class="o">&lt;</span><span class="n">ServiceInstance</span><span class="o">&gt;&gt;</span><span class="w"> </span><span class="nf">getBookInstances</span><span class="p">()</span><span class="w"> </span><span class="p">{</span>
+<span class="w">        </span><span class="n">List</span><span class="o">&lt;</span><span class="n">ServiceInstance</span><span class="o">&gt;</span><span class="w"> </span><span class="n">instances</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">discoveryClient</span><span class="p">.</span><span class="na">getInstances</span><span class="p">(</span><span class="s">"book-product"</span><span class="p">);</span>
+
+<span class="w">        </span><span class="k">if</span><span class="w"> </span><span class="p">(</span><span class="n">instances</span><span class="w"> </span><span class="o">==</span><span class="w"> </span><span class="kc">null</span><span class="w"> </span><span class="o">||</span><span class="w"> </span><span class="n">instances</span><span class="p">.</span><span class="na">isEmpty</span><span class="p">())</span><span class="w"> </span><span class="p">{</span>
+<span class="w">            </span><span class="n">log</span><span class="p">.</span><span class="na">warn</span><span class="p">(</span><span class="s">"未发现任何 book-product 实例"</span><span class="p">);</span>
+<span class="w">        </span><span class="p">}</span><span class="w"> </span><span class="k">else</span><span class="w"> </span><span class="p">{</span>
+<span class="w">            </span><span class="k">for</span><span class="w"> </span><span class="p">(</span><span class="n">ServiceInstance</span><span class="w"> </span><span class="n">instance</span><span class="w"> </span><span class="p">:</span><span class="w"> </span><span class="n">instances</span><span class="p">)</span><span class="w"> </span><span class="p">{</span>
+<span class="w">                </span><span class="n">log</span><span class="p">.</span><span class="na">info</span><span class="p">(</span><span class="s">"服务ID: {}, 主机: {}, 端口: {}, URI: {}, 元数据: {}"</span><span class="p">,</span>
+<span class="w">                        </span><span class="n">instance</span><span class="p">.</span><span class="na">getServiceId</span><span class="p">(),</span>
+<span class="w">                        </span><span class="n">instance</span><span class="p">.</span><span class="na">getHost</span><span class="p">(),</span>
+<span class="w">                        </span><span class="n">instance</span><span class="p">.</span><span class="na">getPort</span><span class="p">(),</span>
+<span class="w">                        </span><span class="n">instance</span><span class="p">.</span><span class="na">getUri</span><span class="p">(),</span>
+<span class="w">                        </span><span class="n">instance</span><span class="p">.</span><span class="na">getMetadata</span><span class="p">());</span>
+<span class="w">            </span><span class="p">}</span>
+<span class="w">        </span><span class="p">}</span>
+
+<span class="w">        </span><span class="k">return</span><span class="w"> </span><span class="n">Result</span><span class="p">.</span><span class="na">success</span><span class="p">(</span><span class="n">instances</span><span class="p">);</span>
+<span class="w">    </span><span class="p">}</span>
+<span class="p">}</span>
+</code></pre></div>
+
+<blockquote>
+<p><strong>关键点：</strong> <code>DiscoveryClient</code>通过构造器注入（<code>@RequiredArgsConstructor</code> + <code>private final</code>）的方式获取，这是Spring推荐的注入方式。<code>discoveryClient.getInstances("book-product")</code>中的<code>"book-product"</code>就是<code>spring.application.name</code>配置的值。</p>
+</blockquote>
+<h2 id="构造调用URL并实现服务调用">构造调用URL并实现服务调用</h2>
+<h3 id="从ServiceInstance构造URL">从ServiceInstance构造URL</h3>
+<p>获取到<code>ServiceInstance</code>后，可以通过<code>getUri()</code>方法直接获取完整的基地址，然后拼接接口路径即可发起调用。</p>
+<div class="codehilite lang-java"><pre><span></span><code><span class="c1">// 获取第一个实例的基地址</span>
+<span class="n">ServiceInstance</span><span class="w"> </span><span class="n">instance</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">instances</span><span class="p">.</span><span class="na">get</span><span class="p">(</span><span class="mi">0</span><span class="p">);</span>
+<span class="n">String</span><span class="w"> </span><span class="n">baseUrl</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">instance</span><span class="p">.</span><span class="na">getUri</span><span class="p">().</span><span class="na">toString</span><span class="p">();</span><span class="w">  </span><span class="c1">// http://127.0.0.1:8081</span>
+
+<span class="c1">// 拼接完整请求URL</span>
+<span class="n">String</span><span class="w"> </span><span class="n">requestUrl</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">baseUrl</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="s">"/api/products/1"</span><span class="p">;</span>
+</code></pre></div>
+
+<h3 id="使用RestTemplate发起调用">使用RestTemplate发起调用</h3>
+<p>在订单服务中添加<code>RestTemplate</code>的配置类：</p>
+<div class="codehilite lang-java"><pre><span></span><code><span class="nd">@Configuration</span>
+<span class="kd">public</span><span class="w"> </span><span class="kd">class</span> <span class="nc">RestTemplateConfig</span><span class="w"> </span><span class="p">{</span>
+
+<span class="w">    </span><span class="nd">@Bean</span>
+<span class="w">    </span><span class="kd">public</span><span class="w"> </span><span class="n">RestTemplate</span><span class="w"> </span><span class="nf">restTemplate</span><span class="p">()</span><span class="w"> </span><span class="p">{</span>
+<span class="w">        </span><span class="k">return</span><span class="w"> </span><span class="k">new</span><span class="w"> </span><span class="n">RestTemplate</span><span class="p">();</span>
+<span class="w">    </span><span class="p">}</span>
+<span class="p">}</span>
+</code></pre></div>
+
+<blockquote>
+<p><strong>注意：</strong> 此时<code>RestTemplate</code><strong>不要</strong>添加<code>@LoadBalanced</code>注解。本节演示的是通过<code>DiscoveryClient</code>手动获取实例并构造URL的方式，属于底层原理的展示。后续内容将引入LoadBalancer实现自动负载均衡。</p>
+</blockquote>
+<h3 id="在订单服务中查询图书信息">在订单服务中查询图书信息</h3>
+<p>接下来，在<code>DiscoveryController</code>中添加一个方法，通过服务发现获取图书服务的实例，并调用图书服务的接口：</p>
+<div class="codehilite lang-java"><pre><span></span><code><span class="c1">// ... 在 DiscoveryController 中 ...</span>
+
+<span class="kd">private</span><span class="w"> </span><span class="kd">final</span><span class="w"> </span><span class="n">RestTemplate</span><span class="w"> </span><span class="n">restTemplate</span><span class="p">;</span>
+
+<span class="cm">/**</span>
+<span class="cm"> * 通过服务发现调用图书服务查询图书</span>
+<span class="cm"> * GET /api/discovery/book/{id}</span>
+<span class="cm"> */</span>
+<span class="nd">@GetMapping</span><span class="p">(</span><span class="s">"/book/{id}"</span><span class="p">)</span>
+<span class="kd">public</span><span class="w"> </span><span class="n">Result</span><span class="o">&lt;</span><span class="n">String</span><span class="o">&gt;</span><span class="w"> </span><span class="nf">getBookById</span><span class="p">(</span><span class="nd">@PathVariable</span><span class="w"> </span><span class="n">Long</span><span class="w"> </span><span class="n">id</span><span class="p">)</span><span class="w"> </span><span class="p">{</span>
+
+<span class="w">    </span><span class="c1">// 第一步：通过服务发现获取图书服务实例列表</span>
+<span class="w">    </span><span class="n">List</span><span class="o">&lt;</span><span class="n">ServiceInstance</span><span class="o">&gt;</span><span class="w"> </span><span class="n">instances</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">discoveryClient</span><span class="p">.</span><span class="na">getInstances</span><span class="p">(</span><span class="s">"book-product"</span><span class="p">);</span>
+
+<span class="w">    </span><span class="k">if</span><span class="w"> </span><span class="p">(</span><span class="n">instances</span><span class="w"> </span><span class="o">==</span><span class="w"> </span><span class="kc">null</span><span class="w"> </span><span class="o">||</span><span class="w"> </span><span class="n">instances</span><span class="p">.</span><span class="na">isEmpty</span><span class="p">())</span><span class="w"> </span><span class="p">{</span>
+<span class="w">        </span><span class="k">return</span><span class="w"> </span><span class="n">Result</span><span class="p">.</span><span class="na">error</span><span class="p">(</span><span class="mi">503</span><span class="p">,</span><span class="w"> </span><span class="s">"图书服务暂时不可用，请稍后重试"</span><span class="p">);</span>
+<span class="w">    </span><span class="p">}</span>
+
+<span class="w">    </span><span class="c1">// 第二步：选择一个实例（此处取第一个，后续课程将引入负载均衡）</span>
+<span class="w">    </span><span class="n">ServiceInstance</span><span class="w"> </span><span class="n">instance</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">instances</span><span class="p">.</span><span class="na">get</span><span class="p">(</span><span class="mi">0</span><span class="p">);</span>
+<span class="w">    </span><span class="n">String</span><span class="w"> </span><span class="n">baseUrl</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">instance</span><span class="p">.</span><span class="na">getUri</span><span class="p">().</span><span class="na">toString</span><span class="p">();</span>
+
+<span class="w">    </span><span class="n">log</span><span class="p">.</span><span class="na">info</span><span class="p">(</span><span class="s">"选中图书服务实例: {}:{}"</span><span class="p">,</span><span class="w"> </span><span class="n">instance</span><span class="p">.</span><span class="na">getHost</span><span class="p">(),</span><span class="w"> </span><span class="n">instance</span><span class="p">.</span><span class="na">getPort</span><span class="p">());</span>
+
+<span class="w">    </span><span class="c1">// 第三步：构造完整URL并发起调用</span>
+<span class="w">    </span><span class="n">String</span><span class="w"> </span><span class="n">requestUrl</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">baseUrl</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="s">"/api/products/"</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="n">id</span><span class="p">;</span>
+<span class="w">    </span><span class="n">log</span><span class="p">.</span><span class="na">info</span><span class="p">(</span><span class="s">"发起远程调用: {}"</span><span class="p">,</span><span class="w"> </span><span class="n">requestUrl</span><span class="p">);</span>
+
+<span class="w">    </span><span class="k">try</span><span class="w"> </span><span class="p">{</span>
+<span class="w">        </span><span class="n">String</span><span class="w"> </span><span class="n">result</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">restTemplate</span><span class="p">.</span><span class="na">getForObject</span><span class="p">(</span><span class="n">requestUrl</span><span class="p">,</span><span class="w"> </span><span class="n">String</span><span class="p">.</span><span class="na">class</span><span class="p">);</span>
+<span class="w">        </span><span class="k">return</span><span class="w"> </span><span class="n">Result</span><span class="p">.</span><span class="na">success</span><span class="p">(</span><span class="n">result</span><span class="p">);</span>
+<span class="w">    </span><span class="p">}</span><span class="w"> </span><span class="k">catch</span><span class="w"> </span><span class="p">(</span><span class="n">Exception</span><span class="w"> </span><span class="n">e</span><span class="p">)</span><span class="w"> </span><span class="p">{</span>
+<span class="w">        </span><span class="n">log</span><span class="p">.</span><span class="na">error</span><span class="p">(</span><span class="s">"调用图书服务失败"</span><span class="p">,</span><span class="w"> </span><span class="n">e</span><span class="p">);</span>
+<span class="w">        </span><span class="k">return</span><span class="w"> </span><span class="n">Result</span><span class="p">.</span><span class="na">error</span><span class="p">(</span><span class="mi">500</span><span class="p">,</span><span class="w"> </span><span class="s">"调用图书服务失败: "</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="n">e</span><span class="p">.</span><span class="na">getMessage</span><span class="p">());</span>
+<span class="w">    </span><span class="p">}</span>
+<span class="p">}</span>
+</code></pre></div>
+
+<blockquote>
+<p><strong>完整流程总结：</strong>
+1. <code>discoveryClient.getInstances("book-product")</code> → 从Nacos获取实例列表
+2. <code>instances.get(0).getUri()</code> → 解析出基地址（如<code>http://127.0.0.1:8081</code>）
+3. <code>baseUrl + "/api/products/" + id</code> → 拼接完整请求URL
+4. <code>restTemplate.getForObject(...)</code> → 发起HTTP调用</p>
+</blockquote>
+<h2 id="启动与测试">启动与测试</h2>
+<h3 id="启动三个服务">启动三个服务</h3>
+<p>确保三个服务都已启动并注册到Nacos。</p>
+<h3 id="测试一获取所有服务列表">测试一：获取所有服务列表</h3>
+<div class="codehilite lang-http"><pre><span></span><code><span class="err">### 获取所有已注册的服务</span>
+<span class="err">GET {{order_url}}/api/discovery/services</span>
+</code></pre></div>
+
+<p><strong>预期响应：</strong></p>
+<div class="codehilite lang-json"><pre><span></span><code><span class="p">{</span>
+<span class="w">  </span><span class="nt">"code"</span><span class="p">:</span><span class="w"> </span><span class="mi">200</span><span class="p">,</span>
+<span class="w">  </span><span class="nt">"message"</span><span class="p">:</span><span class="w"> </span><span class="s2">"操作成功"</span><span class="p">,</span>
+<span class="w">  </span><span class="nt">"data"</span><span class="p">:</span><span class="w"> </span><span class="p">[</span>
+<span class="w">    </span><span class="s2">"book-order"</span><span class="p">,</span>
+<span class="w">    </span><span class="s2">"book-product"</span><span class="p">,</span>
+<span class="w">    </span><span class="s2">"book-user"</span>
+<span class="w">  </span><span class="p">],</span>
+<span class="w">  </span><span class="nt">"timestamp"</span><span class="p">:</span><span class="w"> </span><span class="mi">1729000000000</span>
+<span class="p">}</span>
+</code></pre></div>
+
+<h3 id="测试二获取图书服务的实例列表">测试二：获取图书服务的实例列表</h3>
+<div class="codehilite lang-http"><pre><span></span><code><span class="err">### 获取图书服务的实例列表</span>
+<span class="err">GET {{order_url}}/api/discovery/instances/book-product</span>
+</code></pre></div>
+
+<p><strong>预期响应（简化）：</strong></p>
+<div class="codehilite lang-json"><pre><span></span><code><span class="p">{</span>
+<span class="w">  </span><span class="nt">"code"</span><span class="p">:</span><span class="w"> </span><span class="mi">200</span><span class="p">,</span>
+<span class="w">  </span><span class="nt">"message"</span><span class="p">:</span><span class="w"> </span><span class="s2">"操作成功"</span><span class="p">,</span>
+<span class="w">  </span><span class="nt">"data"</span><span class="p">:</span><span class="w"> </span><span class="p">[</span>
+<span class="w">    </span><span class="p">{</span>
+<span class="w">      </span><span class="nt">"serviceId"</span><span class="p">:</span><span class="w"> </span><span class="s2">"book-product"</span><span class="p">,</span>
+<span class="w">      </span><span class="nt">"host"</span><span class="p">:</span><span class="w"> </span><span class="s2">"127.0.0.1"</span><span class="p">,</span>
+<span class="w">      </span><span class="nt">"port"</span><span class="p">:</span><span class="w"> </span><span class="mi">8081</span><span class="p">,</span>
+<span class="w">      </span><span class="nt">"uri"</span><span class="p">:</span><span class="w"> </span><span class="s2">"http://127.0.0.1:8081"</span><span class="p">,</span>
+<span class="w">      </span><span class="nt">"metadata"</span><span class="p">:</span><span class="w"> </span><span class="p">{</span>
+<span class="w">        </span><span class="nt">"version"</span><span class="p">:</span><span class="w"> </span><span class="s2">"1.0.0"</span><span class="p">,</span>
+<span class="w">        </span><span class="nt">"region"</span><span class="p">:</span><span class="w"> </span><span class="s2">"local"</span>
+<span class="w">      </span><span class="p">}</span>
+<span class="w">    </span><span class="p">}</span>
+<span class="w">  </span><span class="p">],</span>
+<span class="w">  </span><span class="nt">"timestamp"</span><span class="p">:</span><span class="w"> </span><span class="mi">1729000000000</span>
+<span class="p">}</span>
+</code></pre></div>
+
+<h3 id="测试三通过服务发现调用图书服务">测试三：通过服务发现调用图书服务</h3>
+<div class="codehilite lang-http"><pre><span></span><code><span class="err">### 通过服务发现调用图书服务查询图书</span>
+<span class="err">GET {{order_url}}/api/discovery/book/1</span>
+</code></pre></div>
+
+<p><strong>预期响应（简化）：</strong></p>
+<div class="codehilite lang-json"><pre><span></span><code><span class="p">{</span>
+<span class="w">  </span><span class="nt">"code"</span><span class="p">:</span><span class="w"> </span><span class="mi">200</span><span class="p">,</span>
+<span class="w">  </span><span class="nt">"message"</span><span class="p">:</span><span class="w"> </span><span class="s2">"操作成功"</span><span class="p">,</span>
+<span class="w">  </span><span class="nt">"data"</span><span class="p">:</span><span class="w"> </span><span class="s2">"{\"code\":200,\"message\":\"操作成功\",\"data\":{\"id\":1,\"title\":\"Spring Boot 实战\",...}}"</span><span class="p">,</span>
+<span class="w">  </span><span class="nt">"timestamp"</span><span class="p">:</span><span class="w"> </span><span class="mi">1729000000000</span>
+<span class="p">}</span>
+</code></pre></div>
+
+<blockquote>
+<p><strong>说明：</strong> <code>data</code>字段返回的是图书服务响应的JSON字符串，因为此处使用<code>String.class</code>接收。在实际项目中，应定义对应的DTO来接收响应数据。</p>
+</blockquote>
+<h3 id="测试四查询不存在的图书">测试四：查询不存在的图书</h3>
+<div class="codehilite lang-http"><pre><span></span><code><span class="err">### 通过服务发现调用图书服务查询不存在的图书</span>
+<span class="err">GET {{order_url}}/api/discovery/book/999</span>
+</code></pre></div>
+
+<p><strong>预期响应：</strong></p>
+<div class="codehilite lang-json"><pre><span></span><code><span class="p">{</span>
+<span class="w">  </span><span class="nt">"code"</span><span class="p">:</span><span class="w"> </span><span class="mi">500</span><span class="p">,</span>
+<span class="w">  </span><span class="nt">"message"</span><span class="p">:</span><span class="w"> </span><span class="s2">"调用图书服务失败: 400..."</span><span class="p">,</span>
+<span class="w">  </span><span class="nt">"timestamp"</span><span class="p">:</span><span class="w"> </span><span class="mi">1729000000000</span>
+<span class="p">}</span>
+</code></pre></div>
+
+<h2 id="多实例发现验证">多实例发现验证</h2>
+<h3 id="启动第二个图书服务实例">启动第二个图书服务实例</h3>
+<p>启动第二个<code>book-product</code>实例（端口改为8084），验证<code>DiscoveryClient</code>是否能发现多个实例。</p>
+<h3 id="验证多实例发现">验证多实例发现</h3>
+<p>再次调用实例查询接口：</p>
+<div class="codehilite lang-http"><pre><span></span><code><span class="err">GET {{order_url}}/api/discovery/instances/book-product</span>
+</code></pre></div>
+
+<p><strong>预期响应（简化）：</strong></p>
+<div class="codehilite lang-json"><pre><span></span><code><span class="p">{</span>
+<span class="w">  </span><span class="nt">"code"</span><span class="p">:</span><span class="w"> </span><span class="mi">200</span><span class="p">,</span>
+<span class="w">  </span><span class="nt">"data"</span><span class="p">:</span><span class="w"> </span><span class="p">[</span>
+<span class="w">    </span><span class="p">{</span>
+<span class="w">      </span><span class="nt">"serviceId"</span><span class="p">:</span><span class="w"> </span><span class="s2">"book-product"</span><span class="p">,</span>
+<span class="w">      </span><span class="nt">"host"</span><span class="p">:</span><span class="w"> </span><span class="s2">"127.0.0.1"</span><span class="p">,</span>
+<span class="w">      </span><span class="nt">"port"</span><span class="p">:</span><span class="w"> </span><span class="mi">8081</span><span class="p">,</span>
+<span class="w">      </span><span class="nt">"uri"</span><span class="p">:</span><span class="w"> </span><span class="s2">"http://127.0.0.1:8081"</span>
+<span class="w">    </span><span class="p">},</span>
+<span class="w">    </span><span class="p">{</span>
+<span class="w">      </span><span class="nt">"serviceId"</span><span class="p">:</span><span class="w"> </span><span class="s2">"book-product"</span><span class="p">,</span>
+<span class="w">      </span><span class="nt">"host"</span><span class="p">:</span><span class="w"> </span><span class="s2">"127.0.0.1"</span><span class="p">,</span>
+<span class="w">      </span><span class="nt">"port"</span><span class="p">:</span><span class="w"> </span><span class="mi">8084</span><span class="p">,</span>
+<span class="w">      </span><span class="nt">"uri"</span><span class="p">:</span><span class="w"> </span><span class="s2">"http://127.0.0.1:8084"</span>
+<span class="w">    </span><span class="p">}</span>
+<span class="w">  </span><span class="p">]</span>
+<span class="p">}</span>
+</code></pre></div>
+
+<blockquote>
+<p><strong>重要观察：</strong> 当前代码中<code>instances.get(0)</code>始终取第一个实例，如果第一个实例宕机，调用仍然会失败。这就是为什么需要负载均衡组件来自动选择一个健康的实例。</p>
+</blockquote>
+<h3 id="停止一个实例验证">停止一个实例验证</h3>
+<p>停止端口8084的实例，再次调用实例查询接口，观察返回的实例列表是否从2个变为1个。Nacos客户端在应用正常关闭时会发送注销请求，实例会从列表中移除。</p>
+<h2 id="常见问题排查">常见问题排查</h2>
+<h3 id="实例列表为空">实例列表为空</h3>
+<table>
+<thead>
+<tr>
+<th>可能原因</th>
+<th>排查方法</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>服务未注册到Nacos</td>
+<td>检查Nacos控制台服务列表，确认目标服务已注册</td>
+</tr>
+<tr>
+<td>服务名拼写错误</td>
+<td><code>getInstances("book-product")</code>中的服务名必须与<code>spring.application.name</code>完全一致</td>
+</tr>
+<tr>
+<td>命名空间不一致</td>
+<td>确认消费方和提供方的<code>namespace</code>配置相同</td>
+</tr>
+<tr>
+<td>分组不一致</td>
+<td>确认消费方和提供方的<code>group</code>配置相同</td>
+</tr>
+</tbody>
+</table>
+<h3 id="调用时连接超时">调用时连接超时</h3>
+<table>
+<thead>
+<tr>
+<th>可能原因</th>
+<th>排查方法</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>实例IP不可达</td>
+<td>确认实例的IP地址是否可被消费方访问（如Docker网络隔离问题）</td>
+</tr>
+<tr>
+<td>实例端口未开放</td>
+<td>确认提供方服务的端口是否已正确监听</td>
+</tr>
+<tr>
+<td>防火墙拦截</td>
+<td>检查防火墙规则是否放行服务端口</td>
+</tr>
+</tbody>
+</table>
+<h3 id="DiscoveryClient注入失败">DiscoveryClient注入失败</h3>
+<p>如果启动时报<code>NoSuchBeanDefinitionException</code>，说明<code>DiscoveryClient</code>没有被自动装配。检查：</p>
+<ol>
+<li>启动类上是否有<code>@EnableDiscoveryClient</code>注解（可选但推荐）</li>
+<li><code>pom.xml</code>中是否包含<code>spring-cloud-starter-alibaba-nacos-discovery</code>依赖</li>
+<li><code>application.yml</code>中是否配置了<code>spring.cloud.nacos.discovery.server-addr</code></li>
+</ol>
+<h2 id="服务发现的局限性">服务发现的局限性</h2>
+<p>通过<code>DiscoveryClient</code> + <code>RestTemplate</code>的组合，我们实现了服务的动态发现和调用。这种方式能够解决硬编码地址的问题，但仍有以下不足：</p>
+<table>
+<thead>
+<tr>
+<th>局限性</th>
+<th>说明</th>
+<th>后续课程的解决方案</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>无负载均衡</strong></td>
+<td><code>instances.get(0)</code>始终取第一个实例</td>
+<td>引入LoadBalancer</td>
+</tr>
+<tr>
+<td><strong>无健康检查选择</strong></td>
+<td>不会自动跳过不健康的实例</td>
+<td>LoadBalancer支持健康实例过滤</td>
+</tr>
+<tr>
+<td><strong>代码侵入性强</strong></td>
+<td>每次调用都需要手动获取实例、拼接URL</td>
+<td>引入OpenFeign声明式调用</td>
+</tr>
+<tr>
+<td><strong>无重试机制</strong></td>
+<td>调用失败后没有自动重试</td>
+<td>OpenFeign + LoadBalancer支持重试</td>
+</tr>
+<tr>
+<td><strong>无超时控制</strong></td>
+<td><code>RestTemplate</code>需要手动配置超时</td>
+<td>OpenFeign支持超时配置</td>
+</tr>
+</tbody>
+</table>
+<blockquote>
+<p><strong>课程定位：</strong> 本节通过<code>DiscoveryClient</code>展示了服务发现的<strong>底层原理</strong>。理解了“获取实例列表 → 选择实例 → 构造URL → 发起调用”这个完整流程后，后续学习OpenFeign和LoadBalancer时就能理解它们背后的工作机制。</p>
+</blockquote>
+<h2 id="注意事项">注意事项</h2>
+<ol>
+<li>
+<p><strong>RestTemplate不加@LoadBalanced</strong>：本节演示的是手动服务发现，<code>RestTemplate</code>不应添加<code>@LoadBalanced</code>注解。后续内容将演示如何使用<code>@LoadBalanced</code>实现自动负载均衡。</p>
+</li>
+<li>
+<p><strong>实例选择策略</strong>：本节的<code>instances.get(0)</code>仅用于演示，生产环境应使用负载均衡算法选择实例。即使手写轮询，也应考虑实例的健康状态。</p>
+</li>
+<li>
+<p><strong>健康实例过滤</strong>：<code>getInstances(serviceId)</code>默认返回所有实例（包括不健康的实例）。如需只获取健康实例，可使用<code>getInstances(serviceId, true)</code>。</p>
+</li>
+<li>
+<p><strong>Nacos客户端缓存</strong>：Nacos客户端会将服务实例列表缓存在本地，默认每10秒从服务端拉取一次更新。因此服务下线后，消费者最多需要10秒才能感知到变化。</p>
+</li>
+<li>
+<p><strong>异常处理</strong>：调用远程服务时，应妥善处理连接超时、服务不可用等异常，返回友好的错误信息（如“图书服务暂时不可用，请稍后重试”）。</p>
+</li>
+</ol>
+<h2 id="小结">小结</h2>
+<p>本节课我们学习了：</p>
+<ol>
+<li><strong>服务发现的核心概念</strong>：服务提供者、服务消费者、注册中心三个角色的协作关系。</li>
+<li><strong>DiscoveryClient接口</strong>：<code>getServices()</code>获取所有服务名，<code>getInstances(serviceId)</code>获取指定服务的实例列表。</li>
+<li><strong>ServiceInstance接口</strong>：封装了实例的IP、端口、URI、元数据等信息，是构造调用URL的关键。</li>
+<li><strong>订单服务集成服务发现</strong>：通过注入<code>DiscoveryClient</code>，实现了从Nacos动态获取图书服务实例的完整流程。</li>
+<li><strong>服务调用完整链路</strong>：获取实例列表 → 选择实例 → 解析URI → 构造URL → 发起HTTP调用。</li>
+<li><strong>多实例发现验证</strong>：验证了<code>DiscoveryClient</code>能够发现同一服务的多个实例。</li>
+<li><strong>服务发现的局限性</strong>：理解了手动服务发现在负载均衡、重试、超时控制方面的不足，为后续课程指明了演进方向。</li>
+</ol>
+<h2 id="作业">作业</h2>
+<h3 id="作业一完成服务发现接口开发">作业一：完成服务发现接口开发</h3>
+<ol>
+<li>在<code>book-order</code>中创建<code>DiscoveryController</code>，实现以下接口：
+   - <code>GET /api/discovery/services</code>：返回所有已注册的服务名列表
+   - <code>GET /api/discovery/instances/{serviceName}</code>：返回指定服务的实例列表
+   - <code>GET /api/discovery/book/{id}</code>：通过服务发现调用图书服务查询图书</li>
+<li>启动三个服务，使用IDEA HTTP Request依次测试上述三个接口，截图响应结果。</li>
+<li>记录<code>getInstances</code>返回的<code>ServiceInstance</code>对象中包含哪些字段。</li>
+</ol>
+<h3 id="作业二多实例发现与调用验证">作业二：多实例发现与调用验证</h3>
+<ol>
+<li>启动两个<code>book-product</code>实例（端口8081和8082）。</li>
+<li>调用<code>/api/discovery/instances/book-product</code>，验证返回2个实例。</li>
+<li>修改<code>/api/discovery/book/{id}</code>接口，使其在每次调用时<strong>轮询</strong>选择不同的实例（提示：使用<code>AtomicInteger</code>实现简单轮询）。</li>
+<li>连续调用5次，观察日志中选中的实例是否交替变化。</li>
+</ol>13:["$","article",null,{"className":"doc","id":"content","children":[["$","div",null,{"className":"doc-head-row mb-2 flex items-center justify-between gap-4","children":[["$","p",null,{"className":"kicker","children":[["$","span",null,{"className":"kicker-num","children":"第 10 章"}],["$","span",null,{"className":"kicker-mod","children":"Spring Cloud Alibaba"}]]}],["$","$L15",null,{"progressKey":"spring-cloud-10"}]]}],["$","h1",null,{"className":"doc-h1","children":"Nacos服务发现实战"}],"$undefined",["$","$L16",null,{"html":"$17"}],"$L18"]}]
+14:["$","$L19",null,{"sections":"$5:1:props:children:0:props:courses:6:modules:0:chapters:9:sections"}]
+1a:I[2619,["619","static/chunks/619-ba102abea3e3d0e4.js","526","static/chunks/app/course/%5Bkey%5D/%5Bch%5D/page-4b7f30b4efe73131.js"],""]
+18:["$","nav",null,{"className":"pager","aria-label":"章节导航","children":[["$","$L1a",null,{"className":"pager-link pager-prev","href":"/course/spring-cloud/9/","children":[["$","span",null,{"className":"pager-dir","children":"上一章"}],["$","span",null,{"className":"pager-name","children":"用户与订单服务注册"}]]}],["$","$L1a",null,{"className":"pager-link pager-next","href":"/course/spring-cloud/11/","children":[["$","span",null,{"className":"pager-dir","children":"下一章"}],["$","span",null,{"className":"pager-name","children":"Nacos分级模型与Namespace环境隔离"}]]}]]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+7:null
+9:{"metadata":[["$","title","0",{"children":"第 10 章  · Spring Cloud Alibaba · AI大全栈"}],["$","meta","1",{"name":"description","content":"袁进主讲的系列课程手册：Python 语言核心精讲、数据科学工具包、数据库、Python 框架、Agents 底层逻辑、LangGraph、LangChain + DeepAgent、Agent 观测与评估、Agent 基础建设、RAG 知识库。iOS 风格阅读体验，内置可运行的 Python 代码块。"}]],"error":null,"digest":"$undefined"}
+10:"$9:metadata"

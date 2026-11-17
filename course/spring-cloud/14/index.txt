@@ -1,0 +1,504 @@
+1:"$Sreact.fragment"
+2:I[6590,["619","static/chunks/619-ba102abea3e3d0e4.js","177","static/chunks/app/layout-1fd0282a046e2468.js"],"default"]
+3:I[9766,[],""]
+4:I[8924,[],""]
+6:I[4431,[],"OutletBoundary"]
+8:I[5278,[],"AsyncMetadataOutlet"]
+b:I[7150,[],""]
+:HL["/ai-course-site/_next/static/css/d95fb35eb6f8b422.css","style"]
+0:{"P":null,"b":"X8etduvi9QkiRbgJrCKEG","p":"/ai-course-site","c":["","course","spring-cloud","14",""],"i":false,"f":[[["",{"children":["course",{"children":[["key","spring-cloud","d"],{"children":[["ch","14","d"],{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/ai-course-site/_next/static/css/d95fb35eb6f8b422.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"zh-CN","suppressHydrationWarning":true,"children":[["$","head",null,{"children":["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var t=localStorage.getItem(\"theme\");var d=t?t===\"dark\":window.matchMedia(\"(prefers-color-scheme: dark)\").matches;if(d)document.documentElement.classList.add(\"dark\");}catch(e){}})();"}}]}],["$","body",null,{"children":[["$","$L2",null,{"families":[{"key":"agent","name":"AI · Agent 开发"},{"key":"engineering","name":"AI · Agent 工程化"},{"key":"dev","name":"编程与工程基础"}]}],["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","footer",null,{"className":"mx-auto max-w-[52rem] px-6 pb-10 text-center text-xs text-label3","children":"AI大全栈 · 课程手册 — 由课件自动生成，仅供学习使用"}]]}]]}]]}],{"children":["course",["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["key","spring-cloud","d"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["ch","14","d"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L5",null,["$","$L6",null,{"children":["$L7",["$","$L8",null,{"promise":"$@9"}]]}]]}],{},null,false]},[["$","div","l",{"className":"doc-wrap","children":["$","div",null,{"className":"doc","aria-busy":"true","aria-label":"加载中","children":[["$","div",null,{"className":"mb-2 h-3.5 w-28 animate-pulse rounded bg-fill2"}],["$","div",null,{"className":"mb-6 h-8 w-2/3 animate-pulse rounded bg-fill2"}],["$","div",null,{"className":"space-y-3.5","children":[["$","div","0",{"className":"h-4 animate-pulse rounded bg-fill2","style":{"width":"92%"}}],["$","div","1",{"className":"h-4 animate-pulse rounded bg-fill2","style":{"width":"100%"}}],["$","div","2",{"className":"h-4 animate-pulse rounded bg-fill2","style":{"width":"96%"}}],["$","div","3",{"className":"h-4 animate-pulse rounded bg-fill2","style":{"width":"60%"}}]]}],["$","div",null,{"className":"my-8 h-32 animate-pulse rounded-xl bg-fill"}],["$","div",null,{"className":"space-y-3.5","children":[["$","div","0",{"className":"h-4 animate-pulse rounded bg-fill2","style":{"width":"100%"}}],["$","div","1",{"className":"h-4 animate-pulse rounded bg-fill2","style":{"width":"88%"}}],["$","div","2",{"className":"h-4 animate-pulse rounded bg-fill2","style":{"width":"95%"}}],["$","div","3",{"className":"h-4 animate-pulse rounded bg-fill2","style":{"width":"72%"}}],["$","div","4",{"className":"h-4 animate-pulse rounded bg-fill2","style":{"width":"100%"}}]]}]]}]}],[],[]],false]},null,false]},null,false]},null,false],"$La",false]],"m":"$undefined","G":["$b",[]],"s":false,"S":true}
+c:I[4431,[],"ViewportBoundary"]
+e:I[4431,[],"MetadataBoundary"]
+f:"$Sreact.suspense"
+a:["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$f",null,{"fallback":null,"children":"$L10"}]}]}]]}]
+11:I[7010,["619","static/chunks/619-ba102abea3e3d0e4.js","526","static/chunks/app/course/%5Bkey%5D/%5Bch%5D/page-4b7f30b4efe73131.js"],"default"]
+12:I[6710,["619","static/chunks/619-ba102abea3e3d0e4.js","526","static/chunks/app/course/%5Bkey%5D/%5Bch%5D/page-4b7f30b4efe73131.js"],"default"]
+5:[["$","$L11",null,{"url":"/course/spring-cloud/14/","title":"Nacos API 专题","course":"Spring Cloud Alibaba"}],["$","div",null,{"className":"doc-wrap","children":[["$","$L12",null,{"courses":[{"key":"py","title":"Python语言核心精讲","glyph":"Py","cls":"b1","coming_soon":false,"modules":[{"name":"语言基础","chapters":[{"n":1,"slug":"1","title":"必看导言","group":"语言基础","progress_key":"1"},{"n":2,"slug":"2","title":"python环境安装","group":"语言基础","progress_key":"2"},{"n":3,"slug":"3","title":"python基本语法","group":"语言基础","progress_key":"3"},{"n":4,"slug":"4","title":"容器类型","group":"语言基础","progress_key":"4"},{"n":5,"slug":"5","title":"函数","group":"语言基础","progress_key":"5"},{"n":6,"slug":"6","title":"作用域","group":"语言基础","progress_key":"6"},{"n":7,"slug":"7","title":"lambda表达式","group":"语言基础","progress_key":"7"}]},{"name":"面向对象","chapters":[{"n":8,"slug":"8","title":"类和对象","group":"面向对象","progress_key":"8"},{"n":9,"slug":"9","title":"对象的类型","group":"面向对象","progress_key":"9"},{"n":10,"slug":"10","title":"对象的创建过程","group":"面向对象","progress_key":"10"},{"n":11,"slug":"11","title":"可调用对象","group":"面向对象","progress_key":"11"},{"n":12,"slug":"12","title":"元类","group":"面向对象","progress_key":"12"},{"n":13,"slug":"13","title":"装饰器","group":"面向对象","progress_key":"13"},{"n":14,"slug":"14","title":"魔术方法","group":"面向对象","progress_key":"14"},{"n":15,"slug":"15","title":"描述符","group":"面向对象","progress_key":"15"}]},{"name":"语言进阶","chapters":[{"n":16,"slug":"16","title":"异常处理","group":"语言进阶","progress_key":"16"},{"n":17,"slug":"17","title":"迭代器与生成器","group":"语言进阶","progress_key":"17"},{"n":18,"slug":"18","title":"上下文管理器","group":"语言进阶","progress_key":"18"},{"n":19,"slug":"19","title":"ABC","group":"语言进阶","progress_key":"19"},{"n":20,"slug":"20","title":"类型标注","group":"语言进阶","progress_key":"20"},{"n":21,"slug":"21","title":"模块化","group":"语言进阶","progress_key":"21"},{"n":22,"slug":"22","title":"标准库","group":"语言进阶","progress_key":"22"},{"n":23,"slug":"23","title":"第三方库","group":"语言进阶","progress_key":"23"}]},{"name":"异步与并发","chapters":[{"n":24,"slug":"24","title":"事件循环","group":"异步与并发","progress_key":"24"},{"n":25,"slug":"25","title":"Future类","group":"异步与并发","progress_key":"25"},{"n":26,"slug":"26","title":"协程 Coroutine","group":"异步与并发","progress_key":"26"},{"n":27,"slug":"27","title":"异步编程","group":"异步与并发","progress_key":"27"},{"n":28,"slug":"28","title":"多线程与多进程","group":"异步与并发","progress_key":"28"}]},{"name":"工程化实践","chapters":[{"n":29,"slug":"29","title":"构建发布","group":"工程化实践","progress_key":"29"},{"n":30,"slug":"30","title":"项目管理工具","group":"工程化实践","progress_key":"30"},{"n":31,"slug":"31","title":"monorepo","group":"工程化实践","progress_key":"31"},{"n":32,"slug":"32","title":"断点调试","group":"工程化实践","progress_key":"32"}]},{"name":"项目案例","chapters":[{"n":null,"slug":"proj-async-agents","title":"多智能体协同调研系统","group":"项目案例","progress_key":""},{"n":null,"slug":"proj-duyi-utils","title":"duyi-utils 构建发布示例","group":"项目案例","progress_key":""}]}]},{"key":"fw","title":"Python框架","glyph":"架","cls":"b-fw","coming_soon":false,"modules":[{"name":"课程内容","chapters":[{"n":1,"slug":"1","title":"Web服务框架","group":"课程内容","progress_key":"fw-1"},{"n":2,"slug":"2","title":"优化包结构","group":"课程内容","progress_key":"fw-2"},{"n":3,"slug":"3","title":"初识SQLAlchemy","group":"课程内容","progress_key":"fw-3"},{"n":4,"slug":"4","title":"ORM","group":"课程内容","progress_key":"fw-4"},{"n":5,"slug":"5","title":"数据操作","group":"课程内容","progress_key":"fw-5"},{"n":6,"slug":"6","title":"数据迁移","group":"课程内容","progress_key":"fw-6"},{"n":7,"slug":"7","title":"业务逻辑","group":"课程内容","progress_key":"fw-7"},{"n":8,"slug":"8","title":"依赖注入","group":"课程内容","progress_key":"fw-8"},{"n":9,"slug":"9","title":"统一异常处理","group":"课程内容","progress_key":"fw-9"},{"n":10,"slug":"10","title":"中间件","group":"课程内容","progress_key":"fw-10"},{"n":11,"slug":"11","title":"测试框架","group":"课程内容","progress_key":"fw-11"},{"n":12,"slug":"12","title":"测试方案","group":"课程内容","progress_key":"fw-12"},{"n":13,"slug":"13","title":"三层架构","group":"课程内容","progress_key":"fw-13"},{"n":14,"slug":"14","title":"文件上传","group":"课程内容","progress_key":"fw-14"},{"n":15,"slug":"15","title":"系统设置","group":"课程内容","progress_key":"fw-15"},{"n":17,"slug":"17","title":"用户系统","group":"课程内容","progress_key":"fw-17"},{"n":18,"slug":"18","title":"日志","group":"课程内容","progress_key":"fw-18"},{"n":20,"slug":"20","title":"流式响应","group":"课程内容","progress_key":"fw-20"},{"n":26,"slug":"26","title":"python收官检验","group":"课程内容","progress_key":"fw-26"}]},{"name":"部署","chapters":[{"n":21,"slug":"21","title":"部署-认识Docker","group":"部署","progress_key":"fw-21"},{"n":22,"slug":"22","title":"部署-云资产","group":"部署","progress_key":"fw-22"},{"n":23,"slug":"23","title":"部署-k8s","group":"部署","progress_key":"fw-23"},{"n":24,"slug":"24","title":"部署-CICD","group":"部署","progress_key":"fw-24"},{"n":25,"slug":"25","title":"部署-总结","group":"部署","progress_key":"fw-25"}]}]},{"key":"db","title":"数据库","glyph":"库","cls":"b-db","coming_soon":false,"modules":[{"name":"课程内容","chapters":[{"n":1,"slug":"1","title":"PostgreSQL安装","group":"课程内容","progress_key":"db-1"},{"n":2,"slug":"2","title":"DDL","group":"课程内容","progress_key":"db-2"},{"n":3,"slug":"3","title":"表间关系","group":"课程内容","progress_key":"db-3"},{"n":4,"slug":"4","title":"DML","group":"课程内容","progress_key":"db-4"},{"n":5,"slug":"5","title":"事务","group":"课程内容","progress_key":"db-5"},{"n":6,"slug":"6","title":"索引","group":"课程内容","progress_key":"db-6"},{"n":7,"slug":"7","title":"拓展知识","group":"课程内容","progress_key":"db-7"}]}]},{"key":"dst","title":"数据科学工具包","glyph":"数","cls":"b-ds","coming_soon":false,"modules":[{"name":"课程内容","chapters":[{"n":1,"slug":"1","title":"课程导言","group":"课程内容","progress_key":"dst-1"},{"n":2,"slug":"2","title":"Jupyter","group":"课程内容","progress_key":"dst-2"},{"n":10,"slug":"10","title":"Seaborn","group":"课程内容","progress_key":"dst-10"}]},{"name":"Numpy","chapters":[{"n":3,"slug":"3","title":"Numpy - 核心概念","group":"Numpy","progress_key":"dst-3"},{"n":4,"slug":"4","title":"Numpy - 数据操作","group":"Numpy","progress_key":"dst-4"}]},{"name":"Pandas","chapters":[{"n":5,"slug":"5","title":"Pandas - 数据类型","group":"Pandas","progress_key":"dst-5"},{"n":6,"slug":"6","title":"Pandas - 数据清洗","group":"Pandas","progress_key":"dst-6"}]},{"name":"Matplotlib","chapters":[{"n":7,"slug":"7","title":"Matplotlib - 核心概念","group":"Matplotlib","progress_key":"dst-7"},{"n":8,"slug":"8","title":"Matplotlib - 动画","group":"Matplotlib","progress_key":"dst-8"},{"n":9,"slug":"9","title":"Matplotlib - 交互式组件","group":"Matplotlib","progress_key":"dst-9"}]}]},{"key":"java-basic","title":"Java语言核心精讲","glyph":"J","cls":"b-java","coming_soon":false,"modules":[{"name":"课程内容","chapters":[{"n":1,"slug":"1","title":"课程导言","group":"课程内容","progress_key":"java-basic-1"},{"n":2,"slug":"2","title":"构建第一个Java应用程序","group":"课程内容","progress_key":"java-basic-2"},{"n":3,"slug":"3","title":"Java基础语法","group":"课程内容","progress_key":"java-basic-3"},{"n":4,"slug":"4","title":"容器类型","group":"课程内容","progress_key":"java-basic-4"},{"n":5,"slug":"5","title":"方法","group":"课程内容","progress_key":"java-basic-5"},{"n":6,"slug":"6","title":"Lambda表达式","group":"课程内容","progress_key":"java-basic-6"},{"n":7,"slug":"7","title":"Stream API","group":"课程内容","progress_key":"java-basic-7"},{"n":8,"slug":"8","title":"类和对象","group":"课程内容","progress_key":"java-basic-8"},{"n":9,"slug":"9","title":"封装、继承和多态","group":"课程内容","progress_key":"java-basic-9"},{"n":10,"slug":"10","title":"抽象类和接口","group":"课程内容","progress_key":"java-basic-10"},{"n":11,"slug":"11","title":"包管理","group":"课程内容","progress_key":"java-basic-11"},{"n":12,"slug":"12","title":"异常处理","group":"课程内容","progress_key":"java-basic-12"},{"n":13,"slug":"13","title":"反射","group":"课程内容","progress_key":"java-basic-13"},{"n":14,"slug":"14","title":"泛型","group":"课程内容","progress_key":"java-basic-14"},{"n":15,"slug":"15","title":"注解","group":"课程内容","progress_key":"java-basic-15"},{"n":16,"slug":"16","title":"Java特性拾遗与精进","group":"课程内容","progress_key":"java-basic-16"},{"n":17,"slug":"17","title":"线程基础与创建方式","group":"课程内容","progress_key":"java-basic-17"},{"n":18,"slug":"18","title":"线程生命周期与控制方法","group":"课程内容","progress_key":"java-basic-18"},{"n":19,"slug":"19","title":"线程安全与锁机制","group":"课程内容","progress_key":"java-basic-19"},{"n":20,"slug":"20","title":"线程池与Executor框架","group":"课程内容","progress_key":"java-basic-20"},{"n":21,"slug":"21","title":"并发集合与同步工具类","group":"课程内容","progress_key":"java-basic-21"},{"n":22,"slug":"22","title":"高级并发与最佳实践","group":"课程内容","progress_key":"java-basic-22"},{"n":23,"slug":"23","title":"Maven入门与环境配置","group":"课程内容","progress_key":"java-basic-23"},{"n":24,"slug":"24","title":"POM文件与依赖管理","group":"课程内容","progress_key":"java-basic-24"},{"n":25,"slug":"25","title":"Maven生命周期与插件体系","group":"课程内容","progress_key":"java-basic-25"},{"n":26,"slug":"26","title":"多模块项目管理","group":"课程内容","progress_key":"java-basic-26"}]}]},{"key":"spring-boot","title":"单体系统和Spring Boot","glyph":"B","cls":"b-ds","coming_soon":false,"modules":[{"name":"课程内容","chapters":[{"n":1,"slug":"1","title":"课程导言","group":"课程内容","progress_key":"spring-boot-1"},{"n":2,"slug":"2","title":"Spring Boot概述与快速入门","group":"课程内容","progress_key":"spring-boot-2"},{"n":3,"slug":"3","title":"Spring Boot应用程序结构与分层设计","group":"课程内容","progress_key":"spring-boot-3"},{"n":4,"slug":"4","title":"Spring Boot配置体系","group":"课程内容","progress_key":"spring-boot-4"},{"n":5,"slug":"5","title":"自动配置原理与Starter机制","group":"课程内容","progress_key":"spring-boot-5"},{"n":6,"slug":"6","title":"依赖注入基本概念与三种注入方式","group":"课程内容","progress_key":"spring-boot-6"},{"n":7,"slug":"7","title":"@Autowired详解与注入决策流程","group":"课程内容","progress_key":"spring-boot-7"},{"n":8,"slug":"8","title":"循环依赖与三级缓存机制","group":"课程内容","progress_key":"spring-boot-8"},{"n":9,"slug":"9","title":"AOP编程思想与动态代理机制","group":"课程内容","progress_key":"spring-boot-9"},{"n":10,"slug":"10","title":"Spring AOP实战：日志切面","group":"课程内容","progress_key":"spring-boot-10"},{"n":11,"slug":"11","title":"Spring AOP实战：性能监控与异常处理","group":"课程内容","progress_key":"spring-boot-11"},{"n":12,"slug":"12","title":"HTTP协议与Web服务开发流程","group":"课程内容","progress_key":"spring-boot-12"},{"n":13,"slug":"13","title":"Servlet与Spring WebMVC架构解析","group":"课程内容","progress_key":"spring-boot-13"},{"n":14,"slug":"14","title":"REST API开发：请求映射与参数处理","group":"课程内容","progress_key":"spring-boot-14"},{"n":15,"slug":"15","title":"REST API开发：响应封装和全局异常处理","group":"课程内容","progress_key":"spring-boot-15"},{"n":16,"slug":"16","title":"REST API高级：过滤器与拦截器实战","group":"课程内容","progress_key":"spring-boot-16"},{"n":17,"slug":"17","title":"REST API文档自动生成与API规范","group":"课程内容","progress_key":"spring-boot-17"},{"n":18,"slug":"18","title":"RestTemplate与服务间调用","group":"课程内容","progress_key":"spring-boot-18"},{"n":19,"slug":"19","title":"Spring WebFlux编程模型与实战","group":"课程内容","progress_key":"spring-boot-19"},{"n":20,"slug":"20","title":"JDBC规范解析","group":"课程内容","progress_key":"spring-boot-20"},{"n":21,"slug":"21","title":"Spring JDBC解决方案与JdbcTemplate基础","group":"课程内容","progress_key":"spring-boot-21"},{"n":22,"slug":"22","title":"JdbcTemplate高级操作与SimpleJdbcInsert","group":"课程内容","progress_key":"spring-boot-22"},{"n":23,"slug":"23","title":"自己动手写一个JdbcTemplate","group":"课程内容","progress_key":"spring-boot-23"},{"n":24,"slug":"24","title":"Spring事务管理基础","group":"课程内容","progress_key":"spring-boot-24"},{"n":25,"slug":"25","title":"Spring声明式事务与事务传播","group":"课程内容","progress_key":"spring-boot-25"},{"n":26,"slug":"26","title":"ORM核心概念与Spring Data架构","group":"课程内容","progress_key":"spring-boot-26"},{"n":27,"slug":"27","title":"Spring Data JPA快速上手","group":"课程内容","progress_key":"spring-boot-27"},{"n":28,"slug":"28","title":"Spring Data JPA高级查询","group":"课程内容","progress_key":"spring-boot-28"},{"n":29,"slug":"29","title":"Spring Data JPA关联映射与实战","group":"课程内容","progress_key":"spring-boot-29"},{"n":30,"slug":"30","title":"MyBatis 概述与 Spring Boot 集成","group":"课程内容","progress_key":"spring-boot-30"},{"n":31,"slug":"31","title":"MyBatis 映射文件与动态 SQL","group":"课程内容","progress_key":"spring-boot-31"},{"n":32,"slug":"32","title":"MyBatis 高级特性","group":"课程内容","progress_key":"spring-boot-32"},{"n":33,"slug":"33","title":"MyBatis-Plus 概述与快速上手","group":"课程内容","progress_key":"spring-boot-33"},{"n":34,"slug":"34","title":"MyBatis-Plus 条件构造器与分页插件","group":"课程内容","progress_key":"spring-boot-34"},{"n":35,"slug":"35","title":"MyBatis-Plus 扩展","group":"课程内容","progress_key":"spring-boot-35"},{"n":36,"slug":"36","title":"缓存概述与 Spring Cache 入门","group":"课程内容","progress_key":"spring-boot-36"},{"n":37,"slug":"37","title":"Spring Cache 核心注解详解","group":"课程内容","progress_key":"spring-boot-37"},{"n":38,"slug":"38","title":"缓存管理器与缓存存储配置","group":"课程内容","progress_key":"spring-boot-38"},{"n":39,"slug":"39","title":"缓存注解高级特性","group":"课程内容","progress_key":"spring-boot-39"},{"n":40,"slug":"40","title":"缓存原理与自定义扩展","group":"课程内容","progress_key":"spring-boot-40"},{"n":41,"slug":"41","title":"缓存核心问题与最佳实践","group":"课程内容","progress_key":"spring-boot-41"},{"n":42,"slug":"42","title":"异步处理概述与 Spring Async 入门","group":"课程内容","progress_key":"spring-boot-42"},{"n":43,"slug":"43","title":"任务执行器配置与线程池管理","group":"课程内容","progress_key":"spring-boot-43"},{"n":44,"slug":"44","title":"异步方法返回值与异常处理","group":"课程内容","progress_key":"spring-boot-44"},{"n":45,"slug":"45","title":"异步事件与 ApplicationEvent","group":"课程内容","progress_key":"spring-boot-45"},{"n":46,"slug":"46","title":"Web 异步处理","group":"课程内容","progress_key":"spring-boot-46"},{"n":47,"slug":"47","title":"TaskScheduler 调度器","group":"课程内容","progress_key":"spring-boot-47"},{"n":48,"slug":"48","title":"@Scheduled 注解应用","group":"课程内容","progress_key":"spring-boot-48"},{"n":49,"slug":"49","title":"Cron 表达式与调度综合实战","group":"课程内容","progress_key":"spring-boot-49"},{"n":50,"slug":"50","title":"批处理机制与 Spring Batch 快速入门","group":"课程内容","progress_key":"spring-boot-50"},{"n":51,"slug":"51","title":"ItemReader、Processor和Writer 实战","group":"课程内容","progress_key":"spring-boot-51"},{"n":52,"slug":"52","title":"JobRepository 与作业元数据管理","group":"课程内容","progress_key":"spring-boot-52"},{"n":53,"slug":"53","title":"批处理异常处理与重启机制","group":"课程内容","progress_key":"spring-boot-53"},{"n":54,"slug":"54","title":"批处理监听器与任务调度","group":"课程内容","progress_key":"spring-boot-54"},{"n":55,"slug":"55","title":"Actuator 入门与常用端点","group":"课程内容","progress_key":"spring-boot-55"},{"n":56,"slug":"56","title":"健康检查与自定义健康指示器","group":"课程内容","progress_key":"spring-boot-56"},{"n":57,"slug":"57","title":"指标监控与 Micrometer","group":"课程内容","progress_key":"spring-boot-57"},{"n":58,"slug":"58","title":"Spring Boot Admin 可视化监控","group":"课程内容","progress_key":"spring-boot-58"},{"n":59,"slug":"59","title":"测试概述与 JUnit 5 基础","group":"课程内容","progress_key":"spring-boot-59"},{"n":60,"slug":"60","title":"Mockito 与单元测试","group":"课程内容","progress_key":"spring-boot-60"},{"n":61,"slug":"61","title":"Web 层测试：@WebMvcTest","group":"课程内容","progress_key":"spring-boot-61"},{"n":62,"slug":"62","title":"数据层测试：@MybatisPlusTest","group":"课程内容","progress_key":"spring-boot-62"},{"n":63,"slug":"63","title":"端到端集成测试：@SpringBootTest","group":"课程内容","progress_key":"spring-boot-63"}]}]},{"key":"spring-cloud","title":"Spring Cloud Alibaba","glyph":"C","cls":"b3","coming_soon":false,"modules":[{"name":"课程内容","chapters":[{"n":1,"slug":"1","title":"课程导言","group":"课程内容","progress_key":"spring-cloud-1","sections":[{"name":"三个问题","anchor":"三个问题"},{"name":"为什么要学 Spring Cloud Alibaba？","anchor":"为什么要学-Spring-Cloud-Alibaba"},{"name":"如何学习 Spring Cloud Alibaba？","anchor":"如何学习-Spring-Cloud-Alibaba"},{"name":"学完 Spring Cloud Alibaba 你能做什么？","anchor":"学完-Spring-Cloud-Alibaba-你能做什么"},{"name":"常见学习问题","anchor":"常见学习问题"},{"name":"总结","anchor":"总结"}]},{"n":2,"slug":"2","title":"微服务架构与案例系统初始化","group":"课程内容","progress_key":"spring-cloud-2","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"从单体系统到微服务架构","anchor":"从单体系统到微服务架构"},{"name":"图书管理系统需求概述","anchor":"图书管理系统需求概述"},{"name":"多模块工程搭建实战","anchor":"多模块工程搭建实战"},{"name":"注意事项","anchor":"注意事项"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":3,"slug":"3","title":"Spring Cloud Alibaba技术栈集成","group":"课程内容","progress_key":"spring-cloud-3","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"回顾与导入","anchor":"回顾与导入"},{"name":"为什么需要 BOM","anchor":"为什么需要-BOM"},{"name":"版本对应关系","anchor":"版本对应关系"},{"name":"在父 POM 中导入三大 BOM","anchor":"在父-POM-中导入三大-BOM"},{"name":"子模块依赖声明","anchor":"子模块依赖声明"},{"name":"验证 BOM 是否生效","anchor":"验证-BOM-是否生效"},{"name":"使用 IDEA HTTP Request 验证服务","anchor":"使用-IDEA-HTTP-Request-验证服务"},{"name":"注意事项","anchor":"注意事项"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":4,"slug":"4","title":"微服务拆分与接口设计","group":"课程内容","progress_key":"spring-cloud-4","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"回顾与导入","anchor":"回顾与导入"},{"name":"分库设计","anchor":"分库设计"},{"name":"Entity、DTO、VO 的定位与区别","anchor":"EntityDTOVO-的定位与区别"},{"name":"数据库表设计","anchor":"数据库表设计"},{"name":"订单服务的完整实现","anchor":"订单服务的完整实现"},{"name":"使用 IDEA HTTP Request 测试接口","anchor":"使用-IDEA-HTTP-Request-测试接口"},{"name":"注意事项","anchor":"注意事项"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":5,"slug":"5","title":"公共模块建设","group":"课程内容","progress_key":"spring-cloud-5","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"回顾与导入","anchor":"回顾与导入"},{"name":"公共模块的结构设计","anchor":"公共模块的结构设计"},{"name":"状态码枚举设计","anchor":"状态码枚举设计"},{"name":"统一响应体设计","anchor":"统一响应体设计"},{"name":"分页响应体设计","anchor":"分页响应体设计"},{"name":"异常体系设计","anchor":"异常体系设计"},{"name":"全局异常处理器","anchor":"全局异常处理器"},{"name":"各服务集成公共模块","anchor":"各服务集成公共模块"},{"name":"运行与测试","anchor":"运行与测试"},{"name":"注意事项","anchor":"注意事项"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":6,"slug":"6","title":"Nacos部署与快速上手","group":"课程内容","progress_key":"spring-cloud-6","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"回顾与导入","anchor":"回顾与导入"},{"name":"为什么选择Nacos","anchor":"为什么选择Nacos"},{"name":"Nacos 下载与安装","anchor":"Nacos-下载与安装"},{"name":"启动Nacos单机版","anchor":"启动Nacos单机版"},{"name":"Nacos控制台快速上手","anchor":"Nacos控制台快速上手"},{"name":"Nacos 3.x 版本变化说明","anchor":"Nacos-3x-版本变化说明"},{"name":"停止与重启Nacos","anchor":"停止与重启Nacos"},{"name":"注意事项","anchor":"注意事项"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":7,"slug":"7","title":"Nacos高可用集群搭建","group":"课程内容","progress_key":"spring-cloud-7","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"回顾与导入","anchor":"回顾与导入"},{"name":"Nacos集群架构原理","anchor":"Nacos集群架构原理"},{"name":"环境规划与准备","anchor":"环境规划与准备"},{"name":"部署Nacos集群节点","anchor":"部署Nacos集群节点"},{"name":"启动Nacos集群","anchor":"启动Nacos集群"},{"name":"高可用验证实战","anchor":"高可用验证实战"},{"name":"注意事项","anchor":"注意事项"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":8,"slug":"8","title":"图书服务注册到Nacos","group":"课程内容","progress_key":"spring-cloud-8","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"回顾与导入","anchor":"回顾与导入"},{"name":"服务注册与发现机制回顾","anchor":"服务注册与发现机制回顾"},{"name":"依赖确认","anchor":"依赖确认"},{"name":"配置application.yml","anchor":"配置applicationyml"},{"name":"启动类配置","anchor":"启动类配置"},{"name":"启动服务并验证注册","anchor":"启动服务并验证注册"},{"name":"多实例注册验证","anchor":"多实例注册验证"},{"name":"常见问题排查","anchor":"常见问题排查"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":9,"slug":"9","title":"用户与订单服务注册","group":"课程内容","progress_key":"spring-cloud-9","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"回顾与导入","anchor":"回顾与导入"},{"name":"不同微服务的差异化分析","anchor":"不同微服务的差异化分析"},{"name":"book-user和book-order服务注册","anchor":"book-user和book-order服务注册"},{"name":"三服务全部注册后的验证","anchor":"三服务全部注册后的验证"},{"name":"进阶：配置抽取与共享","anchor":"进阶配置抽取与共享"},{"name":"进阶：注册开关、元数据与权重","anchor":"进阶注册开关元数据与权重"},{"name":"服务注册后的运维操作","anchor":"服务注册后的运维操作"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":10,"slug":"10","title":"Nacos服务发现实战","group":"课程内容","progress_key":"spring-cloud-10","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"回顾与导入","anchor":"回顾与导入"},{"name":"服务发现核心概念","anchor":"服务发现核心概念"},{"name":"订单服务集成DiscoveryClient","anchor":"订单服务集成DiscoveryClient"},{"name":"构造调用URL并实现服务调用","anchor":"构造调用URL并实现服务调用"},{"name":"启动与测试","anchor":"启动与测试"},{"name":"多实例发现验证","anchor":"多实例发现验证"},{"name":"常见问题排查","anchor":"常见问题排查"},{"name":"服务发现的局限性","anchor":"服务发现的局限性"},{"name":"注意事项","anchor":"注意事项"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":11,"slug":"11","title":"Nacos分级模型与Namespace环境隔离","group":"课程内容","progress_key":"spring-cloud-11","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"回顾与导入","anchor":"回顾与导入"},{"name":"Nacos分级存储模型","anchor":"Nacos分级存储模型"},{"name":"实战准备：当前环境状态分析","anchor":"实战准备当前环境状态分析"},{"name":"在Nacos控制台创建命名空间","anchor":"在Nacos控制台创建命名空间"},{"name":"配置book-product注册到dev环境","anchor":"配置book-product注册到dev环境"},{"name":"环境隔离验证","anchor":"环境隔离验证"},{"name":"注意事项","anchor":"注意事项"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":12,"slug":"12","title":"Nacos Group分组与多环境切换","group":"课程内容","progress_key":"spring-cloud-12","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"回顾与导入","anchor":"回顾与导入"},{"name":"Group分组核心概念","anchor":"Group分组核心概念"},{"name":"为订单服务配置独立Group","anchor":"为订单服务配置独立Group"},{"name":"环境切换的三种方式","anchor":"环境切换的三种方式"},{"name":"常见问题排查","anchor":"常见问题排查"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":13,"slug":"13","title":"Nacos权重路由","group":"课程内容","progress_key":"spring-cloud-13","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"回顾与导入","anchor":"回顾与导入"},{"name":"权重路由核心原理","anchor":"权重路由核心原理"},{"name":"实战准备：启动多实例环境","anchor":"实战准备启动多实例环境"},{"name":"手动实现加权随机选择","anchor":"手动实现加权随机选择"},{"name":"验证权重路由效果","anchor":"验证权重路由效果"},{"name":"主备实例配置实战","anchor":"主备实例配置实战"},{"name":"注意事项","anchor":"注意事项"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":14,"slug":"14","title":"Nacos API 专题","group":"课程内容","progress_key":"spring-cloud-14","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"回顾与导入","anchor":"回顾与导入"},{"name":"Nacos 3.x API 分类与鉴权","anchor":"Nacos-3x-API-分类与鉴权"},{"name":"Java SDK 核心 API：NamingService","anchor":"Java-SDK-核心-APINamingService"},{"name":"场景一：服务消费者动态发现与客户端负载均衡","anchor":"场景一服务消费者动态发现与客户端负载均衡"},{"name":"场景二：服务提供者动态注册与元数据管理","anchor":"场景二服务提供者动态注册与元数据管理"},{"name":"场景对比","anchor":"场景对比"},{"name":"注意事项","anchor":"注意事项"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":15,"slug":"15","title":"OpenFeign快速上手","group":"课程内容","progress_key":"spring-cloud-15","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"回顾与导入","anchor":"回顾与导入"},{"name":"从RestTemplate到OpenFeign","anchor":"从RestTemplate到OpenFeign"},{"name":"为book-order引入OpenFeign","anchor":"为book-order引入OpenFeign"},{"name":"定义Feign客户端接口","anchor":"定义Feign客户端接口"},{"name":"改造订单服务的调用","anchor":"改造订单服务的调用"},{"name":"Feign日志配置","anchor":"Feign日志配置"},{"name":"Feign超时配置","anchor":"Feign超时配置"},{"name":"常见问题排查","anchor":"常见问题排查"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":16,"slug":"16","title":"OpenFeign核心注解详解","group":"课程内容","progress_key":"spring-cloud-16","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"回顾与导入","anchor":"回顾与导入"},{"name":"定义DTO","anchor":"定义DTO"},{"name":"@FeignClient属性详解","anchor":"FeignClient属性详解"},{"name":"方法级注解与参数绑定","anchor":"方法级注解与参数绑定"},{"name":"实战：扩展BookClient覆盖多种参数场景","anchor":"实战扩展BookClient覆盖多种参数场景"},{"name":"Feign接口继承特性","anchor":"Feign接口继承特性"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":17,"slug":"17","title":"OpenFeign拦截器","group":"课程内容","progress_key":"spring-cloud-17","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"回顾与导入","anchor":"回顾与导入"},{"name":"OpenFeign拦截器","anchor":"OpenFeign拦截器_1"},{"name":"实战：整合拦截器到BookClient","anchor":"实战整合拦截器到BookClient"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":18,"slug":"18","title":"OpenFeign与LoadBalancer集成","group":"课程内容","progress_key":"spring-cloud-18","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"回顾与导入","anchor":"回顾与导入"},{"name":"核心原理：Feign调用链中的LoadBalancer","anchor":"核心原理Feign调用链中的LoadBalancer"},{"name":"实战：实例可见和负载均衡","anchor":"实战实例可见和负载均衡"},{"name":"关键机制：35秒实例缓存与Nacos场景的坑","anchor":"关键机制35秒实例缓存与Nacos场景的坑"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":19,"slug":"19","title":"订单-图书远程调用重构","group":"课程内容","progress_key":"spring-cloud-19","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"回顾与导入","anchor":"回顾与导入"},{"name":"一、下单扣库存的流程设计","anchor":"一下单扣库存的流程设计"},{"name":"二、改造订单服务","anchor":"二改造订单服务"},{"name":"三、写操作的安全设计","anchor":"三写操作的安全设计"},{"name":"四、端到端验证","anchor":"四端到端验证"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":20,"slug":"20","title":"Spring Cloud LoadBalancer快速上手","group":"课程内容","progress_key":"spring-cloud-20","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"回顾与导入","anchor":"回顾与导入"},{"name":"@LoadBalanced是什么：一个标记，而不是实现","anchor":"LoadBalanced是什么一个标记而不是实现"},{"name":"核心组件：谁在真正做决策","anchor":"核心组件谁在真正做决策"},{"name":"实战：配置@LoadBalanced RestTemplate","anchor":"实战配置LoadBalanced-RestTemplate"},{"name":"验证：实例可见与负载均衡","anchor":"验证实例可见与负载均衡"},{"name":"与OpenFeign的对比","anchor":"与OpenFeign的对比"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":21,"slug":"21","title":"负载均衡算法与LoadBalancer","group":"课程内容","progress_key":"spring-cloud-21","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"回顾与导入","anchor":"回顾与导入"},{"name":"负载均衡核心算法原理","anchor":"负载均衡核心算法原理"},{"name":"验证默认轮询策略","anchor":"验证默认轮询策略"},{"name":"切换到随机策略","anchor":"切换到随机策略"},{"name":"轮询与随机的对比分析","anchor":"轮询与随机的对比分析"},{"name":"注意事项和小节","anchor":"注意事项和小节"},{"name":"作业","anchor":"作业"}]},{"n":22,"slug":"22","title":"自定义负载均衡算法","group":"课程内容","progress_key":"spring-cloud-22","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"回顾与导入","anchor":"回顾与导入"},{"name":"自定义负载均衡的开发流程","anchor":"自定义负载均衡的开发流程"},{"name":"Reactor核心对象介绍","anchor":"Reactor核心对象介绍"},{"name":"ReactorServiceInstanceLoadBalancer接口详解","anchor":"ReactorServiceInstanceLoadBalancer接口详解"},{"name":"手写平滑加权轮询负载均衡器","anchor":"手写平滑加权轮询负载均衡器"},{"name":"注册与绑定","anchor":"注册与绑定"},{"name":"验证：平滑加权轮询 vs 加权随机","anchor":"验证平滑加权轮询-vs-加权随机"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":23,"slug":"23","title":"标签化负载均衡与灰度发布","group":"课程内容","progress_key":"spring-cloud-23","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"回顾与导入","anchor":"回顾与导入"},{"name":"灰度发布核心概念","anchor":"灰度发布核心概念"},{"name":"标签化负载均衡的核心原理","anchor":"标签化负载均衡的核心原理"},{"name":"部署v1/v2双版本实例","anchor":"部署v1v2双版本实例"},{"name":"实现标签化负载均衡器","anchor":"实现标签化负载均衡器"},{"name":"端到端验证","anchor":"端到端验证"},{"name":"注意事项","anchor":"注意事项"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":24,"slug":"24","title":"Nacos Config集成与配置迁移","group":"课程内容","progress_key":"spring-cloud-24","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"回顾与导入","anchor":"回顾与导入"},{"name":"配置中心核心概念与模型","anchor":"配置中心核心概念与模型"},{"name":"迁移前的准备：确认依赖与本地配置","anchor":"迁移前的准备确认依赖与本地配置"},{"name":"在Nacos中创建配置","anchor":"在Nacos中创建配置"},{"name":"验证迁移结果","anchor":"验证迁移结果"},{"name":"验证动态刷新","anchor":"验证动态刷新"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":25,"slug":"25","title":"配置分级模型与DataId实战","group":"课程内容","progress_key":"spring-cloud-25","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"回顾与导入","anchor":"回顾与导入"},{"name":"配置中心的三级模型","anchor":"配置中心的三级模型"},{"name":"DataId的构成规则详解","anchor":"DataId的构成规则详解"},{"name":"多环境隔离的两种方案","anchor":"多环境隔离的两种方案"},{"name":"实战一：为book-product配置dev/test两套DataId","anchor":"实战一为book-product配置devtest两套DataId"},{"name":"shared-configs与extension-configs","anchor":"shared-configs与extension-configs"},{"name":"实战二：抽取公共配置，实现book-product与book-user共享","anchor":"实战二抽取公共配置实现book-product与book-user共享"},{"name":"实战三：本地调试覆盖远程配置","anchor":"实战三本地调试覆盖远程配置"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":26,"slug":"26","title":"配置灰度发布实战","group":"课程内容","progress_key":"spring-cloud-26","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"回顾与导入","anchor":"回顾与导入"},{"name":"实验环境与 Actuator 准备","anchor":"实验环境与-Actuator-准备"},{"name":"配置灰度发布的核心概念","anchor":"配置灰度发布的核心概念"},{"name":"Beta 发布实战","anchor":"Beta-发布实战"},{"name":"标签发布原理（拓展）","anchor":"标签发布原理拓展"},{"name":"灰度发布的完整流程","anchor":"灰度发布的完整流程"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]}]}]},{"key":"cloud","title":"云计算","glyph":"云","cls":"b-cloud","coming_soon":true,"modules":[]}],"currentKey":"spring-cloud","currentSlug":"14"}],"$L13","$L14"]}]]
+15:I[756,["619","static/chunks/619-ba102abea3e3d0e4.js","526","static/chunks/app/course/%5Bkey%5D/%5Bch%5D/page-4b7f30b4efe73131.js"],"default"]
+16:I[1599,["619","static/chunks/619-ba102abea3e3d0e4.js","526","static/chunks/app/course/%5Bkey%5D/%5Bch%5D/page-4b7f30b4efe73131.js"],"default"]
+19:I[5340,["619","static/chunks/619-ba102abea3e3d0e4.js","526","static/chunks/app/course/%5Bkey%5D/%5Bch%5D/page-4b7f30b4efe73131.js"],"default"]
+17:Tca43,<h1 id="Nacos-API-专题">Nacos API 专题</h1>
+<h2 id="课程目标">课程目标</h2>
+<ul>
+<li>系统理解 Nacos 3.x 的 API 分类：Client Open API、Admin API、Console API、Inner API</li>
+<li>掌握 Nacos Java SDK 的核心 API：<code>NamingService</code></li>
+<li>完成两个典型应用场景的 SDK 集成：</li>
+<li>场景一：服务消费者动态发现与客户端负载均衡</li>
+<li>场景二：服务提供者动态注册与元数据管理</li>
+<li>完成图书管理系统注册中心能力的 SDK 级集成</li>
+</ul>
+<h2 id="回顾与导入">回顾与导入</h2>
+<p>在前面的课程中，我们已经在多处使用过 Nacos API，这些 API 散落在各讲中，且大多通过 HTTP 方式调用。在实际项目中，我们往往需要通过 <strong>Java SDK</strong> 将这些能力集成到业务系统中——服务消费者需要动态感知提供者的实例变化，服务提供者需要上报元数据并动态调整自身状态。</p>
+<p>本讲将系统梳理 Nacos 3.x 的 API 体系，并通过<strong>两个典型应用场景</strong>的 Java SDK 集成，将前面各讲的知识点串联起来。</p>
+<h2 id="Nacos-3x-API-分类与鉴权">Nacos 3.x API 分类与鉴权</h2>
+<h3 id="API-四分类">API 四分类</h3>
+<p>Nacos 3.x 将 API 从原来的两大类细化为四类。Nacos Open API 根据调用方类型和使用场景，分为 Client Open API、Admin Open API 和 Console Open API。</p>
+<table>
+<thead>
+<tr>
+<th>API 类型</th>
+<th>使用方</th>
+<th>典型路径</th>
+<th>协议</th>
+<th>默认鉴权</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Client Open API</strong></td>
+<td>普通应用、微服务应用</td>
+<td><code>/v3/client/*</code></td>
+<td>gRPC 为主，部分 HTTP 1.1</td>
+<td>默认不开启</td>
+</tr>
+<tr>
+<td><strong>Admin API</strong></td>
+<td>运维平台、自动化脚本、管理员</td>
+<td><code>/v3/admin/*</code></td>
+<td>HTTP 1.1</td>
+<td>默认开启</td>
+</tr>
+<tr>
+<td><strong>Console API</strong></td>
+<td>Nacos 控制台、自定义控制台 UI</td>
+<td><code>/v3/console/*</code></td>
+<td>HTTP 1.1</td>
+<td>默认开启</td>
+</tr>
+<tr>
+<td><strong>Inner API</strong></td>
+<td>引擎节点间通信</td>
+<td><code>/v3/inner/*</code></td>
+<td>gRPC</td>
+<td>默认开启</td>
+</tr>
+</tbody>
+</table>
+<blockquote>
+<p><strong>本讲重点：</strong> <strong>Client Open API（Java SDK）</strong> 。它是业务系统集成 Nacos 的主要方式。Admin API 和 Console API 已在前面各讲中通过 HTTP 方式使用过，本讲不再重复。</p>
+</blockquote>
+<h3 id="鉴权方式">鉴权方式</h3>
+<p>Client Open API（Java SDK）通过 gRPC 与 Nacos 服务端通信，鉴权由客户端自动处理。如果启用了鉴权，需要在初始化 SDK 时配置用户名和密码：</p>
+<div class="codehilite lang-java"><pre><span></span><code><span class="n">Properties</span><span class="w"> </span><span class="n">props</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="k">new</span><span class="w"> </span><span class="n">Properties</span><span class="p">();</span>
+<span class="n">props</span><span class="p">.</span><span class="na">put</span><span class="p">(</span><span class="s">"serverAddr"</span><span class="p">,</span><span class="w"> </span><span class="s">"127.0.0.1:8848"</span><span class="p">);</span>
+<span class="n">props</span><span class="p">.</span><span class="na">put</span><span class="p">(</span><span class="s">"namespace"</span><span class="p">,</span><span class="w"> </span><span class="s">"dev"</span><span class="p">);</span>
+<span class="n">props</span><span class="p">.</span><span class="na">put</span><span class="p">(</span><span class="s">"username"</span><span class="p">,</span><span class="w"> </span><span class="s">"nacos"</span><span class="p">);</span>
+<span class="n">props</span><span class="p">.</span><span class="na">put</span><span class="p">(</span><span class="s">"password"</span><span class="p">,</span><span class="w"> </span><span class="s">"your_password"</span><span class="p">);</span>
+</code></pre></div>
+
+<h2 id="Java-SDK-核心-APINamingService">Java SDK 核心 API：NamingService</h2>
+<h3 id="NamingService-接口概览">NamingService 接口概览</h3>
+<p><code>NamingService</code> 是 Nacos Java SDK 中用于服务发现的核心接口。它提供了注册、注销、查询、订阅、加权选择等能力。</p>
+<table>
+<thead>
+<tr>
+<th>方法</th>
+<th>说明</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>registerInstance(serviceName, instance)</code></td>
+<td>注册实例</td>
+</tr>
+<tr>
+<td><code>deregisterInstance(serviceName, instance)</code></td>
+<td>注销实例</td>
+</tr>
+<tr>
+<td><code>getAllInstances(serviceName)</code></td>
+<td>获取所有实例</td>
+</tr>
+<tr>
+<td><code>selectInstances(serviceName, healthy)</code></td>
+<td>获取健康实例</td>
+</tr>
+<tr>
+<td><code>selectOneHealthyInstance(serviceName)</code></td>
+<td>加权随机选一个健康实例</td>
+</tr>
+<tr>
+<td><code>subscribe(serviceName, listener)</code></td>
+<td>订阅服务变更</td>
+</tr>
+<tr>
+<td><code>unsubscribe(serviceName, listener)</code></td>
+<td>取消订阅</td>
+</tr>
+</tbody>
+</table>
+<h3 id="初始化-NamingService">初始化 NamingService</h3>
+<div class="codehilite lang-java"><pre><span></span><code><span class="kd">public</span><span class="w"> </span><span class="kd">class</span> <span class="nc">NacosClientFactory</span><span class="w"> </span><span class="p">{</span>
+
+<span class="w">    </span><span class="kd">public</span><span class="w"> </span><span class="kd">static</span><span class="w"> </span><span class="n">NamingService</span><span class="w"> </span><span class="nf">createNamingService</span><span class="p">(</span><span class="n">String</span><span class="w"> </span><span class="n">serverAddr</span><span class="p">,</span><span class="w"> </span><span class="n">String</span><span class="w"> </span><span class="n">namespace</span><span class="p">)</span><span class="w"> </span><span class="kd">throws</span><span class="w"> </span><span class="n">Exception</span><span class="w"> </span><span class="p">{</span>
+<span class="w">        </span><span class="n">Properties</span><span class="w"> </span><span class="n">props</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="k">new</span><span class="w"> </span><span class="n">Properties</span><span class="p">();</span>
+<span class="w">        </span><span class="n">props</span><span class="p">.</span><span class="na">put</span><span class="p">(</span><span class="s">"serverAddr"</span><span class="p">,</span><span class="w"> </span><span class="n">serverAddr</span><span class="p">);</span>
+<span class="w">        </span><span class="n">props</span><span class="p">.</span><span class="na">put</span><span class="p">(</span><span class="s">"namespace"</span><span class="p">,</span><span class="w"> </span><span class="n">namespace</span><span class="p">);</span>
+<span class="w">        </span><span class="c1">// 如果启用了鉴权，需要配置用户名和密码</span>
+<span class="w">        </span><span class="n">props</span><span class="p">.</span><span class="na">put</span><span class="p">(</span><span class="s">"username"</span><span class="p">,</span><span class="w"> </span><span class="s">"nacos"</span><span class="p">);</span>
+<span class="w">        </span><span class="n">props</span><span class="p">.</span><span class="na">put</span><span class="p">(</span><span class="s">"password"</span><span class="p">,</span><span class="w"> </span><span class="s">"your_password"</span><span class="p">);</span>
+<span class="w">        </span><span class="k">return</span><span class="w"> </span><span class="n">NacosFactory</span><span class="p">.</span><span class="na">createNamingService</span><span class="p">(</span><span class="n">props</span><span class="p">);</span>
+<span class="w">    </span><span class="p">}</span>
+<span class="p">}</span>
+</code></pre></div>
+
+<blockquote>
+<p><strong>注意：</strong> 一个 <code>NamingService</code> 实例对应一个命名空间。如果需要访问多个命名空间，需要创建多个实例。</p>
+</blockquote>
+<h2 id="场景一服务消费者动态发现与客户端负载均衡">场景一：服务消费者动态发现与客户端负载均衡</h2>
+<h3 id="场景描述">场景描述</h3>
+<p>在图书管理系统中，book-order 作为服务消费者，需要动态发现 book-product 的实例列表，并根据实例的健康状态和权重进行客户端负载均衡调用。当 book-product 的实例数量发生变化（扩容、缩容、宕机）时，book-order 应能实时感知并调整路由策略。</p>
+<h3 id="传统方式的局限">传统方式的局限</h3>
+<p>前面我们通过 <code>DiscoveryClient</code> + <code>RestTemplate</code> 实现了手动服务发现。这种方式存在以下局限：</p>
+<table>
+<thead>
+<tr>
+<th>局限</th>
+<th>说明</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>无自动感知</strong></td>
+<td>每次调用都需要手动获取实例列表，无法感知实例的实时变化</td>
+</tr>
+<tr>
+<td><strong>无权重选择</strong></td>
+<td><code>instances.get(0)</code> 始终取第一个实例，权重配置不生效</td>
+</tr>
+<tr>
+<td><strong>代码侵入性强</strong></td>
+<td>每次调用都需要手动构造 URL、处理异常</td>
+</tr>
+</tbody>
+</table>
+<h3 id="Java-SDK-集成方案">Java SDK 集成方案</h3>
+<p>使用 Nacos Java SDK 的 <code>NamingService</code>，可以实现服务订阅监听和加权实例选择。</p>
+<h4 id="步骤一封装服务发现客户端">步骤一：封装服务发现客户端</h4>
+<div class="codehilite lang-java"><pre><span></span><code><span class="kd">public</span><span class="w"> </span><span class="kd">class</span> <span class="nc">NacosServiceDiscoveryClient</span><span class="w"> </span><span class="p">{</span>
+
+<span class="w">    </span><span class="kd">private</span><span class="w"> </span><span class="kd">final</span><span class="w"> </span><span class="n">NamingService</span><span class="w"> </span><span class="n">namingService</span><span class="p">;</span>
+<span class="w">    </span><span class="kd">private</span><span class="w"> </span><span class="kd">final</span><span class="w"> </span><span class="n">String</span><span class="w"> </span><span class="n">serviceName</span><span class="p">;</span>
+<span class="w">    </span><span class="kd">private</span><span class="w"> </span><span class="kd">final</span><span class="w"> </span><span class="n">String</span><span class="w"> </span><span class="n">groupName</span><span class="p">;</span>
+
+<span class="w">    </span><span class="kd">public</span><span class="w"> </span><span class="nf">NacosServiceDiscoveryClient</span><span class="p">(</span><span class="n">String</span><span class="w"> </span><span class="n">serverAddr</span><span class="p">,</span><span class="w"> </span><span class="n">String</span><span class="w"> </span><span class="n">namespace</span><span class="p">,</span>
+<span class="w">           </span><span class="n">String</span><span class="w"> </span><span class="n">serviceName</span><span class="p">,</span><span class="w"> </span><span class="n">String</span><span class="w"> </span><span class="n">groupName</span><span class="p">)</span><span class="w"> </span><span class="kd">throws</span><span class="w"> </span><span class="n">NacosException</span><span class="w"> </span><span class="p">{</span>
+<span class="w">        </span><span class="k">this</span><span class="p">.</span><span class="na">namingService</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">NacosClientFactory</span><span class="p">.</span><span class="na">creteNamingService</span><span class="p">(</span><span class="n">serverAddr</span><span class="p">,</span><span class="w"> </span><span class="n">namespace</span><span class="p">);</span>
+<span class="w">        </span><span class="k">this</span><span class="p">.</span><span class="na">serviceName</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">serviceName</span><span class="p">;</span>
+<span class="w">        </span><span class="k">this</span><span class="p">.</span><span class="na">groupName</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">groupName</span><span class="p">;</span>
+<span class="w">    </span><span class="p">}</span>
+
+<span class="w">    </span><span class="cm">/**</span>
+<span class="cm">     * 订阅服务变更，当实例列表发生变化时触发回调</span>
+<span class="cm">     */</span>
+<span class="w">    </span><span class="kd">public</span><span class="w"> </span><span class="kt">void</span><span class="w"> </span><span class="nf">subscribe</span><span class="p">(</span><span class="n">EventListener</span><span class="w"> </span><span class="n">listener</span><span class="p">)</span><span class="w"> </span><span class="kd">throws</span><span class="w"> </span><span class="n">Exception</span><span class="w"> </span><span class="p">{</span>
+<span class="w">        </span><span class="n">namingService</span><span class="p">.</span><span class="na">subscribe</span><span class="p">(</span><span class="n">serviceName</span><span class="p">,</span><span class="w"> </span><span class="n">groupName</span><span class="p">,</span><span class="w"> </span><span class="n">listener</span><span class="p">);</span>
+<span class="w">    </span><span class="p">}</span>
+
+<span class="w">    </span><span class="cm">/**</span>
+<span class="cm">     * 获取所有健康实例</span>
+<span class="cm">     */</span>
+<span class="w">    </span><span class="kd">public</span><span class="w"> </span><span class="n">List</span><span class="o">&lt;</span><span class="n">Instance</span><span class="o">&gt;</span><span class="w"> </span><span class="nf">getAllHealthyInstances</span><span class="p">()</span><span class="w"> </span><span class="kd">throws</span><span class="w"> </span><span class="n">Exception</span><span class="w"> </span><span class="p">{</span>
+<span class="w">        </span><span class="k">return</span><span class="w"> </span><span class="n">namingService</span><span class="p">.</span><span class="na">selectInstances</span><span class="p">(</span><span class="n">serviceName</span><span class="p">,</span><span class="w"> </span><span class="n">groupName</span><span class="p">,</span><span class="w"> </span><span class="kc">true</span><span class="p">);</span>
+<span class="w">    </span><span class="p">}</span>
+
+<span class="w">    </span><span class="cm">/**</span>
+<span class="cm">     * 加权随机选择一个健康实例（Nacos 内置）</span>
+<span class="cm">     */</span>
+<span class="w">    </span><span class="kd">public</span><span class="w"> </span><span class="n">Instance</span><span class="w"> </span><span class="nf">selectOneHealthyInstance</span><span class="p">()</span><span class="w"> </span><span class="kd">throws</span><span class="w"> </span><span class="n">Exception</span><span class="w"> </span><span class="p">{</span>
+<span class="w">        </span><span class="k">return</span><span class="w"> </span><span class="n">namingService</span><span class="p">.</span><span class="na">selectOneHealthyInstance</span><span class="p">(</span><span class="n">serviceName</span><span class="p">,</span><span class="w"> </span><span class="n">groupName</span><span class="p">);</span>
+<span class="w">    </span><span class="p">}</span>
+<span class="p">}</span>
+</code></pre></div>
+
+<p><code>selectOneHealthyInstance</code> 方法会基于实例权重进行加权随机选择。权重越高，被选中的概率越大。</p>
+<h4 id="步骤二注册服务变更监听器并模拟调用">步骤二：注册服务变更监听器并模拟调用</h4>
+<div class="codehilite lang-java"><pre><span></span><code><span class="kd">public</span><span class="w"> </span><span class="kd">class</span> <span class="nc">BookOrderService</span><span class="w"> </span><span class="p">{</span>
+
+<span class="w">    </span><span class="kd">public</span><span class="w"> </span><span class="kd">static</span><span class="w"> </span><span class="kt">void</span><span class="w"> </span><span class="nf">main</span><span class="p">(</span><span class="n">String</span><span class="o">[]</span><span class="w"> </span><span class="n">args</span><span class="p">)</span><span class="w"> </span><span class="kd">throws</span><span class="w"> </span><span class="n">Exception</span><span class="w"> </span><span class="p">{</span>
+<span class="w">        </span><span class="n">NacosServiceDiscoveryClient</span><span class="w"> </span><span class="n">client</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="k">new</span><span class="w"> </span><span class="n">NacosServiceDiscoveryClient</span><span class="p">(</span>
+<span class="w">                </span><span class="s">"127.0.0.1:8848"</span><span class="p">,</span>
+<span class="w">                </span><span class="s">"dev"</span><span class="p">,</span>
+<span class="w">                </span><span class="s">"book-product"</span><span class="p">,</span>
+<span class="w">                </span><span class="s">"DEFAULT_GROUP"</span>
+<span class="w">        </span><span class="p">);</span>
+
+<span class="w">        </span><span class="c1">// 注册监听器：实例列表变化时自动触发</span>
+<span class="w">        </span><span class="n">client</span><span class="p">.</span><span class="na">subscribe</span><span class="p">(</span><span class="n">event</span><span class="w"> </span><span class="o">-&gt;</span><span class="w"> </span><span class="p">{</span>
+<span class="w">            </span><span class="k">if</span><span class="w"> </span><span class="p">(</span><span class="n">event</span><span class="w"> </span><span class="k">instanceof</span><span class="w"> </span><span class="n">NamingEvent</span><span class="w"> </span><span class="n">namingEvent</span><span class="p">)</span><span class="w"> </span><span class="p">{</span>
+<span class="w">                </span><span class="n">System</span><span class="p">.</span><span class="na">out</span><span class="p">.</span><span class="na">println</span><span class="p">(</span><span class="s">"服务 "</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="n">namingEvent</span><span class="p">.</span><span class="na">getServiceName</span><span class="p">()</span>
+<span class="w">                        </span><span class="o">+</span><span class="w"> </span><span class="s">" 实例列表已更新，当前实例数: "</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="n">namingEvent</span><span class="p">.</span><span class="na">getInstances</span><span class="p">().</span><span class="na">size</span><span class="p">());</span>
+<span class="w">                </span><span class="k">for</span><span class="w"> </span><span class="p">(</span><span class="n">Instance</span><span class="w"> </span><span class="n">instance</span><span class="w"> </span><span class="p">:</span><span class="w"> </span><span class="n">namingEvent</span><span class="p">.</span><span class="na">getInstances</span><span class="p">())</span><span class="w"> </span><span class="p">{</span>
+<span class="w">                    </span><span class="n">System</span><span class="p">.</span><span class="na">out</span><span class="p">.</span><span class="na">println</span><span class="p">(</span><span class="s">"  实例: "</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="n">instance</span><span class="p">.</span><span class="na">getIp</span><span class="p">()</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="s">":"</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="n">instance</span><span class="p">.</span><span class="na">getPort</span><span class="p">()</span>
+<span class="w">                            </span><span class="o">+</span><span class="w"> </span><span class="s">" 健康="</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="n">instance</span><span class="p">.</span><span class="na">isHealthy</span><span class="p">()</span>
+<span class="w">                            </span><span class="o">+</span><span class="w"> </span><span class="s">" 权重="</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="n">instance</span><span class="p">.</span><span class="na">getWeight</span><span class="p">()</span>
+<span class="w">                            </span><span class="o">+</span><span class="w"> </span><span class="s">" 启用="</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="n">instance</span><span class="p">.</span><span class="na">isEnabled</span><span class="p">());</span>
+<span class="w">                </span><span class="p">}</span>
+<span class="w">            </span><span class="p">}</span>
+<span class="w">        </span><span class="p">});</span>
+
+<span class="w">        </span><span class="c1">// 模拟业务调用：每3秒选择一个实例</span>
+<span class="w">        </span><span class="k">while</span><span class="w"> </span><span class="p">(</span><span class="kc">true</span><span class="p">)</span><span class="w"> </span><span class="p">{</span>
+<span class="w">            </span><span class="n">Instance</span><span class="w"> </span><span class="n">instance</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">client</span><span class="p">.</span><span class="na">selectOneHealthyInstance</span><span class="p">();</span>
+<span class="w">            </span><span class="n">System</span><span class="p">.</span><span class="na">out</span><span class="p">.</span><span class="na">println</span><span class="p">(</span><span class="s">"选中实例: "</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="n">instance</span><span class="p">.</span><span class="na">getIp</span><span class="p">()</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="s">":"</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="n">instance</span><span class="p">.</span><span class="na">getPort</span><span class="p">()</span>
+<span class="w">                    </span><span class="o">+</span><span class="w"> </span><span class="s">" 权重="</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="n">instance</span><span class="p">.</span><span class="na">getWeight</span><span class="p">());</span>
+
+<span class="w">            </span><span class="c1">// 使用选中的实例发起远程调用</span>
+<span class="w">            </span><span class="n">String</span><span class="w"> </span><span class="n">url</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s">"http://"</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="n">instance</span><span class="p">.</span><span class="na">getIp</span><span class="p">()</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="s">":"</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="n">instance</span><span class="p">.</span><span class="na">getPort</span><span class="p">()</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="s">"/api/products/1"</span><span class="p">;</span>
+<span class="w">            </span><span class="n">System</span><span class="p">.</span><span class="na">out</span><span class="p">.</span><span class="na">println</span><span class="p">(</span><span class="s">"调用URL: "</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="n">url</span><span class="p">);</span>
+
+<span class="w">            </span><span class="n">Thread</span><span class="p">.</span><span class="na">sleep</span><span class="p">(</span><span class="mi">3000</span><span class="p">);</span>
+<span class="w">        </span><span class="p">}</span>
+<span class="w">    </span><span class="p">}</span>
+<span class="p">}</span>
+</code></pre></div>
+
+<h4 id="步骤三验证效果">步骤三：验证效果</h4>
+<p><strong>验证一：实例列表变化感知</strong></p>
+<p>启动两个 book-product 实例（8081、8082），观察监听器日志：</p>
+<div class="codehilite"><pre><span></span><code>服务 book-product 实例列表已更新，当前实例数: 2
+  实例: 127.0.0.1:8081 健康=true 权重=1.0 启用=true
+  实例: 127.0.0.1:8082 健康=true 权重=1.0 启用=true
+</code></pre></div>
+
+<p>停止其中一个实例，观察监听器是否再次触发。</p>
+<p><strong>验证二：加权选择效果</strong></p>
+<p>在 Nacos 控制台将 8082 实例权重调整为 <code>0.1</code>，观察加权选择结果。调用 <code>selectOneHealthyInstance</code> 50次，统计选中各实例的次数，预期 8081 被选中约45次，8082 约5次。</p>
+<p><strong>验证三：异常实例自动跳过</strong></p>
+<p>Ctrl+C 正常关闭 8081 实例，观察 <code>selectOneHealthyInstance</code> 是否自动只选择 8082 实例。</p>
+<h2 id="场景二服务提供者动态注册与元数据管理">场景二：服务提供者动态注册与元数据管理</h2>
+<h3 id="场景描述_1">场景描述</h3>
+<p>在图书管理系统中，book-product 作为服务提供者，需要在启动时自动注册到 Nacos，并上报元数据（版本、机房、环境等）。同时，book-product 需要根据自身负载情况动态调整权重，实现自适应负载均衡。</p>
+<h3 id="业务需求">业务需求</h3>
+<table>
+<thead>
+<tr>
+<th>需求</th>
+<th>说明</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>启动注册</strong></td>
+<td>服务启动时自动注册到 Nacos，携带元数据</td>
+</tr>
+<tr>
+<td><strong>关闭注销</strong></td>
+<td>服务关闭时自动注销，避免流量路由到已停止的实例</td>
+</tr>
+<tr>
+<td><strong>元数据上报</strong></td>
+<td>上报版本号、机房、环境等信息，供消费者路由使用</td>
+</tr>
+<tr>
+<td><strong>动态权重</strong></td>
+<td>根据当前 CPU 负载动态调整权重，负载高时降低权重</td>
+</tr>
+</tbody>
+</table>
+<h3 id="Java-SDK-集成方案_1">Java SDK 集成方案</h3>
+<h4 id="步骤一封装服务注册客户端">步骤一：封装服务注册客户端</h4>
+<div class="codehilite lang-java"><pre><span></span><code><span class="kd">public</span><span class="w"> </span><span class="kd">class</span> <span class="nc">NacosServiceRegistry</span><span class="w"> </span><span class="p">{</span>
+
+<span class="w">    </span><span class="kd">private</span><span class="w"> </span><span class="kd">final</span><span class="w"> </span><span class="n">NamingService</span><span class="w"> </span><span class="n">namingService</span><span class="p">;</span>
+<span class="w">    </span><span class="kd">private</span><span class="w"> </span><span class="kd">final</span><span class="w"> </span><span class="n">String</span><span class="w"> </span><span class="n">serviceName</span><span class="p">;</span>
+<span class="w">    </span><span class="kd">private</span><span class="w"> </span><span class="kd">final</span><span class="w"> </span><span class="n">String</span><span class="w"> </span><span class="n">groupName</span><span class="p">;</span>
+<span class="w">    </span><span class="kd">private</span><span class="w"> </span><span class="kd">final</span><span class="w"> </span><span class="n">String</span><span class="w"> </span><span class="n">ip</span><span class="p">;</span>
+<span class="w">    </span><span class="kd">private</span><span class="w"> </span><span class="kd">final</span><span class="w"> </span><span class="kt">int</span><span class="w"> </span><span class="n">port</span><span class="p">;</span>
+
+<span class="w">    </span><span class="kd">public</span><span class="w"> </span><span class="nf">NacosServiceRegistry</span><span class="p">(</span><span class="n">String</span><span class="w"> </span><span class="n">serverAddr</span><span class="p">,</span><span class="w"> </span><span class="n">String</span><span class="w"> </span><span class="n">namespace</span><span class="p">,</span>
+<span class="w">                                 </span><span class="n">String</span><span class="w"> </span><span class="n">serviceName</span><span class="p">,</span><span class="w"> </span><span class="n">String</span><span class="w"> </span><span class="n">groupName</span><span class="p">,</span>
+<span class="w">                                 </span><span class="n">String</span><span class="w"> </span><span class="n">ip</span><span class="p">,</span><span class="w"> </span><span class="kt">int</span><span class="w"> </span><span class="n">port</span><span class="p">)</span><span class="w"> </span><span class="kd">throws</span><span class="w"> </span><span class="n">Exception</span><span class="w"> </span><span class="p">{</span>
+<span class="w">        </span><span class="k">this</span><span class="p">.</span><span class="na">namingService</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">NacosClientFactory</span><span class="p">.</span><span class="na">creteNamingService</span><span class="p">(</span><span class="n">serverAddr</span><span class="p">,</span><span class="w"> </span><span class="n">namespace</span><span class="p">);</span>
+<span class="w">        </span><span class="k">this</span><span class="p">.</span><span class="na">serviceName</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">serviceName</span><span class="p">;</span>
+<span class="w">        </span><span class="k">this</span><span class="p">.</span><span class="na">groupName</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">groupName</span><span class="p">;</span>
+<span class="w">        </span><span class="k">this</span><span class="p">.</span><span class="na">ip</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">ip</span><span class="p">;</span>
+<span class="w">        </span><span class="k">this</span><span class="p">.</span><span class="na">port</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">port</span><span class="p">;</span>
+<span class="w">    </span><span class="p">}</span>
+
+<span class="w">    </span><span class="cm">/**</span>
+<span class="cm">     * 注册实例，携带元数据</span>
+<span class="cm">     */</span>
+<span class="w">    </span><span class="kd">public</span><span class="w"> </span><span class="kt">void</span><span class="w"> </span><span class="nf">register</span><span class="p">(</span><span class="n">Map</span><span class="o">&lt;</span><span class="n">String</span><span class="p">,</span><span class="w"> </span><span class="n">String</span><span class="o">&gt;</span><span class="w"> </span><span class="n">metadata</span><span class="p">)</span><span class="w"> </span><span class="kd">throws</span><span class="w"> </span><span class="n">Exception</span><span class="w"> </span><span class="p">{</span>
+<span class="w">        </span><span class="n">Instance</span><span class="w"> </span><span class="n">instance</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="k">new</span><span class="w"> </span><span class="n">Instance</span><span class="p">();</span>
+<span class="w">        </span><span class="n">instance</span><span class="p">.</span><span class="na">setIp</span><span class="p">(</span><span class="n">ip</span><span class="p">);</span>
+<span class="w">        </span><span class="n">instance</span><span class="p">.</span><span class="na">setPort</span><span class="p">(</span><span class="n">port</span><span class="p">);</span>
+<span class="w">        </span><span class="n">instance</span><span class="p">.</span><span class="na">setWeight</span><span class="p">(</span><span class="mf">1.0</span><span class="p">);</span>
+<span class="w">        </span><span class="n">instance</span><span class="p">.</span><span class="na">setMetadata</span><span class="p">(</span><span class="n">metadata</span><span class="p">);</span>
+<span class="w">        </span><span class="n">namingService</span><span class="p">.</span><span class="na">registerInstance</span><span class="p">(</span><span class="n">serviceName</span><span class="p">,</span><span class="w"> </span><span class="n">groupName</span><span class="p">,</span><span class="w"> </span><span class="n">instance</span><span class="p">);</span>
+<span class="w">        </span><span class="n">System</span><span class="p">.</span><span class="na">out</span><span class="p">.</span><span class="na">println</span><span class="p">(</span><span class="s">"实例注册成功: "</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="n">ip</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="s">":"</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="n">port</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="s">" 元数据: "</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="n">metadata</span><span class="p">);</span>
+<span class="w">    </span><span class="p">}</span>
+
+<span class="w">    </span><span class="cm">/**</span>
+<span class="cm">     * 注销实例</span>
+<span class="cm">     */</span>
+<span class="w">    </span><span class="kd">public</span><span class="w"> </span><span class="kt">void</span><span class="w"> </span><span class="nf">deregister</span><span class="p">()</span><span class="w"> </span><span class="kd">throws</span><span class="w"> </span><span class="n">Exception</span><span class="w"> </span><span class="p">{</span>
+<span class="w">        </span><span class="n">Instance</span><span class="w"> </span><span class="n">instance</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="k">new</span><span class="w"> </span><span class="n">Instance</span><span class="p">();</span>
+<span class="w">        </span><span class="n">instance</span><span class="p">.</span><span class="na">setIp</span><span class="p">(</span><span class="n">ip</span><span class="p">);</span>
+<span class="w">        </span><span class="n">instance</span><span class="p">.</span><span class="na">setPort</span><span class="p">(</span><span class="n">port</span><span class="p">);</span>
+<span class="w">        </span><span class="n">instance</span><span class="p">.</span><span class="na">setServiceName</span><span class="p">(</span><span class="n">serviceName</span><span class="p">);</span>
+<span class="w">        </span><span class="n">namingService</span><span class="p">.</span><span class="na">deregisterInstance</span><span class="p">(</span><span class="n">serviceName</span><span class="p">,</span><span class="w"> </span><span class="n">groupName</span><span class="p">,</span><span class="w"> </span><span class="n">instance</span><span class="p">);</span>
+<span class="w">        </span><span class="n">System</span><span class="p">.</span><span class="na">out</span><span class="p">.</span><span class="na">println</span><span class="p">(</span><span class="s">"实例已注销: "</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="n">ip</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="s">":"</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="n">port</span><span class="p">);</span>
+<span class="w">    </span><span class="p">}</span>
+
+<span class="w">    </span><span class="cm">/**</span>
+<span class="cm">     * 动态更新权重</span>
+<span class="cm">     */</span>
+<span class="w">    </span><span class="kd">public</span><span class="w"> </span><span class="kt">void</span><span class="w"> </span><span class="nf">updateWeight</span><span class="p">(</span><span class="kt">double</span><span class="w"> </span><span class="n">weight</span><span class="p">)</span><span class="w"> </span><span class="kd">throws</span><span class="w"> </span><span class="n">NacosException</span><span class="w"> </span><span class="p">{</span>
+<span class="w">        </span><span class="n">Instance</span><span class="w"> </span><span class="n">instance</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="k">new</span><span class="w"> </span><span class="n">Instance</span><span class="p">();</span>
+<span class="w">        </span><span class="n">instance</span><span class="p">.</span><span class="na">setIp</span><span class="p">(</span><span class="n">ip</span><span class="p">);</span>
+<span class="w">        </span><span class="n">instance</span><span class="p">.</span><span class="na">setPort</span><span class="p">(</span><span class="n">port</span><span class="p">);</span>
+<span class="w">        </span><span class="n">instance</span><span class="p">.</span><span class="na">setServiceName</span><span class="p">(</span><span class="n">serviceName</span><span class="p">);</span>
+<span class="w">        </span><span class="n">instance</span><span class="p">.</span><span class="na">setWeight</span><span class="p">(</span><span class="n">weight</span><span class="p">);</span>
+<span class="w">        </span><span class="n">instance</span><span class="p">.</span><span class="na">setEnabled</span><span class="p">(</span><span class="kc">true</span><span class="p">);</span>
+<span class="w">        </span><span class="c1">// 通过registerInstance方法实现更新操作</span>
+<span class="w">        </span><span class="n">namingService</span><span class="p">.</span><span class="na">registerInstance</span><span class="p">(</span><span class="n">serviceName</span><span class="p">,</span><span class="w"> </span><span class="n">groupName</span><span class="p">,</span><span class="w"> </span><span class="n">instance</span><span class="p">);</span>
+<span class="w">        </span><span class="n">System</span><span class="p">.</span><span class="na">out</span><span class="p">.</span><span class="na">println</span><span class="p">(</span><span class="s">"权重已更新为: "</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="n">weight</span><span class="p">);</span>
+<span class="w">    </span><span class="p">}</span>
+<span class="p">}</span>
+</code></pre></div>
+
+<h4 id="步骤二在服务启动和关闭时调用">步骤二：在服务启动和关闭时调用</h4>
+<div class="codehilite lang-java"><pre><span></span><code><span class="kd">public</span><span class="w"> </span><span class="kd">class</span> <span class="nc">BookProductApplication</span><span class="w"> </span><span class="p">{</span>
+
+<span class="w">    </span><span class="kd">private</span><span class="w"> </span><span class="kd">static</span><span class="w"> </span><span class="n">NacosServiceRegistry</span><span class="w"> </span><span class="n">registry</span><span class="p">;</span>
+
+<span class="w">    </span><span class="kd">public</span><span class="w"> </span><span class="kd">static</span><span class="w"> </span><span class="kt">void</span><span class="w"> </span><span class="nf">main</span><span class="p">(</span><span class="n">String</span><span class="o">[]</span><span class="w"> </span><span class="n">args</span><span class="p">)</span><span class="w"> </span><span class="kd">throws</span><span class="w"> </span><span class="n">Exception</span><span class="w"> </span><span class="p">{</span>
+<span class="w">        </span><span class="c1">// 模拟服务启动</span>
+<span class="w">        </span><span class="n">registry</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="k">new</span><span class="w"> </span><span class="n">NacosServiceRegistry</span><span class="p">(</span>
+<span class="w">                </span><span class="s">"127.0.0.1:8848"</span><span class="p">,</span>
+<span class="w">                </span><span class="s">"dev"</span><span class="p">,</span>
+<span class="w">                </span><span class="s">"book-product"</span><span class="p">,</span>
+<span class="w">                </span><span class="s">"DEFAULT_GROUP"</span><span class="p">,</span>
+<span class="w">                </span><span class="s">"127.0.0.1"</span><span class="p">,</span>
+<span class="w">                </span><span class="mi">8081</span>
+<span class="w">        </span><span class="p">);</span>
+
+<span class="w">        </span><span class="c1">// 上报元数据</span>
+<span class="w">        </span><span class="n">Map</span><span class="o">&lt;</span><span class="n">String</span><span class="p">,</span><span class="w"> </span><span class="n">String</span><span class="o">&gt;</span><span class="w"> </span><span class="n">metadata</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="k">new</span><span class="w"> </span><span class="n">HashMap</span><span class="o">&lt;&gt;</span><span class="p">();</span>
+<span class="w">        </span><span class="n">metadata</span><span class="p">.</span><span class="na">put</span><span class="p">(</span><span class="s">"version"</span><span class="p">,</span><span class="w"> </span><span class="s">"1.0.0"</span><span class="p">);</span>
+<span class="w">        </span><span class="n">metadata</span><span class="p">.</span><span class="na">put</span><span class="p">(</span><span class="s">"region"</span><span class="p">,</span><span class="w"> </span><span class="s">"beijing"</span><span class="p">);</span>
+<span class="w">        </span><span class="n">metadata</span><span class="p">.</span><span class="na">put</span><span class="p">(</span><span class="s">"env"</span><span class="p">,</span><span class="w"> </span><span class="s">"dev"</span><span class="p">);</span>
+<span class="w">        </span><span class="n">registry</span><span class="p">.</span><span class="na">register</span><span class="p">(</span><span class="n">metadata</span><span class="p">);</span>
+
+<span class="w">        </span><span class="c1">// 模拟根据 CPU 负载动态调整权重</span>
+<span class="w">        </span><span class="k">new</span><span class="w"> </span><span class="n">Thread</span><span class="p">(()</span><span class="w"> </span><span class="o">-&gt;</span><span class="w"> </span><span class="p">{</span>
+<span class="w">            </span><span class="k">while</span><span class="w"> </span><span class="p">(</span><span class="kc">true</span><span class="p">)</span><span class="w"> </span><span class="p">{</span>
+<span class="w">                </span><span class="k">try</span><span class="w"> </span><span class="p">{</span>
+<span class="w">                    </span><span class="kt">double</span><span class="w"> </span><span class="n">cpuLoad</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">Math</span><span class="p">.</span><span class="na">random</span><span class="p">();</span><span class="w"> </span><span class="c1">// 模拟 CPU 负载 0~1</span>
+<span class="w">                    </span><span class="kt">double</span><span class="w"> </span><span class="n">weight</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">cpuLoad</span><span class="w"> </span><span class="o">&gt;</span><span class="w"> </span><span class="mf">0.6</span><span class="w"> </span><span class="o">?</span><span class="w"> </span><span class="mf">0.2</span><span class="w"> </span><span class="p">:</span><span class="w"> </span><span class="mf">1.0</span><span class="p">;</span>
+<span class="w">                    </span><span class="n">registry</span><span class="p">.</span><span class="na">updateWeight</span><span class="p">(</span><span class="n">weight</span><span class="p">);</span>
+<span class="w">                    </span><span class="n">Thread</span><span class="p">.</span><span class="na">sleep</span><span class="p">(</span><span class="mi">2000</span><span class="p">);</span>
+<span class="w">                </span><span class="p">}</span><span class="w"> </span><span class="k">catch</span><span class="w"> </span><span class="p">(</span><span class="n">Exception</span><span class="w"> </span><span class="n">e</span><span class="p">)</span><span class="w"> </span><span class="p">{</span>
+<span class="w">                    </span><span class="n">e</span><span class="p">.</span><span class="na">printStackTrace</span><span class="p">();</span>
+<span class="w">                </span><span class="p">}</span>
+<span class="w">            </span><span class="p">}</span>
+<span class="w">        </span><span class="p">}).</span><span class="na">start</span><span class="p">();</span>
+
+<span class="w">        </span><span class="c1">// 模拟服务关闭时注销</span>
+<span class="w">        </span><span class="n">Runtime</span><span class="p">.</span><span class="na">getRuntime</span><span class="p">().</span><span class="na">addShutdownHook</span><span class="p">(</span><span class="k">new</span><span class="w"> </span><span class="n">Thread</span><span class="p">(()</span><span class="w"> </span><span class="o">-&gt;</span><span class="w"> </span><span class="p">{</span>
+<span class="w">            </span><span class="k">try</span><span class="w"> </span><span class="p">{</span>
+<span class="w">                </span><span class="n">registry</span><span class="p">.</span><span class="na">deregister</span><span class="p">();</span>
+<span class="w">            </span><span class="p">}</span><span class="w"> </span><span class="k">catch</span><span class="w"> </span><span class="p">(</span><span class="n">Exception</span><span class="w"> </span><span class="n">e</span><span class="p">)</span><span class="w"> </span><span class="p">{</span>
+<span class="w">                </span><span class="n">e</span><span class="p">.</span><span class="na">printStackTrace</span><span class="p">();</span>
+<span class="w">            </span><span class="p">}</span>
+<span class="w">        </span><span class="p">}));</span>
+
+<span class="w">        </span><span class="c1">// 保持服务运行</span>
+<span class="w">        </span><span class="n">Thread</span><span class="p">.</span><span class="na">sleep</span><span class="p">(</span><span class="n">Long</span><span class="p">.</span><span class="na">MAX_VALUE</span><span class="p">);</span>
+<span class="w">    </span><span class="p">}</span>
+<span class="p">}</span>
+</code></pre></div>
+
+<h4 id="步骤三验证效果_1">步骤三：验证效果</h4>
+<p><strong>验证一：注册与元数据</strong></p>
+<p>启动 BookProductApplication，在 Nacos 控制台查看 <code>book-product</code> 服务详情，确认实例元数据包含 <code>version=1.0.0</code>、<code>region=beijing</code>、<code>env=dev</code>。</p>
+<p><strong>验证二：动态权重</strong></p>
+<p>观察控制台实例权重变化，模拟 CPU 负载超过 0.6 时权重变为 0.2。使用场景一中的消费者，验证加权选择是否相应变化。</p>
+<p><strong>验证三：关闭注销</strong></p>
+<p>使用 Ctrl+C 正常关闭应用，观察控制台实例是否立即消失。</p>
+<h2 id="场景对比">场景对比</h2>
+<table>
+<thead>
+<tr>
+<th>维度</th>
+<th>场景一：服务消费者</th>
+<th>场景二：服务提供者</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>SDK类</strong></td>
+<td><code>NamingService</code></td>
+<td><code>NamingService</code></td>
+</tr>
+<tr>
+<td><strong>核心方法</strong></td>
+<td><code>subscribe</code>、<code>selectOneHealthyInstance</code></td>
+<td><code>registerInstance</code>、<code>deregisterInstance</code></td>
+</tr>
+<tr>
+<td><strong>数据流向</strong></td>
+<td>从 Nacos 拉取实例列表</td>
+<td>向 Nacos 推送实例信息</td>
+</tr>
+<tr>
+<td><strong>感知方式</strong></td>
+<td>事件推送</td>
+<td>主动注册/更新</td>
+</tr>
+<tr>
+<td><strong>适用场景</strong></td>
+<td>服务间调用、灰度路由</td>
+<td>服务启动注册、动态权重</td>
+</tr>
+</tbody>
+</table>
+<h2 id="注意事项">注意事项</h2>
+<ol>
+<li>
+<p><strong>一个 SDK 实例对应一个命名空间</strong>：<code>NamingService</code> 初始化时指定的 namespace 固定，如需访问多个命名空间，需创建多个 SDK 实例。</p>
+</li>
+<li>
+<p><strong>服务订阅是长连接</strong>：<code>subscribe</code> 底层基于 gRPC 长连接，Nacos 会实时推送实例变更。确保 gRPC 端口（9848）可访问。</p>
+</li>
+<li>
+<p><strong>加权选择需要 Nacos 感知</strong>：<code>selectOneHealthyInstance</code> 方法内置了加权随机逻辑，直接使用即可。</p>
+</li>
+<li>
+<p><strong>注册与注销成对出现</strong>：服务启动时注册，关闭时注销。使用 <code>Runtime.getRuntime().addShutdownHook</code> 确保正常关闭时注销。</p>
+</li>
+<li>
+<p><strong>动态权重适合自适应场景</strong>：根据业务指标（如 CPU 负载、队列长度）动态调整权重，可以实现自适应负载均衡。</p>
+</li>
+</ol>
+<h2 id="小结">小结</h2>
+<p>本讲将前面各讲散落的 Nacos API 调用集中整理，并聚焦于两个典型应用场景的 Java SDK 系统集成：</p>
+<ol>
+<li><strong>API 分类</strong>：Client Open API、Admin API、Console API、Inner API。</li>
+<li><strong>场景一：服务消费者动态发现与负载均衡</strong>：使用 <code>NamingService</code> 的 <code>subscribe</code> 实现实例变更监听，<code>selectOneHealthyInstance</code> 实现加权随机选择。</li>
+<li><strong>场景二：服务提供者动态注册与元数据管理</strong>：使用 <code>NamingService</code> 的 <code>registerInstance</code> 注册实例并上报元数据，<code>updateInstance</code> 动态调整权重，<code>deregisterInstance</code> 注销实例。</li>
+<li><strong>Java SDK 核心 API</strong>：<code>NamingService</code> 的常用方法速查。</li>
+</ol>
+<h2 id="作业">作业</h2>
+<h3 id="作业一完成服务消费者-SDK-集成">作业一：完成服务消费者 SDK 集成</h3>
+<ol>
+<li>编写一个 Java 类，使用 <code>NamingService</code> 订阅 <code>book-product</code> 服务的实例变更。</li>
+<li>启动两个 book-product 实例，观察监听器日志中实例列表的变化。</li>
+<li>使用 <code>selectOneHealthyInstance</code> 连续调用 50 次，统计两个实例被选中的次数。</li>
+<li>将 8082 实例权重调整为 <code>0.1</code>，再次调用 50 次，验证加权效果。</li>
+</ol>
+<h3 id="作业二完成服务提供者-SDK-集成">作业二：完成服务提供者 SDK 集成</h3>
+<ol>
+<li>编写一个 Java 类，使用 <code>NamingService</code> 注册 <code>book-product</code> 实例，并上报元数据（版本、机房、环境）。</li>
+<li>在 Nacos 控制台查看实例元数据是否正确显示。</li>
+<li>实现动态权重调整逻辑：根据模拟的 CPU 负载（如随机数）调整权重。</li>
+<li>使用 Ctrl+C 正常关闭应用，验证实例是否立即注销。</li>
+</ol>13:["$","article",null,{"className":"doc","id":"content","children":[["$","div",null,{"className":"doc-head-row mb-2 flex items-center justify-between gap-4","children":[["$","p",null,{"className":"kicker","children":[["$","span",null,{"className":"kicker-num","children":"第 14 章"}],["$","span",null,{"className":"kicker-mod","children":"Spring Cloud Alibaba"}]]}],["$","$L15",null,{"progressKey":"spring-cloud-14"}]]}],["$","h1",null,{"className":"doc-h1","children":"Nacos API 专题"}],"$undefined",["$","$L16",null,{"html":"$17"}],"$L18"]}]
+14:["$","$L19",null,{"sections":"$5:1:props:children:0:props:courses:6:modules:0:chapters:13:sections"}]
+1a:I[2619,["619","static/chunks/619-ba102abea3e3d0e4.js","526","static/chunks/app/course/%5Bkey%5D/%5Bch%5D/page-4b7f30b4efe73131.js"],""]
+18:["$","nav",null,{"className":"pager","aria-label":"章节导航","children":[["$","$L1a",null,{"className":"pager-link pager-prev","href":"/course/spring-cloud/13/","children":[["$","span",null,{"className":"pager-dir","children":"上一章"}],["$","span",null,{"className":"pager-name","children":"Nacos权重路由"}]]}],["$","$L1a",null,{"className":"pager-link pager-next","href":"/course/spring-cloud/15/","children":[["$","span",null,{"className":"pager-dir","children":"下一章"}],["$","span",null,{"className":"pager-name","children":"OpenFeign快速上手"}]]}]]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+7:null
+9:{"metadata":[["$","title","0",{"children":"第 14 章  · Spring Cloud Alibaba · AI大全栈"}],["$","meta","1",{"name":"description","content":"袁进主讲的系列课程手册：Python 语言核心精讲、数据科学工具包、数据库、Python 框架、Agents 底层逻辑、LangGraph、LangChain + DeepAgent、Agent 观测与评估、Agent 基础建设、RAG 知识库。iOS 风格阅读体验，内置可运行的 Python 代码块。"}]],"error":null,"digest":"$undefined"}
+10:"$9:metadata"

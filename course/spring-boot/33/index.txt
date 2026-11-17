@@ -1,0 +1,646 @@
+1:"$Sreact.fragment"
+2:I[6590,["619","static/chunks/619-ba102abea3e3d0e4.js","177","static/chunks/app/layout-1fd0282a046e2468.js"],"default"]
+3:I[9766,[],""]
+4:I[8924,[],""]
+6:I[4431,[],"OutletBoundary"]
+8:I[5278,[],"AsyncMetadataOutlet"]
+b:I[7150,[],""]
+:HL["/ai-course-site/_next/static/css/d95fb35eb6f8b422.css","style"]
+0:{"P":null,"b":"X8etduvi9QkiRbgJrCKEG","p":"/ai-course-site","c":["","course","spring-boot","33",""],"i":false,"f":[[["",{"children":["course",{"children":[["key","spring-boot","d"],{"children":[["ch","33","d"],{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/ai-course-site/_next/static/css/d95fb35eb6f8b422.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"zh-CN","suppressHydrationWarning":true,"children":[["$","head",null,{"children":["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var t=localStorage.getItem(\"theme\");var d=t?t===\"dark\":window.matchMedia(\"(prefers-color-scheme: dark)\").matches;if(d)document.documentElement.classList.add(\"dark\");}catch(e){}})();"}}]}],["$","body",null,{"children":[["$","$L2",null,{"families":[{"key":"agent","name":"AI · Agent 开发"},{"key":"engineering","name":"AI · Agent 工程化"},{"key":"dev","name":"编程与工程基础"}]}],["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","footer",null,{"className":"mx-auto max-w-[52rem] px-6 pb-10 text-center text-xs text-label3","children":"AI大全栈 · 课程手册 — 由课件自动生成，仅供学习使用"}]]}]]}]]}],{"children":["course",["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["key","spring-boot","d"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["ch","33","d"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L5",null,["$","$L6",null,{"children":["$L7",["$","$L8",null,{"promise":"$@9"}]]}]]}],{},null,false]},[["$","div","l",{"className":"doc-wrap","children":["$","div",null,{"className":"doc","aria-busy":"true","aria-label":"加载中","children":[["$","div",null,{"className":"mb-2 h-3.5 w-28 animate-pulse rounded bg-fill2"}],["$","div",null,{"className":"mb-6 h-8 w-2/3 animate-pulse rounded bg-fill2"}],["$","div",null,{"className":"space-y-3.5","children":[["$","div","0",{"className":"h-4 animate-pulse rounded bg-fill2","style":{"width":"92%"}}],["$","div","1",{"className":"h-4 animate-pulse rounded bg-fill2","style":{"width":"100%"}}],["$","div","2",{"className":"h-4 animate-pulse rounded bg-fill2","style":{"width":"96%"}}],["$","div","3",{"className":"h-4 animate-pulse rounded bg-fill2","style":{"width":"60%"}}]]}],["$","div",null,{"className":"my-8 h-32 animate-pulse rounded-xl bg-fill"}],["$","div",null,{"className":"space-y-3.5","children":[["$","div","0",{"className":"h-4 animate-pulse rounded bg-fill2","style":{"width":"100%"}}],["$","div","1",{"className":"h-4 animate-pulse rounded bg-fill2","style":{"width":"88%"}}],["$","div","2",{"className":"h-4 animate-pulse rounded bg-fill2","style":{"width":"95%"}}],["$","div","3",{"className":"h-4 animate-pulse rounded bg-fill2","style":{"width":"72%"}}],["$","div","4",{"className":"h-4 animate-pulse rounded bg-fill2","style":{"width":"100%"}}]]}]]}]}],[],[]],false]},null,false]},null,false]},null,false],"$La",false]],"m":"$undefined","G":["$b",[]],"s":false,"S":true}
+c:I[4431,[],"ViewportBoundary"]
+e:I[4431,[],"MetadataBoundary"]
+f:"$Sreact.suspense"
+a:["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$f",null,{"fallback":null,"children":"$L10"}]}]}]]}]
+11:I[7010,["619","static/chunks/619-ba102abea3e3d0e4.js","526","static/chunks/app/course/%5Bkey%5D/%5Bch%5D/page-4b7f30b4efe73131.js"],"default"]
+12:I[6710,["619","static/chunks/619-ba102abea3e3d0e4.js","526","static/chunks/app/course/%5Bkey%5D/%5Bch%5D/page-4b7f30b4efe73131.js"],"default"]
+5:[["$","$L11",null,{"url":"/course/spring-boot/33/","title":"MyBatis-Plus 概述与快速上手","course":"单体系统和Spring Boot"}],["$","div",null,{"className":"doc-wrap","children":[["$","$L12",null,{"courses":[{"key":"py","title":"Python语言核心精讲","glyph":"Py","cls":"b1","coming_soon":false,"modules":[{"name":"语言基础","chapters":[{"n":1,"slug":"1","title":"必看导言","group":"语言基础","progress_key":"1"},{"n":2,"slug":"2","title":"python环境安装","group":"语言基础","progress_key":"2"},{"n":3,"slug":"3","title":"python基本语法","group":"语言基础","progress_key":"3"},{"n":4,"slug":"4","title":"容器类型","group":"语言基础","progress_key":"4"},{"n":5,"slug":"5","title":"函数","group":"语言基础","progress_key":"5"},{"n":6,"slug":"6","title":"作用域","group":"语言基础","progress_key":"6"},{"n":7,"slug":"7","title":"lambda表达式","group":"语言基础","progress_key":"7"}]},{"name":"面向对象","chapters":[{"n":8,"slug":"8","title":"类和对象","group":"面向对象","progress_key":"8"},{"n":9,"slug":"9","title":"对象的类型","group":"面向对象","progress_key":"9"},{"n":10,"slug":"10","title":"对象的创建过程","group":"面向对象","progress_key":"10"},{"n":11,"slug":"11","title":"可调用对象","group":"面向对象","progress_key":"11"},{"n":12,"slug":"12","title":"元类","group":"面向对象","progress_key":"12"},{"n":13,"slug":"13","title":"装饰器","group":"面向对象","progress_key":"13"},{"n":14,"slug":"14","title":"魔术方法","group":"面向对象","progress_key":"14"},{"n":15,"slug":"15","title":"描述符","group":"面向对象","progress_key":"15"}]},{"name":"语言进阶","chapters":[{"n":16,"slug":"16","title":"异常处理","group":"语言进阶","progress_key":"16"},{"n":17,"slug":"17","title":"迭代器与生成器","group":"语言进阶","progress_key":"17"},{"n":18,"slug":"18","title":"上下文管理器","group":"语言进阶","progress_key":"18"},{"n":19,"slug":"19","title":"ABC","group":"语言进阶","progress_key":"19"},{"n":20,"slug":"20","title":"类型标注","group":"语言进阶","progress_key":"20"},{"n":21,"slug":"21","title":"模块化","group":"语言进阶","progress_key":"21"},{"n":22,"slug":"22","title":"标准库","group":"语言进阶","progress_key":"22"},{"n":23,"slug":"23","title":"第三方库","group":"语言进阶","progress_key":"23"}]},{"name":"异步与并发","chapters":[{"n":24,"slug":"24","title":"事件循环","group":"异步与并发","progress_key":"24"},{"n":25,"slug":"25","title":"Future类","group":"异步与并发","progress_key":"25"},{"n":26,"slug":"26","title":"协程 Coroutine","group":"异步与并发","progress_key":"26"},{"n":27,"slug":"27","title":"异步编程","group":"异步与并发","progress_key":"27"},{"n":28,"slug":"28","title":"多线程与多进程","group":"异步与并发","progress_key":"28"}]},{"name":"工程化实践","chapters":[{"n":29,"slug":"29","title":"构建发布","group":"工程化实践","progress_key":"29"},{"n":30,"slug":"30","title":"项目管理工具","group":"工程化实践","progress_key":"30"},{"n":31,"slug":"31","title":"monorepo","group":"工程化实践","progress_key":"31"},{"n":32,"slug":"32","title":"断点调试","group":"工程化实践","progress_key":"32"}]},{"name":"项目案例","chapters":[{"n":null,"slug":"proj-async-agents","title":"多智能体协同调研系统","group":"项目案例","progress_key":""},{"n":null,"slug":"proj-duyi-utils","title":"duyi-utils 构建发布示例","group":"项目案例","progress_key":""}]}]},{"key":"fw","title":"Python框架","glyph":"架","cls":"b-fw","coming_soon":false,"modules":[{"name":"课程内容","chapters":[{"n":1,"slug":"1","title":"Web服务框架","group":"课程内容","progress_key":"fw-1"},{"n":2,"slug":"2","title":"优化包结构","group":"课程内容","progress_key":"fw-2"},{"n":3,"slug":"3","title":"初识SQLAlchemy","group":"课程内容","progress_key":"fw-3"},{"n":4,"slug":"4","title":"ORM","group":"课程内容","progress_key":"fw-4"},{"n":5,"slug":"5","title":"数据操作","group":"课程内容","progress_key":"fw-5"},{"n":6,"slug":"6","title":"数据迁移","group":"课程内容","progress_key":"fw-6"},{"n":7,"slug":"7","title":"业务逻辑","group":"课程内容","progress_key":"fw-7"},{"n":8,"slug":"8","title":"依赖注入","group":"课程内容","progress_key":"fw-8"},{"n":9,"slug":"9","title":"统一异常处理","group":"课程内容","progress_key":"fw-9"},{"n":10,"slug":"10","title":"中间件","group":"课程内容","progress_key":"fw-10"},{"n":11,"slug":"11","title":"测试框架","group":"课程内容","progress_key":"fw-11"},{"n":12,"slug":"12","title":"测试方案","group":"课程内容","progress_key":"fw-12"},{"n":13,"slug":"13","title":"三层架构","group":"课程内容","progress_key":"fw-13"},{"n":14,"slug":"14","title":"文件上传","group":"课程内容","progress_key":"fw-14"},{"n":15,"slug":"15","title":"系统设置","group":"课程内容","progress_key":"fw-15"},{"n":17,"slug":"17","title":"用户系统","group":"课程内容","progress_key":"fw-17"},{"n":18,"slug":"18","title":"日志","group":"课程内容","progress_key":"fw-18"},{"n":20,"slug":"20","title":"流式响应","group":"课程内容","progress_key":"fw-20"},{"n":26,"slug":"26","title":"python收官检验","group":"课程内容","progress_key":"fw-26"}]},{"name":"部署","chapters":[{"n":21,"slug":"21","title":"部署-认识Docker","group":"部署","progress_key":"fw-21"},{"n":22,"slug":"22","title":"部署-云资产","group":"部署","progress_key":"fw-22"},{"n":23,"slug":"23","title":"部署-k8s","group":"部署","progress_key":"fw-23"},{"n":24,"slug":"24","title":"部署-CICD","group":"部署","progress_key":"fw-24"},{"n":25,"slug":"25","title":"部署-总结","group":"部署","progress_key":"fw-25"}]}]},{"key":"db","title":"数据库","glyph":"库","cls":"b-db","coming_soon":false,"modules":[{"name":"课程内容","chapters":[{"n":1,"slug":"1","title":"PostgreSQL安装","group":"课程内容","progress_key":"db-1"},{"n":2,"slug":"2","title":"DDL","group":"课程内容","progress_key":"db-2"},{"n":3,"slug":"3","title":"表间关系","group":"课程内容","progress_key":"db-3"},{"n":4,"slug":"4","title":"DML","group":"课程内容","progress_key":"db-4"},{"n":5,"slug":"5","title":"事务","group":"课程内容","progress_key":"db-5"},{"n":6,"slug":"6","title":"索引","group":"课程内容","progress_key":"db-6"},{"n":7,"slug":"7","title":"拓展知识","group":"课程内容","progress_key":"db-7"}]}]},{"key":"dst","title":"数据科学工具包","glyph":"数","cls":"b-ds","coming_soon":false,"modules":[{"name":"课程内容","chapters":[{"n":1,"slug":"1","title":"课程导言","group":"课程内容","progress_key":"dst-1"},{"n":2,"slug":"2","title":"Jupyter","group":"课程内容","progress_key":"dst-2"},{"n":10,"slug":"10","title":"Seaborn","group":"课程内容","progress_key":"dst-10"}]},{"name":"Numpy","chapters":[{"n":3,"slug":"3","title":"Numpy - 核心概念","group":"Numpy","progress_key":"dst-3"},{"n":4,"slug":"4","title":"Numpy - 数据操作","group":"Numpy","progress_key":"dst-4"}]},{"name":"Pandas","chapters":[{"n":5,"slug":"5","title":"Pandas - 数据类型","group":"Pandas","progress_key":"dst-5"},{"n":6,"slug":"6","title":"Pandas - 数据清洗","group":"Pandas","progress_key":"dst-6"}]},{"name":"Matplotlib","chapters":[{"n":7,"slug":"7","title":"Matplotlib - 核心概念","group":"Matplotlib","progress_key":"dst-7"},{"n":8,"slug":"8","title":"Matplotlib - 动画","group":"Matplotlib","progress_key":"dst-8"},{"n":9,"slug":"9","title":"Matplotlib - 交互式组件","group":"Matplotlib","progress_key":"dst-9"}]}]},{"key":"java-basic","title":"Java语言核心精讲","glyph":"J","cls":"b-java","coming_soon":false,"modules":[{"name":"课程内容","chapters":[{"n":1,"slug":"1","title":"课程导言","group":"课程内容","progress_key":"java-basic-1"},{"n":2,"slug":"2","title":"构建第一个Java应用程序","group":"课程内容","progress_key":"java-basic-2"},{"n":3,"slug":"3","title":"Java基础语法","group":"课程内容","progress_key":"java-basic-3"},{"n":4,"slug":"4","title":"容器类型","group":"课程内容","progress_key":"java-basic-4"},{"n":5,"slug":"5","title":"方法","group":"课程内容","progress_key":"java-basic-5"},{"n":6,"slug":"6","title":"Lambda表达式","group":"课程内容","progress_key":"java-basic-6"},{"n":7,"slug":"7","title":"Stream API","group":"课程内容","progress_key":"java-basic-7"},{"n":8,"slug":"8","title":"类和对象","group":"课程内容","progress_key":"java-basic-8"},{"n":9,"slug":"9","title":"封装、继承和多态","group":"课程内容","progress_key":"java-basic-9"},{"n":10,"slug":"10","title":"抽象类和接口","group":"课程内容","progress_key":"java-basic-10"},{"n":11,"slug":"11","title":"包管理","group":"课程内容","progress_key":"java-basic-11"},{"n":12,"slug":"12","title":"异常处理","group":"课程内容","progress_key":"java-basic-12"},{"n":13,"slug":"13","title":"反射","group":"课程内容","progress_key":"java-basic-13"},{"n":14,"slug":"14","title":"泛型","group":"课程内容","progress_key":"java-basic-14"},{"n":15,"slug":"15","title":"注解","group":"课程内容","progress_key":"java-basic-15"},{"n":16,"slug":"16","title":"Java特性拾遗与精进","group":"课程内容","progress_key":"java-basic-16"},{"n":17,"slug":"17","title":"线程基础与创建方式","group":"课程内容","progress_key":"java-basic-17"},{"n":18,"slug":"18","title":"线程生命周期与控制方法","group":"课程内容","progress_key":"java-basic-18"},{"n":19,"slug":"19","title":"线程安全与锁机制","group":"课程内容","progress_key":"java-basic-19"},{"n":20,"slug":"20","title":"线程池与Executor框架","group":"课程内容","progress_key":"java-basic-20"},{"n":21,"slug":"21","title":"并发集合与同步工具类","group":"课程内容","progress_key":"java-basic-21"},{"n":22,"slug":"22","title":"高级并发与最佳实践","group":"课程内容","progress_key":"java-basic-22"},{"n":23,"slug":"23","title":"Maven入门与环境配置","group":"课程内容","progress_key":"java-basic-23"},{"n":24,"slug":"24","title":"POM文件与依赖管理","group":"课程内容","progress_key":"java-basic-24"},{"n":25,"slug":"25","title":"Maven生命周期与插件体系","group":"课程内容","progress_key":"java-basic-25"},{"n":26,"slug":"26","title":"多模块项目管理","group":"课程内容","progress_key":"java-basic-26"}]}]},{"key":"spring-boot","title":"单体系统和Spring Boot","glyph":"B","cls":"b-ds","coming_soon":false,"modules":[{"name":"课程内容","chapters":[{"n":1,"slug":"1","title":"课程导言","group":"课程内容","progress_key":"spring-boot-1","sections":[{"name":"三个问题","anchor":"三个问题"},{"name":"为什么要学Spring Boot？","anchor":"为什么要学Spring-Boot"},{"name":"如何学习Spring Boot？","anchor":"如何学习Spring-Boot"},{"name":"学完Spring Boot你能做什么？","anchor":"学完Spring-Boot你能做什么"},{"name":"常见学习问题","anchor":"常见学习问题"}]},{"n":2,"slug":"2","title":"Spring Boot概述与快速入门","group":"课程内容","progress_key":"spring-boot-2","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"Spring 框架概述","anchor":"Spring-框架概述"},{"name":"从 Spring 到 Spring Boot","anchor":"从-Spring-到-Spring-Boot"},{"name":"开发第一个 Spring Boot 应用程序","anchor":"开发第一个-Spring-Boot-应用程序"},{"name":"作业","anchor":"作业"}]},{"n":3,"slug":"3","title":"Spring Boot应用程序结构与分层设计","group":"课程内容","progress_key":"spring-boot-3","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"贯穿项目：图书管理系统","anchor":"贯穿项目图书管理系统"},{"name":"Spring Boot 标准目录结构","anchor":"Spring-Boot-标准目录结构"},{"name":"三层架构设计","anchor":"三层架构设计"},{"name":"搭建项目分层骨架","anchor":"搭建项目分层骨架"},{"name":"依赖注入与层间调用","anchor":"依赖注入与层间调用"},{"name":"启动与测试","anchor":"启动与测试"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":4,"slug":"4","title":"Spring Boot配置体系","group":"课程内容","progress_key":"spring-boot-4","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"配置文件格式","anchor":"配置文件格式"},{"name":"读取配置的两种方式","anchor":"读取配置的两种方式"},{"name":"多环境配置（Profile）","anchor":"多环境配置Profile"},{"name":"配置加载优先级","anchor":"配置加载优先级"},{"name":"实战：为图书管理系统添加多环境配置","anchor":"实战为图书管理系统添加多环境配置"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":5,"slug":"5","title":"自动配置原理与Starter机制","group":"课程内容","progress_key":"spring-boot-5","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"自动配置概述","anchor":"自动配置概述"},{"name":"@SpringBootApplication 注解分析","anchor":"SpringBootApplication-注解分析"},{"name":"spring.factories 与自动配置加载","anchor":"springfactories-与自动配置加载"},{"name":"条件注解体系","anchor":"条件注解体系"},{"name":"案例分析：spring-boot-starter-web 自动配置","anchor":"案例分析spring-boot-starter-web-自动配置"},{"name":"查看自动配置报告","anchor":"查看自动配置报告"},{"name":"自动配置的覆盖与排除","anchor":"自动配置的覆盖与排除"},{"name":"自动配置原理总结","anchor":"自动配置原理总结"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":6,"slug":"6","title":"依赖注入基本概念与三种注入方式","group":"课程内容","progress_key":"spring-boot-6","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"IoC 与 DI 基本概念","anchor":"IoC-与-DI-基本概念"},{"name":"三种依赖注入方式","anchor":"三种依赖注入方式"},{"name":"推荐与不推荐的理由","anchor":"推荐与不推荐的理由"},{"name":"实战示例：为图书管理系统注入依赖","anchor":"实战示例为图书管理系统注入依赖"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":7,"slug":"7","title":"@Autowired详解与注入决策流程","group":"课程内容","progress_key":"spring-boot-7","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"@Autowired 的基本用法","anchor":"Autowired-的基本用法"},{"name":"在字段上使用","anchor":"在字段上使用"},{"name":"@Autowired 的核心特性","anchor":"Autowired-的核心特性"},{"name":"多 Bean 场景与注入决策","anchor":"多-Bean-场景与注入决策"},{"name":"使用 @Primary 指定首选 Bean","anchor":"使用-Primary-指定首选-Bean"},{"name":"使用 @Qualifier 精确指定 Bean","anchor":"使用-Qualifier-精确指定-Bean"},{"name":"@Resource 注解","anchor":"Resource-注解"},{"name":"实战：图书管理系统中的多 Bean 场景","anchor":"实战图书管理系统中的多-Bean-场景"},{"name":"常见问题与注意事项","anchor":"常见问题与注意事项"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":8,"slug":"8","title":"循环依赖与三级缓存机制","group":"课程内容","progress_key":"spring-boot-8","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"什么是循环依赖","anchor":"什么是循环依赖"},{"name":"构造器注入导致的循环依赖","anchor":"构造器注入导致的循环依赖"},{"name":"字段/Setter 注入解决循环依赖","anchor":"字段Setter-注入解决循环依赖"},{"name":"三级缓存机制","anchor":"三级缓存机制"},{"name":"@Lazy 延迟注入解决循环依赖","anchor":"Lazy-延迟注入解决循环依赖"},{"name":"场景分析：真实项目中的循环依赖","anchor":"场景分析真实项目中的循环依赖"},{"name":"避免循环依赖的设计原则","anchor":"避免循环依赖的设计原则"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":9,"slug":"9","title":"AOP编程思想与动态代理机制","group":"课程内容","progress_key":"spring-boot-9","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"AOP 概述","anchor":"AOP-概述"},{"name":"AOP 核心概念","anchor":"AOP-核心概念"},{"name":"动态代理基础","anchor":"动态代理基础"},{"name":"JDK 动态代理","anchor":"JDK-动态代理"},{"name":"CGLIB 动态代理","anchor":"CGLIB-动态代理"},{"name":"Spring AOP 的代理选择策略","anchor":"Spring-AOP-的代理选择策略"},{"name":"JDK 代理 vs CGLIB 代理对比","anchor":"JDK-代理-vs-CGLIB-代理对比"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":10,"slug":"10","title":"Spring AOP实战：日志切面","group":"课程内容","progress_key":"spring-boot-10","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"导入：从理论到实践","anchor":"导入从理论到实践"},{"name":"定义日志切面","anchor":"定义日志切面"},{"name":"切入点表达式详解","anchor":"切入点表达式详解"},{"name":"通知类型详解","anchor":"通知类型详解"},{"name":"获取请求信息","anchor":"获取请求信息"},{"name":"实战：为图书管理系统添加日志切面","anchor":"实战为图书管理系统添加日志切面"},{"name":"注意事项","anchor":"注意事项"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":11,"slug":"11","title":"Spring AOP实战：性能监控与异常处理","group":"课程内容","progress_key":"spring-boot-11","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"导入：从日志到监控","anchor":"导入从日志到监控"},{"name":"@Around 环绕通知","anchor":"Around-环绕通知"},{"name":"性能监控切面","anchor":"性能监控切面"},{"name":"统一异常处理切面","anchor":"统一异常处理切面"},{"name":"多切面协作与执行顺序","anchor":"多切面协作与执行顺序"},{"name":"注意事项","anchor":"注意事项"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":12,"slug":"12","title":"HTTP协议与Web服务开发流程","group":"课程内容","progress_key":"spring-boot-12","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"HTTP 协议概述","anchor":"HTTP-协议概述"},{"name":"HTTP 方法","anchor":"HTTP-方法"},{"name":"HTTP 状态码","anchor":"HTTP-状态码"},{"name":"HTTP 请求头与响应头","anchor":"HTTP-请求头与响应头"},{"name":"Web 服务开发流程","anchor":"Web-服务开发流程"},{"name":"使用 Postman 调试接口","anchor":"使用-Postman-调试接口"},{"name":"实战：使用 Postman 测试图书管理系统","anchor":"实战使用-Postman-测试图书管理系统"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":13,"slug":"13","title":"Servlet与Spring WebMVC架构解析","group":"课程内容","progress_key":"spring-boot-13","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"Servlet 概述","anchor":"Servlet-概述"},{"name":"传统 Servlet 示例（对比 Spring WebMVC）","anchor":"传统-Servlet-示例对比-Spring-WebMVC"},{"name":"Spring WebMVC 架构","anchor":"Spring-WebMVC-架构"},{"name":"DispatcherServlet 详解","anchor":"DispatcherServlet-详解"},{"name":"Spring WebMVC 核心组件","anchor":"Spring-WebMVC-核心组件"},{"name":"请求处理完整流程（时序图）","anchor":"请求处理完整流程时序图"},{"name":"Spring WebMVC vs 传统 Servlet","anchor":"Spring-WebMVC-vs-传统-Servlet"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":14,"slug":"14","title":"REST API开发：请求映射与参数处理","group":"课程内容","progress_key":"spring-boot-14","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"请求映射注解","anchor":"请求映射注解"},{"name":"参数绑定","anchor":"参数绑定"},{"name":"RESTful API 设计规范","anchor":"RESTful-API-设计规范"},{"name":"实战：为图书管理系统编写完整接口","anchor":"实战为图书管理系统编写完整接口"},{"name":"参数校验","anchor":"参数校验"},{"name":"实战：图书管理系统集成校验与异常","anchor":"实战图书管理系统集成校验与异常"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":15,"slug":"15","title":"REST API开发：响应封装和全局异常处理","group":"课程内容","progress_key":"spring-boot-15","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"为什么需要统一响应封装","anchor":"为什么需要统一响应封装"},{"name":"统一响应类设计","anchor":"统一响应类设计"},{"name":"业务状态码设计","anchor":"业务状态码设计"},{"name":"HTTP 状态码与业务状态码的关系","anchor":"HTTP-状态码与业务状态码的关系"},{"name":"实战：为图书管理系统统一响应格式","anchor":"实战为图书管理系统统一响应格式"},{"name":"全局异常处理","anchor":"全局异常处理"},{"name":"实战：图书管理系统集成校验与异常","anchor":"实战图书管理系统集成校验与异常"},{"name":"注意事项","anchor":"注意事项"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":16,"slug":"16","title":"REST API高级：过滤器与拦截器实战","group":"课程内容","progress_key":"spring-boot-16","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"过滤器与拦截器概述","anchor":"过滤器与拦截器概述"},{"name":"Filter 实战","anchor":"Filter-实战"},{"name":"Interceptor 实战","anchor":"Interceptor-实战"},{"name":"请求处理链路完整流程","anchor":"请求处理链路完整流程"},{"name":"过滤器与拦截器的选择建议","anchor":"过滤器与拦截器的选择建议"},{"name":"注意事项","anchor":"注意事项"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":17,"slug":"17","title":"REST API文档自动生成与API规范","group":"课程内容","progress_key":"spring-boot-17","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"API 文档的重要性","anchor":"API-文档的重要性"},{"name":"OpenAPI 规范简介","anchor":"OpenAPI-规范简介"},{"name":"集成 SpringDoc","anchor":"集成-SpringDoc"},{"name":"常用注解增强文档","anchor":"常用注解增强文档"},{"name":"API 分组管理","anchor":"API-分组管理"},{"name":"导出 OpenAPI 文档","anchor":"导出-OpenAPI-文档"},{"name":"API 规范最佳实践","anchor":"API-规范最佳实践"},{"name":"注意事项","anchor":"注意事项"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":18,"slug":"18","title":"RestTemplate与服务间调用","group":"课程内容","progress_key":"spring-boot-18","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"服务间调用概述","anchor":"服务间调用概述"},{"name":"RestTemplate 简介","anchor":"RestTemplate-简介"},{"name":"创建和配置 RestTemplate","anchor":"创建和配置-RestTemplate"},{"name":"GET 请求实战","anchor":"GET-请求实战"},{"name":"POST 请求示例","anchor":"POST-请求示例"},{"name":"异常处理","anchor":"异常处理"},{"name":"实战：在图书管理系统中整合天气信息","anchor":"实战在图书管理系统中整合天气信息"},{"name":"注意事项","anchor":"注意事项"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":19,"slug":"19","title":"Spring WebFlux编程模型与实战","group":"课程内容","progress_key":"spring-boot-19","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"从 Spring MVC 到 Spring WebFlux","anchor":"从-Spring-MVC-到-Spring-WebFlux"},{"name":"响应式编程核心概念","anchor":"响应式编程核心概念"},{"name":"Spring WebFlux vs Spring MVC","anchor":"Spring-WebFlux-vs-Spring-MVC"},{"name":"Reactor 核心类型","anchor":"Reactor-核心类型"},{"name":"创建第一个 Spring WebFlux 应用","anchor":"创建第一个-Spring-WebFlux-应用"},{"name":"Spring WebFlux 两种编程模型","anchor":"Spring-WebFlux-两种编程模型"},{"name":"注解式控制器（Annotated Controllers）","anchor":"注解式控制器Annotated-Controllers"},{"name":"函数式端点（Functional Endpoints）","anchor":"函数式端点Functional-Endpoints"},{"name":"注解式 vs 函数式：如何选择","anchor":"注解式-vs-函数式如何选择"},{"name":"WebClient 响应式 HTTP 客户端","anchor":"WebClient-响应式-HTTP-客户端"},{"name":"注意事项","anchor":"注意事项"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":20,"slug":"20","title":"JDBC规范解析","group":"课程内容","progress_key":"spring-boot-20","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"数据访问层次概述","anchor":"数据访问层次概述"},{"name":"JDBC 规范概述","anchor":"JDBC-规范概述"},{"name":"传统 JDBC 开发实战","anchor":"传统-JDBC-开发实战"},{"name":"传统 JDBC 的痛点分析","anchor":"传统-JDBC-的痛点分析"},{"name":"Spring JDBC 解决方案预览","anchor":"Spring-JDBC-解决方案预览"},{"name":"在图书管理系统中的应用","anchor":"在图书管理系统中的应用"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":21,"slug":"21","title":"Spring JDBC解决方案与JdbcTemplate基础","group":"课程内容","progress_key":"spring-boot-21","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"从传统 JDBC 到 Spring JDBC","anchor":"从传统-JDBC-到-Spring-JDBC"},{"name":"配置数据源与 JdbcTemplate","anchor":"配置数据源与-JdbcTemplate"},{"name":"JdbcTemplate 基础 CRUD","anchor":"JdbcTemplate-基础-CRUD"},{"name":"实战：将图书管理系统迁移到 JdbcTemplate","anchor":"实战将图书管理系统迁移到-JdbcTemplate"},{"name":"JdbcTemplate 与 RowMapper 的工作流程","anchor":"JdbcTemplate-与-RowMapper-的工作流程"},{"name":"注意事项","anchor":"注意事项"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":22,"slug":"22","title":"JdbcTemplate高级操作与SimpleJdbcInsert","group":"课程内容","progress_key":"spring-boot-22","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"回顾与导入","anchor":"回顾与导入"},{"name":"批量操作","anchor":"批量操作"},{"name":"分页查询与排序","anchor":"分页查询与排序"},{"name":"SimpleJdbcInsert 使用","anchor":"SimpleJdbcInsert-使用"},{"name":"实战：图书管理系统整合高级操作","anchor":"实战图书管理系统整合高级操作"},{"name":"注意事项","anchor":"注意事项"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":23,"slug":"23","title":"自己动手写一个JdbcTemplate","group":"课程内容","progress_key":"spring-boot-23","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"导入：从原生 JDBC 到 JdbcTemplate","anchor":"导入从原生-JDBC-到-JdbcTemplate"},{"name":"设计模式基础：模板方法模式","anchor":"设计模式基础模板方法模式"},{"name":"设计模式基础：回调机制","anchor":"设计模式基础回调机制"},{"name":"第一步：使用模板方法模式重构","anchor":"第一步使用模板方法模式重构"},{"name":"第二步：使用回调机制重构","anchor":"第二步使用回调机制重构"},{"name":"第三步：通用 RowMapper 设计","anchor":"第三步通用-RowMapper-设计"},{"name":"第四步：对标 Spring JdbcTemplate 源码","anchor":"第四步对标-Spring-JdbcTemplate-源码"},{"name":"我们的实现 vs Spring 实现对比","anchor":"我们的实现-vs-Spring-实现对比"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":24,"slug":"24","title":"Spring事务管理基础","group":"课程内容","progress_key":"spring-boot-24","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"事务核心概念","anchor":"事务核心概念"},{"name":"Spring 事务抽象","anchor":"Spring-事务抽象"},{"name":"编程式事务管理","anchor":"编程式事务管理"},{"name":"TransactionTemplate vs PlatformTransactionManager","anchor":"TransactionTemplate-vs-PlatformTransactionManager"},{"name":"在图书管理系统中应用编程式事务","anchor":"在图书管理系统中应用编程式事务"},{"name":"编程式事务 vs 声明式事务","anchor":"编程式事务-vs-声明式事务"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":25,"slug":"25","title":"Spring声明式事务与事务传播","group":"课程内容","progress_key":"spring-boot-25","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"从编程式事务到声明式事务","anchor":"从编程式事务到声明式事务"},{"name":"启用声明式事务","anchor":"启用声明式事务"},{"name":"@Transactional 注解详解","anchor":"Transactional-注解详解"},{"name":"事务传播行为","anchor":"事务传播行为"},{"name":"事务隔离级别","anchor":"事务隔离级别"},{"name":"@Transactional 失效场景分析","anchor":"Transactional-失效场景分析"},{"name":"实战：在图书管理系统中使用声明式事务","anchor":"实战在图书管理系统中使用声明式事务"},{"name":"注意事项","anchor":"注意事项"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":26,"slug":"26","title":"ORM核心概念与Spring Data架构","group":"课程内容","progress_key":"spring-boot-26","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"从 JDBC 到 ORM 的演进","anchor":"从-JDBC-到-ORM-的演进"},{"name":"ORM 核心概念","anchor":"ORM-核心概念"},{"name":"JPA 规范","anchor":"JPA-规范"},{"name":"Hibernate 与 JPA 的关系","anchor":"Hibernate-与-JPA-的关系"},{"name":"Spring Data 整体架构","anchor":"Spring-Data-整体架构"},{"name":"Spring Data 核心接口","anchor":"Spring-Data-核心接口"},{"name":"Spring Data JPA vs Spring JDBC","anchor":"Spring-Data-JPA-vs-Spring-JDBC"},{"name":"在图书管理系统中规划迁移路线","anchor":"在图书管理系统中规划迁移路线"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":27,"slug":"27","title":"Spring Data JPA快速上手","group":"课程内容","progress_key":"spring-boot-27","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"初始化Spring Data JPA开发环境","anchor":"初始化Spring-Data-JPA开发环境"},{"name":"定义 JPA 实体","anchor":"定义-JPA-实体"},{"name":"定义 Repository 接口","anchor":"定义-Repository-接口"},{"name":"使用 Repository 完成 CRUD","anchor":"使用-Repository-完成-CRUD"},{"name":"Entity 的生命周期回调","anchor":"Entity-的生命周期回调"},{"name":"Spring Data JPA vs JdbcTemplate 对比","anchor":"Spring-Data-JPA-vs-JdbcTemplate-对比"},{"name":"注意事项","anchor":"注意事项"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":28,"slug":"28","title":"Spring Data JPA高级查询","group":"课程内容","progress_key":"spring-boot-28","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"回顾与导入","anchor":"回顾与导入"},{"name":"方法命名查询（Query Methods）","anchor":"方法命名查询Query-Methods"},{"name":"@Query 注解","anchor":"Query-注解"},{"name":"分页与排序","anchor":"分页与排序"},{"name":"@Modifying 更新与删除操作","anchor":"Modifying-更新与删除操作"},{"name":"查询方式的选择策略","anchor":"查询方式的选择策略"},{"name":"实战：图书管理系统高级查询示例","anchor":"实战图书管理系统高级查询示例"},{"name":"注意事项","anchor":"注意事项"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":29,"slug":"29","title":"Spring Data JPA关联映射与实战","group":"课程内容","progress_key":"spring-boot-29","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"导入：从单表到关联表","anchor":"导入从单表到关联表"},{"name":"数据库表结构定义","anchor":"数据库表结构定义"},{"name":"关联关系概述","anchor":"关联关系概述"},{"name":"定义 JPA 实体","anchor":"定义-JPA-实体"},{"name":"级联操作（CascadeType）","anchor":"级联操作CascadeType"},{"name":"懒加载（LAZY）与急加载（EAGER）","anchor":"懒加载LAZY与急加载EAGER"},{"name":"N+1 查询问题与解决方案","anchor":"N1-查询问题与解决方案"},{"name":"实战：Repository 与 Service","anchor":"实战Repository-与-Service"},{"name":"注意事项","anchor":"注意事项"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":30,"slug":"30","title":"MyBatis 概述与 Spring Boot 集成","group":"课程内容","progress_key":"spring-boot-30","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"ORM 核心概念回顾","anchor":"ORM-核心概念回顾"},{"name":"MyBatis 概述","anchor":"MyBatis-概述"},{"name":"Spring Boot 集成 MyBatis","anchor":"Spring-Boot-集成-MyBatis"},{"name":"第一个 Mapper：XML 映射文件","anchor":"第一个-MapperXML-映射文件"},{"name":"在 Service 层注入 Mapper 并测试","anchor":"在-Service-层注入-Mapper-并测试"},{"name":"注意事项","anchor":"注意事项"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":31,"slug":"31","title":"MyBatis 映射文件与动态 SQL","group":"课程内容","progress_key":"spring-boot-31","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"回顾与导入","anchor":"回顾与导入"},{"name":"动态 SQL","anchor":"动态-SQL"},{"name":"结果集映射（resultMap）","anchor":"结果集映射resultMap"},{"name":"完整实战：图书订单管理","anchor":"完整实战图书订单管理"},{"name":"注意事项","anchor":"注意事项"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":32,"slug":"32","title":"MyBatis 高级特性","group":"课程内容","progress_key":"spring-boot-32","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"回顾与导入","anchor":"回顾与导入"},{"name":"分页实现方式","anchor":"分页实现方式"},{"name":"PageHelper 分页插件集成","anchor":"PageHelper-分页插件集成"},{"name":"MyBatis 注解开发","anchor":"MyBatis-注解开发"},{"name":"MyBatis 缓存机制","anchor":"MyBatis-缓存机制"},{"name":"实战：整合分页与缓存","anchor":"实战整合分页与缓存"},{"name":"MyBatis 拦截器","anchor":"MyBatis-拦截器"},{"name":"注意事项","anchor":"注意事项"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":33,"slug":"33","title":"MyBatis-Plus 概述与快速上手","group":"课程内容","progress_key":"spring-boot-33","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"回顾与导入","anchor":"回顾与导入"},{"name":"MyBatis-Plus 概述","anchor":"MyBatis-Plus-概述"},{"name":"Spring Boot 集成 MyBatis-Plus","anchor":"Spring-Boot-集成-MyBatis-Plus"},{"name":"实体类注解","anchor":"实体类注解"},{"name":"BaseMapper 通用 CRUD","anchor":"BaseMapper-通用-CRUD"},{"name":"逻辑删除","anchor":"逻辑删除"},{"name":"实战：将图书管理系统从 MyBatis 迁移到 MyBatis-Plus","anchor":"实战将图书管理系统从-MyBatis-迁移到-MyBatis-Plus"},{"name":"注意事项","anchor":"注意事项"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":34,"slug":"34","title":"MyBatis-Plus 条件构造器与分页插件","group":"课程内容","progress_key":"spring-boot-34","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"条件构造器体系","anchor":"条件构造器体系"},{"name":"QueryWrapper 常用方法","anchor":"QueryWrapper-常用方法"},{"name":"LambdaQueryWrapper（推荐）","anchor":"LambdaQueryWrapper推荐"},{"name":"UpdateWrapper 条件更新","anchor":"UpdateWrapper-条件更新"},{"name":"分页插件","anchor":"分页插件"},{"name":"实战：在图书管理系统中集成 Wrapper 和分页","anchor":"实战在图书管理系统中集成-Wrapper-和分页"},{"name":"注意事项","anchor":"注意事项"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":35,"slug":"35","title":"MyBatis-Plus 扩展","group":"课程内容","progress_key":"spring-boot-35","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"回顾与导入","anchor":"回顾与导入"},{"name":"通用 Service（IService 与 ServiceImpl）","anchor":"通用-ServiceIService-与-ServiceImpl"},{"name":"自动填充功能","anchor":"自动填充功能"},{"name":"乐观锁插件","anchor":"乐观锁插件"},{"name":"代码生成器","anchor":"代码生成器"},{"name":"注意事项","anchor":"注意事项"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":36,"slug":"36","title":"缓存概述与 Spring Cache 入门","group":"课程内容","progress_key":"spring-boot-36","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"缓存概述","anchor":"缓存概述"},{"name":"本地缓存 vs 分布式缓存","anchor":"本地缓存-vs-分布式缓存"},{"name":"Spring Cache 简介","anchor":"Spring-Cache-简介"},{"name":"Spring Cache 快速上手","anchor":"Spring-Cache-快速上手"},{"name":"缓存工作流程","anchor":"缓存工作流程"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":37,"slug":"37","title":"Spring Cache 核心注解详解","group":"课程内容","progress_key":"spring-boot-37","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"回顾与导入","anchor":"回顾与导入"},{"name":"查看 Spring Cache 缓存","anchor":"查看-Spring-Cache-缓存"},{"name":"@Cacheable 详解","anchor":"Cacheable-详解"},{"name":"@CachePut 详解","anchor":"CachePut-详解"},{"name":"@CacheEvict 详解","anchor":"CacheEvict-详解"},{"name":"@Caching 详解","anchor":"Caching-详解"},{"name":"实战：图书管理系统完整缓存策略","anchor":"实战图书管理系统完整缓存策略"},{"name":"注意事项","anchor":"注意事项"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":38,"slug":"38","title":"缓存管理器与缓存存储配置","group":"课程内容","progress_key":"spring-boot-38","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"回顾与导入","anchor":"回顾与导入"},{"name":"CacheManager 与缓存配置体系","anchor":"CacheManager-与缓存配置体系"},{"name":"ConcurrentMapCacheManager（默认）","anchor":"ConcurrentMapCacheManager默认"},{"name":"Caffeine 本地缓存配置","anchor":"Caffeine-本地缓存配置"},{"name":"多缓存管理器配置","anchor":"多缓存管理器配置"},{"name":"实战：为图书管理系统配置 Caffeine 缓存","anchor":"实战为图书管理系统配置-Caffeine-缓存"},{"name":"注意事项","anchor":"注意事项"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":39,"slug":"39","title":"缓存注解高级特性","group":"课程内容","progress_key":"spring-boot-39","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"回顾与导入","anchor":"回顾与导入"},{"name":"条件缓存（condition）","anchor":"条件缓存condition"},{"name":"排除缓存（unless）","anchor":"排除缓存unless"},{"name":"自定义 KeyGenerator","anchor":"自定义-KeyGenerator"},{"name":"sync 属性（同步缓存）","anchor":"sync-属性同步缓存"},{"name":"实战：为图书管理系统应用高级特性","anchor":"实战为图书管理系统应用高级特性"},{"name":"注意事项","anchor":"注意事项"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":40,"slug":"40","title":"缓存原理与自定义扩展","group":"课程内容","progress_key":"spring-boot-40","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"回顾与导入","anchor":"回顾与导入"},{"name":"Spring Cache 工作原理","anchor":"Spring-Cache-工作原理"},{"name":"自定义 Cache 实现","anchor":"自定义-Cache-实现"},{"name":"自定义 CacheManager","anchor":"自定义-CacheManager"},{"name":"JCache（JSR-107）支持","anchor":"JCacheJSR-107支持"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":41,"slug":"41","title":"缓存核心问题与最佳实践","group":"课程内容","progress_key":"spring-boot-41","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"回顾与导入","anchor":"回顾与导入"},{"name":"缓存三大问题","anchor":"缓存三大问题"},{"name":"缓存一致性","anchor":"缓存一致性"},{"name":"缓存最佳实践","anchor":"缓存最佳实践"},{"name":"实战：图书管理系统完整缓存方案","anchor":"实战图书管理系统完整缓存方案"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":42,"slug":"42","title":"异步处理概述与 Spring Async 入门","group":"课程内容","progress_key":"spring-boot-42","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"同步 vs 异步","anchor":"同步-vs-异步"},{"name":"Spring Async 简介","anchor":"Spring-Async-简介"},{"name":"Spring Async 快速上手","anchor":"Spring-Async-快速上手"},{"name":"@Async 方法自调用问题","anchor":"Async-方法自调用问题"},{"name":"实战：在图书管理系统中应用异步日志","anchor":"实战在图书管理系统中应用异步日志"},{"name":"注意事项","anchor":"注意事项"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":43,"slug":"43","title":"任务执行器配置与线程池管理","group":"课程内容","progress_key":"spring-boot-43","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"回顾与导入","anchor":"回顾与导入"},{"name":"TaskExecutor 体系概述","anchor":"TaskExecutor-体系概述"},{"name":"配置 ThreadPoolTaskExecutor","anchor":"配置-ThreadPoolTaskExecutor"},{"name":"多个独立线程池","anchor":"多个独立线程池"},{"name":"拒绝策略详解","anchor":"拒绝策略详解"},{"name":"线程池监控与调优","anchor":"线程池监控与调优"},{"name":"注意事项","anchor":"注意事项"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":44,"slug":"44","title":"异步方法返回值与异常处理","group":"课程内容","progress_key":"spring-boot-44","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"回顾与导入","anchor":"回顾与导入"},{"name":"无返回值异步方法","anchor":"无返回值异步方法"},{"name":"有返回值异步方法","anchor":"有返回值异步方法"},{"name":"CompletableFuture 进阶","anchor":"CompletableFuture-进阶"},{"name":"实战：图书管理系统异步报表导出","anchor":"实战图书管理系统异步报表导出"},{"name":"注意事项","anchor":"注意事项"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":45,"slug":"45","title":"异步事件与 ApplicationEvent","group":"课程内容","progress_key":"spring-boot-45","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"回顾与导入","anchor":"回顾与导入"},{"name":"Spring 事件机制概述","anchor":"Spring-事件机制概述"},{"name":"自定义事件","anchor":"自定义事件"},{"name":"@EventListener 注解","anchor":"EventListener-注解"},{"name":"异步事件监听","anchor":"异步事件监听"},{"name":"条件事件监听","anchor":"条件事件监听"},{"name":"事件顺序控制","anchor":"事件顺序控制"},{"name":"事务绑定事件","anchor":"事务绑定事件"},{"name":"实战：订单创建事件驱动异步处理","anchor":"实战订单创建事件驱动异步处理"},{"name":"注意事项","anchor":"注意事项"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":46,"slug":"46","title":"Web 异步处理","group":"课程内容","progress_key":"spring-boot-46","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"回顾与导入","anchor":"回顾与导入"},{"name":"Web 异步处理背景","anchor":"Web-异步处理背景"},{"name":"Callable 方式","anchor":"Callable-方式"},{"name":"WebAsyncTask 方式","anchor":"WebAsyncTask-方式"},{"name":"异步请求拦截器","anchor":"异步请求拦截器"},{"name":"实战：图书管理系统异步统计查询","anchor":"实战图书管理系统异步统计查询"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":47,"slug":"47","title":"TaskScheduler 调度器","group":"课程内容","progress_key":"spring-boot-47","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"回顾与导入","anchor":"回顾与导入"},{"name":"启用任务调度器","anchor":"启用任务调度器"},{"name":"TaskScheduler 快速入门","anchor":"TaskScheduler-快速入门"},{"name":"TaskScheduler 接口核心方法","anchor":"TaskScheduler-接口核心方法"},{"name":"ThreadPoolTaskScheduler 配置","anchor":"ThreadPoolTaskScheduler-配置"},{"name":"编程式调度","anchor":"编程式调度"},{"name":"实战：图书管理系统完整定时盘点模块","anchor":"实战图书管理系统完整定时盘点模块"},{"name":"注意事项","anchor":"注意事项"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":48,"slug":"48","title":"@Scheduled 注解应用","group":"课程内容","progress_key":"spring-boot-48","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"回顾与导入","anchor":"回顾与导入"},{"name":"@Scheduled 四种调度模式","anchor":"Scheduled-四种调度模式"},{"name":"@Scheduled 与 @Async 组合使用","anchor":"Scheduled-与-Async-组合使用"},{"name":"实战：图书管理系统定时任务","anchor":"实战图书管理系统定时任务"},{"name":"注意事项","anchor":"注意事项"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":49,"slug":"49","title":"Cron 表达式与调度综合实战","group":"课程内容","progress_key":"spring-boot-49","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"回顾与导入","anchor":"回顾与导入"},{"name":"Cron 表达式基础","anchor":"Cron-表达式基础"},{"name":"特殊字符详解","anchor":"特殊字符详解"},{"name":"常用 Cron 示例","anchor":"常用-Cron-示例"},{"name":"Cron 表达式验证","anchor":"Cron-表达式验证"},{"name":"综合实战：图书管理系统定时任务模块","anchor":"综合实战图书管理系统定时任务模块"},{"name":"常见错误与调试技巧","anchor":"常见错误与调试技巧"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":50,"slug":"50","title":"批处理机制与 Spring Batch 快速入门","group":"课程内容","progress_key":"spring-boot-50","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"批处理概述","anchor":"批处理概述"},{"name":"Spring Batch 核心概念","anchor":"Spring-Batch-核心概念"},{"name":"Spring Boot 集成 Spring Batch","anchor":"Spring-Boot-集成-Spring-Batch"},{"name":"第一个批处理任务：批量导入图书","anchor":"第一个批处理任务批量导入图书"},{"name":"运行批处理任务","anchor":"运行批处理任务"},{"name":"查看执行记录","anchor":"查看执行记录"},{"name":"注意事项","anchor":"注意事项"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":51,"slug":"51","title":"ItemReader、Processor和Writer 实战","group":"课程内容","progress_key":"spring-boot-51","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"回顾与导入","anchor":"回顾与导入"},{"name":"ItemReader 详解","anchor":"ItemReader-详解"},{"name":"ItemProcessor 详解","anchor":"ItemProcessor-详解"},{"name":"ItemWriter 详解","anchor":"ItemWriter-详解"},{"name":"Chunk 模型深入","anchor":"Chunk-模型深入"},{"name":"实战：从 CSV 文件导入图书数据","anchor":"实战从-CSV-文件导入图书数据"},{"name":"注意事项","anchor":"注意事项"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":52,"slug":"52","title":"JobRepository 与作业元数据管理","group":"课程内容","progress_key":"spring-boot-52","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"回顾与导入","anchor":"回顾与导入"},{"name":"JobRepository 概述","anchor":"JobRepository-概述"},{"name":"元数据表详解","anchor":"元数据表详解"},{"name":"使用 JobExplorer 查询作业","anchor":"使用-JobExplorer-查询作业"},{"name":"使用 JobOperator 管理作业","anchor":"使用-JobOperator-管理作业"},{"name":"实战：图书管理系统作业监控接口","anchor":"实战图书管理系统作业监控接口"},{"name":"注意事项","anchor":"注意事项"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":53,"slug":"53","title":"批处理异常处理与重启机制","group":"课程内容","progress_key":"spring-boot-53","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"回顾与导入","anchor":"回顾与导入"},{"name":"异常处理概述","anchor":"异常处理概述"},{"name":"Skip 跳过机制","anchor":"Skip-跳过机制"},{"name":"Retry 重试机制","anchor":"Retry-重试机制"},{"name":"Restart 断点续传","anchor":"Restart-断点续传"},{"name":"错误数据管理","anchor":"错误数据管理"},{"name":"实战：图书管理系统健壮的 CSV 导入","anchor":"实战图书管理系统健壮的-CSV-导入"},{"name":"注意事项","anchor":"注意事项"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":54,"slug":"54","title":"批处理监听器与任务调度","group":"课程内容","progress_key":"spring-boot-54","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"回顾与导入","anchor":"回顾与导入"},{"name":"监听器体系概览","anchor":"监听器体系概览"},{"name":"Job 级别监听器","anchor":"Job-级别监听器"},{"name":"Step 级别监听器","anchor":"Step-级别监听器"},{"name":"Chunk 级别监听器","anchor":"Chunk-级别监听器"},{"name":"Item 级别监听器","anchor":"Item-级别监听器"},{"name":"实战：图书管理系统定时统计任务","anchor":"实战图书管理系统定时统计任务"},{"name":"监听器组合实战","anchor":"监听器组合实战"},{"name":"注意事项","anchor":"注意事项"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":55,"slug":"55","title":"Actuator 入门与常用端点","group":"课程内容","progress_key":"spring-boot-55","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"系统监控概述","anchor":"系统监控概述"},{"name":"Actuator 快速集成","anchor":"Actuator-快速集成"},{"name":"常用端点详解","anchor":"常用端点详解"},{"name":"端点配置","anchor":"端点配置"},{"name":"实战：为图书管理系统开启监控","anchor":"实战为图书管理系统开启监控"},{"name":"端点安全配置","anchor":"端点安全配置"},{"name":"注意事项","anchor":"注意事项"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":56,"slug":"56","title":"健康检查与自定义健康指示器","group":"课程内容","progress_key":"spring-boot-56","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"回顾与导入","anchor":"回顾与导入"},{"name":"健康检查机制","anchor":"健康检查机制"},{"name":"内置健康指示器详解","anchor":"内置健康指示器详解"},{"name":"自定义健康指示器","anchor":"自定义健康指示器"},{"name":"健康检查分组","anchor":"健康检查分组"},{"name":"实战：为图书管理系统添加自定义健康检查","anchor":"实战为图书管理系统添加自定义健康检查"},{"name":"注意事项","anchor":"注意事项"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":57,"slug":"57","title":"指标监控与 Micrometer","group":"课程内容","progress_key":"spring-boot-57","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"回顾与导入","anchor":"回顾与导入"},{"name":"Micrometer 核心概念","anchor":"Micrometer-核心概念"},{"name":"内置指标","anchor":"内置指标"},{"name":"集成与配置","anchor":"集成与配置"},{"name":"自定义指标","anchor":"自定义指标"},{"name":"注意事项","anchor":"注意事项"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":58,"slug":"58","title":"Spring Boot Admin 可视化监控","group":"课程内容","progress_key":"spring-boot-58","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"回顾与导入","anchor":"回顾与导入"},{"name":"Spring Boot Admin 简介","anchor":"Spring-Boot-Admin-简介"},{"name":"搭建 Admin Server","anchor":"搭建-Admin-Server"},{"name":"接入客户端","anchor":"接入客户端"},{"name":"核心监控功能","anchor":"核心监控功能"},{"name":"告警通知","anchor":"告警通知"},{"name":"实战：搭建图书管理系统监控平台","anchor":"实战搭建图书管理系统监控平台"},{"name":"注意事项","anchor":"注意事项"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":59,"slug":"59","title":"测试概述与 JUnit 5 基础","group":"课程内容","progress_key":"spring-boot-59","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"为什么需要测试","anchor":"为什么需要测试"},{"name":"JUnit 5 基础","anchor":"JUnit-5-基础"},{"name":"实战：为 ISBN 校验工具类编写单元测试","anchor":"实战为-ISBN-校验工具类编写单元测试"},{"name":"注意事项","anchor":"注意事项"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":60,"slug":"60","title":"Mockito 与单元测试","group":"课程内容","progress_key":"spring-boot-60","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"回顾与导入","anchor":"回顾与导入"},{"name":"什么是 Mock","anchor":"什么是-Mock"},{"name":"Mockito 核心 API","anchor":"Mockito-核心-API"},{"name":"编写 Service 单元测试","anchor":"编写-Service-单元测试"},{"name":"Mockito 常用技巧","anchor":"Mockito-常用技巧"},{"name":"常见陷阱与注意事项","anchor":"常见陷阱与注意事项"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":61,"slug":"61","title":"Web 层测试：@WebMvcTest","group":"课程内容","progress_key":"spring-boot-61","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"回顾与导入","anchor":"回顾与导入"},{"name":"测试切片（Test Slice）","anchor":"测试切片Test-Slice"},{"name":"MockMvc 核心用法","anchor":"MockMvc-核心用法"},{"name":"依赖 Mock","anchor":"依赖-Mock"},{"name":"实战：测试 BookController","anchor":"实战测试-BookController"},{"name":"测试报告输出","anchor":"测试报告输出"},{"name":"参数校验的测试","anchor":"参数校验的测试"},{"name":"常见的 JSON 断言","anchor":"常见的-JSON-断言"},{"name":"注意事项","anchor":"注意事项"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":62,"slug":"62","title":"数据层测试：@MybatisPlusTest","group":"课程内容","progress_key":"spring-boot-62","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"回顾与导入","anchor":"回顾与导入"},{"name":"@MybatisPlusTest 概述","anchor":"MybatisPlusTest-概述"},{"name":"使用 @MybatisPlusTest","anchor":"使用-MybatisPlusTest"},{"name":"使用 @Sql 加载测试数据","anchor":"使用-Sql-加载测试数据"},{"name":"测试断言最佳实践","anchor":"测试断言最佳实践"},{"name":"注意事项","anchor":"注意事项"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]},{"n":63,"slug":"63","title":"端到端集成测试：@SpringBootTest","group":"课程内容","progress_key":"spring-boot-63","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"回顾与导入","anchor":"回顾与导入"},{"name":"@SpringBootTest 概述","anchor":"SpringBootTest-概述"},{"name":"TestRestTemplate","anchor":"TestRestTemplate"},{"name":"测试配置管理","anchor":"测试配置管理"},{"name":"实战：图书管理系统集成测试","anchor":"实战图书管理系统集成测试"},{"name":"使用 MockMvc 的集成测试","anchor":"使用-MockMvc-的集成测试"},{"name":"分层测试策略","anchor":"分层测试策略"},{"name":"注意事项","anchor":"注意事项"},{"name":"小结","anchor":"小结"},{"name":"作业","anchor":"作业"}]}]}]},{"key":"spring-cloud","title":"Spring Cloud Alibaba","glyph":"C","cls":"b3","coming_soon":false,"modules":[{"name":"课程内容","chapters":[{"n":1,"slug":"1","title":"课程导言","group":"课程内容","progress_key":"spring-cloud-1"},{"n":2,"slug":"2","title":"微服务架构与案例系统初始化","group":"课程内容","progress_key":"spring-cloud-2"},{"n":3,"slug":"3","title":"Spring Cloud Alibaba技术栈集成","group":"课程内容","progress_key":"spring-cloud-3"},{"n":4,"slug":"4","title":"微服务拆分与接口设计","group":"课程内容","progress_key":"spring-cloud-4"},{"n":5,"slug":"5","title":"公共模块建设","group":"课程内容","progress_key":"spring-cloud-5"},{"n":6,"slug":"6","title":"Nacos部署与快速上手","group":"课程内容","progress_key":"spring-cloud-6"},{"n":7,"slug":"7","title":"Nacos高可用集群搭建","group":"课程内容","progress_key":"spring-cloud-7"},{"n":8,"slug":"8","title":"图书服务注册到Nacos","group":"课程内容","progress_key":"spring-cloud-8"},{"n":9,"slug":"9","title":"用户与订单服务注册","group":"课程内容","progress_key":"spring-cloud-9"},{"n":10,"slug":"10","title":"Nacos服务发现实战","group":"课程内容","progress_key":"spring-cloud-10"},{"n":11,"slug":"11","title":"Nacos分级模型与Namespace环境隔离","group":"课程内容","progress_key":"spring-cloud-11"},{"n":12,"slug":"12","title":"Nacos Group分组与多环境切换","group":"课程内容","progress_key":"spring-cloud-12"},{"n":13,"slug":"13","title":"Nacos权重路由","group":"课程内容","progress_key":"spring-cloud-13"},{"n":14,"slug":"14","title":"Nacos API 专题","group":"课程内容","progress_key":"spring-cloud-14"},{"n":15,"slug":"15","title":"OpenFeign快速上手","group":"课程内容","progress_key":"spring-cloud-15"},{"n":16,"slug":"16","title":"OpenFeign核心注解详解","group":"课程内容","progress_key":"spring-cloud-16"},{"n":17,"slug":"17","title":"OpenFeign拦截器","group":"课程内容","progress_key":"spring-cloud-17"},{"n":18,"slug":"18","title":"OpenFeign与LoadBalancer集成","group":"课程内容","progress_key":"spring-cloud-18"},{"n":19,"slug":"19","title":"订单-图书远程调用重构","group":"课程内容","progress_key":"spring-cloud-19"},{"n":20,"slug":"20","title":"Spring Cloud LoadBalancer快速上手","group":"课程内容","progress_key":"spring-cloud-20"},{"n":21,"slug":"21","title":"负载均衡算法与LoadBalancer","group":"课程内容","progress_key":"spring-cloud-21"},{"n":22,"slug":"22","title":"自定义负载均衡算法","group":"课程内容","progress_key":"spring-cloud-22"},{"n":23,"slug":"23","title":"标签化负载均衡与灰度发布","group":"课程内容","progress_key":"spring-cloud-23"},{"n":24,"slug":"24","title":"Nacos Config集成与配置迁移","group":"课程内容","progress_key":"spring-cloud-24"},{"n":25,"slug":"25","title":"配置分级模型与DataId实战","group":"课程内容","progress_key":"spring-cloud-25"},{"n":26,"slug":"26","title":"配置灰度发布实战","group":"课程内容","progress_key":"spring-cloud-26"}]}]},{"key":"cloud","title":"云计算","glyph":"云","cls":"b-cloud","coming_soon":true,"modules":[]}],"currentKey":"spring-boot","currentSlug":"33"}],"$L13","$L14"]}]]
+15:I[756,["619","static/chunks/619-ba102abea3e3d0e4.js","526","static/chunks/app/course/%5Bkey%5D/%5Bch%5D/page-4b7f30b4efe73131.js"],"default"]
+16:I[1599,["619","static/chunks/619-ba102abea3e3d0e4.js","526","static/chunks/app/course/%5Bkey%5D/%5Bch%5D/page-4b7f30b4efe73131.js"],"default"]
+19:I[5340,["619","static/chunks/619-ba102abea3e3d0e4.js","526","static/chunks/app/course/%5Bkey%5D/%5Bch%5D/page-4b7f30b4efe73131.js"],"default"]
+17:Ta827,<h1 id="MyBatis-Plus-概述与快速上手">MyBatis-Plus 概述与快速上手</h1>
+<h2 id="课程目标">课程目标</h2>
+<ul>
+<li>理解 MyBatis-Plus 的设计哲学：“只做增强不做改变”</li>
+<li>掌握 MyBatis-Plus 与原生 MyBatis 的对比差异</li>
+<li>能够在 Spring Boot 中成功集成 MyBatis-Plus</li>
+<li>掌握 BaseMapper 实现零 SQL 的通用 CRUD</li>
+<li>掌握常用注解：@TableName、@TableId、@TableField</li>
+</ul>
+<h2 id="回顾与导入">回顾与导入</h2>
+<p>在前面课程中，我们完成了 MyBatis 的基础集成、XML 映射、动态 SQL 和分页等高级特性。但有一个问题始终困扰着开发者：</p>
+<div class="codehilite lang-mermaid"><pre><span></span><code>flowchart LR
+    A[每张表] --&gt; B[写 Mapper 接口]
+    B --&gt; C[写 XML 映射文件]
+    C --&gt; D[写基础 CRUD SQL]
+    D --&gt; E[重复劳动]
+    E --&gt; F[效率低]
+</code></pre></div>
+
+<p><strong>传统 MyBatis 开发的痛点：</strong>
+- 每张表都要写一套 CRUD 的 XML 和接口方法
+- 单表操作大量重复，但无法复用
+- 开发效率受限于重复劳动</p>
+<p>MyBatis-Plus 正是为了解决这个问题而生。</p>
+<h2 id="MyBatis-Plus-概述">MyBatis-Plus 概述</h2>
+<h3 id="什么是-MyBatis-Plus">什么是 MyBatis-Plus</h3>
+<p><strong>MyBatis-Plus（简称 MP）</strong> 是 MyBatis 的<strong>增强工具包</strong>，它在 MyBatis 的基础上提供了额外的功能，<strong>而不对 MyBatis 核心框架做任何修改</strong>。</p>
+<h3 id="核心设计理念只做增强不做改变">核心设计理念：“只做增强不做改变”</h3>
+<div class="codehilite lang-mermaid"><pre><span></span><code>flowchart TB
+    subgraph 传统MyBatis
+        M1[Mapper 接口]
+        M2[XML 映射文件]
+        M3[手写 SQL]
+    end
+
+    subgraph MyBatis-Plus增强
+        MP1[BaseMapper&lt;br/&gt;通用 CRUD]
+        MP2[条件构造器&lt;br/&gt;Wrapper]
+        MP3[分页插件]
+        MP4[代码生成器]
+    end
+
+    M1 -.-&gt;|继承| MP1
+    M2 -.-&gt;|可选| MP2
+    M3 -.-&gt;|替代| MP3
+</code></pre></div>
+
+<blockquote>
+<p>[!NOTE]
+MyBatis-Plus 不会改变 MyBatis 的任何行为。你仍然可以使用 MyBatis 的所有功能，MP 只是在上面“加了东西”。</p>
+</blockquote>
+<h3 id="MyBatis-Plus-vs-原生-MyBatis">MyBatis-Plus vs 原生 MyBatis</h3>
+<table>
+<thead>
+<tr>
+<th>对比维度</th>
+<th>原生 MyBatis</th>
+<th>MyBatis-Plus</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>基础 CRUD</strong></td>
+<td>手写 SQL</td>
+<td>BaseMapper 自动提供</td>
+</tr>
+<tr>
+<td><strong>单表操作</strong></td>
+<td>手写 XML</td>
+<td>零 XML</td>
+</tr>
+<tr>
+<td><strong>条件查询</strong></td>
+<td>手写动态 SQL</td>
+<td>Wrapper 条件构造器</td>
+</tr>
+<tr>
+<td><strong>分页</strong></td>
+<td>手写 LIMIT 或 PageHelper</td>
+<td>内置分页插件</td>
+</tr>
+<tr>
+<td><strong>代码生成</strong></td>
+<td>无</td>
+<td>代码生成器</td>
+</tr>
+<tr>
+<td><strong>开发效率</strong></td>
+<td>中</td>
+<td>高</td>
+</tr>
+<tr>
+<td><strong>学习曲线</strong></td>
+<td>平缓</td>
+<td>平缓（MP 易上手）</td>
+</tr>
+</tbody>
+</table>
+<blockquote>
+<p>[!NOTE]
+MyBatis-Plus 是 MyBatis 的<strong>补充</strong>而非<strong>替代</strong>。你可以同时使用 MP 的增强功能和 MyBatis 的原生功能。</p>
+</blockquote>
+<h2 id="Spring-Boot-集成-MyBatis-Plus">Spring Boot 集成 MyBatis-Plus</h2>
+<h3 id="1-替换依赖">1. 替换依赖</h3>
+<p>在 <code>pom.xml</code> 中，将 <code>mybatis-spring-boot-starter</code> 替换为 <code>mybatis-plus-boot-starter</code>：</p>
+<div class="codehilite lang-xml"><pre><span></span><code><span class="cm">&lt;!-- 移除 mybatis-spring-boot-starter --&gt;</span>
+<span class="cm">&lt;!--</span>
+<span class="cm">&lt;dependency&gt;</span>
+<span class="cm">    &lt;groupId&gt;org.mybatis.spring.boot&lt;/groupId&gt;</span>
+<span class="cm">    &lt;artifactId&gt;mybatis-spring-boot-starter&lt;/artifactId&gt;</span>
+<span class="cm">    &lt;version&gt;3.0.3&lt;/version&gt;</span>
+<span class="cm">&lt;/dependency&gt;</span>
+<span class="cm">--&gt;</span>
+
+<span class="cm">&lt;!-- 添加 mybatis-plus-boot-starter --&gt;</span>
+<span class="nt">&lt;dependency&gt;</span>
+<span class="w">    </span><span class="nt">&lt;groupId&gt;</span>com.baomidou<span class="nt">&lt;/groupId&gt;</span>
+<span class="w">    </span><span class="nt">&lt;artifactId&gt;</span>mybatis-plus-spring-boot3-starter<span class="nt">&lt;/artifactId&gt;</span>
+<span class="w">    </span><span class="nt">&lt;version&gt;</span>3.5.17<span class="nt">&lt;/version&gt;</span><span class="w">  </span><span class="cm">&lt;!-- 当前最新版本  --&gt;</span>
+<span class="nt">&lt;/dependency&gt;</span>
+</code></pre></div>
+
+<blockquote>
+<p>[!CAUTION]
+根据 Spring Boot 版本选择正确的 Starter：
+- Spring Boot 2.x：使用 <code>mybatis-plus-boot-starter</code>
+- Spring Boot 3.x：使用 <code>mybatis-plus-spring-boot3-starter</code>
+- Spring Boot 4.x：使用 <code>mybatis-plus-boot-starter</code>（自 3.5.13 开始支持）</p>
+</blockquote>
+<h3 id="2-配置数据源和-MyBatis-Plus-属性">2. 配置数据源和 MyBatis-Plus 属性</h3>
+<p>在 <code>application.yml</code> 中配置（与 MyBatis 配置类似）：</p>
+<div class="codehilite lang-yaml"><pre><span></span><code><span class="nt">spring</span><span class="p">:</span>
+<span class="w">  </span><span class="nt">datasource</span><span class="p">:</span>
+<span class="w">    </span><span class="nt">driver-class-name</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">org.postgresql.Driver</span>
+<span class="w">    </span><span class="nt">url</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">jdbc:postgresql://localhost:5432/bookdb</span>
+<span class="w">    </span><span class="nt">username</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">postgres</span>
+<span class="w">    </span><span class="nt">password</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">your_password</span>
+
+<span class="c1"># MyBatis-Plus 配置</span>
+<span class="nt">mybatis-plus</span><span class="p">:</span>
+<span class="w">  </span><span class="c1"># XML 映射文件位置（可沿用原有配置）</span>
+<span class="w">  </span><span class="nt">mapper-locations</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">classpath*:mapper/**/*.xml</span>
+<span class="w">  </span><span class="c1"># 实体类包路径</span>
+<span class="w">  </span><span class="nt">type-aliases-package</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">com.example.bookmanager.model</span>
+<span class="w">  </span><span class="c1"># 全局配置</span>
+<span class="w">  </span><span class="nt">global-config</span><span class="p">:</span>
+<span class="w">    </span><span class="nt">db-config</span><span class="p">:</span>
+<span class="w">      </span><span class="c1"># 主键策略：自增</span>
+<span class="w">      </span><span class="nt">id-type</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">auto</span>
+<span class="w">      </span><span class="c1"># 逻辑删除字段名</span>
+<span class="w">      </span><span class="nt">logic-delete-field</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">deleted</span>
+<span class="w">      </span><span class="nt">logic-delete-value</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">1</span>
+<span class="w">      </span><span class="nt">logic-not-delete-value</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">0</span>
+<span class="w">  </span><span class="c1"># 配置信息</span>
+<span class="w">  </span><span class="nt">configuration</span><span class="p">:</span>
+<span class="w">    </span><span class="c1"># 下划线转驼峰</span>
+<span class="w">    </span><span class="nt">map-underscore-to-camel-case</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">true</span>
+<span class="w">    </span><span class="c1"># 日志输出</span>
+<span class="w">    </span><span class="nt">log-impl</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">org.apache.ibatis.logging.stdout.StdOutImpl</span>
+</code></pre></div>
+
+<h3 id="3-扫描-Mapper-接口">3. 扫描 Mapper 接口</h3>
+<p>使用 <code>@MapperScan</code> 扫描 Mapper 接口：</p>
+<div class="codehilite lang-java"><pre><span></span><code><span class="nd">@SpringBootApplication</span>
+<span class="nd">@MapperScan</span><span class="p">(</span><span class="s">"com.example.bookmanager.mapper"</span><span class="p">)</span><span class="w">  </span><span class="c1">// 与 MyBatis 一致</span>
+<span class="kd">public</span><span class="w"> </span><span class="kd">class</span> <span class="nc">BookManagerApplication</span><span class="w"> </span><span class="p">{</span>
+<span class="w">    </span><span class="kd">public</span><span class="w"> </span><span class="kd">static</span><span class="w"> </span><span class="kt">void</span><span class="w"> </span><span class="nf">main</span><span class="p">(</span><span class="n">String</span><span class="o">[]</span><span class="w"> </span><span class="n">args</span><span class="p">)</span><span class="w"> </span><span class="p">{</span>
+<span class="w">        </span><span class="n">SpringApplication</span><span class="p">.</span><span class="na">run</span><span class="p">(</span><span class="n">BookManagerApplication</span><span class="p">.</span><span class="na">class</span><span class="p">,</span><span class="w"> </span><span class="n">args</span><span class="p">);</span>
+<span class="w">    </span><span class="p">}</span>
+<span class="p">}</span>
+</code></pre></div>
+
+<blockquote>
+<p>[!NOTE]
+MyBatis-Plus 的 <code>@MapperScan</code> 与 MyBatis 完全兼容，无需修改。</p>
+</blockquote>
+<h2 id="实体类注解">实体类注解</h2>
+<h3 id="核心注解概览">核心注解概览</h3>
+<table>
+<thead>
+<tr>
+<th>注解</th>
+<th>作用</th>
+<th>示例</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>@TableName</code></td>
+<td>指定实体类对应的数据库表名</td>
+<td><code>@TableName("book")</code></td>
+</tr>
+<tr>
+<td><code>@TableId</code></td>
+<td>指定主键字段及生成策略</td>
+<td><code>@TableId(type = IdType.AUTO)</code></td>
+</tr>
+<tr>
+<td><code>@TableField</code></td>
+<td>指定字段与列的映射关系</td>
+<td><code>@TableField("created_at")</code></td>
+</tr>
+<tr>
+<td><code>@TableLogic</code></td>
+<td>逻辑删除字段标记</td>
+<td><code>@TableLogic</code></td>
+</tr>
+</tbody>
+</table>
+<h3 id="Book-实体类改造">Book 实体类改造</h3>
+<p>将原有的 <code>Book</code> 类改造为 MyBatis-Plus 实体：</p>
+<div class="codehilite lang-java"><pre><span></span><code><span class="nd">@TableName</span><span class="p">(</span><span class="s">"book"</span><span class="p">)</span>
+<span class="kd">public</span><span class="w"> </span><span class="kd">class</span> <span class="nc">Book</span><span class="w"> </span><span class="p">{</span>
+
+<span class="w">    </span><span class="nd">@TableId</span><span class="p">(</span><span class="n">type</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">IdType</span><span class="p">.</span><span class="na">AUTO</span><span class="p">)</span>
+<span class="w">    </span><span class="kd">private</span><span class="w"> </span><span class="n">Long</span><span class="w"> </span><span class="n">id</span><span class="p">;</span>
+
+<span class="w">    </span><span class="kd">private</span><span class="w"> </span><span class="n">String</span><span class="w"> </span><span class="n">title</span><span class="p">;</span>
+<span class="w">    </span><span class="kd">private</span><span class="w"> </span><span class="n">String</span><span class="w"> </span><span class="n">author</span><span class="p">;</span>
+<span class="w">    </span><span class="kd">private</span><span class="w"> </span><span class="n">Double</span><span class="w"> </span><span class="n">price</span><span class="p">;</span>
+<span class="w">    </span><span class="kd">private</span><span class="w"> </span><span class="n">Integer</span><span class="w"> </span><span class="n">stock</span><span class="p">;</span>
+<span class="w">    </span><span class="kd">private</span><span class="w"> </span><span class="n">Integer</span><span class="w"> </span><span class="n">sales</span><span class="p">;</span>
+
+<span class="w">    </span><span class="nd">@TableField</span><span class="p">(</span><span class="s">"category"</span><span class="p">)</span>
+<span class="w">    </span><span class="kd">private</span><span class="w"> </span><span class="n">String</span><span class="w"> </span><span class="n">category</span><span class="p">;</span>
+
+<span class="w">    </span><span class="nd">@TableField</span><span class="p">(</span><span class="s">"isbn"</span><span class="p">)</span>
+<span class="w">    </span><span class="kd">private</span><span class="w"> </span><span class="n">String</span><span class="w"> </span><span class="n">isbn</span><span class="p">;</span>
+
+<span class="w">    </span><span class="nd">@TableField</span><span class="p">(</span><span class="s">"description"</span><span class="p">)</span>
+<span class="w">    </span><span class="kd">private</span><span class="w"> </span><span class="n">String</span><span class="w"> </span><span class="n">description</span><span class="p">;</span>
+
+<span class="w">    </span><span class="nd">@TableField</span><span class="p">(</span><span class="n">value</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s">"created_at"</span><span class="p">)</span>
+<span class="w">    </span><span class="kd">private</span><span class="w"> </span><span class="n">LocalDateTime</span><span class="w"> </span><span class="n">createdAt</span><span class="p">;</span>
+
+<span class="w">    </span><span class="nd">@TableField</span><span class="p">(</span><span class="n">value</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s">"updated_at"</span><span class="p">)</span>
+<span class="w">    </span><span class="kd">private</span><span class="w"> </span><span class="n">LocalDateTime</span><span class="w"> </span><span class="n">updatedAt</span><span class="p">;</span>
+<span class="p">}</span>
+</code></pre></div>
+
+<h3 id="主键生成策略IdType">主键生成策略（IdType）</h3>
+<table>
+<thead>
+<tr>
+<th>策略</th>
+<th>说明</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>AUTO</code></td>
+<td>数据库自增（推荐 PostgreSQL 的 BIGSERIAL）</td>
+</tr>
+<tr>
+<td><code>ASSIGN_ID</code></td>
+<td>雪花算法，生成 19 位 Long 型 ID</td>
+</tr>
+<tr>
+<td><code>ASSIGN_UUID</code></td>
+<td>生成 32 位 UUID 字符串</td>
+</tr>
+<tr>
+<td><code>INPUT</code></td>
+<td>用户手动输入</td>
+</tr>
+<tr>
+<td><code>NONE</code></td>
+<td>默认，跟随全局配置</td>
+</tr>
+</tbody>
+</table>
+<h2 id="BaseMapper-通用-CRUD">BaseMapper 通用 CRUD</h2>
+<h3 id="BaseMapper-简介">BaseMapper 简介</h3>
+<p><code>BaseMapper&lt;T&gt;</code> 是 MyBatis-Plus 提供的<strong>通用 Mapper 接口</strong>，继承后即可获得单表的完整 CRUD 方法。</p>
+<div class="codehilite lang-mermaid"><pre><span></span><code>flowchart LR
+    M[BookMapper] --&gt;|继承| BM[BaseMapper&amp;lt;Book&amp;gt;]
+    BM --&gt; M1[insert]
+    BM --&gt; M2[deleteById]
+    BM --&gt; M3[updateById]
+    BM --&gt; M4[selectById]
+    BM --&gt; M5[selectList]
+    BM --&gt; M6[selectPage]
+    BM --&gt; M7[...其他方法]
+</code></pre></div>
+
+<h3 id="定义-Mapper-接口">定义 Mapper 接口</h3>
+<div class="codehilite lang-java"><pre><span></span><code><span class="nd">@Mapper</span>
+<span class="kd">public</span><span class="w"> </span><span class="kd">interface</span> <span class="nc">BookMapper</span><span class="w"> </span><span class="kd">extends</span><span class="w"> </span><span class="n">BaseMapper</span><span class="o">&lt;</span><span class="n">Book</span><span class="o">&gt;</span><span class="w"> </span><span class="p">{</span>
+<span class="w">    </span><span class="c1">// 无需编写任何方法，BaseMapper 已提供完整 CRUD </span>
+<span class="p">}</span>
+</code></pre></div>
+
+<h3 id="BaseMapper-核心方法">BaseMapper 核心方法</h3>
+<table>
+<thead>
+<tr>
+<th>方法</th>
+<th>功能</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>insert(T entity)</code></td>
+<td>插入一条记录</td>
+</tr>
+<tr>
+<td><code>deleteById(Serializable id)</code></td>
+<td>根据 ID 删除</td>
+</tr>
+<tr>
+<td><code>deleteByMap(Map&lt;String, Object&gt; columnMap)</code></td>
+<td>根据 Map 条件删除</td>
+</tr>
+<tr>
+<td><code>delete(Wrapper&lt;T&gt; wrapper)</code></td>
+<td>根据 Wrapper 条件删除</td>
+</tr>
+<tr>
+<td><code>updateById(T entity)</code></td>
+<td>根据 ID 更新</td>
+</tr>
+<tr>
+<td><code>update(T entity, Wrapper&lt;T&gt; updateWrapper)</code></td>
+<td>根据 Wrapper 条件更新</td>
+</tr>
+<tr>
+<td><code>selectById(Serializable id)</code></td>
+<td>根据 ID 查询</td>
+</tr>
+<tr>
+<td><code>selectBatchIds(Collection&lt;Serializable&gt; idList)</code></td>
+<td>根据 ID 列表批量查询</td>
+</tr>
+<tr>
+<td><code>selectByMap(Map&lt;String, Object&gt; columnMap)</code></td>
+<td>根据 Map 条件查询</td>
+</tr>
+<tr>
+<td><code>selectOne(Wrapper&lt;T&gt; queryWrapper)</code></td>
+<td>查询单条记录</td>
+</tr>
+<tr>
+<td><code>selectList(Wrapper&lt;T&gt; queryWrapper)</code></td>
+<td>查询列表</td>
+</tr>
+<tr>
+<td><code>selectPage(IPage&lt;T&gt; page, Wrapper&lt;T&gt; queryWrapper)</code></td>
+<td>分页查询</td>
+</tr>
+</tbody>
+</table>
+<h3 id="使用-BaseMapper-完成-CRUD">使用 BaseMapper 完成 CRUD</h3>
+<div class="codehilite lang-java"><pre><span></span><code><span class="nd">@Service</span>
+<span class="kd">public</span><span class="w"> </span><span class="kd">class</span> <span class="nc">BookService</span><span class="w"> </span><span class="p">{</span>
+<span class="w">    </span><span class="nd">@Autowired</span>
+<span class="w">    </span><span class="kd">private</span><span class="w"> </span><span class="n">BookMapper</span><span class="w"> </span><span class="n">bookMapper</span><span class="p">;</span>
+
+<span class="w">    </span><span class="c1">// ---------- 插入 ----------</span>
+<span class="w">    </span><span class="kd">public</span><span class="w"> </span><span class="n">Book</span><span class="w"> </span><span class="nf">createBook</span><span class="p">(</span><span class="n">Book</span><span class="w"> </span><span class="n">book</span><span class="p">)</span><span class="w"> </span><span class="p">{</span>
+<span class="w">        </span><span class="kt">int</span><span class="w"> </span><span class="n">rows</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">bookMapper</span><span class="p">.</span><span class="na">insert</span><span class="p">(</span><span class="n">book</span><span class="p">);</span>
+<span class="w">        </span><span class="c1">// 插入后 book.getId() 会被自动设置（主键回填）</span>
+<span class="w">        </span><span class="k">return</span><span class="w"> </span><span class="n">book</span><span class="p">;</span>
+<span class="w">    </span><span class="p">}</span>
+
+<span class="w">    </span><span class="c1">// ---------- 查询 ----------</span>
+<span class="w">    </span><span class="kd">public</span><span class="w"> </span><span class="n">Book</span><span class="w"> </span><span class="nf">getBookById</span><span class="p">(</span><span class="n">Long</span><span class="w"> </span><span class="n">id</span><span class="p">)</span><span class="w"> </span><span class="p">{</span>
+<span class="w">        </span><span class="k">return</span><span class="w"> </span><span class="n">bookMapper</span><span class="p">.</span><span class="na">selectById</span><span class="p">(</span><span class="n">id</span><span class="p">);</span>
+<span class="w">    </span><span class="p">}</span>
+
+<span class="w">    </span><span class="kd">public</span><span class="w"> </span><span class="n">List</span><span class="o">&lt;</span><span class="n">Book</span><span class="o">&gt;</span><span class="w"> </span><span class="nf">getAllBooks</span><span class="p">()</span><span class="w"> </span><span class="p">{</span>
+<span class="w">        </span><span class="c1">// null 表示无条件，查询全部</span>
+<span class="w">        </span><span class="k">return</span><span class="w"> </span><span class="n">bookMapper</span><span class="p">.</span><span class="na">selectList</span><span class="p">(</span><span class="kc">null</span><span class="p">);</span>
+<span class="w">    </span><span class="p">}</span>
+
+<span class="w">    </span><span class="c1">// ---------- 更新 ----------</span>
+<span class="w">    </span><span class="kd">public</span><span class="w"> </span><span class="n">Book</span><span class="w"> </span><span class="nf">updateBook</span><span class="p">(</span><span class="n">Book</span><span class="w"> </span><span class="n">book</span><span class="p">)</span><span class="w"> </span><span class="p">{</span>
+<span class="w">        </span><span class="kt">int</span><span class="w"> </span><span class="n">rows</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">bookMapper</span><span class="p">.</span><span class="na">updateById</span><span class="p">(</span><span class="n">book</span><span class="p">);</span>
+<span class="w">        </span><span class="k">return</span><span class="w"> </span><span class="n">book</span><span class="p">;</span>
+<span class="w">    </span><span class="p">}</span>
+
+<span class="w">    </span><span class="c1">// ---------- 删除 ----------</span>
+<span class="w">    </span><span class="kd">public</span><span class="w"> </span><span class="kt">boolean</span><span class="w"> </span><span class="nf">deleteBook</span><span class="p">(</span><span class="n">Long</span><span class="w"> </span><span class="n">id</span><span class="p">)</span><span class="w"> </span><span class="p">{</span>
+<span class="w">        </span><span class="kt">int</span><span class="w"> </span><span class="n">rows</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">bookMapper</span><span class="p">.</span><span class="na">deleteById</span><span class="p">(</span><span class="n">id</span><span class="p">);</span>
+<span class="w">        </span><span class="k">return</span><span class="w"> </span><span class="n">rows</span><span class="w"> </span><span class="o">&gt;</span><span class="w"> </span><span class="mi">0</span><span class="p">;</span>
+<span class="w">    </span><span class="p">}</span>
+<span class="p">}</span>
+</code></pre></div>
+
+<blockquote>
+<p>[!NOTE]
+与原生 MyBatis 对比：原来需要手写 XML 的 select、insert、update、delete，现在全部由 BaseMapper 自动提供。</p>
+</blockquote>
+<h2 id="逻辑删除">逻辑删除</h2>
+<h3 id="什么是逻辑删除">什么是逻辑删除</h3>
+<p>逻辑删除不真正删除数据库记录，而是通过一个标记字段（如 <code>deleted</code>）标记为“已删除”，查询时自动过滤。</p>
+<div class="codehilite lang-mermaid"><pre><span></span><code>flowchart LR
+    A[deleteById] --&gt; B[UPDATE SET deleted = 1]
+    B --&gt; C[查询时 WHERE deleted = 0]
+
+    style A fill:#ffcdd2
+    style B fill:#fff3e0
+    style C fill:#e8f5e9
+</code></pre></div>
+
+<h3 id="配置逻辑删除">配置逻辑删除</h3>
+<h4 id="1-数据库添加字段">1. 数据库添加字段</h4>
+<div class="codehilite lang-sql"><pre><span></span><code><span class="k">ALTER</span><span class="w"> </span><span class="k">TABLE</span><span class="w"> </span><span class="n">book</span><span class="w"> </span><span class="k">ADD</span><span class="w"> </span><span class="k">COLUMN</span><span class="w"> </span><span class="n">deleted</span><span class="w"> </span><span class="nb">INT</span><span class="w"> </span><span class="k">DEFAULT</span><span class="w"> </span><span class="mi">0</span><span class="p">;</span>
+</code></pre></div>
+
+<h4 id="2-实体类添加注解">2. 实体类添加注解</h4>
+<div class="codehilite lang-java"><pre><span></span><code><span class="nd">@TableName</span><span class="p">(</span><span class="s">"book"</span><span class="p">)</span>
+<span class="kd">public</span><span class="w"> </span><span class="kd">class</span> <span class="nc">Book</span><span class="w"> </span><span class="p">{</span>
+<span class="w">    </span><span class="c1">// ... 其他字段</span>
+
+<span class="w">    </span><span class="nd">@TableLogic</span>
+<span class="w">    </span><span class="nd">@TableField</span><span class="p">(</span><span class="s">"deleted"</span><span class="p">)</span>
+<span class="w">    </span><span class="kd">private</span><span class="w"> </span><span class="n">Integer</span><span class="w"> </span><span class="n">deleted</span><span class="p">;</span>
+<span class="p">}</span>
+</code></pre></div>
+
+<h4 id="3-全局配置可选">3. 全局配置（可选）</h4>
+<p>在 <code>application.yml</code> 中配置全局默认值：</p>
+<div class="codehilite lang-yaml"><pre><span></span><code><span class="nt">mybatis-plus</span><span class="p">:</span>
+<span class="w">  </span><span class="nt">global-config</span><span class="p">:</span>
+<span class="w">    </span><span class="nt">db-config</span><span class="p">:</span>
+<span class="w">      </span><span class="nt">logic-delete-field</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">deleted</span><span class="w">      </span><span class="c1"># 全局逻辑删除字段名</span>
+<span class="w">      </span><span class="nt">logic-delete-value</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">1</span><span class="w">            </span><span class="c1"># 逻辑已删除值（默认 1）</span>
+<span class="w">      </span><span class="nt">logic-not-delete-value</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">0</span><span class="w">        </span><span class="c1"># 逻辑未删除值（默认 0）</span>
+</code></pre></div>
+
+<h3 id="使用逻辑删除">使用逻辑删除</h3>
+<div class="codehilite lang-java"><pre><span></span><code><span class="c1">// 执行删除（实际是 UPDATE）</span>
+<span class="kt">int</span><span class="w"> </span><span class="n">rows</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">bookMapper</span><span class="p">.</span><span class="na">deleteById</span><span class="p">(</span><span class="mi">1L</span><span class="p">);</span><span class="w">  </span><span class="c1">// SQL: UPDATE book SET deleted = 1 WHERE id = 1</span>
+
+<span class="c1">// 查询（自动过滤已删除）</span>
+<span class="n">List</span><span class="o">&lt;</span><span class="n">Book</span><span class="o">&gt;</span><span class="w"> </span><span class="n">books</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">bookMapper</span><span class="p">.</span><span class="na">selectList</span><span class="p">(</span><span class="kc">null</span><span class="p">);</span><span class="w">  </span><span class="c1">// SQL: WHERE deleted = 0</span>
+
+<span class="c1">// 查询包含已删除（使用 wrapper 不加 deleted 条件）</span>
+<span class="n">LambdaQueryWrapper</span><span class="o">&lt;</span><span class="n">Book</span><span class="o">&gt;</span><span class="w"> </span><span class="n">wrapper</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="k">new</span><span class="w"> </span><span class="n">LambdaQueryWrapper</span><span class="o">&lt;&gt;</span><span class="p">();</span>
+<span class="n">wrapper</span><span class="p">.</span><span class="na">eq</span><span class="p">(</span><span class="n">Book</span><span class="p">::</span><span class="n">getDeleted</span><span class="p">,</span><span class="w"> </span><span class="mi">1</span><span class="p">);</span><span class="w">  </span><span class="c1">// 手动查询已删除数据</span>
+</code></pre></div>
+
+<blockquote>
+<p>[!NOTE]</p>
+<p>逻辑删除后，<code>selectList</code>、<code>selectById</code> 等查询方法会自动追加 <code>WHERE deleted = 0</code> 条件。</p>
+</blockquote>
+<h2 id="实战将图书管理系统从-MyBatis-迁移到-MyBatis-Plus">实战：将图书管理系统从 MyBatis 迁移到 MyBatis-Plus</h2>
+<h3 id="迁移步骤概览">迁移步骤概览</h3>
+<div class="codehilite lang-mermaid"><pre><span></span><code>flowchart LR
+    A[替换依赖] --&gt; B[修改实体类&lt;br/&gt;添加 MP 注解]
+    B --&gt; C[修改 Mapper&lt;br/&gt;继承 BaseMapper]
+    C --&gt; D[修改配置&lt;br/&gt;application.yml]
+    D --&gt; E[测试验证]
+</code></pre></div>
+
+<h3 id="1-修改-BookMapper">1. 修改 BookMapper</h3>
+<div class="codehilite lang-java"><pre><span></span><code><span class="c1">// 原 MyBatis Mapper</span>
+<span class="nd">@Mapper</span>
+<span class="kd">public</span><span class="w"> </span><span class="kd">interface</span> <span class="nc">BookMapper</span><span class="w"> </span><span class="p">{</span>
+<span class="w">    </span><span class="n">Book</span><span class="w"> </span><span class="nf">selectById</span><span class="p">(</span><span class="n">Long</span><span class="w"> </span><span class="n">id</span><span class="p">);</span>
+<span class="w">    </span><span class="n">List</span><span class="o">&lt;</span><span class="n">Book</span><span class="o">&gt;</span><span class="w"> </span><span class="nf">selectAll</span><span class="p">();</span>
+<span class="w">    </span><span class="kt">int</span><span class="w"> </span><span class="nf">insert</span><span class="p">(</span><span class="n">Book</span><span class="w"> </span><span class="n">book</span><span class="p">);</span>
+<span class="w">    </span><span class="kt">int</span><span class="w"> </span><span class="nf">update</span><span class="p">(</span><span class="n">Book</span><span class="w"> </span><span class="n">book</span><span class="p">);</span>
+<span class="w">    </span><span class="kt">int</span><span class="w"> </span><span class="nf">deleteById</span><span class="p">(</span><span class="n">Long</span><span class="w"> </span><span class="n">id</span><span class="p">);</span>
+<span class="p">}</span>
+</code></pre></div>
+
+<div class="codehilite lang-java"><pre><span></span><code><span class="c1">// MyBatis-Plus Mapper（一行搞定）</span>
+<span class="nd">@Mapper</span>
+<span class="kd">public</span><span class="w"> </span><span class="kd">interface</span> <span class="nc">BookMapper</span><span class="w"> </span><span class="kd">extends</span><span class="w"> </span><span class="n">BaseMapper</span><span class="o">&lt;</span><span class="n">Book</span><span class="o">&gt;</span><span class="w"> </span><span class="p">{</span>
+<span class="w">    </span><span class="c1">// 自动获得所有 CRUD 方法！</span>
+<span class="p">}</span>
+</code></pre></div>
+
+<h3 id="2-修改-BookService">2. 修改 BookService</h3>
+<div class="codehilite lang-java"><pre><span></span><code><span class="nd">@Service</span>
+<span class="nd">@Transactional</span>
+<span class="kd">public</span><span class="w"> </span><span class="kd">class</span> <span class="nc">BookService</span><span class="w"> </span><span class="p">{</span>
+<span class="w">    </span><span class="nd">@Autowired</span>
+<span class="w">    </span><span class="kd">private</span><span class="w"> </span><span class="n">BookMapper</span><span class="w"> </span><span class="n">bookMapper</span><span class="p">;</span>
+
+<span class="w">    </span><span class="kd">public</span><span class="w"> </span><span class="n">Book</span><span class="w"> </span><span class="nf">getBookById</span><span class="p">(</span><span class="n">Long</span><span class="w"> </span><span class="n">id</span><span class="p">)</span><span class="w"> </span><span class="p">{</span>
+<span class="w">        </span><span class="k">return</span><span class="w"> </span><span class="n">bookMapper</span><span class="p">.</span><span class="na">selectById</span><span class="p">(</span><span class="n">id</span><span class="p">);</span>
+<span class="w">    </span><span class="p">}</span>
+
+<span class="w">    </span><span class="kd">public</span><span class="w"> </span><span class="n">List</span><span class="o">&lt;</span><span class="n">Book</span><span class="o">&gt;</span><span class="w"> </span><span class="nf">getAllBooks</span><span class="p">()</span><span class="w"> </span><span class="p">{</span>
+<span class="w">        </span><span class="k">return</span><span class="w"> </span><span class="n">bookMapper</span><span class="p">.</span><span class="na">selectList</span><span class="p">(</span><span class="kc">null</span><span class="p">);</span>
+<span class="w">    </span><span class="p">}</span>
+
+<span class="w">    </span><span class="kd">public</span><span class="w"> </span><span class="n">Book</span><span class="w"> </span><span class="nf">createBook</span><span class="p">(</span><span class="n">Book</span><span class="w"> </span><span class="n">book</span><span class="p">)</span><span class="w"> </span><span class="p">{</span>
+<span class="w">        </span><span class="n">bookMapper</span><span class="p">.</span><span class="na">insert</span><span class="p">(</span><span class="n">book</span><span class="p">);</span>
+<span class="w">        </span><span class="k">return</span><span class="w"> </span><span class="n">book</span><span class="p">;</span>
+<span class="w">    </span><span class="p">}</span>
+<span class="w">    </span><span class="p">...</span>
+<span class="p">}</span>
+</code></pre></div>
+
+<h3 id="3-混合使用自定义方法">3. 混合使用：自定义方法</h3>
+<p>MyBatis-Plus 支持与原生 MyBatis 混合使用。在 <code>BookMapper</code> 中添加自定义方法：</p>
+<div class="codehilite lang-java"><pre><span></span><code><span class="nd">@Mapper</span>
+<span class="kd">public</span><span class="w"> </span><span class="kd">interface</span> <span class="nc">BookMapper</span><span class="w"> </span><span class="kd">extends</span><span class="w"> </span><span class="n">BaseMapper</span><span class="o">&lt;</span><span class="n">Book</span><span class="o">&gt;</span><span class="w"> </span><span class="p">{</span>
+<span class="w">    </span><span class="c1">// BaseMapper 自动提供的方法：insert、selectById、updateById、deleteById...</span>
+
+<span class="w">    </span><span class="c1">// 自定义方法：仍然可以使用 XML 或注解</span>
+<span class="w">    </span><span class="nd">@Select</span><span class="p">(</span><span class="s">"SELECT * FROM book WHERE author LIKE CONCAT('%', #{author}, '%')"</span><span class="p">)</span>
+<span class="w">    </span><span class="n">List</span><span class="o">&lt;</span><span class="n">Book</span><span class="o">&gt;</span><span class="w"> </span><span class="nf">selectByAuthor</span><span class="p">(</span><span class="nd">@Param</span><span class="p">(</span><span class="s">"author"</span><span class="p">)</span><span class="w"> </span><span class="n">String</span><span class="w"> </span><span class="n">author</span><span class="p">);</span>
+<span class="p">}</span>
+</code></pre></div>
+
+<p>对应的 XML 文件（<code>BookMapper.xml</code>）仍然有效，与 MP 共存。</p>
+<blockquote>
+<p>[!NOTE]
+原生 MyBatis 的 XML 映射文件与 MyBatis-Plus 的 BaseMapper 可以<strong>无缝共存</strong>。你可以在同一个 Mapper 中同时使用继承的方法和自定义的方法。</p>
+</blockquote>
+<h2 id="注意事项">注意事项</h2>
+<h3 id="1-实体类必须有无参构造方法">1. 实体类必须有无参构造方法</h3>
+<p>MyBatis-Plus 通过反射创建实体实例，必须提供<strong>无参构造方法</strong>。</p>
+<h3 id="2-主键策略选择">2. 主键策略选择</h3>
+<ul>
+<li>PostgreSQL 使用 <code>BIGSERIAL</code> 时，推荐 <code>IdType.AUTO</code></li>
+<li>分布式场景推荐 <code>IdType.ASSIGN_ID</code>（雪花算法）</li>
+</ul>
+<h3 id="3-字段名映射">3. 字段名映射</h3>
+<p>默认开启 <code>map-underscore-to-camel-case</code>，数据库下划线字段自动映射为 Java 驼峰属性。如需自定义，使用 <code>@TableField</code> 注解。</p>
+<h3 id="4-逻辑删除">4. 逻辑删除</h3>
+<p>使用 <code>@TableLogic</code> 标记逻辑删除字段后：
+- <code>deleteById</code> 变为逻辑删除（UPDATE deleted = 1）
+- <code>selectList</code> 自动过滤已删除数据（WHERE deleted = 0）</p>
+<h3 id="5-版本兼容性">5. 版本兼容性</h3>
+<table>
+<thead>
+<tr>
+<th>Spring Boot 版本</th>
+<th>MyBatis-Plus Starter</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>2.x</td>
+<td><code>mybatis-plus-boot-starter</code></td>
+</tr>
+<tr>
+<td>3.x</td>
+<td><code>mybatis-plus-spring-boot3-starter</code></td>
+</tr>
+<tr>
+<td>4.x</td>
+<td><code>mybatis-plus-boot-starter</code>（自 3.5.13 起）</td>
+</tr>
+</tbody>
+</table>
+<h2 id="小结">小结</h2>
+<p>本节课我们学习了：</p>
+<ol>
+<li><strong>MyBatis-Plus 设计哲学</strong>：只做增强不做改变，是 MyBatis 的补充而非替代。</li>
+<li><strong>Spring Boot 集成</strong>：替换依赖、配置属性、<code>@MapperScan</code> 扫描。</li>
+<li><strong>实体类注解</strong>：
+   - <code>@TableName</code>：指定表名
+   - <code>@TableId</code>：主键及策略
+   - <code>@TableField</code>：字段映射
+   - <code>@TableLogic</code>：逻辑删除</li>
+<li><strong>BaseMapper</strong>：继承即获得完整 CRUD，无需编写 XML。</li>
+<li><strong>混合使用</strong>：MP 的 BaseMapper 与原生 MyBatis 的 XML/注解可共存。</li>
+</ol>
+<h2 id="作业">作业</h2>
+<h3 id="作业一代码阅读MyBatis-Plus-注解识别">作业一：代码阅读——MyBatis-Plus 注解识别</h3>
+<p>阅读以下实体类，回答问题。</p>
+<div class="codehilite lang-java"><pre><span></span><code><span class="nd">@TableName</span><span class="p">(</span><span class="s">"product"</span><span class="p">)</span>
+<span class="kd">public</span><span class="w"> </span><span class="kd">class</span> <span class="nc">Product</span><span class="w"> </span><span class="p">{</span>
+<span class="w">    </span><span class="nd">@TableId</span><span class="p">(</span><span class="n">type</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">IdType</span><span class="p">.</span><span class="na">AUTO</span><span class="p">)</span>
+<span class="w">    </span><span class="kd">private</span><span class="w"> </span><span class="n">Long</span><span class="w"> </span><span class="n">id</span><span class="p">;</span>
+<span class="w">    </span><span class="kd">private</span><span class="w"> </span><span class="n">String</span><span class="w"> </span><span class="n">name</span><span class="p">;</span>
+<span class="w">    </span><span class="kd">private</span><span class="w"> </span><span class="n">Double</span><span class="w"> </span><span class="n">price</span><span class="p">;</span>
+<span class="w">    </span><span class="nd">@TableField</span><span class="p">(</span><span class="s">"stock_count"</span><span class="p">)</span>
+<span class="w">    </span><span class="kd">private</span><span class="w"> </span><span class="n">Integer</span><span class="w"> </span><span class="n">stock</span><span class="p">;</span>
+<span class="w">    </span><span class="kd">private</span><span class="w"> </span><span class="n">LocalDateTime</span><span class="w"> </span><span class="n">createdAt</span><span class="p">;</span>
+<span class="w">    </span><span class="nd">@TableLogic</span>
+<span class="w">    </span><span class="kd">private</span><span class="w"> </span><span class="n">Integer</span><span class="w"> </span><span class="n">deleted</span><span class="p">;</span>
+<span class="p">}</span>
+</code></pre></div>
+
+<p><strong>问题：</strong>
+1. 该实体对应数据库中的哪张表？
+2. <code>id</code> 字段的主键生成策略是什么？
+3. <code>stock</code> 字段在数据库中的列名是什么？
+5. <code>deleted</code> 字段的作用是什么？</p>
+<hr />
+<h3 id="作业二将图书管理系统迁移到-MyBatis-Plus">作业二：将图书管理系统迁移到 MyBatis-Plus</h3>
+<p>完成以下任务：</p>
+<ol>
+<li>将 <code>mybatis-spring-boot-starter</code> 替换为 <code>mybatis-plus-boot-starter</code>（根据 Spring Boot 版本选择）。</li>
+<li>在 <code>application.yml</code> 中配置 MyBatis-Plus 属性（<code>mapper-locations</code>、<code>type-aliases-package</code>、<code>map-underscore-to-camel-case</code>）。</li>
+<li>修改 <code>Book</code> 实体类，添加 MP 注解：
+   - <code>@TableName("book")</code>
+   - <code>@TableId(type = IdType.AUTO)</code>
+   - <code>@TableField</code> 映射 <code>created_at</code>、<code>updated_at</code>
+   - <code>@TableLogic</code> 添加逻辑删除字段（需在数据库中添加 <code>deleted</code> 列）</li>
+<li>修改 <code>BookMapper</code> 继承 <code>BaseMapper&lt;Book&gt;</code>，删除原有的 CRUD 方法。</li>
+<li>修改 <code>BookService</code>，使用 <code>BaseMapper</code> 提供的方法。</li>
+<li>启动应用，测试所有接口，验证功能正常。</li>
+</ol>
+<hr />
+<h3 id="作业三BaseMapper-方法测试">作业三：BaseMapper 方法测试</h3>
+<p>编写测试类，测试 <code>BaseMapper</code> 的以下方法：</p>
+<ol>
+<li><code>insert</code>：插入一本新书，验证主键自动回填。</li>
+<li><code>selectById</code>：查询单本图书。</li>
+<li><code>selectList(null)</code>：查询所有图书。</li>
+<li><code>updateById</code>：更新图书信息。</li>
+<li><code>deleteById</code>：删除图书（验证逻辑删除是否生效）。</li>
+<li><code>selectBatchIds</code>：根据 ID 列表批量查询。</li>
+</ol>
+<hr />
+<h3 id="作业四混合使用自定义方法">作业四：混合使用自定义方法</h3>
+<p>在 <code>BookMapper</code> 中保留一个自定义方法，演示 MP 与原生 MyBatis 的混合使用：</p>
+<ol>
+<li>在 <code>BookMapper</code> 中添加 <code>@Select("SELECT * FROM book WHERE title LIKE CONCAT('%', #{keyword}, '%')")</code> 方法。</li>
+<li>在 Service 中调用该方法。</li>
+<li>验证自定义方法与 BaseMapper 方法可以共存且正常工作。</li>
+</ol>13:["$","article",null,{"className":"doc","id":"content","children":[["$","div",null,{"className":"doc-head-row mb-2 flex items-center justify-between gap-4","children":[["$","p",null,{"className":"kicker","children":[["$","span",null,{"className":"kicker-num","children":"第 33 章"}],["$","span",null,{"className":"kicker-mod","children":"单体系统和Spring Boot"}]]}],["$","$L15",null,{"progressKey":"spring-boot-33"}]]}],["$","h1",null,{"className":"doc-h1","children":"MyBatis-Plus 概述与快速上手"}],"$undefined",["$","$L16",null,{"html":"$17"}],"$L18"]}]
+14:["$","$L19",null,{"sections":"$5:1:props:children:0:props:courses:5:modules:0:chapters:32:sections"}]
+1a:I[2619,["619","static/chunks/619-ba102abea3e3d0e4.js","526","static/chunks/app/course/%5Bkey%5D/%5Bch%5D/page-4b7f30b4efe73131.js"],""]
+18:["$","nav",null,{"className":"pager","aria-label":"章节导航","children":[["$","$L1a",null,{"className":"pager-link pager-prev","href":"/course/spring-boot/32/","children":[["$","span",null,{"className":"pager-dir","children":"上一章"}],["$","span",null,{"className":"pager-name","children":"MyBatis 高级特性"}]]}],["$","$L1a",null,{"className":"pager-link pager-next","href":"/course/spring-boot/34/","children":[["$","span",null,{"className":"pager-dir","children":"下一章"}],["$","span",null,{"className":"pager-name","children":"MyBatis-Plus 条件构造器与分页插件"}]]}]]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+7:null
+9:{"metadata":[["$","title","0",{"children":"第 33 章  · 单体系统和Spring Boot · AI大全栈"}],["$","meta","1",{"name":"description","content":"袁进主讲的系列课程手册：Python 语言核心精讲、数据科学工具包、数据库、Python 框架、Agents 底层逻辑、LangGraph、LangChain + DeepAgent、Agent 观测与评估、Agent 基础建设、RAG 知识库。iOS 风格阅读体验，内置可运行的 Python 代码块。"}]],"error":null,"digest":"$undefined"}
+10:"$9:metadata"

@@ -1,0 +1,1027 @@
+1:"$Sreact.fragment"
+2:I[6590,["619","static/chunks/619-ba102abea3e3d0e4.js","177","static/chunks/app/layout-1fd0282a046e2468.js"],"default"]
+3:I[9766,[],""]
+4:I[8924,[],""]
+6:I[4431,[],"OutletBoundary"]
+8:I[5278,[],"AsyncMetadataOutlet"]
+b:I[7150,[],""]
+:HL["/ai-course-site/_next/static/css/d95fb35eb6f8b422.css","style"]
+0:{"P":null,"b":"X8etduvi9QkiRbgJrCKEG","p":"/ai-course-site","c":["","course","java-basic","16",""],"i":false,"f":[[["",{"children":["course",{"children":[["key","java-basic","d"],{"children":[["ch","16","d"],{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/ai-course-site/_next/static/css/d95fb35eb6f8b422.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"zh-CN","suppressHydrationWarning":true,"children":[["$","head",null,{"children":["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var t=localStorage.getItem(\"theme\");var d=t?t===\"dark\":window.matchMedia(\"(prefers-color-scheme: dark)\").matches;if(d)document.documentElement.classList.add(\"dark\");}catch(e){}})();"}}]}],["$","body",null,{"children":[["$","$L2",null,{"families":[{"key":"agent","name":"AI · Agent 开发"},{"key":"engineering","name":"AI · Agent 工程化"},{"key":"dev","name":"编程与工程基础"}]}],["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","footer",null,{"className":"mx-auto max-w-[52rem] px-6 pb-10 text-center text-xs text-label3","children":"AI大全栈 · 课程手册 — 由课件自动生成，仅供学习使用"}]]}]]}]]}],{"children":["course",["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["key","java-basic","d"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["ch","16","d"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L5",null,["$","$L6",null,{"children":["$L7",["$","$L8",null,{"promise":"$@9"}]]}]]}],{},null,false]},[["$","div","l",{"className":"doc-wrap","children":["$","div",null,{"className":"doc","aria-busy":"true","aria-label":"加载中","children":[["$","div",null,{"className":"mb-2 h-3.5 w-28 animate-pulse rounded bg-fill2"}],["$","div",null,{"className":"mb-6 h-8 w-2/3 animate-pulse rounded bg-fill2"}],["$","div",null,{"className":"space-y-3.5","children":[["$","div","0",{"className":"h-4 animate-pulse rounded bg-fill2","style":{"width":"92%"}}],["$","div","1",{"className":"h-4 animate-pulse rounded bg-fill2","style":{"width":"100%"}}],["$","div","2",{"className":"h-4 animate-pulse rounded bg-fill2","style":{"width":"96%"}}],["$","div","3",{"className":"h-4 animate-pulse rounded bg-fill2","style":{"width":"60%"}}]]}],["$","div",null,{"className":"my-8 h-32 animate-pulse rounded-xl bg-fill"}],["$","div",null,{"className":"space-y-3.5","children":[["$","div","0",{"className":"h-4 animate-pulse rounded bg-fill2","style":{"width":"100%"}}],["$","div","1",{"className":"h-4 animate-pulse rounded bg-fill2","style":{"width":"88%"}}],["$","div","2",{"className":"h-4 animate-pulse rounded bg-fill2","style":{"width":"95%"}}],["$","div","3",{"className":"h-4 animate-pulse rounded bg-fill2","style":{"width":"72%"}}],["$","div","4",{"className":"h-4 animate-pulse rounded bg-fill2","style":{"width":"100%"}}]]}]]}]}],[],[]],false]},null,false]},null,false]},null,false],"$La",false]],"m":"$undefined","G":["$b",[]],"s":false,"S":true}
+c:I[4431,[],"ViewportBoundary"]
+e:I[4431,[],"MetadataBoundary"]
+f:"$Sreact.suspense"
+a:["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$f",null,{"fallback":null,"children":"$L10"}]}]}]]}]
+11:I[7010,["619","static/chunks/619-ba102abea3e3d0e4.js","526","static/chunks/app/course/%5Bkey%5D/%5Bch%5D/page-4b7f30b4efe73131.js"],"default"]
+12:I[6710,["619","static/chunks/619-ba102abea3e3d0e4.js","526","static/chunks/app/course/%5Bkey%5D/%5Bch%5D/page-4b7f30b4efe73131.js"],"default"]
+5:[["$","$L11",null,{"url":"/course/java-basic/16/","title":"Java特性拾遗与精进","course":"Java语言核心精讲"}],["$","div",null,{"className":"doc-wrap","children":[["$","$L12",null,{"courses":[{"key":"py","title":"Python语言核心精讲","glyph":"Py","cls":"b1","coming_soon":false,"modules":[{"name":"语言基础","chapters":[{"n":1,"slug":"1","title":"必看导言","group":"语言基础","progress_key":"1"},{"n":2,"slug":"2","title":"python环境安装","group":"语言基础","progress_key":"2"},{"n":3,"slug":"3","title":"python基本语法","group":"语言基础","progress_key":"3"},{"n":4,"slug":"4","title":"容器类型","group":"语言基础","progress_key":"4"},{"n":5,"slug":"5","title":"函数","group":"语言基础","progress_key":"5"},{"n":6,"slug":"6","title":"作用域","group":"语言基础","progress_key":"6"},{"n":7,"slug":"7","title":"lambda表达式","group":"语言基础","progress_key":"7"}]},{"name":"面向对象","chapters":[{"n":8,"slug":"8","title":"类和对象","group":"面向对象","progress_key":"8"},{"n":9,"slug":"9","title":"对象的类型","group":"面向对象","progress_key":"9"},{"n":10,"slug":"10","title":"对象的创建过程","group":"面向对象","progress_key":"10"},{"n":11,"slug":"11","title":"可调用对象","group":"面向对象","progress_key":"11"},{"n":12,"slug":"12","title":"元类","group":"面向对象","progress_key":"12"},{"n":13,"slug":"13","title":"装饰器","group":"面向对象","progress_key":"13"},{"n":14,"slug":"14","title":"魔术方法","group":"面向对象","progress_key":"14"},{"n":15,"slug":"15","title":"描述符","group":"面向对象","progress_key":"15"}]},{"name":"语言进阶","chapters":[{"n":16,"slug":"16","title":"异常处理","group":"语言进阶","progress_key":"16"},{"n":17,"slug":"17","title":"迭代器与生成器","group":"语言进阶","progress_key":"17"},{"n":18,"slug":"18","title":"上下文管理器","group":"语言进阶","progress_key":"18"},{"n":19,"slug":"19","title":"ABC","group":"语言进阶","progress_key":"19"},{"n":20,"slug":"20","title":"类型标注","group":"语言进阶","progress_key":"20"},{"n":21,"slug":"21","title":"模块化","group":"语言进阶","progress_key":"21"},{"n":22,"slug":"22","title":"标准库","group":"语言进阶","progress_key":"22"},{"n":23,"slug":"23","title":"第三方库","group":"语言进阶","progress_key":"23"}]},{"name":"异步与并发","chapters":[{"n":24,"slug":"24","title":"事件循环","group":"异步与并发","progress_key":"24"},{"n":25,"slug":"25","title":"Future类","group":"异步与并发","progress_key":"25"},{"n":26,"slug":"26","title":"协程 Coroutine","group":"异步与并发","progress_key":"26"},{"n":27,"slug":"27","title":"异步编程","group":"异步与并发","progress_key":"27"},{"n":28,"slug":"28","title":"多线程与多进程","group":"异步与并发","progress_key":"28"}]},{"name":"工程化实践","chapters":[{"n":29,"slug":"29","title":"构建发布","group":"工程化实践","progress_key":"29"},{"n":30,"slug":"30","title":"项目管理工具","group":"工程化实践","progress_key":"30"},{"n":31,"slug":"31","title":"monorepo","group":"工程化实践","progress_key":"31"},{"n":32,"slug":"32","title":"断点调试","group":"工程化实践","progress_key":"32"}]},{"name":"项目案例","chapters":[{"n":null,"slug":"proj-async-agents","title":"多智能体协同调研系统","group":"项目案例","progress_key":""},{"n":null,"slug":"proj-duyi-utils","title":"duyi-utils 构建发布示例","group":"项目案例","progress_key":""}]}]},{"key":"fw","title":"Python框架","glyph":"架","cls":"b-fw","coming_soon":false,"modules":[{"name":"课程内容","chapters":[{"n":1,"slug":"1","title":"Web服务框架","group":"课程内容","progress_key":"fw-1"},{"n":2,"slug":"2","title":"优化包结构","group":"课程内容","progress_key":"fw-2"},{"n":3,"slug":"3","title":"初识SQLAlchemy","group":"课程内容","progress_key":"fw-3"},{"n":4,"slug":"4","title":"ORM","group":"课程内容","progress_key":"fw-4"},{"n":5,"slug":"5","title":"数据操作","group":"课程内容","progress_key":"fw-5"},{"n":6,"slug":"6","title":"数据迁移","group":"课程内容","progress_key":"fw-6"},{"n":7,"slug":"7","title":"业务逻辑","group":"课程内容","progress_key":"fw-7"},{"n":8,"slug":"8","title":"依赖注入","group":"课程内容","progress_key":"fw-8"},{"n":9,"slug":"9","title":"统一异常处理","group":"课程内容","progress_key":"fw-9"},{"n":10,"slug":"10","title":"中间件","group":"课程内容","progress_key":"fw-10"},{"n":11,"slug":"11","title":"测试框架","group":"课程内容","progress_key":"fw-11"},{"n":12,"slug":"12","title":"测试方案","group":"课程内容","progress_key":"fw-12"},{"n":13,"slug":"13","title":"三层架构","group":"课程内容","progress_key":"fw-13"},{"n":14,"slug":"14","title":"文件上传","group":"课程内容","progress_key":"fw-14"},{"n":15,"slug":"15","title":"系统设置","group":"课程内容","progress_key":"fw-15"},{"n":17,"slug":"17","title":"用户系统","group":"课程内容","progress_key":"fw-17"},{"n":18,"slug":"18","title":"日志","group":"课程内容","progress_key":"fw-18"},{"n":20,"slug":"20","title":"流式响应","group":"课程内容","progress_key":"fw-20"},{"n":26,"slug":"26","title":"python收官检验","group":"课程内容","progress_key":"fw-26"}]},{"name":"部署","chapters":[{"n":21,"slug":"21","title":"部署-认识Docker","group":"部署","progress_key":"fw-21"},{"n":22,"slug":"22","title":"部署-云资产","group":"部署","progress_key":"fw-22"},{"n":23,"slug":"23","title":"部署-k8s","group":"部署","progress_key":"fw-23"},{"n":24,"slug":"24","title":"部署-CICD","group":"部署","progress_key":"fw-24"},{"n":25,"slug":"25","title":"部署-总结","group":"部署","progress_key":"fw-25"}]}]},{"key":"db","title":"数据库","glyph":"库","cls":"b-db","coming_soon":false,"modules":[{"name":"课程内容","chapters":[{"n":1,"slug":"1","title":"PostgreSQL安装","group":"课程内容","progress_key":"db-1"},{"n":2,"slug":"2","title":"DDL","group":"课程内容","progress_key":"db-2"},{"n":3,"slug":"3","title":"表间关系","group":"课程内容","progress_key":"db-3"},{"n":4,"slug":"4","title":"DML","group":"课程内容","progress_key":"db-4"},{"n":5,"slug":"5","title":"事务","group":"课程内容","progress_key":"db-5"},{"n":6,"slug":"6","title":"索引","group":"课程内容","progress_key":"db-6"},{"n":7,"slug":"7","title":"拓展知识","group":"课程内容","progress_key":"db-7"}]}]},{"key":"dst","title":"数据科学工具包","glyph":"数","cls":"b-ds","coming_soon":false,"modules":[{"name":"课程内容","chapters":[{"n":1,"slug":"1","title":"课程导言","group":"课程内容","progress_key":"dst-1"},{"n":2,"slug":"2","title":"Jupyter","group":"课程内容","progress_key":"dst-2"},{"n":10,"slug":"10","title":"Seaborn","group":"课程内容","progress_key":"dst-10"}]},{"name":"Numpy","chapters":[{"n":3,"slug":"3","title":"Numpy - 核心概念","group":"Numpy","progress_key":"dst-3"},{"n":4,"slug":"4","title":"Numpy - 数据操作","group":"Numpy","progress_key":"dst-4"}]},{"name":"Pandas","chapters":[{"n":5,"slug":"5","title":"Pandas - 数据类型","group":"Pandas","progress_key":"dst-5"},{"n":6,"slug":"6","title":"Pandas - 数据清洗","group":"Pandas","progress_key":"dst-6"}]},{"name":"Matplotlib","chapters":[{"n":7,"slug":"7","title":"Matplotlib - 核心概念","group":"Matplotlib","progress_key":"dst-7"},{"n":8,"slug":"8","title":"Matplotlib - 动画","group":"Matplotlib","progress_key":"dst-8"},{"n":9,"slug":"9","title":"Matplotlib - 交互式组件","group":"Matplotlib","progress_key":"dst-9"}]}]},{"key":"java-basic","title":"Java语言核心精讲","glyph":"J","cls":"b-java","coming_soon":false,"modules":[{"name":"课程内容","chapters":[{"n":1,"slug":"1","title":"课程导言","group":"课程内容","progress_key":"java-basic-1","sections":[{"name":"三个问题","anchor":"三个问题"},{"name":"讲师介绍：郑天民","anchor":"讲师介绍郑天民"},{"name":"为什么要学Java？","anchor":"为什么要学Java"},{"name":"怎么学Java？","anchor":"怎么学Java"},{"name":"作业","anchor":"作业"}]},{"n":2,"slug":"2","title":"构建第一个Java应用程序","group":"课程内容","progress_key":"java-basic-2","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"Java核心概念","anchor":"Java核心概念"},{"name":"安装和配置JDK","anchor":"安装和配置JDK"},{"name":"创建和运行第一个Java项目","anchor":"创建和运行第一个Java项目"},{"name":"常见问题总结","anchor":"常见问题总结"},{"name":"作业","anchor":"作业"}]},{"n":3,"slug":"3","title":"Java基础语法","group":"课程内容","progress_key":"java-basic-3","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"语言基本特征","anchor":"语言基本特征"},{"name":"注释","anchor":"注释"},{"name":"数据类型","anchor":"数据类型"},{"name":"instanceof 与类型检查","anchor":"instanceof-与类型检查"},{"name":"变量","anchor":"变量"},{"name":"字符串格式化","anchor":"字符串格式化"},{"name":"运算符","anchor":"运算符"},{"name":"输入输出","anchor":"输入输出"},{"name":"流程控制","anchor":"流程控制"},{"name":"循环","anchor":"循环"},{"name":"作业","anchor":"作业"}]},{"n":4,"slug":"4","title":"容器类型","group":"课程内容","progress_key":"java-basic-4","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"什么是容器类型？","anchor":"什么是容器类型"},{"name":"List 接口（列表）","anchor":"List-接口列表"},{"name":"Set 接口（集合）","anchor":"Set-接口集合"},{"name":"Map 接口（字典，映射表，键值对）","anchor":"Map-接口字典映射表键值对"},{"name":"数组（Array）","anchor":"数组Array"},{"name":"String 作为字符序列","anchor":"String-作为字符序列"},{"name":"通用操作","anchor":"通用操作"},{"name":"常用运算符与操作","anchor":"常用运算符与操作"},{"name":"遍历容器","anchor":"遍历容器"},{"name":"思维导图","anchor":"思维导图"},{"name":"作业","anchor":"作业"}]},{"n":5,"slug":"5","title":"方法","group":"课程内容","progress_key":"java-basic-5","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"关于类和方法","anchor":"关于类和方法"},{"name":"静态方法 vs 实例方法","anchor":"静态方法-vs-实例方法"},{"name":"定义方法","anchor":"定义方法"},{"name":"参数","anchor":"参数"},{"name":"返回值","anchor":"返回值"},{"name":"访问修饰符（控制方法可见性）","anchor":"访问修饰符控制方法可见性"},{"name":"文档注释（Javadoc）","anchor":"文档注释Javadoc"},{"name":"作业","anchor":"作业"}]},{"n":6,"slug":"6","title":"Lambda表达式","group":"课程内容","progress_key":"java-basic-6","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"什么是 Lambda 表达式","anchor":"什么是-Lambda-表达式"},{"name":"函数式接口（Functional Interface）","anchor":"函数式接口Functional-Interface"},{"name":"Lambda 表达式语法","anchor":"Lambda-表达式语法"},{"name":"Java 内置函数式接口详解","anchor":"Java-内置函数式接口详解"},{"name":"方法引用（Method Reference）","anchor":"方法引用Method-Reference"},{"name":"对比：匿名内部类 vs Lambda","anchor":"对比匿名内部类-vs-Lambda"},{"name":"注意事项","anchor":"注意事项"},{"name":"作业","anchor":"作业"}]},{"n":7,"slug":"7","title":"Stream API","group":"课程内容","progress_key":"java-basic-7","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"什么是 Stream API","anchor":"什么是-Stream-API"},{"name":"Stream 的创建","anchor":"Stream-的创建"},{"name":"终端操作（Terminal Operations）","anchor":"终端操作Terminal-Operations"},{"name":"中间操作（Intermediate Operations）","anchor":"中间操作Intermediate-Operations"},{"name":"Stream 操作经典示例","anchor":"Stream-操作经典示例"},{"name":"注意事项","anchor":"注意事项"},{"name":"作业","anchor":"作业"}]},{"n":8,"slug":"8","title":"类和对象","group":"课程内容","progress_key":"java-basic-8","sections":[{"name":"类和对象","anchor":"类和对象"},{"name":"课程目标","anchor":"课程目标"},{"name":"面向对象编程概述","anchor":"面向对象编程概述"},{"name":"类的基本定义","anchor":"类的基本定义"},{"name":"对象的创建和使用","anchor":"对象的创建和使用"},{"name":"构造方法（Constructor）","anchor":"构造方法Constructor"},{"name":"this 关键字","anchor":"this-关键字"},{"name":"静态成员（static）","anchor":"静态成员static"},{"name":"代码块","anchor":"代码块"},{"name":"作业","anchor":"作业"}]},{"n":9,"slug":"9","title":"封装、继承和多态","group":"课程内容","progress_key":"java-basic-9","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"封装（Encapsulation）","anchor":"封装Encapsulation"},{"name":"继承（Inheritance）","anchor":"继承Inheritance"},{"name":"多态（Polymorphism）","anchor":"多态Polymorphism"},{"name":"综合示例：动物园饲养系统","anchor":"综合示例动物园饲养系统"},{"name":"作业","anchor":"作业"}]},{"n":10,"slug":"10","title":"抽象类和接口","group":"课程内容","progress_key":"java-basic-10","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"抽象类（Abstract Class）","anchor":"抽象类Abstract-Class"},{"name":"接口（Interface）","anchor":"接口Interface"},{"name":"抽象类 vs 接口","anchor":"抽象类-vs-接口"},{"name":"综合示例：绘图系统（抽象类 + 接口）","anchor":"综合示例绘图系统抽象类-接口"},{"name":"作业","anchor":"作业"}]},{"n":11,"slug":"11","title":"包管理","group":"课程内容","progress_key":"java-basic-11","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"什么是包","anchor":"什么是包"},{"name":"包的作用","anchor":"包的作用"},{"name":"包名命名规范","anchor":"包名命名规范"},{"name":"包的声明","anchor":"包的声明"},{"name":"包的导入","anchor":"包的导入"},{"name":"包与目录结构","anchor":"包与目录结构"},{"name":"包的可见性与访问控制","anchor":"包的可见性与访问控制"},{"name":"Java 模块化系统（Java 9+）","anchor":"Java-模块化系统Java-9"},{"name":"注意事项","anchor":"注意事项"},{"name":"作业","anchor":"作业"}]},{"n":12,"slug":"12","title":"异常处理","group":"课程内容","progress_key":"java-basic-12","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"什么是异常","anchor":"什么是异常"},{"name":"Java 异常体系","anchor":"Java-异常体系"},{"name":"异常处理关键字","anchor":"异常处理关键字"},{"name":"try-catch 块","anchor":"try-catch-块"},{"name":"finally 块","anchor":"finally-块"},{"name":"throw 和 throws","anchor":"throw-和-throws"},{"name":"自定义异常","anchor":"自定义异常"},{"name":"try-with-resources（自动资源管理）","anchor":"try-with-resources自动资源管理"},{"name":"异常处理最佳实践","anchor":"异常处理最佳实践"},{"name":"作业","anchor":"作业"}]},{"n":13,"slug":"13","title":"反射","group":"课程内容","progress_key":"java-basic-13","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"什么是反射","anchor":"什么是反射"},{"name":"获取 Class 对象","anchor":"获取-Class-对象"},{"name":"通过反射获取类信息","anchor":"通过反射获取类信息"},{"name":"通过反射创建对象","anchor":"通过反射创建对象"},{"name":"通过反射调用方法","anchor":"通过反射调用方法"},{"name":"通过反射访问字段","anchor":"通过反射访问字段"},{"name":"反射操作数组","anchor":"反射操作数组"},{"name":"反射的优缺点","anchor":"反射的优缺点"},{"name":"典型应用场景","anchor":"典型应用场景"},{"name":"作业","anchor":"作业"}]},{"n":14,"slug":"14","title":"泛型","group":"课程内容","progress_key":"java-basic-14","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"什么是泛型","anchor":"什么是泛型"},{"name":"泛型类（Generic Class）","anchor":"泛型类Generic-Class"},{"name":"泛型方法（Generic Method）","anchor":"泛型方法Generic-Method"},{"name":"泛型接口（Generic Interface）","anchor":"泛型接口Generic-Interface"},{"name":"类型通配符（Wildcard）","anchor":"类型通配符Wildcard"},{"name":"泛型的使用限制","anchor":"泛型的使用限制"},{"name":"泛型与继承","anchor":"泛型与继承"},{"name":"完整示例：泛型在集合中的应用","anchor":"完整示例泛型在集合中的应用"},{"name":"作业","anchor":"作业"}]},{"n":15,"slug":"15","title":"注解","group":"课程内容","progress_key":"java-basic-15","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"什么是注解","anchor":"什么是注解"},{"name":"内置注解（Built-in Annotations）","anchor":"内置注解Built-in-Annotations"},{"name":"元注解（Meta-Annotations）","anchor":"元注解Meta-Annotations"},{"name":"自定义注解","anchor":"自定义注解"},{"name":"注解的应用场景","anchor":"注解的应用场景"},{"name":"注意事项","anchor":"注意事项"},{"name":"作业","anchor":"作业"}]},{"n":16,"slug":"16","title":"Java特性拾遗与精进","group":"课程内容","progress_key":"java-basic-16","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"生活中的类比","anchor":"生活中的类比"},{"name":"final 的精细化","anchor":"final-的精细化"},{"name":"枚举（enum）","anchor":"枚举enum"},{"name":"文本块（Text Blocks）","anchor":"文本块Text-Blocks"},{"name":"Record类","anchor":"Record类"},{"name":"Optional 容器类","anchor":"Optional-容器类"},{"name":"== 与 equals 的终极对比","anchor":"与-equals-的终极对比"},{"name":"assert 断言语法","anchor":"assert-断言语法"},{"name":"常用工具类","anchor":"常用工具类"},{"name":"代码风格与规范（Google Java Style）","anchor":"代码风格与规范Google-Java-Style"},{"name":"作业","anchor":"作业"}]},{"n":17,"slug":"17","title":"线程基础与创建方式","group":"课程内容","progress_key":"java-basic-17","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"生活中的多线程","anchor":"生活中的多线程"},{"name":"进程与线程概述","anchor":"进程与线程概述"},{"name":"Java 中的主线程","anchor":"Java-中的主线程"},{"name":"创建线程的三种方式","anchor":"创建线程的三种方式"},{"name":"start() vs run() 的重要区别","anchor":"start-vs-run-的重要区别"},{"name":"作业","anchor":"作业"}]},{"n":18,"slug":"18","title":"线程生命周期与控制方法","group":"课程内容","progress_key":"java-basic-18","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"生活中的状态类比","anchor":"生活中的状态类比"},{"name":"线程的六种状态","anchor":"线程的六种状态"},{"name":"线程状态转换图","anchor":"线程状态转换图"},{"name":"线程控制方法详解","anchor":"线程控制方法详解"},{"name":"守护线程","anchor":"守护线程"},{"name":"作业","anchor":"作业"}]},{"n":19,"slug":"19","title":"线程安全与锁机制","group":"课程内容","progress_key":"java-basic-19","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"生活中的线程安全问题","anchor":"生活中的线程安全问题"},{"name":"线程安全问题引入","anchor":"线程安全问题引入"},{"name":"synchronized 内置锁","anchor":"synchronized-内置锁"},{"name":"volatile 关键字","anchor":"volatile-关键字"},{"name":"Lock 接口与 ReentrantLock","anchor":"Lock-接口与-ReentrantLock"},{"name":"synchronized vs ReentrantLock 对比","anchor":"synchronized-vs-ReentrantLock-对比"},{"name":"死锁","anchor":"死锁"},{"name":"作业","anchor":"作业"}]},{"n":20,"slug":"20","title":"线程池与Executor框架","group":"课程内容","progress_key":"java-basic-20","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"生活中的线程池类比","anchor":"生活中的线程池类比"},{"name":"Executor 框架体系","anchor":"Executor-框架体系"},{"name":"四种常用线程池","anchor":"四种常用线程池"},{"name":"ThreadPoolExecutor 核心参数","anchor":"ThreadPoolExecutor-核心参数"},{"name":"提交任务","anchor":"提交任务"},{"name":"Callable 与 Future","anchor":"Callable-与-Future"},{"name":"关闭线程池","anchor":"关闭线程池"},{"name":"注意事项与最佳实践","anchor":"注意事项与最佳实践"},{"name":"作业","anchor":"作业"}]},{"n":21,"slug":"21","title":"并发集合与同步工具类","group":"课程内容","progress_key":"java-basic-21","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"生活中的并发容器与协同工具","anchor":"生活中的并发容器与协同工具"},{"name":"传统集合的线程安全问题","anchor":"传统集合的线程安全问题"},{"name":"ConcurrentHashMap","anchor":"ConcurrentHashMap"},{"name":"CopyOnWriteArrayList","anchor":"CopyOnWriteArrayList"},{"name":"阻塞队列 BlockingQueue","anchor":"阻塞队列-BlockingQueue"},{"name":"同步工具类","anchor":"同步工具类"},{"name":"对比总结","anchor":"对比总结"},{"name":"作业","anchor":"作业"}]},{"n":22,"slug":"22","title":"高级并发与最佳实践","group":"课程内容","progress_key":"java-basic-22","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"CompletableFuture —— 异步编程的利器","anchor":"CompletableFuture-异步编程的利器"},{"name":"ThreadLocal —— 线程本地变量","anchor":"ThreadLocal-线程本地变量"},{"name":"原子类","anchor":"原子类"},{"name":"作业","anchor":"作业"}]},{"n":23,"slug":"23","title":"Maven入门与环境配置","group":"课程内容","progress_key":"java-basic-23","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"从一个简单项目看传统依赖管理的痛点","anchor":"从一个简单项目看传统依赖管理的痛点"},{"name":"Maven安装与配置","anchor":"Maven安装与配置"},{"name":"settings.xml配置","anchor":"settingsxml配置"},{"name":"第一个Maven项目","anchor":"第一个Maven项目"},{"name":"Maven常用命令初体验","anchor":"Maven常用命令初体验"},{"name":"作业","anchor":"作业"}]},{"n":24,"slug":"24","title":"POM文件与依赖管理","group":"课程内容","progress_key":"java-basic-24","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"POM 文件结构详解","anchor":"POM-文件结构详解"},{"name":"依赖管理（Dependency Management）","anchor":"依赖管理Dependency-Management"},{"name":"版本管理策略","anchor":"版本管理策略"},{"name":"实践示例：将上节课的手工项目转为 Maven 项目","anchor":"实践示例将上节课的手工项目转为-Maven-项目"},{"name":"作业","anchor":"作业"}]},{"n":25,"slug":"25","title":"Maven生命周期与插件体系","group":"课程内容","progress_key":"java-basic-25","sections":[{"name":"生活中的类比：从咖啡店到构建工厂","anchor":"生活中的类比从咖啡店到构建工厂"},{"name":"Maven 生命周期","anchor":"Maven-生命周期"},{"name":"Maven 插件体系","anchor":"Maven-插件体系"},{"name":"常用命令与实战","anchor":"常用命令与实战"},{"name":"常见问题与解决方案","anchor":"常见问题与解决方案"},{"name":"作业","anchor":"作业"}]},{"n":26,"slug":"26","title":"多模块项目管理","group":"课程内容","progress_key":"java-basic-26","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"生活中的多模块类比","anchor":"生活中的多模块类比"},{"name":"为什么需要多模块项目","anchor":"为什么需要多模块项目"},{"name":"聚合（Aggregation）","anchor":"聚合Aggregation"},{"name":"继承（Inheritance）","anchor":"继承Inheritance"},{"name":"聚合 vs 继承","anchor":"聚合-vs-继承"},{"name":"多模块项目结构最佳实践","anchor":"多模块项目结构最佳实践"},{"name":"版本管理最佳实践","anchor":"版本管理最佳实践"},{"name":"常见问题与解决方案","anchor":"常见问题与解决方案"},{"name":"作业","anchor":"作业"}]}]}]},{"key":"spring-boot","title":"单体系统和Spring Boot","glyph":"B","cls":"b-ds","coming_soon":false,"modules":[{"name":"课程内容","chapters":[{"n":1,"slug":"1","title":"课程导言","group":"课程内容","progress_key":"spring-boot-1"},{"n":2,"slug":"2","title":"Spring Boot概述与快速入门","group":"课程内容","progress_key":"spring-boot-2"},{"n":3,"slug":"3","title":"Spring Boot应用程序结构与分层设计","group":"课程内容","progress_key":"spring-boot-3"},{"n":4,"slug":"4","title":"Spring Boot配置体系","group":"课程内容","progress_key":"spring-boot-4"},{"n":5,"slug":"5","title":"自动配置原理与Starter机制","group":"课程内容","progress_key":"spring-boot-5"},{"n":6,"slug":"6","title":"依赖注入基本概念与三种注入方式","group":"课程内容","progress_key":"spring-boot-6"},{"n":7,"slug":"7","title":"@Autowired详解与注入决策流程","group":"课程内容","progress_key":"spring-boot-7"},{"n":8,"slug":"8","title":"循环依赖与三级缓存机制","group":"课程内容","progress_key":"spring-boot-8"},{"n":9,"slug":"9","title":"AOP编程思想与动态代理机制","group":"课程内容","progress_key":"spring-boot-9"},{"n":10,"slug":"10","title":"Spring AOP实战：日志切面","group":"课程内容","progress_key":"spring-boot-10"},{"n":11,"slug":"11","title":"Spring AOP实战：性能监控与异常处理","group":"课程内容","progress_key":"spring-boot-11"},{"n":12,"slug":"12","title":"HTTP协议与Web服务开发流程","group":"课程内容","progress_key":"spring-boot-12"},{"n":13,"slug":"13","title":"Servlet与Spring WebMVC架构解析","group":"课程内容","progress_key":"spring-boot-13"},{"n":14,"slug":"14","title":"REST API开发：请求映射与参数处理","group":"课程内容","progress_key":"spring-boot-14"},{"n":15,"slug":"15","title":"REST API开发：响应封装和全局异常处理","group":"课程内容","progress_key":"spring-boot-15"},{"n":16,"slug":"16","title":"REST API高级：过滤器与拦截器实战","group":"课程内容","progress_key":"spring-boot-16"},{"n":17,"slug":"17","title":"REST API文档自动生成与API规范","group":"课程内容","progress_key":"spring-boot-17"},{"n":18,"slug":"18","title":"RestTemplate与服务间调用","group":"课程内容","progress_key":"spring-boot-18"},{"n":19,"slug":"19","title":"Spring WebFlux编程模型与实战","group":"课程内容","progress_key":"spring-boot-19"},{"n":20,"slug":"20","title":"JDBC规范解析","group":"课程内容","progress_key":"spring-boot-20"},{"n":21,"slug":"21","title":"Spring JDBC解决方案与JdbcTemplate基础","group":"课程内容","progress_key":"spring-boot-21"},{"n":22,"slug":"22","title":"JdbcTemplate高级操作与SimpleJdbcInsert","group":"课程内容","progress_key":"spring-boot-22"},{"n":23,"slug":"23","title":"自己动手写一个JdbcTemplate","group":"课程内容","progress_key":"spring-boot-23"},{"n":24,"slug":"24","title":"Spring事务管理基础","group":"课程内容","progress_key":"spring-boot-24"},{"n":25,"slug":"25","title":"Spring声明式事务与事务传播","group":"课程内容","progress_key":"spring-boot-25"},{"n":26,"slug":"26","title":"ORM核心概念与Spring Data架构","group":"课程内容","progress_key":"spring-boot-26"},{"n":27,"slug":"27","title":"Spring Data JPA快速上手","group":"课程内容","progress_key":"spring-boot-27"},{"n":28,"slug":"28","title":"Spring Data JPA高级查询","group":"课程内容","progress_key":"spring-boot-28"},{"n":29,"slug":"29","title":"Spring Data JPA关联映射与实战","group":"课程内容","progress_key":"spring-boot-29"},{"n":30,"slug":"30","title":"MyBatis 概述与 Spring Boot 集成","group":"课程内容","progress_key":"spring-boot-30"},{"n":31,"slug":"31","title":"MyBatis 映射文件与动态 SQL","group":"课程内容","progress_key":"spring-boot-31"},{"n":32,"slug":"32","title":"MyBatis 高级特性","group":"课程内容","progress_key":"spring-boot-32"},{"n":33,"slug":"33","title":"MyBatis-Plus 概述与快速上手","group":"课程内容","progress_key":"spring-boot-33"},{"n":34,"slug":"34","title":"MyBatis-Plus 条件构造器与分页插件","group":"课程内容","progress_key":"spring-boot-34"},{"n":35,"slug":"35","title":"MyBatis-Plus 扩展","group":"课程内容","progress_key":"spring-boot-35"},{"n":36,"slug":"36","title":"缓存概述与 Spring Cache 入门","group":"课程内容","progress_key":"spring-boot-36"},{"n":37,"slug":"37","title":"Spring Cache 核心注解详解","group":"课程内容","progress_key":"spring-boot-37"},{"n":38,"slug":"38","title":"缓存管理器与缓存存储配置","group":"课程内容","progress_key":"spring-boot-38"},{"n":39,"slug":"39","title":"缓存注解高级特性","group":"课程内容","progress_key":"spring-boot-39"},{"n":40,"slug":"40","title":"缓存原理与自定义扩展","group":"课程内容","progress_key":"spring-boot-40"},{"n":41,"slug":"41","title":"缓存核心问题与最佳实践","group":"课程内容","progress_key":"spring-boot-41"},{"n":42,"slug":"42","title":"异步处理概述与 Spring Async 入门","group":"课程内容","progress_key":"spring-boot-42"},{"n":43,"slug":"43","title":"任务执行器配置与线程池管理","group":"课程内容","progress_key":"spring-boot-43"},{"n":44,"slug":"44","title":"异步方法返回值与异常处理","group":"课程内容","progress_key":"spring-boot-44"},{"n":45,"slug":"45","title":"异步事件与 ApplicationEvent","group":"课程内容","progress_key":"spring-boot-45"},{"n":46,"slug":"46","title":"Web 异步处理","group":"课程内容","progress_key":"spring-boot-46"},{"n":47,"slug":"47","title":"TaskScheduler 调度器","group":"课程内容","progress_key":"spring-boot-47"},{"n":48,"slug":"48","title":"@Scheduled 注解应用","group":"课程内容","progress_key":"spring-boot-48"},{"n":49,"slug":"49","title":"Cron 表达式与调度综合实战","group":"课程内容","progress_key":"spring-boot-49"},{"n":50,"slug":"50","title":"批处理机制与 Spring Batch 快速入门","group":"课程内容","progress_key":"spring-boot-50"},{"n":51,"slug":"51","title":"ItemReader、Processor和Writer 实战","group":"课程内容","progress_key":"spring-boot-51"},{"n":52,"slug":"52","title":"JobRepository 与作业元数据管理","group":"课程内容","progress_key":"spring-boot-52"},{"n":53,"slug":"53","title":"批处理异常处理与重启机制","group":"课程内容","progress_key":"spring-boot-53"},{"n":54,"slug":"54","title":"批处理监听器与任务调度","group":"课程内容","progress_key":"spring-boot-54"},{"n":55,"slug":"55","title":"Actuator 入门与常用端点","group":"课程内容","progress_key":"spring-boot-55"},{"n":56,"slug":"56","title":"健康检查与自定义健康指示器","group":"课程内容","progress_key":"spring-boot-56"},{"n":57,"slug":"57","title":"指标监控与 Micrometer","group":"课程内容","progress_key":"spring-boot-57"},{"n":58,"slug":"58","title":"Spring Boot Admin 可视化监控","group":"课程内容","progress_key":"spring-boot-58"},{"n":59,"slug":"59","title":"测试概述与 JUnit 5 基础","group":"课程内容","progress_key":"spring-boot-59"},{"n":60,"slug":"60","title":"Mockito 与单元测试","group":"课程内容","progress_key":"spring-boot-60"},{"n":61,"slug":"61","title":"Web 层测试：@WebMvcTest","group":"课程内容","progress_key":"spring-boot-61"},{"n":62,"slug":"62","title":"数据层测试：@MybatisPlusTest","group":"课程内容","progress_key":"spring-boot-62"},{"n":63,"slug":"63","title":"端到端集成测试：@SpringBootTest","group":"课程内容","progress_key":"spring-boot-63"}]}]},{"key":"spring-cloud","title":"Spring Cloud Alibaba","glyph":"C","cls":"b3","coming_soon":false,"modules":[{"name":"课程内容","chapters":[{"n":1,"slug":"1","title":"课程导言","group":"课程内容","progress_key":"spring-cloud-1"},{"n":2,"slug":"2","title":"微服务架构与案例系统初始化","group":"课程内容","progress_key":"spring-cloud-2"},{"n":3,"slug":"3","title":"Spring Cloud Alibaba技术栈集成","group":"课程内容","progress_key":"spring-cloud-3"},{"n":4,"slug":"4","title":"微服务拆分与接口设计","group":"课程内容","progress_key":"spring-cloud-4"},{"n":5,"slug":"5","title":"公共模块建设","group":"课程内容","progress_key":"spring-cloud-5"},{"n":6,"slug":"6","title":"Nacos部署与快速上手","group":"课程内容","progress_key":"spring-cloud-6"},{"n":7,"slug":"7","title":"Nacos高可用集群搭建","group":"课程内容","progress_key":"spring-cloud-7"},{"n":8,"slug":"8","title":"图书服务注册到Nacos","group":"课程内容","progress_key":"spring-cloud-8"},{"n":9,"slug":"9","title":"用户与订单服务注册","group":"课程内容","progress_key":"spring-cloud-9"},{"n":10,"slug":"10","title":"Nacos服务发现实战","group":"课程内容","progress_key":"spring-cloud-10"},{"n":11,"slug":"11","title":"Nacos分级模型与Namespace环境隔离","group":"课程内容","progress_key":"spring-cloud-11"},{"n":12,"slug":"12","title":"Nacos Group分组与多环境切换","group":"课程内容","progress_key":"spring-cloud-12"},{"n":13,"slug":"13","title":"Nacos权重路由","group":"课程内容","progress_key":"spring-cloud-13"},{"n":14,"slug":"14","title":"Nacos API 专题","group":"课程内容","progress_key":"spring-cloud-14"},{"n":15,"slug":"15","title":"OpenFeign快速上手","group":"课程内容","progress_key":"spring-cloud-15"},{"n":16,"slug":"16","title":"OpenFeign核心注解详解","group":"课程内容","progress_key":"spring-cloud-16"},{"n":17,"slug":"17","title":"OpenFeign拦截器","group":"课程内容","progress_key":"spring-cloud-17"},{"n":18,"slug":"18","title":"OpenFeign与LoadBalancer集成","group":"课程内容","progress_key":"spring-cloud-18"},{"n":19,"slug":"19","title":"订单-图书远程调用重构","group":"课程内容","progress_key":"spring-cloud-19"},{"n":20,"slug":"20","title":"Spring Cloud LoadBalancer快速上手","group":"课程内容","progress_key":"spring-cloud-20"},{"n":21,"slug":"21","title":"负载均衡算法与LoadBalancer","group":"课程内容","progress_key":"spring-cloud-21"},{"n":22,"slug":"22","title":"自定义负载均衡算法","group":"课程内容","progress_key":"spring-cloud-22"},{"n":23,"slug":"23","title":"标签化负载均衡与灰度发布","group":"课程内容","progress_key":"spring-cloud-23"},{"n":24,"slug":"24","title":"Nacos Config集成与配置迁移","group":"课程内容","progress_key":"spring-cloud-24"},{"n":25,"slug":"25","title":"配置分级模型与DataId实战","group":"课程内容","progress_key":"spring-cloud-25"},{"n":26,"slug":"26","title":"配置灰度发布实战","group":"课程内容","progress_key":"spring-cloud-26"}]}]},{"key":"cloud","title":"云计算","glyph":"云","cls":"b-cloud","coming_soon":true,"modules":[]}],"currentKey":"java-basic","currentSlug":"16"}],"$L13","$L14"]}]]
+15:I[756,["619","static/chunks/619-ba102abea3e3d0e4.js","526","static/chunks/app/course/%5Bkey%5D/%5Bch%5D/page-4b7f30b4efe73131.js"],"default"]
+16:I[1599,["619","static/chunks/619-ba102abea3e3d0e4.js","526","static/chunks/app/course/%5Bkey%5D/%5Bch%5D/page-4b7f30b4efe73131.js"],"default"]
+19:I[5340,["619","static/chunks/619-ba102abea3e3d0e4.js","526","static/chunks/app/course/%5Bkey%5D/%5Bch%5D/page-4b7f30b4efe73131.js"],"default"]
+17:T1d5f2,<h1 id="Java特性拾遗与精进">Java特性拾遗与精进</h1>
+<h2 id="课程目标">课程目标</h2>
+<ul>
+<li>掌握final关键字在不同场景的精细化使用</li>
+<li>掌握枚举（enum）的定义与使用</li>
+<li>掌握文本块（Text Blocks）处理多行字符串</li>
+<li>掌握Record类作为数据载体的使用</li>
+<li>掌握Optional容器进行空值安全处理</li>
+<li>理解<code>==</code>与<code>equals</code>的本质区别</li>
+<li>掌握assert断言进行开发期调试</li>
+<li>熟悉常用工具类（Objects、Collections、Arrays）</li>
+<li>了解Google Java Style代码规范</li>
+</ul>
+<h2 id="生活中的类比">生活中的类比</h2>
+<p>在正式学习之前，先用生活中的例子建立感性认识：</p>
+<table>
+<thead>
+<tr>
+<th>特性</th>
+<th>生活类比</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>final</strong></td>
+<td>“不可更改”的印章（变量不变、方法不可重写、类不可继承）</td>
+</tr>
+<tr>
+<td><strong>枚举（enum）</strong></td>
+<td>预定义的选项菜单（如：春夏秋冬、东南西北）</td>
+</tr>
+<tr>
+<td><strong>文本块（Text Blocks）</strong></td>
+<td>多行文字模板（如：信纸上的书信格式）</td>
+</tr>
+<tr>
+<td><strong>Record类</strong></td>
+<td>简单的数据登记卡（只记录信息，不包含复杂行为）</td>
+</tr>
+<tr>
+<td><strong>Optional</strong></td>
+<td>可能为空或不存在的包裹（先检查再拆开）</td>
+</tr>
+<tr>
+<td><strong><code>==</code> vs <code>equals</code></strong></td>
+<td>“是不是同一个人” vs “名字是否相同”</td>
+</tr>
+<tr>
+<td><strong>assert断言</strong></td>
+<td>安全检测装置（开发期检查，生产期关闭）</td>
+</tr>
+<tr>
+<td><strong>工具类</strong></td>
+<td>工具箱里的常用工具（如：锤子、扳手、螺丝刀）</td>
+</tr>
+<tr>
+<td><strong>代码规范</strong></td>
+<td>统一的字体和书写格式（让所有人都能看懂）</td>
+</tr>
+</tbody>
+</table>
+<h2 id="final-的精细化"><code>final</code> 的精细化</h2>
+<h3 id="final-修饰变量">final 修饰变量</h3>
+<div class="codehilite lang-java"><pre><span></span><code><span class="c1">// 基本类型：值不可变</span>
+<span class="kd">final</span><span class="w"> </span><span class="kt">int</span><span class="w"> </span><span class="n">MAX_SIZE</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="mi">100</span><span class="p">;</span>
+<span class="c1">// MAX_SIZE = 200;  // 编译错误</span>
+
+<span class="c1">// 引用类型：引用不可变，但对象内容可变</span>
+<span class="kd">final</span><span class="w"> </span><span class="n">List</span><span class="o">&lt;</span><span class="n">String</span><span class="o">&gt;</span><span class="w"> </span><span class="n">list</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="k">new</span><span class="w"> </span><span class="n">ArrayList</span><span class="o">&lt;&gt;</span><span class="p">();</span>
+<span class="n">list</span><span class="p">.</span><span class="na">add</span><span class="p">(</span><span class="s">"hello"</span><span class="p">);</span><span class="w">  </span><span class="c1">// ✅ 对象内容可以修改</span>
+<span class="c1">// list = new ArrayList&lt;&gt;();  // ❌ 引用不能重新赋值</span>
+
+<span class="c1">// 空白final：声明时不赋值，构造方法中赋值</span>
+<span class="kd">public</span><span class="w"> </span><span class="kd">class</span> <span class="nc">BlankFinal</span><span class="w"> </span><span class="p">{</span>
+<span class="w">    </span><span class="kd">private</span><span class="w"> </span><span class="kd">final</span><span class="w"> </span><span class="kt">int</span><span class="w"> </span><span class="n">value</span><span class="p">;</span>
+
+<span class="w">    </span><span class="kd">public</span><span class="w"> </span><span class="nf">BlankFinal</span><span class="p">(</span><span class="kt">int</span><span class="w"> </span><span class="n">value</span><span class="p">)</span><span class="w"> </span><span class="p">{</span>
+<span class="w">        </span><span class="k">this</span><span class="p">.</span><span class="na">value</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">value</span><span class="p">;</span>
+<span class="w">    </span><span class="p">}</span>
+<span class="p">}</span>
+</code></pre></div>
+
+<h3 id="final-修饰方法">final 修饰方法</h3>
+<div class="codehilite lang-java"><pre><span></span><code><span class="kd">class</span> <span class="nc">Parent</span><span class="w"> </span><span class="p">{</span>
+<span class="w">    </span><span class="c1">// 该方法不可被子类重写</span>
+<span class="w">    </span><span class="kd">public</span><span class="w"> </span><span class="kd">final</span><span class="w"> </span><span class="kt">void</span><span class="w"> </span><span class="nf">importantMethod</span><span class="p">()</span><span class="w"> </span><span class="p">{</span>
+<span class="w">        </span><span class="n">System</span><span class="p">.</span><span class="na">out</span><span class="p">.</span><span class="na">println</span><span class="p">(</span><span class="s">"重要方法，不能修改"</span><span class="p">);</span>
+<span class="w">    </span><span class="p">}</span>
+
+<span class="w">    </span><span class="kd">public</span><span class="w"> </span><span class="kt">void</span><span class="w"> </span><span class="nf">normalMethod</span><span class="p">()</span><span class="w"> </span><span class="p">{</span>
+<span class="w">        </span><span class="n">System</span><span class="p">.</span><span class="na">out</span><span class="p">.</span><span class="na">println</span><span class="p">(</span><span class="s">"普通方法"</span><span class="p">);</span>
+<span class="w">    </span><span class="p">}</span>
+<span class="p">}</span>
+
+<span class="kd">class</span> <span class="nc">Child</span><span class="w"> </span><span class="kd">extends</span><span class="w"> </span><span class="n">Parent</span><span class="w"> </span><span class="p">{</span>
+<span class="w">    </span><span class="c1">// @Override</span>
+<span class="w">    </span><span class="c1">// public void importantMethod() {}  // ❌ 编译错误：不能重写final方法</span>
+
+<span class="w">    </span><span class="nd">@Override</span>
+<span class="w">    </span><span class="kd">public</span><span class="w"> </span><span class="kt">void</span><span class="w"> </span><span class="nf">normalMethod</span><span class="p">()</span><span class="w"> </span><span class="p">{}</span><span class="w">  </span><span class="c1">// ✅ 可以重写</span>
+<span class="p">}</span>
+</code></pre></div>
+
+<h3 id="final-修饰类">final 修饰类</h3>
+<div class="codehilite lang-java"><pre><span></span><code><span class="c1">// 不可被继承的类（如 String、Integer 就是 final 类）</span>
+<span class="kd">final</span><span class="w"> </span><span class="kd">class</span> <span class="nc">ImmutableClass</span><span class="w"> </span><span class="p">{</span>
+<span class="w">    </span><span class="kd">private</span><span class="w"> </span><span class="kd">final</span><span class="w"> </span><span class="n">String</span><span class="w"> </span><span class="n">value</span><span class="p">;</span>
+
+<span class="w">    </span><span class="kd">public</span><span class="w"> </span><span class="nf">ImmutableClass</span><span class="p">(</span><span class="n">String</span><span class="w"> </span><span class="n">value</span><span class="p">)</span><span class="w"> </span><span class="p">{</span>
+<span class="w">        </span><span class="k">this</span><span class="p">.</span><span class="na">value</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">value</span><span class="p">;</span>
+<span class="w">    </span><span class="p">}</span>
+<span class="p">}</span>
+
+<span class="c1">// class ChildClass extends ImmutableClass {}  // ❌ 编译错误</span>
+</code></pre></div>
+
+<h3 id="最佳实践总结">最佳实践总结</h3>
+<table>
+<thead>
+<tr>
+<th>场景</th>
+<th>建议</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>常量值</td>
+<td>使用 <code>public static final</code></td>
+</tr>
+<tr>
+<td>方法参数</td>
+<td>不希望被修改时加 <code>final</code></td>
+</tr>
+<tr>
+<td>实例字段</td>
+<td>不可变对象中加 <code>final</code></td>
+</tr>
+<tr>
+<td>核心方法</td>
+<td>不希望被子类重写时加 <code>final</code></td>
+</tr>
+<tr>
+<td>工具类</td>
+<td>使用 <code>final class</code> + 私有构造方法</td>
+</tr>
+</tbody>
+</table>
+<blockquote>
+<p>[!NOTE]</p>
+<p>现代Java中，<code>final</code> 让代码意图更清晰，有助于JVM优化和防止错误。</p>
+</blockquote>
+<h2 id="枚举enum">枚举（enum）</h2>
+<h3 id="什么是枚举">什么是枚举</h3>
+<p>枚举是一种<strong>特殊的类</strong>，用于定义一组<strong>固定的常量</strong>。它提供类型安全的常量定义方式，比传统的<code>public static final</code>更强大、更安全。</p>
+<p><strong>为什么需要枚举：</strong></p>
+<ul>
+<li>让代码更易读、更安全（限定取值范围）</li>
+<li>可附加方法和字段，不仅仅是常量</li>
+<li>编译器会检查赋值是否合法</li>
+</ul>
+<h3 id="定义枚举">定义枚举</h3>
+<div class="codehilite lang-java"><pre><span></span><code><span class="c1">// 基本枚举</span>
+<span class="kd">public</span><span class="w"> </span><span class="kd">enum</span><span class="w"> </span><span class="n">Season</span><span class="w"> </span><span class="p">{</span>
+<span class="w">    </span><span class="n">SPRING</span><span class="p">,</span><span class="w"> </span><span class="n">SUMMER</span><span class="p">,</span><span class="w"> </span><span class="n">AUTUMN</span><span class="p">,</span><span class="w"> </span><span class="n">WINTER</span>
+<span class="p">}</span>
+
+<span class="c1">// 枚举带字段和方法</span>
+<span class="kd">public</span><span class="w"> </span><span class="kd">enum</span><span class="w"> </span><span class="n">Status</span><span class="w"> </span><span class="p">{</span>
+<span class="w">    </span><span class="n">SUCCESS</span><span class="p">(</span><span class="mi">0</span><span class="p">,</span><span class="w"> </span><span class="s">"成功"</span><span class="p">),</span>
+<span class="w">    </span><span class="n">FAILURE</span><span class="p">(</span><span class="mi">1</span><span class="p">,</span><span class="w"> </span><span class="s">"失败"</span><span class="p">),</span>
+<span class="w">    </span><span class="n">PENDING</span><span class="p">(</span><span class="mi">2</span><span class="p">,</span><span class="w"> </span><span class="s">"处理中"</span><span class="p">);</span>
+
+<span class="w">    </span><span class="kd">private</span><span class="w"> </span><span class="kd">final</span><span class="w"> </span><span class="kt">int</span><span class="w"> </span><span class="n">code</span><span class="p">;</span>
+<span class="w">    </span><span class="kd">private</span><span class="w"> </span><span class="kd">final</span><span class="w"> </span><span class="n">String</span><span class="w"> </span><span class="n">message</span><span class="p">;</span>
+
+<span class="w">    </span><span class="n">Status</span><span class="p">(</span><span class="kt">int</span><span class="w"> </span><span class="n">code</span><span class="p">,</span><span class="w"> </span><span class="n">String</span><span class="w"> </span><span class="n">message</span><span class="p">)</span><span class="w"> </span><span class="p">{</span>
+<span class="w">        </span><span class="k">this</span><span class="p">.</span><span class="na">code</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">code</span><span class="p">;</span>
+<span class="w">        </span><span class="k">this</span><span class="p">.</span><span class="na">message</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">message</span><span class="p">;</span>
+<span class="w">    </span><span class="p">}</span>
+
+<span class="w">    </span><span class="kd">public</span><span class="w"> </span><span class="kt">int</span><span class="w"> </span><span class="nf">getCode</span><span class="p">()</span><span class="w"> </span><span class="p">{</span><span class="w"> </span><span class="k">return</span><span class="w"> </span><span class="n">code</span><span class="p">;</span><span class="w"> </span><span class="p">}</span>
+<span class="w">    </span><span class="kd">public</span><span class="w"> </span><span class="n">String</span><span class="w"> </span><span class="nf">getMessage</span><span class="p">()</span><span class="w"> </span><span class="p">{</span><span class="w"> </span><span class="k">return</span><span class="w"> </span><span class="n">message</span><span class="p">;</span><span class="w"> </span><span class="p">}</span>
+
+<span class="w">    </span><span class="kd">public</span><span class="w"> </span><span class="kd">static</span><span class="w"> </span><span class="n">Status</span><span class="w"> </span><span class="nf">fromCode</span><span class="p">(</span><span class="kt">int</span><span class="w"> </span><span class="n">code</span><span class="p">)</span><span class="w"> </span><span class="p">{</span>
+<span class="w">        </span><span class="k">for</span><span class="w"> </span><span class="p">(</span><span class="n">Status</span><span class="w"> </span><span class="n">s</span><span class="w"> </span><span class="p">:</span><span class="w"> </span><span class="n">Status</span><span class="p">.</span><span class="na">values</span><span class="p">())</span><span class="w"> </span><span class="p">{</span>
+<span class="w">            </span><span class="k">if</span><span class="w"> </span><span class="p">(</span><span class="n">s</span><span class="p">.</span><span class="na">code</span><span class="w"> </span><span class="o">==</span><span class="w"> </span><span class="n">code</span><span class="p">)</span><span class="w"> </span><span class="k">return</span><span class="w"> </span><span class="n">s</span><span class="p">;</span>
+<span class="w">        </span><span class="p">}</span>
+<span class="w">        </span><span class="k">throw</span><span class="w"> </span><span class="k">new</span><span class="w"> </span><span class="n">IllegalArgumentException</span><span class="p">(</span><span class="s">"Unknown code: "</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="n">code</span><span class="p">);</span>
+<span class="w">    </span><span class="p">}</span>
+<span class="p">}</span>
+</code></pre></div>
+
+<h3 id="使用枚举">使用枚举</h3>
+<div class="codehilite lang-java"><pre><span></span><code><span class="kd">public</span><span class="w"> </span><span class="kd">class</span> <span class="nc">EnumDemo</span><span class="w"> </span><span class="p">{</span>
+<span class="w">    </span><span class="kd">public</span><span class="w"> </span><span class="kd">static</span><span class="w"> </span><span class="kt">void</span><span class="w"> </span><span class="nf">main</span><span class="p">(</span><span class="n">String</span><span class="o">[]</span><span class="w"> </span><span class="n">args</span><span class="p">)</span><span class="w"> </span><span class="p">{</span>
+<span class="w">        </span><span class="c1">// 基本使用</span>
+<span class="w">        </span><span class="n">Season</span><span class="w"> </span><span class="n">season</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">Season</span><span class="p">.</span><span class="na">SUMMER</span><span class="p">;</span>
+<span class="w">        </span><span class="n">System</span><span class="p">.</span><span class="na">out</span><span class="p">.</span><span class="na">println</span><span class="p">(</span><span class="s">"当前季节: "</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="n">season</span><span class="p">);</span>
+
+<span class="w">        </span><span class="c1">// 带字段的枚举</span>
+<span class="w">        </span><span class="n">Status</span><span class="w"> </span><span class="n">status</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">Status</span><span class="p">.</span><span class="na">SUCCESS</span><span class="p">;</span>
+<span class="w">        </span><span class="n">System</span><span class="p">.</span><span class="na">out</span><span class="p">.</span><span class="na">println</span><span class="p">(</span><span class="s">"状态码: "</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="n">status</span><span class="p">.</span><span class="na">getCode</span><span class="p">());</span>
+<span class="w">        </span><span class="n">System</span><span class="p">.</span><span class="na">out</span><span class="p">.</span><span class="na">println</span><span class="p">(</span><span class="s">"状态信息: "</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="n">status</span><span class="p">.</span><span class="na">getMessage</span><span class="p">());</span>
+
+<span class="w">        </span><span class="c1">// 遍历枚举</span>
+<span class="w">        </span><span class="k">for</span><span class="w"> </span><span class="p">(</span><span class="n">Status</span><span class="w"> </span><span class="n">s</span><span class="w"> </span><span class="p">:</span><span class="w"> </span><span class="n">Status</span><span class="p">.</span><span class="na">values</span><span class="p">())</span><span class="w"> </span><span class="p">{</span>
+<span class="w">            </span><span class="n">System</span><span class="p">.</span><span class="na">out</span><span class="p">.</span><span class="na">println</span><span class="p">(</span><span class="n">s</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="s">" -&gt; "</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="n">s</span><span class="p">.</span><span class="na">getCode</span><span class="p">());</span>
+<span class="w">        </span><span class="p">}</span>
+
+<span class="w">        </span><span class="c1">// 通过代码获取枚举</span>
+<span class="w">        </span><span class="n">Status</span><span class="w"> </span><span class="n">found</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">Status</span><span class="p">.</span><span class="na">fromCode</span><span class="p">(</span><span class="mi">1</span><span class="p">);</span>
+<span class="w">        </span><span class="n">System</span><span class="p">.</span><span class="na">out</span><span class="p">.</span><span class="na">println</span><span class="p">(</span><span class="s">"找到状态: "</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="n">found</span><span class="p">);</span>
+
+<span class="w">        </span><span class="c1">// 枚举的比较</span>
+<span class="w">        </span><span class="n">System</span><span class="p">.</span><span class="na">out</span><span class="p">.</span><span class="na">println</span><span class="p">(</span><span class="n">status</span><span class="w"> </span><span class="o">==</span><span class="w"> </span><span class="n">Status</span><span class="p">.</span><span class="na">SUCCESS</span><span class="p">);</span><span class="w"> </span><span class="c1">// true</span>
+<span class="w">        </span><span class="n">System</span><span class="p">.</span><span class="na">out</span><span class="p">.</span><span class="na">println</span><span class="p">(</span><span class="n">status</span><span class="p">.</span><span class="na">equals</span><span class="p">(</span><span class="n">Status</span><span class="p">.</span><span class="na">SUCCESS</span><span class="p">));</span><span class="w"> </span><span class="c1">// true</span>
+<span class="w">    </span><span class="p">}</span>
+<span class="p">}</span>
+</code></pre></div>
+
+<h3 id="枚举-vs-常量类">枚举 vs 常量类</h3>
+<table>
+<thead>
+<tr>
+<th>对比</th>
+<th>常量类（<code>public static final</code>）</th>
+<th>枚举（enum）</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>类型安全</td>
+<td>❌ 任何int/string都合法</td>
+<td>✅ 只能是枚举值</td>
+</tr>
+<tr>
+<td>方法扩展</td>
+<td>❌ 不支持</td>
+<td>✅ 可添加字段和方法</td>
+</tr>
+<tr>
+<td>遍历</td>
+<td>❌ 需手动实现</td>
+<td>✅ <code>values()</code>方法</td>
+</tr>
+<tr>
+<td>编译器检查</td>
+<td>❌ 运行时才能发现错误</td>
+<td>✅ 编译期检查</td>
+</tr>
+</tbody>
+</table>
+<h2 id="文本块Text-Blocks">文本块（Text Blocks）</h2>
+<h3 id="什么是文本块">什么是文本块</h3>
+<p><strong>文本块（Text Blocks）</strong> 是Java 15引入的特性，用于简化多行字符串的编写。它以<code>"""</code>开头和结尾，保留换行和缩进。</p>
+<p><strong>在文本块之前：</strong></p>
+<div class="codehilite lang-java"><pre><span></span><code><span class="n">String</span><span class="w"> </span><span class="n">html</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s">"&lt;html&gt;\n"</span><span class="w"> </span><span class="o">+</span>
+<span class="w">              </span><span class="s">"    &lt;body&gt;\n"</span><span class="w"> </span><span class="o">+</span>
+<span class="w">              </span><span class="s">"        &lt;h1&gt;Hello&lt;/h1&gt;\n"</span><span class="w"> </span><span class="o">+</span>
+<span class="w">              </span><span class="s">"    &lt;/body&gt;\n"</span><span class="w"> </span><span class="o">+</span>
+<span class="w">              </span><span class="s">"&lt;/html&gt;"</span><span class="p">;</span>
+</code></pre></div>
+
+<p><strong>使用文本块：</strong></p>
+<div class="codehilite lang-java"><pre><span></span><code><span class="n">String</span><span class="w"> </span><span class="n">html</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s">"""</span>
+<span class="s">              &lt;html&gt;</span>
+<span class="s">                  &lt;body&gt;</span>
+<span class="s">                      &lt;h1&gt;Hello&lt;/h1&gt;</span>
+<span class="s">                  &lt;/body&gt;</span>
+<span class="s">              &lt;/html&gt;</span>
+<span class="s">              """</span><span class="p">;</span>
+</code></pre></div>
+
+<h3 id="基本语法">基本语法</h3>
+<div class="codehilite lang-java"><pre><span></span><code><span class="c1">// 基本文本块</span>
+<span class="n">String</span><span class="w"> </span><span class="n">json</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s">"""</span>
+<span class="s">              {</span>
+<span class="s">                  "name": "Alice",</span>
+<span class="s">                  "age": 25,</span>
+<span class="s">                  "city": "Beijing"</span>
+<span class="s">              }</span>
+<span class="s">              """</span><span class="p">;</span>
+
+<span class="c1">// 嵌入表达式（使用 String.format 或 formatted）</span>
+<span class="n">String</span><span class="w"> </span><span class="n">name</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s">"Bob"</span><span class="p">;</span>
+<span class="kt">int</span><span class="w"> </span><span class="n">age</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="mi">30</span><span class="p">;</span>
+<span class="n">String</span><span class="w"> </span><span class="n">message</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s">"""</span>
+<span class="s">                 姓名: %s</span>
+<span class="s">                 年龄: %d</span>
+<span class="s">                 状态: 活跃</span>
+<span class="s">                 """</span><span class="p">.</span><span class="na">formatted</span><span class="p">(</span><span class="n">name</span><span class="p">,</span><span class="w"> </span><span class="n">age</span><span class="p">);</span>
+
+<span class="c1">// 行末去除换行（使用 \）</span>
+<span class="n">String</span><span class="w"> </span><span class="n">singleLine</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s">"""</span>
+<span class="s">                    这是一行 \</span>
+<span class="s">                    虽然写了两行 \</span>
+<span class="s">                    但实际是一行</span>
+<span class="s">                    """</span><span class="p">;</span>
+<span class="n">System</span><span class="p">.</span><span class="na">out</span><span class="p">.</span><span class="na">println</span><span class="p">(</span><span class="n">singleLine</span><span class="p">);</span><span class="w">  </span><span class="c1">// "这是一行 虽然写了两行 但实际是一行"</span>
+</code></pre></div>
+
+<blockquote>
+<p>[!NOTE]
+文本块的缩进规则：<strong>最左的非空格缩进</strong>决定了所有行的基础缩进。上面的例子中，<code>&lt;html&gt;</code>是整段文本缩进最少的行（有4个空格），这4个空格会被自动移除。</p>
+</blockquote>
+<h2 id="Record类">Record类</h2>
+<h3 id="什么是Record">什么是Record</h3>
+<p><strong>Record</strong>是Java 14引入的<strong>数据载体类</strong>，用于代替传统的Java Bean类（只有字段、构造方法、getter、equals/hashCode/toString）。Record会自动生成构造方法、访问器、<code>equals()</code>、<code>hashCode()</code>和<code>toString()</code>方法。</p>
+<h3 id="Record-vs-传统Java-Bean">Record vs 传统Java Bean</h3>
+<p><strong>传统Java Bean（代码冗长）：</strong></p>
+<div class="codehilite lang-java"><pre><span></span><code><span class="kd">public</span><span class="w"> </span><span class="kd">class</span> <span class="nc">Person</span><span class="w"> </span><span class="p">{</span>
+<span class="w">    </span><span class="kd">private</span><span class="w"> </span><span class="kd">final</span><span class="w"> </span><span class="n">String</span><span class="w"> </span><span class="n">name</span><span class="p">;</span>
+<span class="w">    </span><span class="kd">private</span><span class="w"> </span><span class="kd">final</span><span class="w"> </span><span class="kt">int</span><span class="w"> </span><span class="n">age</span><span class="p">;</span>
+
+<span class="w">    </span><span class="kd">public</span><span class="w"> </span><span class="nf">Person</span><span class="p">(</span><span class="n">String</span><span class="w"> </span><span class="n">name</span><span class="p">,</span><span class="w"> </span><span class="kt">int</span><span class="w"> </span><span class="n">age</span><span class="p">)</span><span class="w"> </span><span class="p">{</span>
+<span class="w">        </span><span class="k">this</span><span class="p">.</span><span class="na">name</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">name</span><span class="p">;</span>
+<span class="w">        </span><span class="k">this</span><span class="p">.</span><span class="na">age</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">age</span><span class="p">;</span>
+<span class="w">    </span><span class="p">}</span>
+
+<span class="w">    </span><span class="kd">public</span><span class="w"> </span><span class="n">String</span><span class="w"> </span><span class="nf">getName</span><span class="p">()</span><span class="w"> </span><span class="p">{</span><span class="w"> </span><span class="k">return</span><span class="w"> </span><span class="n">name</span><span class="p">;</span><span class="w"> </span><span class="p">}</span>
+<span class="w">    </span><span class="kd">public</span><span class="w"> </span><span class="kt">int</span><span class="w"> </span><span class="nf">getAge</span><span class="p">()</span><span class="w"> </span><span class="p">{</span><span class="w"> </span><span class="k">return</span><span class="w"> </span><span class="n">age</span><span class="p">;</span><span class="w"> </span><span class="p">}</span>
+
+<span class="w">    </span><span class="nd">@Override</span>
+<span class="w">    </span><span class="kd">public</span><span class="w"> </span><span class="n">String</span><span class="w"> </span><span class="nf">toString</span><span class="p">()</span><span class="w"> </span><span class="p">{</span>
+<span class="w">        </span><span class="k">return</span><span class="w"> </span><span class="s">"Person{name='"</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="n">name</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="s">"', age="</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="n">age</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="s">"}"</span><span class="p">;</span>
+<span class="w">    </span><span class="p">}</span>
+
+<span class="w">    </span><span class="nd">@Override</span>
+<span class="w">    </span><span class="kd">public</span><span class="w"> </span><span class="kt">boolean</span><span class="w"> </span><span class="nf">equals</span><span class="p">(</span><span class="n">Object</span><span class="w"> </span><span class="n">o</span><span class="p">)</span><span class="w"> </span><span class="p">{</span>
+<span class="w">        </span><span class="c1">// 繁琐的实现...</span>
+<span class="w">    </span><span class="p">}</span>
+
+<span class="w">    </span><span class="nd">@Override</span>
+<span class="w">    </span><span class="kd">public</span><span class="w"> </span><span class="kt">int</span><span class="w"> </span><span class="nf">hashCode</span><span class="p">()</span><span class="w"> </span><span class="p">{</span>
+<span class="w">        </span><span class="c1">// 繁琐的实现...</span>
+<span class="w">    </span><span class="p">}</span>
+<span class="p">}</span>
+</code></pre></div>
+
+<p><strong>使用Record（极简）：</strong></p>
+<div class="codehilite lang-java"><pre><span></span><code><span class="kd">public</span><span class="w"> </span><span class="kd">record</span> <span class="nc">Person</span><span class="p">(</span><span class="n">String</span><span class="w"> </span><span class="n">name</span><span class="p">,</span><span class="w"> </span><span class="kt">int</span><span class="w"> </span><span class="n">age</span><span class="p">)</span><span class="w"> </span><span class="p">{}</span>
+</code></pre></div>
+
+<h3 id="使用Record">使用Record</h3>
+<div class="codehilite lang-java"><pre><span></span><code><span class="kd">public</span><span class="w"> </span><span class="kd">record</span> <span class="nc">Person</span><span class="p">(</span><span class="n">String</span><span class="w"> </span><span class="n">name</span><span class="p">,</span><span class="w"> </span><span class="kt">int</span><span class="w"> </span><span class="n">age</span><span class="p">)</span><span class="w"> </span><span class="p">{</span>
+<span class="w">    </span><span class="c1">// 可以添加自定义构造方法（校验逻辑）</span>
+<span class="w">    </span><span class="kd">public</span><span class="w"> </span><span class="n">Person</span><span class="w"> </span><span class="p">{</span>
+<span class="w">        </span><span class="k">if</span><span class="w"> </span><span class="p">(</span><span class="n">age</span><span class="w"> </span><span class="o">&lt;</span><span class="w"> </span><span class="mi">0</span><span class="w"> </span><span class="o">||</span><span class="w"> </span><span class="n">age</span><span class="w"> </span><span class="o">&gt;</span><span class="w"> </span><span class="mi">150</span><span class="p">)</span><span class="w"> </span><span class="p">{</span>
+<span class="w">            </span><span class="k">throw</span><span class="w"> </span><span class="k">new</span><span class="w"> </span><span class="n">IllegalArgumentException</span><span class="p">(</span><span class="s">"年龄必须在0~150之间"</span><span class="p">);</span>
+<span class="w">        </span><span class="p">}</span>
+<span class="w">        </span><span class="k">if</span><span class="w"> </span><span class="p">(</span><span class="n">name</span><span class="w"> </span><span class="o">==</span><span class="w"> </span><span class="kc">null</span><span class="w"> </span><span class="o">||</span><span class="w"> </span><span class="n">name</span><span class="p">.</span><span class="na">isBlank</span><span class="p">())</span><span class="w"> </span><span class="p">{</span>
+<span class="w">            </span><span class="k">throw</span><span class="w"> </span><span class="k">new</span><span class="w"> </span><span class="n">IllegalArgumentException</span><span class="p">(</span><span class="s">"姓名不能为空"</span><span class="p">);</span>
+<span class="w">        </span><span class="p">}</span>
+<span class="w">    </span><span class="p">}</span>
+
+<span class="w">    </span><span class="c1">// 可以添加自定义方法</span>
+<span class="w">    </span><span class="kd">public</span><span class="w"> </span><span class="n">String</span><span class="w"> </span><span class="nf">greeting</span><span class="p">()</span><span class="w"> </span><span class="p">{</span>
+<span class="w">        </span><span class="k">return</span><span class="w"> </span><span class="s">"你好，我是"</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="n">name</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="s">"，今年"</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="n">age</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="s">"岁"</span><span class="p">;</span>
+<span class="w">    </span><span class="p">}</span>
+<span class="p">}</span>
+
+<span class="kd">public</span><span class="w"> </span><span class="kd">class</span> <span class="nc">RecordDemo</span><span class="w"> </span><span class="p">{</span>
+<span class="w">    </span><span class="kd">public</span><span class="w"> </span><span class="kd">static</span><span class="w"> </span><span class="kt">void</span><span class="w"> </span><span class="nf">main</span><span class="p">(</span><span class="n">String</span><span class="o">[]</span><span class="w"> </span><span class="n">args</span><span class="p">)</span><span class="w"> </span><span class="p">{</span>
+<span class="w">        </span><span class="n">Person</span><span class="w"> </span><span class="n">person</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="k">new</span><span class="w"> </span><span class="n">Person</span><span class="p">(</span><span class="s">"Alice"</span><span class="p">,</span><span class="w"> </span><span class="mi">25</span><span class="p">);</span>
+<span class="w">        </span><span class="c1">// 自动生成的访问器（注意命名：与字段名一致，而非传统的getXxx）</span>
+<span class="w">        </span><span class="n">System</span><span class="p">.</span><span class="na">out</span><span class="p">.</span><span class="na">println</span><span class="p">(</span><span class="n">person</span><span class="p">.</span><span class="na">name</span><span class="p">());</span>
+<span class="w">        </span><span class="n">System</span><span class="p">.</span><span class="na">out</span><span class="p">.</span><span class="na">println</span><span class="p">(</span><span class="n">person</span><span class="p">.</span><span class="na">age</span><span class="p">());</span>
+<span class="w">        </span><span class="c1">// 自动生成的toString</span>
+<span class="w">        </span><span class="n">System</span><span class="p">.</span><span class="na">out</span><span class="p">.</span><span class="na">println</span><span class="p">(</span><span class="n">person</span><span class="p">);</span><span class="w">  </span><span class="c1">// Person[name=Alice, age=25]</span>
+<span class="w">        </span><span class="c1">// 自动生成的equals和hashCode</span>
+<span class="w">        </span><span class="n">Person</span><span class="w"> </span><span class="n">p2</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="k">new</span><span class="w"> </span><span class="n">Person</span><span class="p">(</span><span class="s">"Alice"</span><span class="p">,</span><span class="w"> </span><span class="mi">25</span><span class="p">);</span>
+<span class="w">        </span><span class="n">System</span><span class="p">.</span><span class="na">out</span><span class="p">.</span><span class="na">println</span><span class="p">(</span><span class="n">person</span><span class="p">.</span><span class="na">equals</span><span class="p">(</span><span class="n">p2</span><span class="p">));</span><span class="w">  </span><span class="c1">// true</span>
+<span class="w">        </span><span class="c1">// 自定义方法</span>
+<span class="w">        </span><span class="n">System</span><span class="p">.</span><span class="na">out</span><span class="p">.</span><span class="na">println</span><span class="p">(</span><span class="n">person</span><span class="p">.</span><span class="na">greeting</span><span class="p">());</span>
+<span class="w">    </span><span class="p">}</span>
+<span class="p">}</span>
+</code></pre></div>
+
+<h3 id="适用场景">适用场景</h3>
+<table>
+<thead>
+<tr>
+<th>适用场景</th>
+<th>不适用场景</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>数据传输对象（DTO）</td>
+<td>需要可变状态的对象</td>
+</tr>
+<tr>
+<td>值对象（VO）</td>
+<td>有复杂业务逻辑的领域对象</td>
+</tr>
+<tr>
+<td>方法多返回值</td>
+<td>需要继承其他类的对象</td>
+</tr>
+<tr>
+<td>临时数据聚合</td>
+<td>需要被JPA/Hibernate管理的实体</td>
+</tr>
+</tbody>
+</table>
+<h2 id="Optional-容器类">Optional 容器类</h2>
+<h3 id="什么是Optional">什么是Optional</h3>
+<p><strong>Optional</strong>是Java 8引入的容器类，用于<strong>明确表示一个值可能存在也可能不存在</strong>。它旨在减少<code>NullPointerException</code>，强制开发者处理空值情况。</p>
+<h3 id="创建Optional">创建Optional</h3>
+<div class="codehilite lang-java"><pre><span></span><code><span class="c1">// 创建非空Optional（值为null会抛出异常）</span>
+<span class="n">Optional</span><span class="o">&lt;</span><span class="n">String</span><span class="o">&gt;</span><span class="w"> </span><span class="n">opt1</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">Optional</span><span class="p">.</span><span class="na">of</span><span class="p">(</span><span class="s">"hello"</span><span class="p">);</span>
+
+<span class="c1">// 创建可能为空的Optional</span>
+<span class="n">Optional</span><span class="o">&lt;</span><span class="n">String</span><span class="o">&gt;</span><span class="w"> </span><span class="n">opt2</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">Optional</span><span class="p">.</span><span class="na">ofNullable</span><span class="p">(</span><span class="n">getName</span><span class="p">());</span>
+
+<span class="c1">// 创建空Optional</span>
+<span class="n">Optional</span><span class="o">&lt;</span><span class="n">String</span><span class="o">&gt;</span><span class="w"> </span><span class="n">opt3</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">Optional</span><span class="p">.</span><span class="na">empty</span><span class="p">();</span>
+</code></pre></div>
+
+<h3 id="使用Optional">使用Optional</h3>
+<div class="codehilite lang-java"><pre><span></span><code><span class="kd">public</span><span class="w"> </span><span class="kd">class</span> <span class="nc">OptionalDemo</span><span class="w"> </span><span class="p">{</span>
+<span class="w">    </span><span class="kd">public</span><span class="w"> </span><span class="kd">static</span><span class="w"> </span><span class="kt">void</span><span class="w"> </span><span class="nf">main</span><span class="p">(</span><span class="n">String</span><span class="o">[]</span><span class="w"> </span><span class="n">args</span><span class="p">)</span><span class="w"> </span><span class="p">{</span>
+<span class="w">        </span><span class="c1">// 1. isPresent() + get()（不推荐，等于传统的null检查）</span>
+<span class="w">        </span><span class="n">Optional</span><span class="o">&lt;</span><span class="n">String</span><span class="o">&gt;</span><span class="w"> </span><span class="n">opt</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">Optional</span><span class="p">.</span><span class="na">ofNullable</span><span class="p">(</span><span class="s">"hello"</span><span class="p">);</span>
+<span class="w">        </span><span class="k">if</span><span class="w"> </span><span class="p">(</span><span class="n">opt</span><span class="p">.</span><span class="na">isPresent</span><span class="p">())</span><span class="w"> </span><span class="p">{</span>
+<span class="w">            </span><span class="n">System</span><span class="p">.</span><span class="na">out</span><span class="p">.</span><span class="na">println</span><span class="p">(</span><span class="n">opt</span><span class="p">.</span><span class="na">get</span><span class="p">());</span>
+<span class="w">        </span><span class="p">}</span>
+
+<span class="w">        </span><span class="c1">// 2. 推荐方式：函数式处理</span>
+<span class="w">        </span><span class="c1">// ifPresent：存在则执行</span>
+<span class="w">        </span><span class="n">opt</span><span class="p">.</span><span class="na">ifPresent</span><span class="p">(</span><span class="n">value</span><span class="w"> </span><span class="o">-&gt;</span><span class="w"> </span><span class="n">System</span><span class="p">.</span><span class="na">out</span><span class="p">.</span><span class="na">println</span><span class="p">(</span><span class="s">"值: "</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="n">value</span><span class="p">));</span>
+
+<span class="w">        </span><span class="c1">// 3. orElse：存在则返回原值，否则返回默认值</span>
+<span class="w">        </span><span class="n">String</span><span class="w"> </span><span class="n">result</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">Optional</span><span class="p">.</span><span class="na">ofNullable</span><span class="p">(</span><span class="n">getName</span><span class="p">())</span>
+<span class="w">                </span><span class="p">.</span><span class="na">orElse</span><span class="p">(</span><span class="s">"默认值"</span><span class="p">);</span>
+
+<span class="w">        </span><span class="c1">// 4. orElseGet：存在则返回原值，否则通过Supplier生成默认值</span>
+<span class="w">        </span><span class="n">String</span><span class="w"> </span><span class="n">result2</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">Optional</span><span class="p">.</span><span class="na">ofNullable</span><span class="p">(</span><span class="n">getName</span><span class="p">())</span>
+<span class="w">                </span><span class="p">.</span><span class="na">orElseGet</span><span class="p">(()</span><span class="w"> </span><span class="o">-&gt;</span><span class="w"> </span><span class="s">"计算生成的默认值"</span><span class="p">);</span>
+
+<span class="w">        </span><span class="c1">// 5. orElseThrow：存在则返回原值，否则抛出异常</span>
+<span class="w">        </span><span class="n">String</span><span class="w"> </span><span class="n">result3</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">Optional</span><span class="p">.</span><span class="na">ofNullable</span><span class="p">(</span><span class="n">getName</span><span class="p">())</span>
+<span class="w">                </span><span class="p">.</span><span class="na">orElseThrow</span><span class="p">(()</span><span class="w"> </span><span class="o">-&gt;</span><span class="w"> </span><span class="k">new</span><span class="w"> </span><span class="n">RuntimeException</span><span class="p">(</span><span class="s">"值不存在"</span><span class="p">));</span>
+
+<span class="w">        </span><span class="c1">// 6. map：存在则转换，不存在则返回空Optional</span>
+<span class="w">        </span><span class="n">Optional</span><span class="o">&lt;</span><span class="n">Integer</span><span class="o">&gt;</span><span class="w"> </span><span class="n">length</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">Optional</span><span class="p">.</span><span class="na">ofNullable</span><span class="p">(</span><span class="s">"hello"</span><span class="p">)</span>
+<span class="w">                </span><span class="p">.</span><span class="na">map</span><span class="p">(</span><span class="n">String</span><span class="p">::</span><span class="n">length</span><span class="p">);</span><span class="w">  </span><span class="c1">// Optional[5]</span>
+
+<span class="w">        </span><span class="c1">// 7. filter：存在且满足条件则返回自身，否则返回空Optional</span>
+<span class="w">        </span><span class="n">Optional</span><span class="o">&lt;</span><span class="n">String</span><span class="o">&gt;</span><span class="w"> </span><span class="n">filtered</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">Optional</span><span class="p">.</span><span class="na">ofNullable</span><span class="p">(</span><span class="s">"hello"</span><span class="p">)</span>
+<span class="w">                </span><span class="p">.</span><span class="na">filter</span><span class="p">(</span><span class="n">s</span><span class="w"> </span><span class="o">-&gt;</span><span class="w"> </span><span class="n">s</span><span class="p">.</span><span class="na">length</span><span class="p">()</span><span class="w"> </span><span class="o">&gt;</span><span class="w"> </span><span class="mi">3</span><span class="p">);</span><span class="w">  </span><span class="c1">// Optional[hello]</span>
+
+<span class="w">        </span><span class="c1">// 8. flatMap：存在则通过函数返回Optional，否则返回空Optional</span>
+<span class="w">        </span><span class="n">Optional</span><span class="o">&lt;</span><span class="n">Integer</span><span class="o">&gt;</span><span class="w"> </span><span class="n">result4</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">Optional</span><span class="p">.</span><span class="na">ofNullable</span><span class="p">(</span><span class="s">"123"</span><span class="p">)</span>
+<span class="w">                </span><span class="p">.</span><span class="na">flatMap</span><span class="p">(</span><span class="n">s</span><span class="w"> </span><span class="o">-&gt;</span><span class="w"> </span><span class="p">{</span>
+<span class="w">                    </span><span class="k">try</span><span class="w"> </span><span class="p">{</span>
+<span class="w">                        </span><span class="k">return</span><span class="w"> </span><span class="n">Optional</span><span class="p">.</span><span class="na">of</span><span class="p">(</span><span class="n">Integer</span><span class="p">.</span><span class="na">parseInt</span><span class="p">(</span><span class="n">s</span><span class="p">));</span>
+<span class="w">                    </span><span class="p">}</span><span class="w"> </span><span class="k">catch</span><span class="w"> </span><span class="p">(</span><span class="n">NumberFormatException</span><span class="w"> </span><span class="n">e</span><span class="p">)</span><span class="w"> </span><span class="p">{</span>
+<span class="w">                        </span><span class="k">return</span><span class="w"> </span><span class="n">Optional</span><span class="p">.</span><span class="na">empty</span><span class="p">();</span>
+<span class="w">                    </span><span class="p">}</span>
+<span class="w">                </span><span class="p">});</span>
+<span class="w">    </span><span class="p">}</span>
+
+<span class="w">    </span><span class="kd">private</span><span class="w"> </span><span class="kd">static</span><span class="w"> </span><span class="n">String</span><span class="w"> </span><span class="nf">getName</span><span class="p">()</span><span class="w"> </span><span class="p">{</span>
+<span class="w">        </span><span class="k">return</span><span class="w"> </span><span class="kc">null</span><span class="p">;</span><span class="w">  </span><span class="c1">// 模拟可能为空</span>
+<span class="w">    </span><span class="p">}</span>
+<span class="p">}</span>
+</code></pre></div>
+
+<h3 id="最佳实践">最佳实践</h3>
+<div class="codehilite lang-java"><pre><span></span><code><span class="c1">// ❌ 错误：使用Optional作为字段、方法参数或集合元素</span>
+<span class="kd">public</span><span class="w"> </span><span class="kd">class</span> <span class="nc">User</span><span class="w"> </span><span class="p">{</span>
+<span class="w">    </span><span class="kd">private</span><span class="w"> </span><span class="n">Optional</span><span class="o">&lt;</span><span class="n">String</span><span class="o">&gt;</span><span class="w"> </span><span class="n">name</span><span class="p">;</span><span class="w">  </span><span class="c1">// 不推荐！</span>
+<span class="p">}</span>
+
+<span class="kd">public</span><span class="w"> </span><span class="kt">void</span><span class="w"> </span><span class="nf">process</span><span class="p">(</span><span class="n">Optional</span><span class="o">&lt;</span><span class="n">User</span><span class="o">&gt;</span><span class="w"> </span><span class="n">user</span><span class="p">)</span><span class="w"> </span><span class="p">{</span><span class="w"> </span><span class="p">}</span><span class="w">  </span><span class="c1">// 不推荐！</span>
+<span class="n">List</span><span class="o">&lt;</span><span class="n">Optional</span><span class="o">&lt;</span><span class="n">String</span><span class="o">&gt;&gt;</span><span class="w"> </span><span class="n">list</span><span class="p">;</span><span class="w">  </span><span class="c1">// 不推荐！</span>
+
+<span class="c1">// ✅ 正确：Optional只用于方法返回值</span>
+<span class="kd">public</span><span class="w"> </span><span class="n">Optional</span><span class="o">&lt;</span><span class="n">User</span><span class="o">&gt;</span><span class="w"> </span><span class="nf">findUser</span><span class="p">(</span><span class="n">String</span><span class="w"> </span><span class="n">id</span><span class="p">)</span><span class="w"> </span><span class="p">{</span>
+<span class="w">    </span><span class="c1">// 可能返回空，明确告知调用者</span>
+<span class="p">}</span>
+
+<span class="c1">// ✅ 正确：链式处理</span>
+<span class="kd">public</span><span class="w"> </span><span class="n">String</span><span class="w"> </span><span class="nf">getCity</span><span class="p">(</span><span class="n">String</span><span class="w"> </span><span class="n">userId</span><span class="p">)</span><span class="w"> </span><span class="p">{</span>
+<span class="w">    </span><span class="k">return</span><span class="w"> </span><span class="n">findUser</span><span class="p">(</span><span class="n">userId</span><span class="p">)</span>
+<span class="w">        </span><span class="p">.</span><span class="na">map</span><span class="p">(</span><span class="n">User</span><span class="p">::</span><span class="n">getAddress</span><span class="p">)</span>
+<span class="w">        </span><span class="p">.</span><span class="na">map</span><span class="p">(</span><span class="n">Address</span><span class="p">::</span><span class="n">getCity</span><span class="p">)</span>
+<span class="w">        </span><span class="p">.</span><span class="na">orElse</span><span class="p">(</span><span class="s">"未知城市"</span><span class="p">);</span>
+<span class="p">}</span>
+</code></pre></div>
+
+<h2 id="与-equals-的终极对比"><code>==</code> 与 <code>equals</code> 的终极对比</h2>
+<h3 id="核心区别">核心区别</h3>
+<table>
+<thead>
+<tr>
+<th>对比</th>
+<th><code>==</code></th>
+<th><code>equals()</code></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>基本类型</td>
+<td>比较<strong>值</strong></td>
+<td>不适用</td>
+</tr>
+<tr>
+<td>引用类型</td>
+<td>比较<strong>内存地址</strong>（是否同一对象）</td>
+<td>比较<strong>内容</strong>（逻辑相等）</td>
+</tr>
+<tr>
+<td>能否重写</td>
+<td>❌ 不能</td>
+<td>✅ 可以</td>
+</tr>
+</tbody>
+</table>
+<h3 id="详细示例">详细示例</h3>
+<div class="codehilite lang-java"><pre><span></span><code><span class="kd">public</span><span class="w"> </span><span class="kd">class</span> <span class="nc">EqualsDemo</span><span class="w"> </span><span class="p">{</span>
+<span class="w">    </span><span class="kd">public</span><span class="w"> </span><span class="kd">static</span><span class="w"> </span><span class="kt">void</span><span class="w"> </span><span class="nf">main</span><span class="p">(</span><span class="n">String</span><span class="o">[]</span><span class="w"> </span><span class="n">args</span><span class="p">)</span><span class="w"> </span><span class="p">{</span>
+<span class="w">        </span><span class="c1">// ========== 基本类型 ==========</span>
+<span class="w">        </span><span class="kt">int</span><span class="w"> </span><span class="n">a</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="mi">5</span><span class="p">;</span>
+<span class="w">        </span><span class="kt">int</span><span class="w"> </span><span class="n">b</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="mi">5</span><span class="p">;</span>
+<span class="w">        </span><span class="n">System</span><span class="p">.</span><span class="na">out</span><span class="p">.</span><span class="na">println</span><span class="p">(</span><span class="n">a</span><span class="w"> </span><span class="o">==</span><span class="w"> </span><span class="n">b</span><span class="p">);</span><span class="w">  </span><span class="c1">// true（比较值）</span>
+
+<span class="w">        </span><span class="c1">// ========== 引用类型 ==========</span>
+<span class="w">        </span><span class="n">String</span><span class="w"> </span><span class="n">s1</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s">"hello"</span><span class="p">;</span>
+<span class="w">        </span><span class="n">String</span><span class="w"> </span><span class="n">s2</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s">"hello"</span><span class="p">;</span>
+<span class="w">        </span><span class="n">String</span><span class="w"> </span><span class="n">s3</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="k">new</span><span class="w"> </span><span class="n">String</span><span class="p">(</span><span class="s">"hello"</span><span class="p">);</span>
+
+<span class="w">        </span><span class="n">System</span><span class="p">.</span><span class="na">out</span><span class="p">.</span><span class="na">println</span><span class="p">(</span><span class="n">s1</span><span class="w"> </span><span class="o">==</span><span class="w"> </span><span class="n">s2</span><span class="p">);</span><span class="w">  </span><span class="c1">// true（字符串常量池复用）</span>
+<span class="w">        </span><span class="n">System</span><span class="p">.</span><span class="na">out</span><span class="p">.</span><span class="na">println</span><span class="p">(</span><span class="n">s1</span><span class="w"> </span><span class="o">==</span><span class="w"> </span><span class="n">s3</span><span class="p">);</span><span class="w">  </span><span class="c1">// false（不同对象）</span>
+<span class="w">        </span><span class="n">System</span><span class="p">.</span><span class="na">out</span><span class="p">.</span><span class="na">println</span><span class="p">(</span><span class="n">s1</span><span class="p">.</span><span class="na">equals</span><span class="p">(</span><span class="n">s3</span><span class="p">));</span><span class="w">  </span><span class="c1">// true（内容相同）</span>
+
+<span class="w">        </span><span class="c1">// ========== 自定义类 ==========</span>
+<span class="w">        </span><span class="n">Person</span><span class="w"> </span><span class="n">p1</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="k">new</span><span class="w"> </span><span class="n">Person</span><span class="p">(</span><span class="s">"Alice"</span><span class="p">,</span><span class="w"> </span><span class="mi">25</span><span class="p">);</span>
+<span class="w">        </span><span class="n">Person</span><span class="w"> </span><span class="n">p2</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="k">new</span><span class="w"> </span><span class="n">Person</span><span class="p">(</span><span class="s">"Alice"</span><span class="p">,</span><span class="w"> </span><span class="mi">25</span><span class="p">);</span>
+<span class="w">        </span><span class="n">System</span><span class="p">.</span><span class="na">out</span><span class="p">.</span><span class="na">println</span><span class="p">(</span><span class="n">p1</span><span class="w"> </span><span class="o">==</span><span class="w"> </span><span class="n">p2</span><span class="p">);</span><span class="w">  </span><span class="c1">// false（不同对象）</span>
+<span class="w">        </span><span class="n">System</span><span class="p">.</span><span class="na">out</span><span class="p">.</span><span class="na">println</span><span class="p">(</span><span class="n">p1</span><span class="p">.</span><span class="na">equals</span><span class="p">(</span><span class="n">p2</span><span class="p">));</span><span class="w">  </span><span class="c1">// true（如果重写了equals）</span>
+
+<span class="w">        </span><span class="c1">// ========== 重要：Integer 缓存 ==========</span>
+<span class="w">        </span><span class="n">Integer</span><span class="w"> </span><span class="n">i1</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="mi">127</span><span class="p">;</span>
+<span class="w">        </span><span class="n">Integer</span><span class="w"> </span><span class="n">i2</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="mi">127</span><span class="p">;</span>
+<span class="w">        </span><span class="n">System</span><span class="p">.</span><span class="na">out</span><span class="p">.</span><span class="na">println</span><span class="p">(</span><span class="n">i1</span><span class="w"> </span><span class="o">==</span><span class="w"> </span><span class="n">i2</span><span class="p">);</span><span class="w">  </span><span class="c1">// true（-128~127缓存）</span>
+
+<span class="w">        </span><span class="n">Integer</span><span class="w"> </span><span class="n">i3</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="mi">128</span><span class="p">;</span>
+<span class="w">        </span><span class="n">Integer</span><span class="w"> </span><span class="n">i4</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="mi">128</span><span class="p">;</span>
+<span class="w">        </span><span class="n">System</span><span class="p">.</span><span class="na">out</span><span class="p">.</span><span class="na">println</span><span class="p">(</span><span class="n">i3</span><span class="w"> </span><span class="o">==</span><span class="w"> </span><span class="n">i4</span><span class="p">);</span><span class="w">  </span><span class="c1">// false（超出缓存范围）</span>
+<span class="w">        </span><span class="n">System</span><span class="p">.</span><span class="na">out</span><span class="p">.</span><span class="na">println</span><span class="p">(</span><span class="n">i3</span><span class="p">.</span><span class="na">equals</span><span class="p">(</span><span class="n">i4</span><span class="p">));</span><span class="w">  </span><span class="c1">// true</span>
+
+<span class="w">        </span><span class="c1">// ========== null 处理 ==========</span>
+<span class="w">        </span><span class="n">String</span><span class="w"> </span><span class="n">str</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="kc">null</span><span class="p">;</span>
+<span class="w">        </span><span class="c1">// str.equals("hello");  // NullPointerException!</span>
+<span class="w">        </span><span class="n">System</span><span class="p">.</span><span class="na">out</span><span class="p">.</span><span class="na">println</span><span class="p">(</span><span class="s">"hello"</span><span class="p">.</span><span class="na">equals</span><span class="p">(</span><span class="n">str</span><span class="p">));</span><span class="w">  </span><span class="c1">// false（安全）</span>
+<span class="w">        </span><span class="n">System</span><span class="p">.</span><span class="na">out</span><span class="p">.</span><span class="na">println</span><span class="p">(</span><span class="n">Objects</span><span class="p">.</span><span class="na">equals</span><span class="p">(</span><span class="n">str</span><span class="p">,</span><span class="w"> </span><span class="s">"hello"</span><span class="p">));</span><span class="w">  </span><span class="c1">// false（安全）</span>
+<span class="w">    </span><span class="p">}</span>
+<span class="p">}</span>
+
+<span class="kd">class</span> <span class="nc">Person</span><span class="w"> </span><span class="p">{</span>
+<span class="w">    </span><span class="kd">private</span><span class="w"> </span><span class="n">String</span><span class="w"> </span><span class="n">name</span><span class="p">;</span>
+<span class="w">    </span><span class="kd">private</span><span class="w"> </span><span class="kt">int</span><span class="w"> </span><span class="n">age</span><span class="p">;</span>
+
+<span class="w">    </span><span class="kd">public</span><span class="w"> </span><span class="nf">Person</span><span class="p">(</span><span class="n">String</span><span class="w"> </span><span class="n">name</span><span class="p">,</span><span class="w"> </span><span class="kt">int</span><span class="w"> </span><span class="n">age</span><span class="p">)</span><span class="w"> </span><span class="p">{</span>
+<span class="w">        </span><span class="k">this</span><span class="p">.</span><span class="na">name</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">name</span><span class="p">;</span>
+<span class="w">        </span><span class="k">this</span><span class="p">.</span><span class="na">age</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">age</span><span class="p">;</span>
+<span class="w">    </span><span class="p">}</span>
+
+<span class="w">    </span><span class="nd">@Override</span>
+<span class="w">    </span><span class="kd">public</span><span class="w"> </span><span class="kt">boolean</span><span class="w"> </span><span class="nf">equals</span><span class="p">(</span><span class="n">Object</span><span class="w"> </span><span class="n">obj</span><span class="p">)</span><span class="w"> </span><span class="p">{</span>
+<span class="w">        </span><span class="k">if</span><span class="w"> </span><span class="p">(</span><span class="k">this</span><span class="w"> </span><span class="o">==</span><span class="w"> </span><span class="n">obj</span><span class="p">)</span><span class="w"> </span><span class="k">return</span><span class="w"> </span><span class="kc">true</span><span class="p">;</span>
+<span class="w">        </span><span class="k">if</span><span class="w"> </span><span class="p">(</span><span class="n">obj</span><span class="w"> </span><span class="o">==</span><span class="w"> </span><span class="kc">null</span><span class="w"> </span><span class="o">||</span><span class="w"> </span><span class="n">getClass</span><span class="p">()</span><span class="w"> </span><span class="o">!=</span><span class="w"> </span><span class="n">obj</span><span class="p">.</span><span class="na">getClass</span><span class="p">())</span><span class="w"> </span><span class="k">return</span><span class="w"> </span><span class="kc">false</span><span class="p">;</span>
+<span class="w">        </span><span class="n">Person</span><span class="w"> </span><span class="n">p</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="p">(</span><span class="n">Person</span><span class="p">)</span><span class="w"> </span><span class="n">obj</span><span class="p">;</span>
+<span class="w">        </span><span class="k">return</span><span class="w"> </span><span class="n">age</span><span class="w"> </span><span class="o">==</span><span class="w"> </span><span class="n">p</span><span class="p">.</span><span class="na">age</span><span class="w"> </span><span class="o">&amp;&amp;</span><span class="w"> </span><span class="n">Objects</span><span class="p">.</span><span class="na">equals</span><span class="p">(</span><span class="n">name</span><span class="p">,</span><span class="w"> </span><span class="n">p</span><span class="p">.</span><span class="na">name</span><span class="p">);</span>
+<span class="w">    </span><span class="p">}</span>
+
+<span class="w">    </span><span class="nd">@Override</span>
+<span class="w">    </span><span class="kd">public</span><span class="w"> </span><span class="kt">int</span><span class="w"> </span><span class="nf">hashCode</span><span class="p">()</span><span class="w"> </span><span class="p">{</span>
+<span class="w">        </span><span class="k">return</span><span class="w"> </span><span class="n">Objects</span><span class="p">.</span><span class="na">hash</span><span class="p">(</span><span class="n">name</span><span class="p">,</span><span class="w"> </span><span class="n">age</span><span class="p">);</span>
+<span class="w">    </span><span class="p">}</span>
+<span class="p">}</span>
+</code></pre></div>
+
+<h3 id="判断规则速查">判断规则速查</h3>
+<div class="codehilite"><pre><span></span><code>== 判断规则：
+1. 基本类型 → 比较值
+2. 引用类型 → 比较地址（是否同一对象）
+
+equals 判断规则：
+1. 默认（Object类） → 同 ==
+2. 重写后（如String、Integer、自定义类） → 比较内容
+3. 调用前务必确保对象非null → 用 Objects.equals()
+</code></pre></div>
+
+<h2 id="assert-断言语法">assert 断言语法</h2>
+<h3 id="什么是断言">什么是断言</h3>
+<p><strong>断言（assert）</strong> 是Java中的一种<strong>调试工具</strong>，用于在开发阶段检测程序中的假定条件是否为真。断言默认是禁用的，需要JVM参数启用。</p>
+<div class="codehilite lang-java"><pre><span></span><code><span class="c1">// 基本语法</span>
+<span class="k">assert</span><span class="w"> </span><span class="n">条件</span><span class="p">;</span>
+
+<span class="c1">// 带错误信息的断言</span>
+<span class="k">assert</span><span class="w"> </span><span class="n">条件</span><span class="w"> </span><span class="p">:</span><span class="w"> </span><span class="s">"错误消息"</span><span class="p">;</span>
+</code></pre></div>
+
+<h3 id="基本使用">基本使用</h3>
+<div class="codehilite lang-java"><pre><span></span><code><span class="kd">public</span><span class="w"> </span><span class="kd">class</span> <span class="nc">AssertDemo</span><span class="w"> </span><span class="p">{</span>
+<span class="w">    </span><span class="kd">public</span><span class="w"> </span><span class="kd">static</span><span class="w"> </span><span class="kt">int</span><span class="w"> </span><span class="nf">divide</span><span class="p">(</span><span class="kt">int</span><span class="w"> </span><span class="n">a</span><span class="p">,</span><span class="w"> </span><span class="kt">int</span><span class="w"> </span><span class="n">b</span><span class="p">)</span><span class="w"> </span><span class="p">{</span>
+<span class="w">        </span><span class="c1">// 断言：除数不能为0</span>
+<span class="w">        </span><span class="k">assert</span><span class="w"> </span><span class="n">b</span><span class="w"> </span><span class="o">!=</span><span class="w"> </span><span class="mi">0</span><span class="w"> </span><span class="p">:</span><span class="w"> </span><span class="s">"除数不能为0"</span><span class="p">;</span>
+<span class="w">        </span><span class="k">return</span><span class="w"> </span><span class="n">a</span><span class="w"> </span><span class="o">/</span><span class="w"> </span><span class="n">b</span><span class="p">;</span>
+<span class="w">    </span><span class="p">}</span>
+
+<span class="w">    </span><span class="kd">public</span><span class="w"> </span><span class="kd">static</span><span class="w"> </span><span class="kt">int</span><span class="w"> </span><span class="nf">factorial</span><span class="p">(</span><span class="kt">int</span><span class="w"> </span><span class="n">n</span><span class="p">)</span><span class="w"> </span><span class="p">{</span>
+<span class="w">        </span><span class="c1">// 断言：n 不能为负数</span>
+<span class="w">        </span><span class="k">assert</span><span class="w"> </span><span class="n">n</span><span class="w"> </span><span class="o">&gt;=</span><span class="w"> </span><span class="mi">0</span><span class="w"> </span><span class="p">:</span><span class="w"> </span><span class="s">"n必须是非负数"</span><span class="p">;</span>
+<span class="w">        </span><span class="k">if</span><span class="w"> </span><span class="p">(</span><span class="n">n</span><span class="w"> </span><span class="o">==</span><span class="w"> </span><span class="mi">0</span><span class="w"> </span><span class="o">||</span><span class="w"> </span><span class="n">n</span><span class="w"> </span><span class="o">==</span><span class="w"> </span><span class="mi">1</span><span class="p">)</span><span class="w"> </span><span class="k">return</span><span class="w"> </span><span class="mi">1</span><span class="p">;</span>
+<span class="w">        </span><span class="k">return</span><span class="w"> </span><span class="n">n</span><span class="w"> </span><span class="o">*</span><span class="w"> </span><span class="n">factorial</span><span class="p">(</span><span class="n">n</span><span class="w"> </span><span class="o">-</span><span class="w"> </span><span class="mi">1</span><span class="p">);</span>
+<span class="w">    </span><span class="p">}</span>
+
+<span class="w">    </span><span class="kd">public</span><span class="w"> </span><span class="kd">static</span><span class="w"> </span><span class="kt">void</span><span class="w"> </span><span class="nf">process</span><span class="p">(</span><span class="kt">int</span><span class="w"> </span><span class="n">value</span><span class="p">)</span><span class="w"> </span><span class="p">{</span>
+<span class="w">        </span><span class="c1">// 断言：value 在有效范围内</span>
+<span class="w">        </span><span class="k">assert</span><span class="w"> </span><span class="n">value</span><span class="w"> </span><span class="o">&gt;=</span><span class="w"> </span><span class="mi">0</span><span class="w"> </span><span class="o">&amp;&amp;</span><span class="w"> </span><span class="n">value</span><span class="w"> </span><span class="o">&lt;=</span><span class="w"> </span><span class="mi">100</span><span class="w"> </span><span class="p">:</span><span class="w"> </span><span class="s">"value必须在0~100之间"</span><span class="p">;</span>
+<span class="w">        </span><span class="n">System</span><span class="p">.</span><span class="na">out</span><span class="p">.</span><span class="na">println</span><span class="p">(</span><span class="s">"处理值: "</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="n">value</span><span class="p">);</span>
+<span class="w">    </span><span class="p">}</span>
+
+<span class="w">    </span><span class="kd">public</span><span class="w"> </span><span class="kd">static</span><span class="w"> </span><span class="kt">void</span><span class="w"> </span><span class="nf">main</span><span class="p">(</span><span class="n">String</span><span class="o">[]</span><span class="w"> </span><span class="n">args</span><span class="p">)</span><span class="w"> </span><span class="p">{</span>
+<span class="w">        </span><span class="c1">// 默认：断言被禁用，不会执行</span>
+<span class="w">        </span><span class="n">System</span><span class="p">.</span><span class="na">out</span><span class="p">.</span><span class="na">println</span><span class="p">(</span><span class="n">divide</span><span class="p">(</span><span class="mi">10</span><span class="p">,</span><span class="w"> </span><span class="mi">0</span><span class="p">));</span><span class="w">  </span><span class="c1">// 算术异常</span>
+
+<span class="w">        </span><span class="c1">// 启用断言的方式见下文</span>
+<span class="w">    </span><span class="p">}</span>
+<span class="p">}</span>
+</code></pre></div>
+
+<h3 id="启用断言">启用断言</h3>
+<p>Java命令启动：</p>
+<div class="codehilite lang-java"><pre><span></span><code><span class="err">#</span><span class="w"> </span><span class="n">启用所有类的断言</span>
+<span class="n">java</span><span class="w"> </span><span class="o">-</span><span class="n">ea</span><span class="w"> </span><span class="n">AssertDemo</span>
+
+<span class="err">#</span><span class="w"> </span><span class="n">启用特定类的断言</span>
+<span class="n">java</span><span class="w"> </span><span class="o">-</span><span class="n">ea</span><span class="p">:</span><span class="n">com</span><span class="p">.</span><span class="na">example</span><span class="p">.</span><span class="na">AssertDemo</span><span class="w"> </span><span class="n">AssertDemo</span>
+
+<span class="err">#</span><span class="w"> </span><span class="n">启用特定包的断言</span>
+<span class="n">java</span><span class="w"> </span><span class="o">-</span><span class="n">ea</span><span class="p">:</span><span class="n">com</span><span class="p">.</span><span class="na">example</span><span class="p">...</span><span class="w"> </span><span class="n">AssertDemo</span>
+
+<span class="err">#</span><span class="w"> </span><span class="n">禁用特定包的断言</span>
+<span class="n">java</span><span class="w"> </span><span class="o">-</span><span class="n">ea</span><span class="w"> </span><span class="o">-</span><span class="n">da</span><span class="p">:</span><span class="n">com</span><span class="p">.</span><span class="na">example</span><span class="p">.</span><span class="na">legacy</span><span class="p">...</span><span class="w"> </span><span class="n">AssertDemo</span>
+</code></pre></div>
+
+<p>IDEA中的设置步骤：</p>
+<div class="codehilite lang-java"><pre><span></span><code><span class="n">打开运行配置</span><span class="err">：</span><span class="n">点击顶部菜单栏的</span><span class="w"> </span><span class="err">“</span><span class="n">Run</span><span class="err">”（</span><span class="n">运行</span><span class="err">），</span><span class="n">选择</span><span class="w"> </span><span class="err">“</span><span class="n">Edit</span><span class="w"> </span><span class="n">Configurations</span><span class="p">...</span><span class="err">”（</span><span class="n">编辑配置</span><span class="err">）。</span>
+
+<span class="n">选择目标配置</span><span class="err">：</span><span class="n">在弹出的窗口左侧</span><span class="err">，</span><span class="n">选择你想要启用断言的运行</span><span class="o">/</span><span class="n">调试配置</span><span class="err">。</span>
+
+<span class="n">添加VM参数</span><span class="err">：</span>
+<span class="o">-</span><span class="w"> </span><span class="n">在右侧窗口</span><span class="err">，</span><span class="n">点击</span><span class="w"> </span><span class="err">“</span><span class="n">Modify</span><span class="w"> </span><span class="n">options</span><span class="err">”</span><span class="o">**</span><span class="err">（</span><span class="n">修改选项</span><span class="err">），</span><span class="n">然后在下拉菜单中选择</span><span class="w"> </span><span class="o">**</span><span class="err">“</span><span class="n">Add</span><span class="w"> </span><span class="n">VM</span><span class="w"> </span><span class="n">options</span><span class="err">”</span><span class="o">**</span><span class="err">（</span><span class="n">添加VM选项</span><span class="err">）。</span><span class="n">这会在界面中显示一个</span><span class="err">“</span><span class="n">VM</span><span class="w"> </span><span class="n">options</span><span class="err">”</span><span class="n">输入框</span><span class="err">。</span>
+
+<span class="n">输入参数</span><span class="err">：</span><span class="n">在</span><span class="w"> </span><span class="err">“</span><span class="n">VM</span><span class="w"> </span><span class="n">options</span><span class="err">”</span><span class="w"> </span><span class="n">文本框中</span><span class="err">，</span><span class="n">输入</span><span class="w"> </span><span class="err">`</span><span class="o">-</span><span class="n">ea</span><span class="err">`</span><span class="w"> </span><span class="n">或</span><span class="w"> </span><span class="err">`</span><span class="o">-</span><span class="n">enableassertions</span><span class="err">`</span>
+</code></pre></div>
+
+<h3 id="断言-vs-异常">断言 vs 异常</h3>
+<table>
+<thead>
+<tr>
+<th>对比</th>
+<th>assert</th>
+<th>异常（Exception）</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>适用阶段</td>
+<td>开发期调试</td>
+<td>生产期处理</td>
+</tr>
+<tr>
+<td>默认状态</td>
+<td>禁用</td>
+<td>总是启用</td>
+</tr>
+<tr>
+<td>用途</td>
+<td>检测程序错误</td>
+<td>处理运行期错误</td>
+</tr>
+<tr>
+<td>捕获</td>
+<td>不应该被捕获</td>
+<td>可以被捕获处理</td>
+</tr>
+</tbody>
+</table>
+<blockquote>
+<p>[!CAUTION]
+不要在生产环境中依赖断言来处理业务逻辑，因为断言可能被禁用。使用异常来处理运行时错误。</p>
+</blockquote>
+<h2 id="常用工具类">常用工具类</h2>
+<h3 id="Objects-工具类">Objects 工具类</h3>
+<p><code>Objects</code> 提供操作对象的静态方法，安全处理 null。</p>
+<div class="codehilite lang-java"><pre><span></span><code><span class="kn">import</span><span class="w"> </span><span class="nn">java.util.Objects</span><span class="p">;</span>
+
+<span class="kd">public</span><span class="w"> </span><span class="kd">class</span> <span class="nc">ObjectsDemo</span><span class="w"> </span><span class="p">{</span>
+<span class="w">    </span><span class="kd">public</span><span class="w"> </span><span class="kd">static</span><span class="w"> </span><span class="kt">void</span><span class="w"> </span><span class="nf">main</span><span class="p">(</span><span class="n">String</span><span class="o">[]</span><span class="w"> </span><span class="n">args</span><span class="p">)</span><span class="w"> </span><span class="p">{</span>
+<span class="w">        </span><span class="c1">// 1. equals：安全比较（处理null）</span>
+<span class="w">        </span><span class="n">System</span><span class="p">.</span><span class="na">out</span><span class="p">.</span><span class="na">println</span><span class="p">(</span><span class="n">Objects</span><span class="p">.</span><span class="na">equals</span><span class="p">(</span><span class="s">"hello"</span><span class="p">,</span><span class="w"> </span><span class="s">"hello"</span><span class="p">));</span><span class="w">  </span><span class="c1">// true</span>
+<span class="w">        </span><span class="n">System</span><span class="p">.</span><span class="na">out</span><span class="p">.</span><span class="na">println</span><span class="p">(</span><span class="n">Objects</span><span class="p">.</span><span class="na">equals</span><span class="p">(</span><span class="kc">null</span><span class="p">,</span><span class="w"> </span><span class="s">"hello"</span><span class="p">));</span><span class="w">     </span><span class="c1">// false</span>
+<span class="w">        </span><span class="n">System</span><span class="p">.</span><span class="na">out</span><span class="p">.</span><span class="na">println</span><span class="p">(</span><span class="n">Objects</span><span class="p">.</span><span class="na">equals</span><span class="p">(</span><span class="s">"hello"</span><span class="p">,</span><span class="w"> </span><span class="kc">null</span><span class="p">));</span><span class="w">     </span><span class="c1">// false</span>
+
+<span class="w">        </span><span class="c1">// 2. hashCode：安全获取hashCode</span>
+<span class="w">        </span><span class="n">System</span><span class="p">.</span><span class="na">out</span><span class="p">.</span><span class="na">println</span><span class="p">(</span><span class="n">Objects</span><span class="p">.</span><span class="na">hashCode</span><span class="p">(</span><span class="s">"hello"</span><span class="p">));</span><span class="w">  </span><span class="c1">// 99162322</span>
+<span class="w">        </span><span class="n">System</span><span class="p">.</span><span class="na">out</span><span class="p">.</span><span class="na">println</span><span class="p">(</span><span class="n">Objects</span><span class="p">.</span><span class="na">hashCode</span><span class="p">(</span><span class="kc">null</span><span class="p">));</span><span class="w">     </span><span class="c1">// 0</span>
+
+<span class="w">        </span><span class="c1">// 3. hash：计算多个字段的hashCode</span>
+<span class="w">        </span><span class="n">System</span><span class="p">.</span><span class="na">out</span><span class="p">.</span><span class="na">println</span><span class="p">(</span><span class="n">Objects</span><span class="p">.</span><span class="na">hash</span><span class="p">(</span><span class="s">"Alice"</span><span class="p">,</span><span class="w"> </span><span class="mi">25</span><span class="p">));</span><span class="w">  </span><span class="c1">// 组合hash</span>
+
+<span class="w">        </span><span class="c1">// 4. requireNonNull：检查非空，为空则抛异常</span>
+<span class="w">        </span><span class="n">String</span><span class="w"> </span><span class="n">name</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="kc">null</span><span class="p">;</span>
+<span class="w">        </span><span class="c1">// String result = Objects.requireNonNull(name);  // NullPointerException</span>
+<span class="w">        </span><span class="c1">// String result2 = Objects.requireNonNull(name, "名称不能为空");</span>
+
+<span class="w">        </span><span class="c1">// 5. toString：安全toString（null返回"null"）</span>
+<span class="w">        </span><span class="n">System</span><span class="p">.</span><span class="na">out</span><span class="p">.</span><span class="na">println</span><span class="p">(</span><span class="n">Objects</span><span class="p">.</span><span class="na">toString</span><span class="p">(</span><span class="kc">null</span><span class="p">));</span><span class="w">  </span><span class="c1">// "null"</span>
+<span class="w">        </span><span class="n">System</span><span class="p">.</span><span class="na">out</span><span class="p">.</span><span class="na">println</span><span class="p">(</span><span class="n">Objects</span><span class="p">.</span><span class="na">toString</span><span class="p">(</span><span class="kc">null</span><span class="p">,</span><span class="w"> </span><span class="s">"默认值"</span><span class="p">));</span><span class="w">  </span><span class="c1">// "默认值"</span>
+
+<span class="w">        </span><span class="c1">// 6. compare：安全比较</span>
+<span class="w">        </span><span class="n">String</span><span class="w"> </span><span class="n">a</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s">"apple"</span><span class="p">;</span>
+<span class="w">        </span><span class="n">String</span><span class="w"> </span><span class="n">b</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s">"banana"</span><span class="p">;</span>
+<span class="w">        </span><span class="n">System</span><span class="p">.</span><span class="na">out</span><span class="p">.</span><span class="na">println</span><span class="p">(</span><span class="n">Objects</span><span class="p">.</span><span class="na">compare</span><span class="p">(</span><span class="n">a</span><span class="p">,</span><span class="w"> </span><span class="n">b</span><span class="p">,</span><span class="w"> </span><span class="n">String</span><span class="p">::</span><span class="n">compareTo</span><span class="p">));</span><span class="w">  </span><span class="c1">// -1</span>
+
+<span class="w">        </span><span class="c1">// 7. isNull / nonNull</span>
+<span class="w">        </span><span class="n">System</span><span class="p">.</span><span class="na">out</span><span class="p">.</span><span class="na">println</span><span class="p">(</span><span class="n">Objects</span><span class="p">.</span><span class="na">isNull</span><span class="p">(</span><span class="kc">null</span><span class="p">));</span><span class="w">    </span><span class="c1">// true</span>
+<span class="w">        </span><span class="n">System</span><span class="p">.</span><span class="na">out</span><span class="p">.</span><span class="na">println</span><span class="p">(</span><span class="n">Objects</span><span class="p">.</span><span class="na">nonNull</span><span class="p">(</span><span class="kc">null</span><span class="p">));</span><span class="w">   </span><span class="c1">// false</span>
+<span class="w">    </span><span class="p">}</span>
+<span class="p">}</span>
+</code></pre></div>
+
+<h3 id="Collections-工具类">Collections 工具类</h3>
+<p><code>Collections</code> 提供操作集合的静态方法（排序、查找、同步包装、不可变包装等）。</p>
+<div class="codehilite lang-java"><pre><span></span><code><span class="kn">import</span><span class="w"> </span><span class="nn">java.util.*</span><span class="p">;</span>
+
+<span class="kd">public</span><span class="w"> </span><span class="kd">class</span> <span class="nc">CollectionsDemo</span><span class="w"> </span><span class="p">{</span>
+<span class="w">    </span><span class="kd">public</span><span class="w"> </span><span class="kd">static</span><span class="w"> </span><span class="kt">void</span><span class="w"> </span><span class="nf">main</span><span class="p">(</span><span class="n">String</span><span class="o">[]</span><span class="w"> </span><span class="n">args</span><span class="p">)</span><span class="w"> </span><span class="p">{</span>
+<span class="w">        </span><span class="c1">// ========== 排序 ==========</span>
+<span class="w">        </span><span class="n">List</span><span class="o">&lt;</span><span class="n">Integer</span><span class="o">&gt;</span><span class="w"> </span><span class="n">numbers</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="k">new</span><span class="w"> </span><span class="n">ArrayList</span><span class="o">&lt;&gt;</span><span class="p">(</span><span class="n">Arrays</span><span class="p">.</span><span class="na">asList</span><span class="p">(</span><span class="mi">3</span><span class="p">,</span><span class="w"> </span><span class="mi">1</span><span class="p">,</span><span class="w"> </span><span class="mi">4</span><span class="p">,</span><span class="w"> </span><span class="mi">1</span><span class="p">,</span><span class="w"> </span><span class="mi">5</span><span class="p">));</span>
+<span class="w">        </span><span class="n">Collections</span><span class="p">.</span><span class="na">sort</span><span class="p">(</span><span class="n">numbers</span><span class="p">);</span><span class="w">  </span><span class="c1">// 升序</span>
+<span class="w">        </span><span class="n">System</span><span class="p">.</span><span class="na">out</span><span class="p">.</span><span class="na">println</span><span class="p">(</span><span class="n">numbers</span><span class="p">);</span><span class="w">  </span><span class="c1">// [1, 1, 3, 4, 5]</span>
+<span class="w">        </span><span class="n">Collections</span><span class="p">.</span><span class="na">sort</span><span class="p">(</span><span class="n">numbers</span><span class="p">,</span><span class="w"> </span><span class="n">Collections</span><span class="p">.</span><span class="na">reverseOrder</span><span class="p">());</span><span class="w">  </span><span class="c1">// 降序</span>
+
+<span class="w">        </span><span class="c1">// ========== 查找 ==========</span>
+<span class="w">        </span><span class="kt">int</span><span class="w"> </span><span class="n">index</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">Collections</span><span class="p">.</span><span class="na">binarySearch</span><span class="p">(</span><span class="n">numbers</span><span class="p">,</span><span class="w"> </span><span class="mi">3</span><span class="p">);</span><span class="w">  </span><span class="c1">// 需先排序</span>
+<span class="w">        </span><span class="n">System</span><span class="p">.</span><span class="na">out</span><span class="p">.</span><span class="na">println</span><span class="p">(</span><span class="s">"位置: "</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="n">index</span><span class="p">);</span>
+
+<span class="w">        </span><span class="c1">// ========== 不可变集合 ==========</span>
+<span class="w">        </span><span class="n">List</span><span class="o">&lt;</span><span class="n">String</span><span class="o">&gt;</span><span class="w"> </span><span class="n">unmodifiable</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">Collections</span><span class="p">.</span><span class="na">unmodifiableList</span><span class="p">(</span>
+<span class="w">            </span><span class="k">new</span><span class="w"> </span><span class="n">ArrayList</span><span class="o">&lt;&gt;</span><span class="p">(</span><span class="n">Arrays</span><span class="p">.</span><span class="na">asList</span><span class="p">(</span><span class="s">"a"</span><span class="p">,</span><span class="w"> </span><span class="s">"b"</span><span class="p">,</span><span class="w"> </span><span class="s">"c"</span><span class="p">))</span>
+<span class="w">        </span><span class="p">);</span>
+<span class="w">        </span><span class="c1">// unmodifiable.add("d");  // UnsupportedOperationException!</span>
+
+<span class="w">        </span><span class="c1">// ========== 同步集合（线程安全包装） ==========</span>
+<span class="w">        </span><span class="n">List</span><span class="o">&lt;</span><span class="n">String</span><span class="o">&gt;</span><span class="w"> </span><span class="n">syncList</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">Collections</span><span class="p">.</span><span class="na">synchronizedList</span><span class="p">(</span><span class="k">new</span><span class="w"> </span><span class="n">ArrayList</span><span class="o">&lt;&gt;</span><span class="p">());</span>
+<span class="w">        </span><span class="n">Map</span><span class="o">&lt;</span><span class="n">String</span><span class="p">,</span><span class="w"> </span><span class="n">String</span><span class="o">&gt;</span><span class="w"> </span><span class="n">syncMap</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">Collections</span><span class="p">.</span><span class="na">synchronizedMap</span><span class="p">(</span><span class="k">new</span><span class="w"> </span><span class="n">HashMap</span><span class="o">&lt;&gt;</span><span class="p">());</span>
+
+<span class="w">        </span><span class="c1">// ========== 初始化 ==========</span>
+<span class="w">        </span><span class="n">List</span><span class="o">&lt;</span><span class="n">Integer</span><span class="o">&gt;</span><span class="w"> </span><span class="n">emptyList</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">Collections</span><span class="p">.</span><span class="na">emptyList</span><span class="p">();</span><span class="w">  </span><span class="c1">// 空列表</span>
+<span class="w">        </span><span class="n">Set</span><span class="o">&lt;</span><span class="n">String</span><span class="o">&gt;</span><span class="w"> </span><span class="n">singleton</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">Collections</span><span class="p">.</span><span class="na">singleton</span><span class="p">(</span><span class="s">"唯一"</span><span class="p">);</span><span class="w">  </span><span class="c1">// 单元素集合</span>
+
+<span class="w">        </span><span class="c1">// ========== 填充和复制 ==========</span>
+<span class="w">        </span><span class="n">List</span><span class="o">&lt;</span><span class="n">String</span><span class="o">&gt;</span><span class="w"> </span><span class="n">list</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="k">new</span><span class="w"> </span><span class="n">ArrayList</span><span class="o">&lt;&gt;</span><span class="p">(</span><span class="n">Arrays</span><span class="p">.</span><span class="na">asList</span><span class="p">(</span><span class="s">"a"</span><span class="p">,</span><span class="w"> </span><span class="s">"b"</span><span class="p">,</span><span class="w"> </span><span class="s">"c"</span><span class="p">));</span>
+<span class="w">        </span><span class="n">Collections</span><span class="p">.</span><span class="na">fill</span><span class="p">(</span><span class="n">list</span><span class="p">,</span><span class="w"> </span><span class="s">"x"</span><span class="p">);</span><span class="w">  </span><span class="c1">// [x, x, x]</span>
+<span class="w">        </span><span class="n">Collections</span><span class="p">.</span><span class="na">copy</span><span class="p">(</span><span class="k">new</span><span class="w"> </span><span class="n">ArrayList</span><span class="o">&lt;&gt;</span><span class="p">(</span><span class="n">list</span><span class="p">),</span><span class="w"> </span><span class="n">list</span><span class="p">);</span><span class="w">  </span><span class="c1">// 复制</span>
+
+<span class="w">        </span><span class="c1">// ========== 最大/最小 ==========</span>
+<span class="w">        </span><span class="n">System</span><span class="p">.</span><span class="na">out</span><span class="p">.</span><span class="na">println</span><span class="p">(</span><span class="n">Collections</span><span class="p">.</span><span class="na">max</span><span class="p">(</span><span class="n">numbers</span><span class="p">));</span><span class="w">  </span><span class="c1">// 最大值</span>
+<span class="w">        </span><span class="n">System</span><span class="p">.</span><span class="na">out</span><span class="p">.</span><span class="na">println</span><span class="p">(</span><span class="n">Collections</span><span class="p">.</span><span class="na">min</span><span class="p">(</span><span class="n">numbers</span><span class="p">));</span><span class="w">  </span><span class="c1">// 最小值</span>
+
+<span class="w">        </span><span class="c1">// ========== 频率统计 ==========</span>
+<span class="w">        </span><span class="n">System</span><span class="p">.</span><span class="na">out</span><span class="p">.</span><span class="na">println</span><span class="p">(</span><span class="n">Collections</span><span class="p">.</span><span class="na">frequency</span><span class="p">(</span><span class="n">numbers</span><span class="p">,</span><span class="w"> </span><span class="mi">1</span><span class="p">));</span><span class="w">  </span><span class="c1">// 出现次数</span>
+
+<span class="w">        </span><span class="c1">// ========== 旋转 ==========</span>
+<span class="w">        </span><span class="n">Collections</span><span class="p">.</span><span class="na">rotate</span><span class="p">(</span><span class="n">numbers</span><span class="p">,</span><span class="w"> </span><span class="mi">2</span><span class="p">);</span><span class="w">  </span><span class="c1">// 循环右移2位</span>
+<span class="w">    </span><span class="p">}</span>
+<span class="p">}</span>
+</code></pre></div>
+
+<h3 id="Arrays-工具类">Arrays 工具类</h3>
+<p><code>Arrays</code> 提供操作数组的静态方法（排序、查找、填充、转换等）。</p>
+<div class="codehilite lang-java"><pre><span></span><code><span class="kn">import</span><span class="w"> </span><span class="nn">java.util.Arrays</span><span class="p">;</span>
+
+<span class="kd">public</span><span class="w"> </span><span class="kd">class</span> <span class="nc">ArraysDemo</span><span class="w"> </span><span class="p">{</span>
+<span class="w">    </span><span class="kd">public</span><span class="w"> </span><span class="kd">static</span><span class="w"> </span><span class="kt">void</span><span class="w"> </span><span class="nf">main</span><span class="p">(</span><span class="n">String</span><span class="o">[]</span><span class="w"> </span><span class="n">args</span><span class="p">)</span><span class="w"> </span><span class="p">{</span>
+<span class="w">        </span><span class="c1">// ========== toString ==========</span>
+<span class="w">        </span><span class="kt">int</span><span class="o">[]</span><span class="w"> </span><span class="n">arr</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="p">{</span><span class="mi">3</span><span class="p">,</span><span class="w"> </span><span class="mi">1</span><span class="p">,</span><span class="w"> </span><span class="mi">4</span><span class="p">,</span><span class="w"> </span><span class="mi">1</span><span class="p">,</span><span class="w"> </span><span class="mi">5</span><span class="p">};</span>
+<span class="w">        </span><span class="n">System</span><span class="p">.</span><span class="na">out</span><span class="p">.</span><span class="na">println</span><span class="p">(</span><span class="n">Arrays</span><span class="p">.</span><span class="na">toString</span><span class="p">(</span><span class="n">arr</span><span class="p">));</span><span class="w">  </span><span class="c1">// [3, 1, 4, 1, 5]</span>
+
+<span class="w">        </span><span class="c1">// ========== 排序 ==========</span>
+<span class="w">        </span><span class="n">Arrays</span><span class="p">.</span><span class="na">sort</span><span class="p">(</span><span class="n">arr</span><span class="p">);</span>
+<span class="w">        </span><span class="n">System</span><span class="p">.</span><span class="na">out</span><span class="p">.</span><span class="na">println</span><span class="p">(</span><span class="n">Arrays</span><span class="p">.</span><span class="na">toString</span><span class="p">(</span><span class="n">arr</span><span class="p">));</span><span class="w">  </span><span class="c1">// [1, 1, 3, 4, 5]</span>
+
+<span class="w">        </span><span class="c1">// ========== 二分查找 ==========</span>
+<span class="w">        </span><span class="kt">int</span><span class="w"> </span><span class="n">index</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">Arrays</span><span class="p">.</span><span class="na">binarySearch</span><span class="p">(</span><span class="n">arr</span><span class="p">,</span><span class="w"> </span><span class="mi">3</span><span class="p">);</span>
+<span class="w">        </span><span class="n">System</span><span class="p">.</span><span class="na">out</span><span class="p">.</span><span class="na">println</span><span class="p">(</span><span class="s">"位置: "</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="n">index</span><span class="p">);</span>
+
+<span class="w">        </span><span class="c1">// ========== 填充 ==========</span>
+<span class="w">        </span><span class="n">Arrays</span><span class="p">.</span><span class="na">fill</span><span class="p">(</span><span class="n">arr</span><span class="p">,</span><span class="w"> </span><span class="mi">0</span><span class="p">);</span>
+<span class="w">        </span><span class="n">System</span><span class="p">.</span><span class="na">out</span><span class="p">.</span><span class="na">println</span><span class="p">(</span><span class="n">Arrays</span><span class="p">.</span><span class="na">toString</span><span class="p">(</span><span class="n">arr</span><span class="p">));</span><span class="w">  </span><span class="c1">// [0, 0, 0, 0, 0]</span>
+
+<span class="w">        </span><span class="c1">// ========== 复制 ==========</span>
+<span class="w">        </span><span class="kt">int</span><span class="o">[]</span><span class="w"> </span><span class="n">copy</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">Arrays</span><span class="p">.</span><span class="na">copyOf</span><span class="p">(</span><span class="n">arr</span><span class="p">,</span><span class="w"> </span><span class="mi">10</span><span class="p">);</span><span class="w">  </span><span class="c1">// 扩容复制</span>
+<span class="w">        </span><span class="kt">int</span><span class="o">[]</span><span class="w"> </span><span class="n">range</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">Arrays</span><span class="p">.</span><span class="na">copyOfRange</span><span class="p">(</span><span class="n">arr</span><span class="p">,</span><span class="w"> </span><span class="mi">0</span><span class="p">,</span><span class="w"> </span><span class="mi">3</span><span class="p">);</span><span class="w">  </span><span class="c1">// 截取复制</span>
+
+<span class="w">        </span><span class="c1">// ========== 比较（deepEquals处理多维数组） ==========</span>
+<span class="w">        </span><span class="kt">int</span><span class="o">[][]</span><span class="w"> </span><span class="n">matrix1</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="p">{{</span><span class="mi">1</span><span class="p">,</span><span class="w"> </span><span class="mi">2</span><span class="p">},</span><span class="w"> </span><span class="p">{</span><span class="mi">3</span><span class="p">,</span><span class="w"> </span><span class="mi">4</span><span class="p">}};</span>
+<span class="w">        </span><span class="kt">int</span><span class="o">[][]</span><span class="w"> </span><span class="n">matrix2</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="p">{{</span><span class="mi">1</span><span class="p">,</span><span class="w"> </span><span class="mi">2</span><span class="p">},</span><span class="w"> </span><span class="p">{</span><span class="mi">3</span><span class="p">,</span><span class="w"> </span><span class="mi">4</span><span class="p">}};</span>
+<span class="w">        </span><span class="n">System</span><span class="p">.</span><span class="na">out</span><span class="p">.</span><span class="na">println</span><span class="p">(</span><span class="n">Arrays</span><span class="p">.</span><span class="na">equals</span><span class="p">(</span><span class="n">matrix1</span><span class="p">,</span><span class="w"> </span><span class="n">matrix2</span><span class="p">));</span><span class="w">        </span><span class="c1">// false</span>
+<span class="w">        </span><span class="n">System</span><span class="p">.</span><span class="na">out</span><span class="p">.</span><span class="na">println</span><span class="p">(</span><span class="n">Arrays</span><span class="p">.</span><span class="na">deepEquals</span><span class="p">(</span><span class="n">matrix1</span><span class="p">,</span><span class="w"> </span><span class="n">matrix2</span><span class="p">));</span><span class="w">    </span><span class="c1">// true</span>
+
+<span class="w">        </span><span class="c1">// ========== 转字符串（多维） ==========</span>
+<span class="w">        </span><span class="n">System</span><span class="p">.</span><span class="na">out</span><span class="p">.</span><span class="na">println</span><span class="p">(</span><span class="n">Arrays</span><span class="p">.</span><span class="na">deepToString</span><span class="p">(</span><span class="n">matrix1</span><span class="p">));</span><span class="w">  </span><span class="c1">// [[1, 2], [3, 4]]</span>
+
+<span class="w">        </span><span class="c1">// ========== 数组转List ==========</span>
+<span class="w">        </span><span class="n">List</span><span class="o">&lt;</span><span class="n">Integer</span><span class="o">&gt;</span><span class="w"> </span><span class="n">list</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">Arrays</span><span class="p">.</span><span class="na">asList</span><span class="p">(</span><span class="mi">1</span><span class="p">,</span><span class="w"> </span><span class="mi">2</span><span class="p">,</span><span class="w"> </span><span class="mi">3</span><span class="p">,</span><span class="w"> </span><span class="mi">4</span><span class="p">,</span><span class="w"> </span><span class="mi">5</span><span class="p">);</span>
+<span class="w">        </span><span class="c1">// list.add(6);  // UnsupportedOperationException!</span>
+
+<span class="w">        </span><span class="c1">// ========== 并行操作 ==========</span>
+<span class="w">        </span><span class="n">Arrays</span><span class="p">.</span><span class="na">parallelSort</span><span class="p">(</span><span class="n">arr</span><span class="p">);</span><span class="w">          </span><span class="c1">// 并行排序</span>
+<span class="w">        </span><span class="n">Arrays</span><span class="p">.</span><span class="na">parallelSetAll</span><span class="p">(</span><span class="n">arr</span><span class="p">,</span><span class="w"> </span><span class="n">i</span><span class="w"> </span><span class="o">-&gt;</span><span class="w"> </span><span class="n">i</span><span class="w"> </span><span class="o">*</span><span class="w"> </span><span class="mi">2</span><span class="p">);</span><span class="w">  </span><span class="c1">// 并行设置</span>
+<span class="w">    </span><span class="p">}</span>
+<span class="p">}</span>
+</code></pre></div>
+
+<h2 id="代码风格与规范Google-Java-Style">代码风格与规范（Google Java Style）</h2>
+<h3 id="为什么需要代码规范">为什么需要代码规范</h3>
+<ul>
+<li><strong>统一性</strong>：团队所有成员代码风格一致，降低认知负荷</li>
+<li><strong>可读性</strong>：代码更容易阅读、理解和维护</li>
+<li><strong>代码审查</strong>：减少风格讨论，聚焦业务逻辑</li>
+</ul>
+<h3 id="Google-Java-Style-核心要点">Google Java Style 核心要点</h3>
+<h4 id="缩进与空格">缩进与空格</h4>
+<div class="codehilite lang-java"><pre><span></span><code><span class="c1">// ✅ 使用4个空格缩进（不使用Tab）</span>
+<span class="c1">// ✅ 每行最大长度100字符</span>
+<span class="c1">// ✅ 大括号换行风格：K&amp;R风格</span>
+
+<span class="kd">public</span><span class="w"> </span><span class="kd">class</span> <span class="nc">Example</span><span class="w"> </span><span class="p">{</span><span class="w">  </span><span class="c1">// { 不换行</span>
+<span class="w">    </span><span class="kd">public</span><span class="w"> </span><span class="kt">void</span><span class="w"> </span><span class="nf">method</span><span class="p">()</span><span class="w"> </span><span class="p">{</span><span class="w">  </span><span class="c1">// { 不换行</span>
+<span class="w">        </span><span class="k">if</span><span class="w"> </span><span class="p">(</span><span class="n">condition</span><span class="p">)</span><span class="w"> </span><span class="p">{</span>
+<span class="w">            </span><span class="c1">// 代码</span>
+<span class="w">        </span><span class="p">}</span><span class="w"> </span><span class="k">else</span><span class="w"> </span><span class="p">{</span>
+<span class="w">            </span><span class="c1">// 代码</span>
+<span class="w">        </span><span class="p">}</span>
+<span class="w">    </span><span class="p">}</span>
+<span class="p">}</span>
+</code></pre></div>
+
+<h4 id="命名规范">命名规范</h4>
+<table>
+<thead>
+<tr>
+<th>类型</th>
+<th>规范</th>
+<th>示例</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>类名</td>
+<td>大驼峰（PascalCase）</td>
+<td><code>ClassName</code>, <code>UserService</code></td>
+</tr>
+<tr>
+<td>方法名</td>
+<td>小驼峰（lowerCamelCase）</td>
+<td><code>getUserById()</code></td>
+</tr>
+<tr>
+<td>变量名</td>
+<td>小驼峰</td>
+<td><code>userName</code>, <code>totalCount</code></td>
+</tr>
+<tr>
+<td>常量名</td>
+<td>全大写+下划线</td>
+<td><code>MAX_SIZE</code>, <code>DEFAULT_TIMEOUT</code></td>
+</tr>
+<tr>
+<td>包名</td>
+<td>全小写</td>
+<td><code>com.example.util</code></td>
+</tr>
+<tr>
+<td>类型参数</td>
+<td>单个大写字母</td>
+<td><code>T</code>, <code>E</code>, <code>K</code>, <code>V</code></td>
+</tr>
+</tbody>
+</table>
+<h4 id="导入语句">导入语句</h4>
+<div class="codehilite lang-java"><pre><span></span><code><span class="c1">// ✅ 不使用通配符（*）导入</span>
+<span class="kn">import</span><span class="w"> </span><span class="nn">java.util.List</span><span class="p">;</span>
+<span class="kn">import</span><span class="w"> </span><span class="nn">java.util.ArrayList</span><span class="p">;</span><span class="w">  </span><span class="c1">// ✅ 按需导入</span>
+
+<span class="c1">// ❌ 避免使用通配符</span>
+<span class="c1">// import java.util.*;</span>
+
+<span class="c1">// 按以下顺序分组，组间空行分隔：</span>
+<span class="c1">// 1. 静态导入</span>
+<span class="c1">// 2. Java标准库</span>
+<span class="c1">// 3. 第三方库</span>
+<span class="c1">// 4. 项目内部包</span>
+</code></pre></div>
+
+<h4 id="声明顺序">声明顺序</h4>
+<div class="codehilite lang-java"><pre><span></span><code><span class="kd">public</span><span class="w"> </span><span class="kd">class</span> <span class="nc">Order</span><span class="w"> </span><span class="p">{</span>
+<span class="w">    </span><span class="c1">// 1. 静态变量（常量优先）</span>
+<span class="w">    </span><span class="kd">private</span><span class="w"> </span><span class="kd">static</span><span class="w"> </span><span class="kd">final</span><span class="w"> </span><span class="kt">int</span><span class="w"> </span><span class="n">MAX</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="mi">100</span><span class="p">;</span>
+<span class="w">    </span><span class="kd">private</span><span class="w"> </span><span class="kd">static</span><span class="w"> </span><span class="n">String</span><span class="w"> </span><span class="n">staticField</span><span class="p">;</span>
+
+<span class="w">    </span><span class="c1">// 2. 实例变量</span>
+<span class="w">    </span><span class="kd">private</span><span class="w"> </span><span class="n">String</span><span class="w"> </span><span class="n">name</span><span class="p">;</span>
+<span class="w">    </span><span class="kd">private</span><span class="w"> </span><span class="kt">int</span><span class="w"> </span><span class="n">age</span><span class="p">;</span>
+
+<span class="w">    </span><span class="c1">// 3. 构造方法</span>
+<span class="w">    </span><span class="kd">public</span><span class="w"> </span><span class="nf">Order</span><span class="p">(</span><span class="n">String</span><span class="w"> </span><span class="n">name</span><span class="p">,</span><span class="w"> </span><span class="kt">int</span><span class="w"> </span><span class="n">age</span><span class="p">)</span><span class="w"> </span><span class="p">{</span>
+<span class="w">        </span><span class="k">this</span><span class="p">.</span><span class="na">name</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">name</span><span class="p">;</span>
+<span class="w">        </span><span class="k">this</span><span class="p">.</span><span class="na">age</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">age</span><span class="p">;</span>
+<span class="w">    </span><span class="p">}</span>
+
+<span class="w">    </span><span class="c1">// 4. 静态方法</span>
+<span class="w">    </span><span class="kd">public</span><span class="w"> </span><span class="kd">static</span><span class="w"> </span><span class="kt">void</span><span class="w"> </span><span class="nf">staticMethod</span><span class="p">()</span><span class="w"> </span><span class="p">{}</span>
+
+<span class="w">    </span><span class="c1">// 5. 实例方法</span>
+<span class="w">    </span><span class="kd">public</span><span class="w"> </span><span class="kt">void</span><span class="w"> </span><span class="nf">instanceMethod</span><span class="p">()</span><span class="w"> </span><span class="p">{}</span>
+
+<span class="w">    </span><span class="c1">// 6. 内部类</span>
+<span class="w">    </span><span class="kd">private</span><span class="w"> </span><span class="kd">static</span><span class="w"> </span><span class="kd">class</span> <span class="nc">InnerClass</span><span class="w"> </span><span class="p">{}</span>
+<span class="p">}</span>
+</code></pre></div>
+
+<h4 id="注释规范">注释规范</h4>
+<div class="codehilite lang-java"><pre><span></span><code><span class="cm">/**</span>
+<span class="cm"> * 类/方法的Javadoc注释</span>
+<span class="cm"> * 描述类和方法的用途、参数、返回值等</span>
+<span class="cm"> */</span>
+<span class="kd">public</span><span class="w"> </span><span class="kd">class</span> <span class="nc">UserService</span><span class="w"> </span><span class="p">{</span>
+<span class="w">    </span><span class="cm">/**</span>
+<span class="cm">     * 根据ID查找用户。</span>
+<span class="cm">     *</span>
+<span class="cm">     * @param id 用户ID，不能为null</span>
+<span class="cm">     * @return 用户对象，如果不存在返回null</span>
+<span class="cm">     * @throws IllegalArgumentException 如果id为null</span>
+<span class="cm">     */</span>
+<span class="w">    </span><span class="kd">public</span><span class="w"> </span><span class="n">User</span><span class="w"> </span><span class="nf">findUser</span><span class="p">(</span><span class="n">String</span><span class="w"> </span><span class="n">id</span><span class="p">)</span><span class="w"> </span><span class="p">{</span>
+<span class="w">        </span><span class="c1">// 单行注释</span>
+<span class="w">        </span><span class="cm">/*</span>
+<span class="cm">         * 多行注释</span>
+<span class="cm">         */</span>
+<span class="w">        </span><span class="k">return</span><span class="w"> </span><span class="kc">null</span><span class="p">;</span>
+<span class="w">    </span><span class="p">}</span>
+<span class="p">}</span>
+</code></pre></div>
+
+<h2 id="作业">作业</h2>
+<h3 id="作业一枚举使用">作业一：枚举使用</h3>
+<p>定义一个枚举 <code>PaymentStatus</code>，包含以下状态：</p>
+<ul>
+<li><code>PENDING</code>（code=0, desc="待支付"）</li>
+<li><code>PAID</code>（code=1, desc="已支付"）</li>
+<li><code>CANCELLED</code>（code=2, desc="已取消"）</li>
+<li><code>REFUNDED</code>（code=3, desc="已退款"）</li>
+</ul>
+<p>要求：枚举包含 <code>code</code> 和 <code>desc</code> 字段，提供构造方法、getter，并提供一个 <code>fromCode(int code)</code> 静态方法。</p>
+<p>在 <code>main</code> 中遍历所有状态，打印code和desc。</p>
+<hr />
+<h3 id="作业二文本块与字符串格式化">作业二：文本块与字符串格式化</h3>
+<p>使用文本块生成以下格式的HTML：</p>
+<div class="codehilite lang-html"><pre><span></span><code><span class="p">&lt;</span><span class="nt">html</span><span class="p">&gt;</span>
+    <span class="p">&lt;</span><span class="nt">head</span><span class="p">&gt;</span>
+        <span class="p">&lt;</span><span class="nt">title</span><span class="p">&gt;</span>欢迎页面<span class="p">&lt;/</span><span class="nt">title</span><span class="p">&gt;</span>
+    <span class="p">&lt;/</span><span class="nt">head</span><span class="p">&gt;</span>
+    <span class="p">&lt;</span><span class="nt">body</span><span class="p">&gt;</span>
+        <span class="p">&lt;</span><span class="nt">h1</span><span class="p">&gt;</span>欢迎, 张三<span class="p">&lt;/</span><span class="nt">h1</span><span class="p">&gt;</span>
+        <span class="p">&lt;</span><span class="nt">p</span><span class="p">&gt;</span>您的账户余额: 1000.00 元<span class="p">&lt;/</span><span class="nt">p</span><span class="p">&gt;</span>
+    <span class="p">&lt;/</span><span class="nt">body</span><span class="p">&gt;</span>
+<span class="p">&lt;/</span><span class="nt">html</span><span class="p">&gt;</span>
+</code></pre></div>
+
+<p>要求：用户名和余额使用占位符，通过 <code>formatted()</code> 方法替换为实际值。</p>
+<hr />
+<h3 id="作业三Record与Optional综合练习">作业三：Record与Optional综合练习</h3>
+<ol>
+<li>定义一个 <code>User</code> record，包含 <code>id</code>（String）和 <code>name</code>（String）。</li>
+<li>定义一个 <code>UserService</code> 类，包含：
+   - 一个 <code>Map&lt;String, User&gt;</code> 作为用户存储（预置3-5个用户）。
+   - <code>findById(String id)</code> 方法，返回 <code>Optional&lt;User&gt;</code>。</li>
+<li>在 <code>main</code> 中：
+   - 查找存在的用户，打印用户信息。
+   - 查找不存在的用户，打印 "用户不存在"。
+   - 使用 <code>map</code> 将用户姓名转为大写并打印。</li>
+</ol>13:["$","article",null,{"className":"doc","id":"content","children":[["$","div",null,{"className":"doc-head-row mb-2 flex items-center justify-between gap-4","children":[["$","p",null,{"className":"kicker","children":[["$","span",null,{"className":"kicker-num","children":"第 16 章"}],["$","span",null,{"className":"kicker-mod","children":"Java语言核心精讲"}]]}],["$","$L15",null,{"progressKey":"java-basic-16"}]]}],["$","h1",null,{"className":"doc-h1","children":"Java特性拾遗与精进"}],"$undefined",["$","$L16",null,{"html":"$17"}],"$L18"]}]
+14:["$","$L19",null,{"sections":"$5:1:props:children:0:props:courses:4:modules:0:chapters:15:sections"}]
+1a:I[2619,["619","static/chunks/619-ba102abea3e3d0e4.js","526","static/chunks/app/course/%5Bkey%5D/%5Bch%5D/page-4b7f30b4efe73131.js"],""]
+18:["$","nav",null,{"className":"pager","aria-label":"章节导航","children":[["$","$L1a",null,{"className":"pager-link pager-prev","href":"/course/java-basic/15/","children":[["$","span",null,{"className":"pager-dir","children":"上一章"}],["$","span",null,{"className":"pager-name","children":"注解"}]]}],["$","$L1a",null,{"className":"pager-link pager-next","href":"/course/java-basic/17/","children":[["$","span",null,{"className":"pager-dir","children":"下一章"}],["$","span",null,{"className":"pager-name","children":"线程基础与创建方式"}]]}]]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+7:null
+9:{"metadata":[["$","title","0",{"children":"第 16 章  · Java语言核心精讲 · AI大全栈"}],["$","meta","1",{"name":"description","content":"袁进主讲的系列课程手册：Python 语言核心精讲、数据科学工具包、数据库、Python 框架、Agents 底层逻辑、LangGraph、LangChain + DeepAgent、Agent 观测与评估、Agent 基础建设、RAG 知识库。iOS 风格阅读体验，内置可运行的 Python 代码块。"}]],"error":null,"digest":"$undefined"}
+10:"$9:metadata"

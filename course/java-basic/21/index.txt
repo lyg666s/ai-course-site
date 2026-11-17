@@ -1,0 +1,761 @@
+1:"$Sreact.fragment"
+2:I[6590,["619","static/chunks/619-ba102abea3e3d0e4.js","177","static/chunks/app/layout-1fd0282a046e2468.js"],"default"]
+3:I[9766,[],""]
+4:I[8924,[],""]
+6:I[4431,[],"OutletBoundary"]
+8:I[5278,[],"AsyncMetadataOutlet"]
+b:I[7150,[],""]
+:HL["/ai-course-site/_next/static/css/d95fb35eb6f8b422.css","style"]
+0:{"P":null,"b":"X8etduvi9QkiRbgJrCKEG","p":"/ai-course-site","c":["","course","java-basic","21",""],"i":false,"f":[[["",{"children":["course",{"children":[["key","java-basic","d"],{"children":[["ch","21","d"],{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/ai-course-site/_next/static/css/d95fb35eb6f8b422.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"zh-CN","suppressHydrationWarning":true,"children":[["$","head",null,{"children":["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var t=localStorage.getItem(\"theme\");var d=t?t===\"dark\":window.matchMedia(\"(prefers-color-scheme: dark)\").matches;if(d)document.documentElement.classList.add(\"dark\");}catch(e){}})();"}}]}],["$","body",null,{"children":[["$","$L2",null,{"families":[{"key":"agent","name":"AI · Agent 开发"},{"key":"engineering","name":"AI · Agent 工程化"},{"key":"dev","name":"编程与工程基础"}]}],["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","footer",null,{"className":"mx-auto max-w-[52rem] px-6 pb-10 text-center text-xs text-label3","children":"AI大全栈 · 课程手册 — 由课件自动生成，仅供学习使用"}]]}]]}]]}],{"children":["course",["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["key","java-basic","d"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["ch","21","d"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L5",null,["$","$L6",null,{"children":["$L7",["$","$L8",null,{"promise":"$@9"}]]}]]}],{},null,false]},[["$","div","l",{"className":"doc-wrap","children":["$","div",null,{"className":"doc","aria-busy":"true","aria-label":"加载中","children":[["$","div",null,{"className":"mb-2 h-3.5 w-28 animate-pulse rounded bg-fill2"}],["$","div",null,{"className":"mb-6 h-8 w-2/3 animate-pulse rounded bg-fill2"}],["$","div",null,{"className":"space-y-3.5","children":[["$","div","0",{"className":"h-4 animate-pulse rounded bg-fill2","style":{"width":"92%"}}],["$","div","1",{"className":"h-4 animate-pulse rounded bg-fill2","style":{"width":"100%"}}],["$","div","2",{"className":"h-4 animate-pulse rounded bg-fill2","style":{"width":"96%"}}],["$","div","3",{"className":"h-4 animate-pulse rounded bg-fill2","style":{"width":"60%"}}]]}],["$","div",null,{"className":"my-8 h-32 animate-pulse rounded-xl bg-fill"}],["$","div",null,{"className":"space-y-3.5","children":[["$","div","0",{"className":"h-4 animate-pulse rounded bg-fill2","style":{"width":"100%"}}],["$","div","1",{"className":"h-4 animate-pulse rounded bg-fill2","style":{"width":"88%"}}],["$","div","2",{"className":"h-4 animate-pulse rounded bg-fill2","style":{"width":"95%"}}],["$","div","3",{"className":"h-4 animate-pulse rounded bg-fill2","style":{"width":"72%"}}],["$","div","4",{"className":"h-4 animate-pulse rounded bg-fill2","style":{"width":"100%"}}]]}]]}]}],[],[]],false]},null,false]},null,false]},null,false],"$La",false]],"m":"$undefined","G":["$b",[]],"s":false,"S":true}
+c:I[4431,[],"ViewportBoundary"]
+e:I[4431,[],"MetadataBoundary"]
+f:"$Sreact.suspense"
+a:["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$f",null,{"fallback":null,"children":"$L10"}]}]}]]}]
+11:I[7010,["619","static/chunks/619-ba102abea3e3d0e4.js","526","static/chunks/app/course/%5Bkey%5D/%5Bch%5D/page-4b7f30b4efe73131.js"],"default"]
+12:I[6710,["619","static/chunks/619-ba102abea3e3d0e4.js","526","static/chunks/app/course/%5Bkey%5D/%5Bch%5D/page-4b7f30b4efe73131.js"],"default"]
+5:[["$","$L11",null,{"url":"/course/java-basic/21/","title":"并发集合与同步工具类","course":"Java语言核心精讲"}],["$","div",null,{"className":"doc-wrap","children":[["$","$L12",null,{"courses":[{"key":"py","title":"Python语言核心精讲","glyph":"Py","cls":"b1","coming_soon":false,"modules":[{"name":"语言基础","chapters":[{"n":1,"slug":"1","title":"必看导言","group":"语言基础","progress_key":"1"},{"n":2,"slug":"2","title":"python环境安装","group":"语言基础","progress_key":"2"},{"n":3,"slug":"3","title":"python基本语法","group":"语言基础","progress_key":"3"},{"n":4,"slug":"4","title":"容器类型","group":"语言基础","progress_key":"4"},{"n":5,"slug":"5","title":"函数","group":"语言基础","progress_key":"5"},{"n":6,"slug":"6","title":"作用域","group":"语言基础","progress_key":"6"},{"n":7,"slug":"7","title":"lambda表达式","group":"语言基础","progress_key":"7"}]},{"name":"面向对象","chapters":[{"n":8,"slug":"8","title":"类和对象","group":"面向对象","progress_key":"8"},{"n":9,"slug":"9","title":"对象的类型","group":"面向对象","progress_key":"9"},{"n":10,"slug":"10","title":"对象的创建过程","group":"面向对象","progress_key":"10"},{"n":11,"slug":"11","title":"可调用对象","group":"面向对象","progress_key":"11"},{"n":12,"slug":"12","title":"元类","group":"面向对象","progress_key":"12"},{"n":13,"slug":"13","title":"装饰器","group":"面向对象","progress_key":"13"},{"n":14,"slug":"14","title":"魔术方法","group":"面向对象","progress_key":"14"},{"n":15,"slug":"15","title":"描述符","group":"面向对象","progress_key":"15"}]},{"name":"语言进阶","chapters":[{"n":16,"slug":"16","title":"异常处理","group":"语言进阶","progress_key":"16"},{"n":17,"slug":"17","title":"迭代器与生成器","group":"语言进阶","progress_key":"17"},{"n":18,"slug":"18","title":"上下文管理器","group":"语言进阶","progress_key":"18"},{"n":19,"slug":"19","title":"ABC","group":"语言进阶","progress_key":"19"},{"n":20,"slug":"20","title":"类型标注","group":"语言进阶","progress_key":"20"},{"n":21,"slug":"21","title":"模块化","group":"语言进阶","progress_key":"21"},{"n":22,"slug":"22","title":"标准库","group":"语言进阶","progress_key":"22"},{"n":23,"slug":"23","title":"第三方库","group":"语言进阶","progress_key":"23"}]},{"name":"异步与并发","chapters":[{"n":24,"slug":"24","title":"事件循环","group":"异步与并发","progress_key":"24"},{"n":25,"slug":"25","title":"Future类","group":"异步与并发","progress_key":"25"},{"n":26,"slug":"26","title":"协程 Coroutine","group":"异步与并发","progress_key":"26"},{"n":27,"slug":"27","title":"异步编程","group":"异步与并发","progress_key":"27"},{"n":28,"slug":"28","title":"多线程与多进程","group":"异步与并发","progress_key":"28"}]},{"name":"工程化实践","chapters":[{"n":29,"slug":"29","title":"构建发布","group":"工程化实践","progress_key":"29"},{"n":30,"slug":"30","title":"项目管理工具","group":"工程化实践","progress_key":"30"},{"n":31,"slug":"31","title":"monorepo","group":"工程化实践","progress_key":"31"},{"n":32,"slug":"32","title":"断点调试","group":"工程化实践","progress_key":"32"}]},{"name":"项目案例","chapters":[{"n":null,"slug":"proj-async-agents","title":"多智能体协同调研系统","group":"项目案例","progress_key":""},{"n":null,"slug":"proj-duyi-utils","title":"duyi-utils 构建发布示例","group":"项目案例","progress_key":""}]}]},{"key":"fw","title":"Python框架","glyph":"架","cls":"b-fw","coming_soon":false,"modules":[{"name":"课程内容","chapters":[{"n":1,"slug":"1","title":"Web服务框架","group":"课程内容","progress_key":"fw-1"},{"n":2,"slug":"2","title":"优化包结构","group":"课程内容","progress_key":"fw-2"},{"n":3,"slug":"3","title":"初识SQLAlchemy","group":"课程内容","progress_key":"fw-3"},{"n":4,"slug":"4","title":"ORM","group":"课程内容","progress_key":"fw-4"},{"n":5,"slug":"5","title":"数据操作","group":"课程内容","progress_key":"fw-5"},{"n":6,"slug":"6","title":"数据迁移","group":"课程内容","progress_key":"fw-6"},{"n":7,"slug":"7","title":"业务逻辑","group":"课程内容","progress_key":"fw-7"},{"n":8,"slug":"8","title":"依赖注入","group":"课程内容","progress_key":"fw-8"},{"n":9,"slug":"9","title":"统一异常处理","group":"课程内容","progress_key":"fw-9"},{"n":10,"slug":"10","title":"中间件","group":"课程内容","progress_key":"fw-10"},{"n":11,"slug":"11","title":"测试框架","group":"课程内容","progress_key":"fw-11"},{"n":12,"slug":"12","title":"测试方案","group":"课程内容","progress_key":"fw-12"},{"n":13,"slug":"13","title":"三层架构","group":"课程内容","progress_key":"fw-13"},{"n":14,"slug":"14","title":"文件上传","group":"课程内容","progress_key":"fw-14"},{"n":15,"slug":"15","title":"系统设置","group":"课程内容","progress_key":"fw-15"},{"n":17,"slug":"17","title":"用户系统","group":"课程内容","progress_key":"fw-17"},{"n":18,"slug":"18","title":"日志","group":"课程内容","progress_key":"fw-18"},{"n":20,"slug":"20","title":"流式响应","group":"课程内容","progress_key":"fw-20"},{"n":26,"slug":"26","title":"python收官检验","group":"课程内容","progress_key":"fw-26"}]},{"name":"部署","chapters":[{"n":21,"slug":"21","title":"部署-认识Docker","group":"部署","progress_key":"fw-21"},{"n":22,"slug":"22","title":"部署-云资产","group":"部署","progress_key":"fw-22"},{"n":23,"slug":"23","title":"部署-k8s","group":"部署","progress_key":"fw-23"},{"n":24,"slug":"24","title":"部署-CICD","group":"部署","progress_key":"fw-24"},{"n":25,"slug":"25","title":"部署-总结","group":"部署","progress_key":"fw-25"}]}]},{"key":"db","title":"数据库","glyph":"库","cls":"b-db","coming_soon":false,"modules":[{"name":"课程内容","chapters":[{"n":1,"slug":"1","title":"PostgreSQL安装","group":"课程内容","progress_key":"db-1"},{"n":2,"slug":"2","title":"DDL","group":"课程内容","progress_key":"db-2"},{"n":3,"slug":"3","title":"表间关系","group":"课程内容","progress_key":"db-3"},{"n":4,"slug":"4","title":"DML","group":"课程内容","progress_key":"db-4"},{"n":5,"slug":"5","title":"事务","group":"课程内容","progress_key":"db-5"},{"n":6,"slug":"6","title":"索引","group":"课程内容","progress_key":"db-6"},{"n":7,"slug":"7","title":"拓展知识","group":"课程内容","progress_key":"db-7"}]}]},{"key":"dst","title":"数据科学工具包","glyph":"数","cls":"b-ds","coming_soon":false,"modules":[{"name":"课程内容","chapters":[{"n":1,"slug":"1","title":"课程导言","group":"课程内容","progress_key":"dst-1"},{"n":2,"slug":"2","title":"Jupyter","group":"课程内容","progress_key":"dst-2"},{"n":10,"slug":"10","title":"Seaborn","group":"课程内容","progress_key":"dst-10"}]},{"name":"Numpy","chapters":[{"n":3,"slug":"3","title":"Numpy - 核心概念","group":"Numpy","progress_key":"dst-3"},{"n":4,"slug":"4","title":"Numpy - 数据操作","group":"Numpy","progress_key":"dst-4"}]},{"name":"Pandas","chapters":[{"n":5,"slug":"5","title":"Pandas - 数据类型","group":"Pandas","progress_key":"dst-5"},{"n":6,"slug":"6","title":"Pandas - 数据清洗","group":"Pandas","progress_key":"dst-6"}]},{"name":"Matplotlib","chapters":[{"n":7,"slug":"7","title":"Matplotlib - 核心概念","group":"Matplotlib","progress_key":"dst-7"},{"n":8,"slug":"8","title":"Matplotlib - 动画","group":"Matplotlib","progress_key":"dst-8"},{"n":9,"slug":"9","title":"Matplotlib - 交互式组件","group":"Matplotlib","progress_key":"dst-9"}]}]},{"key":"java-basic","title":"Java语言核心精讲","glyph":"J","cls":"b-java","coming_soon":false,"modules":[{"name":"课程内容","chapters":[{"n":1,"slug":"1","title":"课程导言","group":"课程内容","progress_key":"java-basic-1","sections":[{"name":"三个问题","anchor":"三个问题"},{"name":"讲师介绍：郑天民","anchor":"讲师介绍郑天民"},{"name":"为什么要学Java？","anchor":"为什么要学Java"},{"name":"怎么学Java？","anchor":"怎么学Java"},{"name":"作业","anchor":"作业"}]},{"n":2,"slug":"2","title":"构建第一个Java应用程序","group":"课程内容","progress_key":"java-basic-2","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"Java核心概念","anchor":"Java核心概念"},{"name":"安装和配置JDK","anchor":"安装和配置JDK"},{"name":"创建和运行第一个Java项目","anchor":"创建和运行第一个Java项目"},{"name":"常见问题总结","anchor":"常见问题总结"},{"name":"作业","anchor":"作业"}]},{"n":3,"slug":"3","title":"Java基础语法","group":"课程内容","progress_key":"java-basic-3","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"语言基本特征","anchor":"语言基本特征"},{"name":"注释","anchor":"注释"},{"name":"数据类型","anchor":"数据类型"},{"name":"instanceof 与类型检查","anchor":"instanceof-与类型检查"},{"name":"变量","anchor":"变量"},{"name":"字符串格式化","anchor":"字符串格式化"},{"name":"运算符","anchor":"运算符"},{"name":"输入输出","anchor":"输入输出"},{"name":"流程控制","anchor":"流程控制"},{"name":"循环","anchor":"循环"},{"name":"作业","anchor":"作业"}]},{"n":4,"slug":"4","title":"容器类型","group":"课程内容","progress_key":"java-basic-4","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"什么是容器类型？","anchor":"什么是容器类型"},{"name":"List 接口（列表）","anchor":"List-接口列表"},{"name":"Set 接口（集合）","anchor":"Set-接口集合"},{"name":"Map 接口（字典，映射表，键值对）","anchor":"Map-接口字典映射表键值对"},{"name":"数组（Array）","anchor":"数组Array"},{"name":"String 作为字符序列","anchor":"String-作为字符序列"},{"name":"通用操作","anchor":"通用操作"},{"name":"常用运算符与操作","anchor":"常用运算符与操作"},{"name":"遍历容器","anchor":"遍历容器"},{"name":"思维导图","anchor":"思维导图"},{"name":"作业","anchor":"作业"}]},{"n":5,"slug":"5","title":"方法","group":"课程内容","progress_key":"java-basic-5","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"关于类和方法","anchor":"关于类和方法"},{"name":"静态方法 vs 实例方法","anchor":"静态方法-vs-实例方法"},{"name":"定义方法","anchor":"定义方法"},{"name":"参数","anchor":"参数"},{"name":"返回值","anchor":"返回值"},{"name":"访问修饰符（控制方法可见性）","anchor":"访问修饰符控制方法可见性"},{"name":"文档注释（Javadoc）","anchor":"文档注释Javadoc"},{"name":"作业","anchor":"作业"}]},{"n":6,"slug":"6","title":"Lambda表达式","group":"课程内容","progress_key":"java-basic-6","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"什么是 Lambda 表达式","anchor":"什么是-Lambda-表达式"},{"name":"函数式接口（Functional Interface）","anchor":"函数式接口Functional-Interface"},{"name":"Lambda 表达式语法","anchor":"Lambda-表达式语法"},{"name":"Java 内置函数式接口详解","anchor":"Java-内置函数式接口详解"},{"name":"方法引用（Method Reference）","anchor":"方法引用Method-Reference"},{"name":"对比：匿名内部类 vs Lambda","anchor":"对比匿名内部类-vs-Lambda"},{"name":"注意事项","anchor":"注意事项"},{"name":"作业","anchor":"作业"}]},{"n":7,"slug":"7","title":"Stream API","group":"课程内容","progress_key":"java-basic-7","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"什么是 Stream API","anchor":"什么是-Stream-API"},{"name":"Stream 的创建","anchor":"Stream-的创建"},{"name":"终端操作（Terminal Operations）","anchor":"终端操作Terminal-Operations"},{"name":"中间操作（Intermediate Operations）","anchor":"中间操作Intermediate-Operations"},{"name":"Stream 操作经典示例","anchor":"Stream-操作经典示例"},{"name":"注意事项","anchor":"注意事项"},{"name":"作业","anchor":"作业"}]},{"n":8,"slug":"8","title":"类和对象","group":"课程内容","progress_key":"java-basic-8","sections":[{"name":"类和对象","anchor":"类和对象"},{"name":"课程目标","anchor":"课程目标"},{"name":"面向对象编程概述","anchor":"面向对象编程概述"},{"name":"类的基本定义","anchor":"类的基本定义"},{"name":"对象的创建和使用","anchor":"对象的创建和使用"},{"name":"构造方法（Constructor）","anchor":"构造方法Constructor"},{"name":"this 关键字","anchor":"this-关键字"},{"name":"静态成员（static）","anchor":"静态成员static"},{"name":"代码块","anchor":"代码块"},{"name":"作业","anchor":"作业"}]},{"n":9,"slug":"9","title":"封装、继承和多态","group":"课程内容","progress_key":"java-basic-9","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"封装（Encapsulation）","anchor":"封装Encapsulation"},{"name":"继承（Inheritance）","anchor":"继承Inheritance"},{"name":"多态（Polymorphism）","anchor":"多态Polymorphism"},{"name":"综合示例：动物园饲养系统","anchor":"综合示例动物园饲养系统"},{"name":"作业","anchor":"作业"}]},{"n":10,"slug":"10","title":"抽象类和接口","group":"课程内容","progress_key":"java-basic-10","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"抽象类（Abstract Class）","anchor":"抽象类Abstract-Class"},{"name":"接口（Interface）","anchor":"接口Interface"},{"name":"抽象类 vs 接口","anchor":"抽象类-vs-接口"},{"name":"综合示例：绘图系统（抽象类 + 接口）","anchor":"综合示例绘图系统抽象类-接口"},{"name":"作业","anchor":"作业"}]},{"n":11,"slug":"11","title":"包管理","group":"课程内容","progress_key":"java-basic-11","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"什么是包","anchor":"什么是包"},{"name":"包的作用","anchor":"包的作用"},{"name":"包名命名规范","anchor":"包名命名规范"},{"name":"包的声明","anchor":"包的声明"},{"name":"包的导入","anchor":"包的导入"},{"name":"包与目录结构","anchor":"包与目录结构"},{"name":"包的可见性与访问控制","anchor":"包的可见性与访问控制"},{"name":"Java 模块化系统（Java 9+）","anchor":"Java-模块化系统Java-9"},{"name":"注意事项","anchor":"注意事项"},{"name":"作业","anchor":"作业"}]},{"n":12,"slug":"12","title":"异常处理","group":"课程内容","progress_key":"java-basic-12","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"什么是异常","anchor":"什么是异常"},{"name":"Java 异常体系","anchor":"Java-异常体系"},{"name":"异常处理关键字","anchor":"异常处理关键字"},{"name":"try-catch 块","anchor":"try-catch-块"},{"name":"finally 块","anchor":"finally-块"},{"name":"throw 和 throws","anchor":"throw-和-throws"},{"name":"自定义异常","anchor":"自定义异常"},{"name":"try-with-resources（自动资源管理）","anchor":"try-with-resources自动资源管理"},{"name":"异常处理最佳实践","anchor":"异常处理最佳实践"},{"name":"作业","anchor":"作业"}]},{"n":13,"slug":"13","title":"反射","group":"课程内容","progress_key":"java-basic-13","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"什么是反射","anchor":"什么是反射"},{"name":"获取 Class 对象","anchor":"获取-Class-对象"},{"name":"通过反射获取类信息","anchor":"通过反射获取类信息"},{"name":"通过反射创建对象","anchor":"通过反射创建对象"},{"name":"通过反射调用方法","anchor":"通过反射调用方法"},{"name":"通过反射访问字段","anchor":"通过反射访问字段"},{"name":"反射操作数组","anchor":"反射操作数组"},{"name":"反射的优缺点","anchor":"反射的优缺点"},{"name":"典型应用场景","anchor":"典型应用场景"},{"name":"作业","anchor":"作业"}]},{"n":14,"slug":"14","title":"泛型","group":"课程内容","progress_key":"java-basic-14","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"什么是泛型","anchor":"什么是泛型"},{"name":"泛型类（Generic Class）","anchor":"泛型类Generic-Class"},{"name":"泛型方法（Generic Method）","anchor":"泛型方法Generic-Method"},{"name":"泛型接口（Generic Interface）","anchor":"泛型接口Generic-Interface"},{"name":"类型通配符（Wildcard）","anchor":"类型通配符Wildcard"},{"name":"泛型的使用限制","anchor":"泛型的使用限制"},{"name":"泛型与继承","anchor":"泛型与继承"},{"name":"完整示例：泛型在集合中的应用","anchor":"完整示例泛型在集合中的应用"},{"name":"作业","anchor":"作业"}]},{"n":15,"slug":"15","title":"注解","group":"课程内容","progress_key":"java-basic-15","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"什么是注解","anchor":"什么是注解"},{"name":"内置注解（Built-in Annotations）","anchor":"内置注解Built-in-Annotations"},{"name":"元注解（Meta-Annotations）","anchor":"元注解Meta-Annotations"},{"name":"自定义注解","anchor":"自定义注解"},{"name":"注解的应用场景","anchor":"注解的应用场景"},{"name":"注意事项","anchor":"注意事项"},{"name":"作业","anchor":"作业"}]},{"n":16,"slug":"16","title":"Java特性拾遗与精进","group":"课程内容","progress_key":"java-basic-16","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"生活中的类比","anchor":"生活中的类比"},{"name":"final 的精细化","anchor":"final-的精细化"},{"name":"枚举（enum）","anchor":"枚举enum"},{"name":"文本块（Text Blocks）","anchor":"文本块Text-Blocks"},{"name":"Record类","anchor":"Record类"},{"name":"Optional 容器类","anchor":"Optional-容器类"},{"name":"== 与 equals 的终极对比","anchor":"与-equals-的终极对比"},{"name":"assert 断言语法","anchor":"assert-断言语法"},{"name":"常用工具类","anchor":"常用工具类"},{"name":"代码风格与规范（Google Java Style）","anchor":"代码风格与规范Google-Java-Style"},{"name":"作业","anchor":"作业"}]},{"n":17,"slug":"17","title":"线程基础与创建方式","group":"课程内容","progress_key":"java-basic-17","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"生活中的多线程","anchor":"生活中的多线程"},{"name":"进程与线程概述","anchor":"进程与线程概述"},{"name":"Java 中的主线程","anchor":"Java-中的主线程"},{"name":"创建线程的三种方式","anchor":"创建线程的三种方式"},{"name":"start() vs run() 的重要区别","anchor":"start-vs-run-的重要区别"},{"name":"作业","anchor":"作业"}]},{"n":18,"slug":"18","title":"线程生命周期与控制方法","group":"课程内容","progress_key":"java-basic-18","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"生活中的状态类比","anchor":"生活中的状态类比"},{"name":"线程的六种状态","anchor":"线程的六种状态"},{"name":"线程状态转换图","anchor":"线程状态转换图"},{"name":"线程控制方法详解","anchor":"线程控制方法详解"},{"name":"守护线程","anchor":"守护线程"},{"name":"作业","anchor":"作业"}]},{"n":19,"slug":"19","title":"线程安全与锁机制","group":"课程内容","progress_key":"java-basic-19","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"生活中的线程安全问题","anchor":"生活中的线程安全问题"},{"name":"线程安全问题引入","anchor":"线程安全问题引入"},{"name":"synchronized 内置锁","anchor":"synchronized-内置锁"},{"name":"volatile 关键字","anchor":"volatile-关键字"},{"name":"Lock 接口与 ReentrantLock","anchor":"Lock-接口与-ReentrantLock"},{"name":"synchronized vs ReentrantLock 对比","anchor":"synchronized-vs-ReentrantLock-对比"},{"name":"死锁","anchor":"死锁"},{"name":"作业","anchor":"作业"}]},{"n":20,"slug":"20","title":"线程池与Executor框架","group":"课程内容","progress_key":"java-basic-20","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"生活中的线程池类比","anchor":"生活中的线程池类比"},{"name":"Executor 框架体系","anchor":"Executor-框架体系"},{"name":"四种常用线程池","anchor":"四种常用线程池"},{"name":"ThreadPoolExecutor 核心参数","anchor":"ThreadPoolExecutor-核心参数"},{"name":"提交任务","anchor":"提交任务"},{"name":"Callable 与 Future","anchor":"Callable-与-Future"},{"name":"关闭线程池","anchor":"关闭线程池"},{"name":"注意事项与最佳实践","anchor":"注意事项与最佳实践"},{"name":"作业","anchor":"作业"}]},{"n":21,"slug":"21","title":"并发集合与同步工具类","group":"课程内容","progress_key":"java-basic-21","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"生活中的并发容器与协同工具","anchor":"生活中的并发容器与协同工具"},{"name":"传统集合的线程安全问题","anchor":"传统集合的线程安全问题"},{"name":"ConcurrentHashMap","anchor":"ConcurrentHashMap"},{"name":"CopyOnWriteArrayList","anchor":"CopyOnWriteArrayList"},{"name":"阻塞队列 BlockingQueue","anchor":"阻塞队列-BlockingQueue"},{"name":"同步工具类","anchor":"同步工具类"},{"name":"对比总结","anchor":"对比总结"},{"name":"作业","anchor":"作业"}]},{"n":22,"slug":"22","title":"高级并发与最佳实践","group":"课程内容","progress_key":"java-basic-22","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"CompletableFuture —— 异步编程的利器","anchor":"CompletableFuture-异步编程的利器"},{"name":"ThreadLocal —— 线程本地变量","anchor":"ThreadLocal-线程本地变量"},{"name":"原子类","anchor":"原子类"},{"name":"作业","anchor":"作业"}]},{"n":23,"slug":"23","title":"Maven入门与环境配置","group":"课程内容","progress_key":"java-basic-23","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"从一个简单项目看传统依赖管理的痛点","anchor":"从一个简单项目看传统依赖管理的痛点"},{"name":"Maven安装与配置","anchor":"Maven安装与配置"},{"name":"settings.xml配置","anchor":"settingsxml配置"},{"name":"第一个Maven项目","anchor":"第一个Maven项目"},{"name":"Maven常用命令初体验","anchor":"Maven常用命令初体验"},{"name":"作业","anchor":"作业"}]},{"n":24,"slug":"24","title":"POM文件与依赖管理","group":"课程内容","progress_key":"java-basic-24","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"POM 文件结构详解","anchor":"POM-文件结构详解"},{"name":"依赖管理（Dependency Management）","anchor":"依赖管理Dependency-Management"},{"name":"版本管理策略","anchor":"版本管理策略"},{"name":"实践示例：将上节课的手工项目转为 Maven 项目","anchor":"实践示例将上节课的手工项目转为-Maven-项目"},{"name":"作业","anchor":"作业"}]},{"n":25,"slug":"25","title":"Maven生命周期与插件体系","group":"课程内容","progress_key":"java-basic-25","sections":[{"name":"生活中的类比：从咖啡店到构建工厂","anchor":"生活中的类比从咖啡店到构建工厂"},{"name":"Maven 生命周期","anchor":"Maven-生命周期"},{"name":"Maven 插件体系","anchor":"Maven-插件体系"},{"name":"常用命令与实战","anchor":"常用命令与实战"},{"name":"常见问题与解决方案","anchor":"常见问题与解决方案"},{"name":"作业","anchor":"作业"}]},{"n":26,"slug":"26","title":"多模块项目管理","group":"课程内容","progress_key":"java-basic-26","sections":[{"name":"课程目标","anchor":"课程目标"},{"name":"生活中的多模块类比","anchor":"生活中的多模块类比"},{"name":"为什么需要多模块项目","anchor":"为什么需要多模块项目"},{"name":"聚合（Aggregation）","anchor":"聚合Aggregation"},{"name":"继承（Inheritance）","anchor":"继承Inheritance"},{"name":"聚合 vs 继承","anchor":"聚合-vs-继承"},{"name":"多模块项目结构最佳实践","anchor":"多模块项目结构最佳实践"},{"name":"版本管理最佳实践","anchor":"版本管理最佳实践"},{"name":"常见问题与解决方案","anchor":"常见问题与解决方案"},{"name":"作业","anchor":"作业"}]}]}]},{"key":"spring-boot","title":"单体系统和Spring Boot","glyph":"B","cls":"b-ds","coming_soon":false,"modules":[{"name":"课程内容","chapters":[{"n":1,"slug":"1","title":"课程导言","group":"课程内容","progress_key":"spring-boot-1"},{"n":2,"slug":"2","title":"Spring Boot概述与快速入门","group":"课程内容","progress_key":"spring-boot-2"},{"n":3,"slug":"3","title":"Spring Boot应用程序结构与分层设计","group":"课程内容","progress_key":"spring-boot-3"},{"n":4,"slug":"4","title":"Spring Boot配置体系","group":"课程内容","progress_key":"spring-boot-4"},{"n":5,"slug":"5","title":"自动配置原理与Starter机制","group":"课程内容","progress_key":"spring-boot-5"},{"n":6,"slug":"6","title":"依赖注入基本概念与三种注入方式","group":"课程内容","progress_key":"spring-boot-6"},{"n":7,"slug":"7","title":"@Autowired详解与注入决策流程","group":"课程内容","progress_key":"spring-boot-7"},{"n":8,"slug":"8","title":"循环依赖与三级缓存机制","group":"课程内容","progress_key":"spring-boot-8"},{"n":9,"slug":"9","title":"AOP编程思想与动态代理机制","group":"课程内容","progress_key":"spring-boot-9"},{"n":10,"slug":"10","title":"Spring AOP实战：日志切面","group":"课程内容","progress_key":"spring-boot-10"},{"n":11,"slug":"11","title":"Spring AOP实战：性能监控与异常处理","group":"课程内容","progress_key":"spring-boot-11"},{"n":12,"slug":"12","title":"HTTP协议与Web服务开发流程","group":"课程内容","progress_key":"spring-boot-12"},{"n":13,"slug":"13","title":"Servlet与Spring WebMVC架构解析","group":"课程内容","progress_key":"spring-boot-13"},{"n":14,"slug":"14","title":"REST API开发：请求映射与参数处理","group":"课程内容","progress_key":"spring-boot-14"},{"n":15,"slug":"15","title":"REST API开发：响应封装和全局异常处理","group":"课程内容","progress_key":"spring-boot-15"},{"n":16,"slug":"16","title":"REST API高级：过滤器与拦截器实战","group":"课程内容","progress_key":"spring-boot-16"},{"n":17,"slug":"17","title":"REST API文档自动生成与API规范","group":"课程内容","progress_key":"spring-boot-17"},{"n":18,"slug":"18","title":"RestTemplate与服务间调用","group":"课程内容","progress_key":"spring-boot-18"},{"n":19,"slug":"19","title":"Spring WebFlux编程模型与实战","group":"课程内容","progress_key":"spring-boot-19"},{"n":20,"slug":"20","title":"JDBC规范解析","group":"课程内容","progress_key":"spring-boot-20"},{"n":21,"slug":"21","title":"Spring JDBC解决方案与JdbcTemplate基础","group":"课程内容","progress_key":"spring-boot-21"},{"n":22,"slug":"22","title":"JdbcTemplate高级操作与SimpleJdbcInsert","group":"课程内容","progress_key":"spring-boot-22"},{"n":23,"slug":"23","title":"自己动手写一个JdbcTemplate","group":"课程内容","progress_key":"spring-boot-23"},{"n":24,"slug":"24","title":"Spring事务管理基础","group":"课程内容","progress_key":"spring-boot-24"},{"n":25,"slug":"25","title":"Spring声明式事务与事务传播","group":"课程内容","progress_key":"spring-boot-25"},{"n":26,"slug":"26","title":"ORM核心概念与Spring Data架构","group":"课程内容","progress_key":"spring-boot-26"},{"n":27,"slug":"27","title":"Spring Data JPA快速上手","group":"课程内容","progress_key":"spring-boot-27"},{"n":28,"slug":"28","title":"Spring Data JPA高级查询","group":"课程内容","progress_key":"spring-boot-28"},{"n":29,"slug":"29","title":"Spring Data JPA关联映射与实战","group":"课程内容","progress_key":"spring-boot-29"},{"n":30,"slug":"30","title":"MyBatis 概述与 Spring Boot 集成","group":"课程内容","progress_key":"spring-boot-30"},{"n":31,"slug":"31","title":"MyBatis 映射文件与动态 SQL","group":"课程内容","progress_key":"spring-boot-31"},{"n":32,"slug":"32","title":"MyBatis 高级特性","group":"课程内容","progress_key":"spring-boot-32"},{"n":33,"slug":"33","title":"MyBatis-Plus 概述与快速上手","group":"课程内容","progress_key":"spring-boot-33"},{"n":34,"slug":"34","title":"MyBatis-Plus 条件构造器与分页插件","group":"课程内容","progress_key":"spring-boot-34"},{"n":35,"slug":"35","title":"MyBatis-Plus 扩展","group":"课程内容","progress_key":"spring-boot-35"},{"n":36,"slug":"36","title":"缓存概述与 Spring Cache 入门","group":"课程内容","progress_key":"spring-boot-36"},{"n":37,"slug":"37","title":"Spring Cache 核心注解详解","group":"课程内容","progress_key":"spring-boot-37"},{"n":38,"slug":"38","title":"缓存管理器与缓存存储配置","group":"课程内容","progress_key":"spring-boot-38"},{"n":39,"slug":"39","title":"缓存注解高级特性","group":"课程内容","progress_key":"spring-boot-39"},{"n":40,"slug":"40","title":"缓存原理与自定义扩展","group":"课程内容","progress_key":"spring-boot-40"},{"n":41,"slug":"41","title":"缓存核心问题与最佳实践","group":"课程内容","progress_key":"spring-boot-41"},{"n":42,"slug":"42","title":"异步处理概述与 Spring Async 入门","group":"课程内容","progress_key":"spring-boot-42"},{"n":43,"slug":"43","title":"任务执行器配置与线程池管理","group":"课程内容","progress_key":"spring-boot-43"},{"n":44,"slug":"44","title":"异步方法返回值与异常处理","group":"课程内容","progress_key":"spring-boot-44"},{"n":45,"slug":"45","title":"异步事件与 ApplicationEvent","group":"课程内容","progress_key":"spring-boot-45"},{"n":46,"slug":"46","title":"Web 异步处理","group":"课程内容","progress_key":"spring-boot-46"},{"n":47,"slug":"47","title":"TaskScheduler 调度器","group":"课程内容","progress_key":"spring-boot-47"},{"n":48,"slug":"48","title":"@Scheduled 注解应用","group":"课程内容","progress_key":"spring-boot-48"},{"n":49,"slug":"49","title":"Cron 表达式与调度综合实战","group":"课程内容","progress_key":"spring-boot-49"},{"n":50,"slug":"50","title":"批处理机制与 Spring Batch 快速入门","group":"课程内容","progress_key":"spring-boot-50"},{"n":51,"slug":"51","title":"ItemReader、Processor和Writer 实战","group":"课程内容","progress_key":"spring-boot-51"},{"n":52,"slug":"52","title":"JobRepository 与作业元数据管理","group":"课程内容","progress_key":"spring-boot-52"},{"n":53,"slug":"53","title":"批处理异常处理与重启机制","group":"课程内容","progress_key":"spring-boot-53"},{"n":54,"slug":"54","title":"批处理监听器与任务调度","group":"课程内容","progress_key":"spring-boot-54"},{"n":55,"slug":"55","title":"Actuator 入门与常用端点","group":"课程内容","progress_key":"spring-boot-55"},{"n":56,"slug":"56","title":"健康检查与自定义健康指示器","group":"课程内容","progress_key":"spring-boot-56"},{"n":57,"slug":"57","title":"指标监控与 Micrometer","group":"课程内容","progress_key":"spring-boot-57"},{"n":58,"slug":"58","title":"Spring Boot Admin 可视化监控","group":"课程内容","progress_key":"spring-boot-58"},{"n":59,"slug":"59","title":"测试概述与 JUnit 5 基础","group":"课程内容","progress_key":"spring-boot-59"},{"n":60,"slug":"60","title":"Mockito 与单元测试","group":"课程内容","progress_key":"spring-boot-60"},{"n":61,"slug":"61","title":"Web 层测试：@WebMvcTest","group":"课程内容","progress_key":"spring-boot-61"},{"n":62,"slug":"62","title":"数据层测试：@MybatisPlusTest","group":"课程内容","progress_key":"spring-boot-62"},{"n":63,"slug":"63","title":"端到端集成测试：@SpringBootTest","group":"课程内容","progress_key":"spring-boot-63"}]}]},{"key":"spring-cloud","title":"Spring Cloud Alibaba","glyph":"C","cls":"b3","coming_soon":false,"modules":[{"name":"课程内容","chapters":[{"n":1,"slug":"1","title":"课程导言","group":"课程内容","progress_key":"spring-cloud-1"},{"n":2,"slug":"2","title":"微服务架构与案例系统初始化","group":"课程内容","progress_key":"spring-cloud-2"},{"n":3,"slug":"3","title":"Spring Cloud Alibaba技术栈集成","group":"课程内容","progress_key":"spring-cloud-3"},{"n":4,"slug":"4","title":"微服务拆分与接口设计","group":"课程内容","progress_key":"spring-cloud-4"},{"n":5,"slug":"5","title":"公共模块建设","group":"课程内容","progress_key":"spring-cloud-5"},{"n":6,"slug":"6","title":"Nacos部署与快速上手","group":"课程内容","progress_key":"spring-cloud-6"},{"n":7,"slug":"7","title":"Nacos高可用集群搭建","group":"课程内容","progress_key":"spring-cloud-7"},{"n":8,"slug":"8","title":"图书服务注册到Nacos","group":"课程内容","progress_key":"spring-cloud-8"},{"n":9,"slug":"9","title":"用户与订单服务注册","group":"课程内容","progress_key":"spring-cloud-9"},{"n":10,"slug":"10","title":"Nacos服务发现实战","group":"课程内容","progress_key":"spring-cloud-10"},{"n":11,"slug":"11","title":"Nacos分级模型与Namespace环境隔离","group":"课程内容","progress_key":"spring-cloud-11"},{"n":12,"slug":"12","title":"Nacos Group分组与多环境切换","group":"课程内容","progress_key":"spring-cloud-12"},{"n":13,"slug":"13","title":"Nacos权重路由","group":"课程内容","progress_key":"spring-cloud-13"},{"n":14,"slug":"14","title":"Nacos API 专题","group":"课程内容","progress_key":"spring-cloud-14"},{"n":15,"slug":"15","title":"OpenFeign快速上手","group":"课程内容","progress_key":"spring-cloud-15"},{"n":16,"slug":"16","title":"OpenFeign核心注解详解","group":"课程内容","progress_key":"spring-cloud-16"},{"n":17,"slug":"17","title":"OpenFeign拦截器","group":"课程内容","progress_key":"spring-cloud-17"},{"n":18,"slug":"18","title":"OpenFeign与LoadBalancer集成","group":"课程内容","progress_key":"spring-cloud-18"},{"n":19,"slug":"19","title":"订单-图书远程调用重构","group":"课程内容","progress_key":"spring-cloud-19"},{"n":20,"slug":"20","title":"Spring Cloud LoadBalancer快速上手","group":"课程内容","progress_key":"spring-cloud-20"},{"n":21,"slug":"21","title":"负载均衡算法与LoadBalancer","group":"课程内容","progress_key":"spring-cloud-21"},{"n":22,"slug":"22","title":"自定义负载均衡算法","group":"课程内容","progress_key":"spring-cloud-22"},{"n":23,"slug":"23","title":"标签化负载均衡与灰度发布","group":"课程内容","progress_key":"spring-cloud-23"},{"n":24,"slug":"24","title":"Nacos Config集成与配置迁移","group":"课程内容","progress_key":"spring-cloud-24"},{"n":25,"slug":"25","title":"配置分级模型与DataId实战","group":"课程内容","progress_key":"spring-cloud-25"},{"n":26,"slug":"26","title":"配置灰度发布实战","group":"课程内容","progress_key":"spring-cloud-26"}]}]},{"key":"cloud","title":"云计算","glyph":"云","cls":"b-cloud","coming_soon":true,"modules":[]}],"currentKey":"java-basic","currentSlug":"21"}],"$L13","$L14"]}]]
+15:I[756,["619","static/chunks/619-ba102abea3e3d0e4.js","526","static/chunks/app/course/%5Bkey%5D/%5Bch%5D/page-4b7f30b4efe73131.js"],"default"]
+16:I[1599,["619","static/chunks/619-ba102abea3e3d0e4.js","526","static/chunks/app/course/%5Bkey%5D/%5Bch%5D/page-4b7f30b4efe73131.js"],"default"]
+19:I[5340,["619","static/chunks/619-ba102abea3e3d0e4.js","526","static/chunks/app/course/%5Bkey%5D/%5Bch%5D/page-4b7f30b4efe73131.js"],"default"]
+17:T11295,<h1 id="并发集合与同步工具类">并发集合与同步工具类</h1>
+<h2 id="课程目标">课程目标</h2>
+<ul>
+<li>理解传统集合在多线程环境下的问题</li>
+<li>掌握 <code>ConcurrentHashMap</code> 的原理和使用</li>
+<li>掌握 <code>CopyOnWriteArrayList</code> 的适用场景</li>
+<li>掌握 <code>BlockingQueue</code> 的使用（生产者-消费者模式）</li>
+<li>掌握 <code>CountDownLatch</code>、<code>CyclicBarrier</code>、<code>Semaphore</code> 的用法</li>
+<li>能够选择合适的并发工具解决实际并发问题</li>
+</ul>
+<h2 id="生活中的并发容器与协同工具">生活中的并发容器与协同工具</h2>
+<p>在正式学习之前，我们先通过生活中的例子理解这些概念。</p>
+<table>
+<thead>
+<tr>
+<th>生活场景</th>
+<th>编程概念</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>公共停车位，多个入口同时进出</td>
+<td><code>ConcurrentHashMap</code>（高并发访问）</td>
+</tr>
+<tr>
+<td>图书馆的书籍列表，很少改但很多人读</td>
+<td><code>CopyOnWriteArrayList</code>（读多写少）</td>
+</tr>
+<tr>
+<td>快递驿站，放入包裹，取出包裹</td>
+<td><code>BlockingQueue</code>（队列阻塞）</td>
+</tr>
+<tr>
+<td>运动会起跑线，等所有选手就绪才开跑</td>
+<td><code>CyclicBarrier</code>（循环屏障）</td>
+</tr>
+<tr>
+<td>团队协作，所有成员到齐才开始</td>
+<td><code>CountDownLatch</code>（等待多个事件）</td>
+</tr>
+<tr>
+<td>停车场限流，有车位才能进入</td>
+<td><code>Semaphore</code>（信号量）</td>
+</tr>
+</tbody>
+</table>
+<h2 id="传统集合的线程安全问题">传统集合的线程安全问题</h2>
+<h3 id="问题示例">问题示例</h3>
+<div class="codehilite lang-java"><pre><span></span><code><span class="kd">public</span><span class="w"> </span><span class="kd">class</span> <span class="nc">UnsafeCollection</span><span class="w"> </span><span class="p">{</span>
+<span class="w">    </span><span class="kd">public</span><span class="w"> </span><span class="kd">static</span><span class="w"> </span><span class="kt">void</span><span class="w"> </span><span class="nf">main</span><span class="p">(</span><span class="n">String</span><span class="o">[]</span><span class="w"> </span><span class="n">args</span><span class="p">)</span><span class="w"> </span><span class="kd">throws</span><span class="w"> </span><span class="n">InterruptedException</span><span class="w"> </span><span class="p">{</span>
+<span class="w">        </span><span class="n">List</span><span class="o">&lt;</span><span class="n">Integer</span><span class="o">&gt;</span><span class="w"> </span><span class="n">list</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="k">new</span><span class="w"> </span><span class="n">ArrayList</span><span class="o">&lt;&gt;</span><span class="p">();</span>
+<span class="w">        </span><span class="n">Runnable</span><span class="w"> </span><span class="n">task</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="p">()</span><span class="w"> </span><span class="o">-&gt;</span><span class="w"> </span><span class="p">{</span>
+<span class="w">            </span><span class="k">for</span><span class="w"> </span><span class="p">(</span><span class="kt">int</span><span class="w"> </span><span class="n">i</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="mi">0</span><span class="p">;</span><span class="w"> </span><span class="n">i</span><span class="w"> </span><span class="o">&lt;</span><span class="w"> </span><span class="mi">1000</span><span class="p">;</span><span class="w"> </span><span class="n">i</span><span class="o">++</span><span class="p">)</span><span class="w"> </span><span class="p">{</span>
+<span class="w">                </span><span class="n">list</span><span class="p">.</span><span class="na">add</span><span class="p">(</span><span class="n">i</span><span class="p">);</span>
+<span class="w">            </span><span class="p">}</span>
+<span class="w">        </span><span class="p">};</span>
+<span class="w">        </span><span class="n">Thread</span><span class="w"> </span><span class="n">t1</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="k">new</span><span class="w"> </span><span class="n">Thread</span><span class="p">(</span><span class="n">task</span><span class="p">);</span>
+<span class="w">        </span><span class="n">Thread</span><span class="w"> </span><span class="n">t2</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="k">new</span><span class="w"> </span><span class="n">Thread</span><span class="p">(</span><span class="n">task</span><span class="p">);</span>
+<span class="w">        </span><span class="n">t1</span><span class="p">.</span><span class="na">start</span><span class="p">();</span>
+<span class="w">        </span><span class="n">t2</span><span class="p">.</span><span class="na">start</span><span class="p">();</span>
+<span class="w">        </span><span class="n">t1</span><span class="p">.</span><span class="na">join</span><span class="p">();</span>
+<span class="w">        </span><span class="n">t2</span><span class="p">.</span><span class="na">join</span><span class="p">();</span>
+<span class="w">        </span><span class="n">System</span><span class="p">.</span><span class="na">out</span><span class="p">.</span><span class="na">println</span><span class="p">(</span><span class="s">"列表大小: "</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="n">list</span><span class="p">.</span><span class="na">size</span><span class="p">());</span><span class="w"> </span><span class="c1">// 可能小于 2000</span>
+<span class="w">    </span><span class="p">}</span>
+<span class="p">}</span>
+</code></pre></div>
+
+<p><strong>问题分析：</strong> <code>ArrayList</code> 不是线程安全的，<code>add</code> 操作可能导致数组越界、数据丢失或死循环。</p>
+<h3 id="解决方式对比">解决方式对比</h3>
+<table>
+<thead>
+<tr>
+<th>方式</th>
+<th>说明</th>
+<th>性能</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>Collections.synchronizedList</code></td>
+<td>对整个方法加锁</td>
+<td>差（全局锁）</td>
+</tr>
+<tr>
+<td><code>CopyOnWriteArrayList</code></td>
+<td>写时复制</td>
+<td>读好，写差（适合读多写少）</td>
+</tr>
+<tr>
+<td><code>ConcurrentHashMap</code></td>
+<td>分段/细粒度锁</td>
+<td>好</td>
+</tr>
+</tbody>
+</table>
+<h2 id="ConcurrentHashMap"><code>ConcurrentHashMap</code></h2>
+<h3 id="简介">简介</h3>
+<p><code>ConcurrentHashMap</code> 是 Java 并发包中最常用的并发容器，用于替代 <code>HashMap</code>（非线程安全）和 <code>Hashtable</code>（全部加锁，性能差）。</p>
+<p><strong>核心设计：</strong></p>
+<ul>
+<li><strong>Java 7</strong>：分段锁（Segment 数组），每个 Segment 独立锁。</li>
+<li><strong>Java 8+</strong>：CAS + synchronized（锁粒度更细，仅锁特定桶）。</li>
+</ul>
+<h3 id="特点">特点</h3>
+<ul>
+<li>线程安全，允许并发读和一定程度的并发写</li>
+<li>不支持 <code>null</code> 键或值（与 <code>HashMap</code> 不同）</li>
+<li>性能远高于 <code>Hashtable</code> 和 <code>Collections.synchronizedMap</code></li>
+</ul>
+<h3 id="常用方法">常用方法</h3>
+<table>
+<thead>
+<tr>
+<th>方法</th>
+<th>说明</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>put(key, value)</code></td>
+<td>插入键值对</td>
+</tr>
+<tr>
+<td><code>get(key)</code></td>
+<td>获取值（无锁读）</td>
+</tr>
+<tr>
+<td><code>remove(key)</code></td>
+<td>删除键值对</td>
+</tr>
+<tr>
+<td><code>putIfAbsent(key, value)</code></td>
+<td>只有键不存在时才插入</td>
+</tr>
+<tr>
+<td><code>compute(key, remappingFunction)</code></td>
+<td>原子计算</td>
+</tr>
+<tr>
+<td><code>computeIfAbsent(key, mappingFunction)</code></td>
+<td>只有键不存在时才计算并插入</td>
+</tr>
+<tr>
+<td><code>computeIfPresent(key, remappingFunction)</code></td>
+<td>键存在时计算</td>
+</tr>
+<tr>
+<td><code>merge(key, value, remappingFunction)</code></td>
+<td>合并值</td>
+</tr>
+</tbody>
+</table>
+<h3 id="使用示例">使用示例</h3>
+<div class="codehilite lang-java"><pre><span></span><code><span class="kn">import</span><span class="w"> </span><span class="nn">java.util.concurrent.ConcurrentHashMap</span><span class="p">;</span>
+
+<span class="kd">public</span><span class="w"> </span><span class="kd">class</span> <span class="nc">ConcurrentHashMapDemo</span><span class="w"> </span><span class="p">{</span>
+<span class="w">    </span><span class="kd">public</span><span class="w"> </span><span class="kd">static</span><span class="w"> </span><span class="kt">void</span><span class="w"> </span><span class="nf">main</span><span class="p">(</span><span class="n">String</span><span class="o">[]</span><span class="w"> </span><span class="n">args</span><span class="p">)</span><span class="w"> </span><span class="kd">throws</span><span class="w"> </span><span class="n">InterruptedException</span><span class="w"> </span><span class="p">{</span>
+<span class="w">        </span><span class="n">ConcurrentHashMap</span><span class="o">&lt;</span><span class="n">String</span><span class="p">,</span><span class="w"> </span><span class="n">Integer</span><span class="o">&gt;</span><span class="w"> </span><span class="n">map</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="k">new</span><span class="w"> </span><span class="n">ConcurrentHashMap</span><span class="o">&lt;&gt;</span><span class="p">();</span>
+<span class="w">        </span><span class="n">map</span><span class="p">.</span><span class="na">put</span><span class="p">(</span><span class="s">"a"</span><span class="p">,</span><span class="w"> </span><span class="mi">1</span><span class="p">);</span>
+<span class="w">        </span><span class="n">map</span><span class="p">.</span><span class="na">put</span><span class="p">(</span><span class="s">"b"</span><span class="p">,</span><span class="w"> </span><span class="mi">2</span><span class="p">);</span>
+
+<span class="w">        </span><span class="c1">// 原子操作</span>
+<span class="w">        </span><span class="n">map</span><span class="p">.</span><span class="na">computeIfAbsent</span><span class="p">(</span><span class="s">"c"</span><span class="p">,</span><span class="w"> </span><span class="n">key</span><span class="w"> </span><span class="o">-&gt;</span><span class="w"> </span><span class="mi">3</span><span class="p">);</span><span class="w"> </span><span class="c1">// c=3</span>
+<span class="w">        </span><span class="n">map</span><span class="p">.</span><span class="na">merge</span><span class="p">(</span><span class="s">"d"</span><span class="p">,</span><span class="w"> </span><span class="mi">4</span><span class="p">,</span><span class="w"> </span><span class="p">(</span><span class="n">oldVal</span><span class="p">,</span><span class="w"> </span><span class="n">newVal</span><span class="p">)</span><span class="w"> </span><span class="o">-&gt;</span><span class="w"> </span><span class="n">oldVal</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="n">newVal</span><span class="p">);</span><span class="w"> </span><span class="c1">// d=4</span>
+<span class="w">        </span><span class="n">map</span><span class="p">.</span><span class="na">merge</span><span class="p">(</span><span class="s">"d"</span><span class="p">,</span><span class="w"> </span><span class="mi">5</span><span class="p">,</span><span class="w"> </span><span class="p">(</span><span class="n">oldVal</span><span class="p">,</span><span class="w"> </span><span class="n">newVal</span><span class="p">)</span><span class="w"> </span><span class="o">-&gt;</span><span class="w"> </span><span class="n">oldVal</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="n">newVal</span><span class="p">);</span><span class="w"> </span><span class="c1">// d=9</span>
+
+<span class="w">        </span><span class="n">System</span><span class="p">.</span><span class="na">out</span><span class="p">.</span><span class="na">println</span><span class="p">(</span><span class="n">map</span><span class="p">);</span><span class="w"> </span><span class="c1">// {a=1, b=2, c=3, d=9}</span>
+
+<span class="w">        </span><span class="c1">// 多线程并发 put</span>
+<span class="w">        </span><span class="n">Runnable</span><span class="w"> </span><span class="n">task</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="p">()</span><span class="w"> </span><span class="o">-&gt;</span><span class="w"> </span><span class="p">{</span>
+<span class="w">            </span><span class="k">for</span><span class="w"> </span><span class="p">(</span><span class="kt">int</span><span class="w"> </span><span class="n">i</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="mi">0</span><span class="p">;</span><span class="w"> </span><span class="n">i</span><span class="w"> </span><span class="o">&lt;</span><span class="w"> </span><span class="mi">1000</span><span class="p">;</span><span class="w"> </span><span class="n">i</span><span class="o">++</span><span class="p">)</span><span class="w"> </span><span class="p">{</span>
+<span class="w">                </span><span class="n">map</span><span class="p">.</span><span class="na">putIfAbsent</span><span class="p">(</span><span class="s">"key"</span><span class="p">,</span><span class="w"> </span><span class="n">i</span><span class="p">);</span><span class="w"> </span><span class="c1">// 只插入一次</span>
+<span class="w">            </span><span class="p">}</span>
+<span class="w">        </span><span class="p">};</span>
+<span class="w">        </span><span class="n">Thread</span><span class="w"> </span><span class="n">t1</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="k">new</span><span class="w"> </span><span class="n">Thread</span><span class="p">(</span><span class="n">task</span><span class="p">);</span>
+<span class="w">        </span><span class="n">Thread</span><span class="w"> </span><span class="n">t2</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="k">new</span><span class="w"> </span><span class="n">Thread</span><span class="p">(</span><span class="n">task</span><span class="p">);</span>
+<span class="w">        </span><span class="n">t1</span><span class="p">.</span><span class="na">start</span><span class="p">();</span>
+<span class="w">        </span><span class="n">t2</span><span class="p">.</span><span class="na">start</span><span class="p">();</span>
+<span class="w">        </span><span class="n">t1</span><span class="p">.</span><span class="na">join</span><span class="p">();</span>
+<span class="w">        </span><span class="n">t2</span><span class="p">.</span><span class="na">join</span><span class="p">();</span>
+<span class="w">        </span><span class="n">System</span><span class="p">.</span><span class="na">out</span><span class="p">.</span><span class="na">println</span><span class="p">(</span><span class="s">"最终 key 的值: "</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="n">map</span><span class="p">.</span><span class="na">get</span><span class="p">(</span><span class="s">"key"</span><span class="p">));</span><span class="w"> </span><span class="c1">// 首次插入的值</span>
+<span class="w">    </span><span class="p">}</span>
+<span class="p">}</span>
+</code></pre></div>
+
+<h2 id="CopyOnWriteArrayList"><code>CopyOnWriteArrayList</code></h2>
+<h3 id="简介_1">简介</h3>
+<p>写时复制容器，任何写操作（<code>add</code>、<code>set</code>、<code>remove</code>）都会创建底层数组的副本，然后在副本上修改，最后将引用指向新数组。</p>
+<div class="codehilite lang-mermaid"><pre><span></span><code>flowchart LR
+    subgraph 读操作
+        R1[读取数组引用] --&gt; R2[直接读取数组]
+    end
+
+    subgraph 写操作
+        W1[复制原数组] --&gt; W2[在副本上修改] --&gt; W3[替换引用]
+    end
+
+    style W2 fill:#ffeb3b
+</code></pre></div>
+
+<h3 id="特点_1">特点</h3>
+<ul>
+<li>读操作无锁，性能极高</li>
+<li>写操作需要复制整个数组，开销大</li>
+<li>保证最终一致性，适用于<strong>读多写少</strong>场景</li>
+</ul>
+<h3 id="适用场景">适用场景</h3>
+<ul>
+<li>监听器列表（添加/删除监听器不频繁，读取频繁）</li>
+<li>缓存配置（偶尔更新，频繁读取）</li>
+<li>白名单/黑名单（只读为主）</li>
+</ul>
+<h3 id="使用示例_1">使用示例</h3>
+<div class="codehilite lang-java"><pre><span></span><code><span class="kn">import</span><span class="w"> </span><span class="nn">java.util.concurrent.CopyOnWriteArrayList</span><span class="p">;</span>
+
+<span class="kd">public</span><span class="w"> </span><span class="kd">class</span> <span class="nc">CopyOnWriteArrayListDemo</span><span class="w"> </span><span class="p">{</span>
+<span class="w">    </span><span class="kd">public</span><span class="w"> </span><span class="kd">static</span><span class="w"> </span><span class="kt">void</span><span class="w"> </span><span class="nf">main</span><span class="p">(</span><span class="n">String</span><span class="o">[]</span><span class="w"> </span><span class="n">args</span><span class="p">)</span><span class="w"> </span><span class="p">{</span>
+<span class="w">        </span><span class="n">CopyOnWriteArrayList</span><span class="o">&lt;</span><span class="n">String</span><span class="o">&gt;</span><span class="w"> </span><span class="n">list</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="k">new</span><span class="w"> </span><span class="n">CopyOnWriteArrayList</span><span class="o">&lt;&gt;</span><span class="p">();</span>
+<span class="w">        </span><span class="n">list</span><span class="p">.</span><span class="na">add</span><span class="p">(</span><span class="s">"a"</span><span class="p">);</span>
+<span class="w">        </span><span class="n">list</span><span class="p">.</span><span class="na">add</span><span class="p">(</span><span class="s">"b"</span><span class="p">);</span>
+<span class="w">        </span><span class="n">list</span><span class="p">.</span><span class="na">add</span><span class="p">(</span><span class="s">"c"</span><span class="p">);</span>
+
+<span class="w">        </span><span class="c1">// 迭代过程中允许修改（不会抛异常）</span>
+<span class="w">        </span><span class="k">for</span><span class="w"> </span><span class="p">(</span><span class="n">String</span><span class="w"> </span><span class="n">item</span><span class="w"> </span><span class="p">:</span><span class="w"> </span><span class="n">list</span><span class="p">)</span><span class="w"> </span><span class="p">{</span>
+<span class="w">            </span><span class="n">System</span><span class="p">.</span><span class="na">out</span><span class="p">.</span><span class="na">println</span><span class="p">(</span><span class="n">item</span><span class="p">);</span>
+<span class="w">            </span><span class="k">if</span><span class="w"> </span><span class="p">(</span><span class="s">"b"</span><span class="p">.</span><span class="na">equals</span><span class="p">(</span><span class="n">item</span><span class="p">))</span><span class="w"> </span><span class="p">{</span>
+<span class="w">                </span><span class="n">list</span><span class="p">.</span><span class="na">add</span><span class="p">(</span><span class="s">"d"</span><span class="p">);</span><span class="w"> </span><span class="c1">// 不会影响当前迭代</span>
+<span class="w">            </span><span class="p">}</span>
+<span class="w">        </span><span class="p">}</span>
+<span class="w">        </span><span class="n">System</span><span class="p">.</span><span class="na">out</span><span class="p">.</span><span class="na">println</span><span class="p">(</span><span class="n">list</span><span class="p">);</span><span class="w"> </span><span class="c1">// [a, b, c, d]</span>
+<span class="w">    </span><span class="p">}</span>
+<span class="p">}</span>
+</code></pre></div>
+
+<blockquote>
+<p>[!CAUTION]</p>
+<p>写操作频繁的场景不要使用 <code>CopyOnWriteArrayList</code>，因为每次写都要复制整个数组，可能导致内存溢出。</p>
+</blockquote>
+<h2 id="阻塞队列-BlockingQueue">阻塞队列 <code>BlockingQueue</code></h2>
+<h3 id="简介_2">简介</h3>
+<p><code>BlockingQueue</code> 是支持阻塞操作的队列，当队列空时获取元素会阻塞，当队列满时插入元素会阻塞。常用于生产者-消费者模式。</p>
+<h3 id="核心方法">核心方法</h3>
+<p><strong>插入操作</strong></p>
+<ul>
+<li><strong><code>add(e)</code></strong>：将元素插入队列。<strong>若队列已满</strong>，立即抛出 <code>IllegalStateException</code>（非法状态异常），不等待。</li>
+<li><strong><code>offer(e)</code></strong>：将元素插入队列。<strong>若队列已满</strong>，立即返回 <code>false</code> 表示插入失败，不抛异常。</li>
+<li><strong><code>put(e)</code></strong>：将元素插入队列。<strong>若队列已满</strong>，当前线程将无限期阻塞，直到队列腾出空间并被唤醒。</li>
+<li><strong><code>offer(e, time, unit)</code></strong>：将元素插入队列。<strong>若队列已满</strong>，则限时阻塞等待；超时前有空位则返回 <code>true</code>，否则返回 <code>false</code>。</li>
+</ul>
+<p><strong>移除操作（取出并删除队首）</strong></p>
+<ul>
+<li><strong><code>remove()</code></strong>：取出并移除队首元素。<strong>若队列为空</strong>，立即抛出 <code>NoSuchElementException</code>（无元素异常）。</li>
+<li><strong><code>poll()</code></strong>：取出并移除队首元素。<strong>若队列为空</strong>，立即返回 <code>null</code>，不抛异常。</li>
+<li><strong><code>take()</code></strong>：取出并移除队首元素。<strong>若队列为空</strong>，当前线程将无限期阻塞，直到队列有元素可取。</li>
+<li><strong><code>poll(time, unit)</code></strong>：取出并移除队首元素。<strong>若队列为空</strong>，则限时阻塞等待；超时前取到则返回该元素，否则返回 <code>null</code>。</li>
+</ul>
+<p><strong>检查操作（只获取不删除）</strong></p>
+<ul>
+<li><strong><code>element()</code></strong>：获取（不移除）队首元素。<strong>若队列为空</strong>，立即抛出 <code>NoSuchElementException</code>。</li>
+<li><strong><code>peek()</code></strong>：获取（不移除）队首元素。<strong>若队列为空</strong>，立即返回 <code>null</code>，不抛异常。</li>
+</ul>
+<h3 id="常用实现类">常用实现类</h3>
+<table>
+<thead>
+<tr>
+<th>实现</th>
+<th>说明</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>ArrayBlockingQueue</code></td>
+<td>有界队列，基于数组（必须指定容量）</td>
+</tr>
+<tr>
+<td><code>LinkedBlockingQueue</code></td>
+<td>可选有界/无界，基于链表（默认无界）</td>
+</tr>
+<tr>
+<td><code>SynchronousQueue</code></td>
+<td>容量为0，每个插入必须等待取出（缓存线程池使用）</td>
+</tr>
+<tr>
+<td><code>PriorityBlockingQueue</code></td>
+<td>支持优先级排序的无界队列</td>
+</tr>
+<tr>
+<td><code>DelayQueue</code></td>
+<td>延迟队列，元素实现 <code>Delayed</code> 接口</td>
+</tr>
+</tbody>
+</table>
+<h3 id="生产者-消费者示例基于-ArrayBlockingQueue">生产者-消费者示例（基于 <code>ArrayBlockingQueue</code>）</h3>
+<div class="codehilite lang-java"><pre><span></span><code><span class="kn">import</span><span class="w"> </span><span class="nn">java.util.concurrent.ArrayBlockingQueue</span><span class="p">;</span>
+<span class="kn">import</span><span class="w"> </span><span class="nn">java.util.concurrent.BlockingQueue</span><span class="p">;</span>
+
+<span class="kd">public</span><span class="w"> </span><span class="kd">class</span> <span class="nc">BlockingQueueDemo</span><span class="w"> </span><span class="p">{</span>
+<span class="w">    </span><span class="kd">private</span><span class="w"> </span><span class="kd">static</span><span class="w"> </span><span class="kd">final</span><span class="w"> </span><span class="kt">int</span><span class="w"> </span><span class="n">CAPACITY</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="mi">5</span><span class="p">;</span>
+<span class="w">    </span><span class="kd">private</span><span class="w"> </span><span class="kd">static</span><span class="w"> </span><span class="kd">final</span><span class="w"> </span><span class="n">BlockingQueue</span><span class="o">&lt;</span><span class="n">Integer</span><span class="o">&gt;</span><span class="w"> </span><span class="n">queue</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="k">new</span><span class="w"> </span><span class="n">ArrayBlockingQueue</span><span class="o">&lt;&gt;</span><span class="p">(</span><span class="n">CAPACITY</span><span class="p">);</span>
+
+<span class="w">    </span><span class="kd">static</span><span class="w"> </span><span class="kd">class</span> <span class="nc">Producer</span><span class="w"> </span><span class="kd">implements</span><span class="w"> </span><span class="n">Runnable</span><span class="w"> </span><span class="p">{</span>
+<span class="w">        </span><span class="nd">@Override</span>
+<span class="w">        </span><span class="kd">public</span><span class="w"> </span><span class="kt">void</span><span class="w"> </span><span class="nf">run</span><span class="p">()</span><span class="w"> </span><span class="p">{</span>
+<span class="w">            </span><span class="kt">int</span><span class="w"> </span><span class="n">value</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="mi">0</span><span class="p">;</span>
+<span class="w">            </span><span class="k">try</span><span class="w"> </span><span class="p">{</span>
+<span class="w">                </span><span class="k">while</span><span class="w"> </span><span class="p">(</span><span class="kc">true</span><span class="p">)</span><span class="w"> </span><span class="p">{</span>
+<span class="w">                    </span><span class="n">queue</span><span class="p">.</span><span class="na">put</span><span class="p">(</span><span class="n">value</span><span class="p">);</span><span class="w"> </span><span class="c1">// 如果队列满则阻塞</span>
+<span class="w">                    </span><span class="n">System</span><span class="p">.</span><span class="na">out</span><span class="p">.</span><span class="na">println</span><span class="p">(</span><span class="s">"生产: "</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="n">value</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="s">"，队列大小: "</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="n">queue</span><span class="p">.</span><span class="na">size</span><span class="p">());</span>
+<span class="w">                    </span><span class="n">value</span><span class="o">++</span><span class="p">;</span>
+<span class="w">                    </span><span class="n">Thread</span><span class="p">.</span><span class="na">sleep</span><span class="p">(</span><span class="mi">300</span><span class="p">);</span>
+<span class="w">                </span><span class="p">}</span>
+<span class="w">            </span><span class="p">}</span><span class="w"> </span><span class="k">catch</span><span class="w"> </span><span class="p">(</span><span class="n">InterruptedException</span><span class="w"> </span><span class="n">e</span><span class="p">)</span><span class="w"> </span><span class="p">{}</span>
+<span class="w">        </span><span class="p">}</span>
+<span class="w">    </span><span class="p">}</span>
+
+<span class="w">    </span><span class="kd">static</span><span class="w"> </span><span class="kd">class</span> <span class="nc">Consumer</span><span class="w"> </span><span class="kd">implements</span><span class="w"> </span><span class="n">Runnable</span><span class="w"> </span><span class="p">{</span>
+<span class="w">        </span><span class="nd">@Override</span>
+<span class="w">        </span><span class="kd">public</span><span class="w"> </span><span class="kt">void</span><span class="w"> </span><span class="nf">run</span><span class="p">()</span><span class="w"> </span><span class="p">{</span>
+<span class="w">            </span><span class="k">try</span><span class="w"> </span><span class="p">{</span>
+<span class="w">                </span><span class="k">while</span><span class="w"> </span><span class="p">(</span><span class="kc">true</span><span class="p">)</span><span class="w"> </span><span class="p">{</span>
+<span class="w">                    </span><span class="kt">int</span><span class="w"> </span><span class="n">value</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">queue</span><span class="p">.</span><span class="na">take</span><span class="p">();</span><span class="w"> </span><span class="c1">// 如果队列空则阻塞</span>
+<span class="w">                    </span><span class="n">System</span><span class="p">.</span><span class="na">out</span><span class="p">.</span><span class="na">println</span><span class="p">(</span><span class="n">Thread</span><span class="p">.</span><span class="na">currentThread</span><span class="p">().</span><span class="na">getName</span><span class="p">()</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="s">" 消费: "</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="n">value</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="s">"，队列大小: "</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="n">queue</span><span class="p">.</span><span class="na">size</span><span class="p">());</span>
+<span class="w">                    </span><span class="n">Thread</span><span class="p">.</span><span class="na">sleep</span><span class="p">(</span><span class="mi">500</span><span class="p">);</span>
+<span class="w">                </span><span class="p">}</span>
+<span class="w">            </span><span class="p">}</span><span class="w"> </span><span class="k">catch</span><span class="w"> </span><span class="p">(</span><span class="n">InterruptedException</span><span class="w"> </span><span class="n">e</span><span class="p">)</span><span class="w"> </span><span class="p">{}</span>
+<span class="w">        </span><span class="p">}</span>
+<span class="w">    </span><span class="p">}</span>
+
+<span class="w">    </span><span class="kd">public</span><span class="w"> </span><span class="kd">static</span><span class="w"> </span><span class="kt">void</span><span class="w"> </span><span class="nf">main</span><span class="p">(</span><span class="n">String</span><span class="o">[]</span><span class="w"> </span><span class="n">args</span><span class="p">)</span><span class="w"> </span><span class="p">{</span>
+<span class="w">        </span><span class="k">new</span><span class="w"> </span><span class="n">Thread</span><span class="p">(</span><span class="k">new</span><span class="w"> </span><span class="n">Producer</span><span class="p">()).</span><span class="na">start</span><span class="p">();</span>
+<span class="w">        </span><span class="k">new</span><span class="w"> </span><span class="n">Thread</span><span class="p">(</span><span class="k">new</span><span class="w"> </span><span class="n">Consumer</span><span class="p">(),</span><span class="w"> </span><span class="s">"消费者1"</span><span class="p">).</span><span class="na">start</span><span class="p">();</span>
+<span class="w">        </span><span class="k">new</span><span class="w"> </span><span class="n">Thread</span><span class="p">(</span><span class="k">new</span><span class="w"> </span><span class="n">Consumer</span><span class="p">(),</span><span class="w"> </span><span class="s">"消费者2"</span><span class="p">).</span><span class="na">start</span><span class="p">();</span>
+<span class="w">    </span><span class="p">}</span>
+<span class="p">}</span>
+</code></pre></div>
+
+<h3 id="基于-SynchronousQueue-的简易传递">基于 <code>SynchronousQueue</code> 的简易传递</h3>
+<div class="codehilite lang-java"><pre><span></span><code><span class="n">BlockingQueue</span><span class="o">&lt;</span><span class="n">String</span><span class="o">&gt;</span><span class="w"> </span><span class="n">queue</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="k">new</span><span class="w"> </span><span class="n">SynchronousQueue</span><span class="o">&lt;&gt;</span><span class="p">();</span>
+<span class="c1">// 生产者线程</span>
+<span class="k">new</span><span class="w"> </span><span class="n">Thread</span><span class="p">(()</span><span class="w"> </span><span class="o">-&gt;</span><span class="w"> </span><span class="p">{</span>
+<span class="w">    </span><span class="k">try</span><span class="w"> </span><span class="p">{</span>
+<span class="w">        </span><span class="n">queue</span><span class="p">.</span><span class="na">put</span><span class="p">(</span><span class="s">"数据"</span><span class="p">);</span><span class="w"> </span><span class="c1">// 必须等待消费者取出</span>
+<span class="w">    </span><span class="p">}</span><span class="w"> </span><span class="k">catch</span><span class="w"> </span><span class="p">(</span><span class="n">InterruptedException</span><span class="w"> </span><span class="n">e</span><span class="p">)</span><span class="w"> </span><span class="p">{}</span>
+<span class="p">}).</span><span class="na">start</span><span class="p">();</span>
+<span class="c1">// 消费者线程</span>
+<span class="k">new</span><span class="w"> </span><span class="n">Thread</span><span class="p">(()</span><span class="w"> </span><span class="o">-&gt;</span><span class="w"> </span><span class="p">{</span>
+<span class="w">    </span><span class="k">try</span><span class="w"> </span><span class="p">{</span>
+<span class="w">        </span><span class="n">String</span><span class="w"> </span><span class="n">data</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">queue</span><span class="p">.</span><span class="na">take</span><span class="p">();</span><span class="w"> </span><span class="c1">// 必须等待生产者放入</span>
+<span class="w">        </span><span class="n">System</span><span class="p">.</span><span class="na">out</span><span class="p">.</span><span class="na">println</span><span class="p">(</span><span class="s">"收到: "</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="n">data</span><span class="p">);</span>
+<span class="w">    </span><span class="p">}</span><span class="w"> </span><span class="k">catch</span><span class="w"> </span><span class="p">(</span><span class="n">InterruptedException</span><span class="w"> </span><span class="n">e</span><span class="p">)</span><span class="w"> </span><span class="p">{}</span>
+<span class="p">}).</span><span class="na">start</span><span class="p">();</span>
+</code></pre></div>
+
+<h2 id="同步工具类">同步工具类</h2>
+<h3 id="CountDownLatch-等待多个事件"><code>CountDownLatch</code> —— 等待多个事件</h3>
+<p><strong>作用：</strong> 使一个或多个线程等待其他线程完成一组操作。</p>
+<div class="codehilite lang-mermaid"><pre><span></span><code>sequenceDiagram
+    participant Main as 主线程
+    participant T1 as 线程1
+    participant T2 as 线程2
+    participant T3 as 线程3
+
+    Main-&gt;&gt;Main: new CountDownLatch(3)
+    Main-&gt;&gt;T1: 启动
+    Main-&gt;&gt;T2: 启动
+    Main-&gt;&gt;T3: 启动
+    Main-&gt;&gt;Main: await()（阻塞）
+
+    T1-&gt;&gt;T1: 执行任务
+    T1-&gt;&gt;Main: countDown()
+    T2-&gt;&gt;T2: 执行任务
+    T2-&gt;&gt;Main: countDown()
+    T3-&gt;&gt;T3: 执行任务
+    T3-&gt;&gt;Main: countDown()
+
+    Main-&gt;&gt;Main: 唤醒，继续执行
+</code></pre></div>
+
+<p><strong>使用示例：</strong></p>
+<div class="codehilite lang-java"><pre><span></span><code><span class="kn">import</span><span class="w"> </span><span class="nn">java.util.concurrent.CountDownLatch</span><span class="p">;</span>
+
+<span class="kd">public</span><span class="w"> </span><span class="kd">class</span> <span class="nc">CountDownLatchDemo</span><span class="w"> </span><span class="p">{</span>
+<span class="w">    </span><span class="kd">public</span><span class="w"> </span><span class="kd">static</span><span class="w"> </span><span class="kt">void</span><span class="w"> </span><span class="nf">main</span><span class="p">(</span><span class="n">String</span><span class="o">[]</span><span class="w"> </span><span class="n">args</span><span class="p">)</span><span class="w"> </span><span class="kd">throws</span><span class="w"> </span><span class="n">InterruptedException</span><span class="w"> </span><span class="p">{</span>
+<span class="w">        </span><span class="kt">int</span><span class="w"> </span><span class="n">taskCount</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="mi">3</span><span class="p">;</span>
+<span class="w">        </span><span class="n">CountDownLatch</span><span class="w"> </span><span class="n">latch</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="k">new</span><span class="w"> </span><span class="n">CountDownLatch</span><span class="p">(</span><span class="n">taskCount</span><span class="p">);</span>
+
+<span class="w">        </span><span class="k">for</span><span class="w"> </span><span class="p">(</span><span class="kt">int</span><span class="w"> </span><span class="n">i</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="mi">0</span><span class="p">;</span><span class="w"> </span><span class="n">i</span><span class="w"> </span><span class="o">&lt;</span><span class="w"> </span><span class="n">taskCount</span><span class="p">;</span><span class="w"> </span><span class="n">i</span><span class="o">++</span><span class="p">)</span><span class="w"> </span><span class="p">{</span>
+<span class="w">            </span><span class="kd">final</span><span class="w"> </span><span class="kt">int</span><span class="w"> </span><span class="n">id</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">i</span><span class="p">;</span>
+<span class="w">            </span><span class="k">new</span><span class="w"> </span><span class="n">Thread</span><span class="p">(()</span><span class="w"> </span><span class="o">-&gt;</span><span class="w"> </span><span class="p">{</span>
+<span class="w">                </span><span class="k">try</span><span class="w"> </span><span class="p">{</span>
+<span class="w">                    </span><span class="n">System</span><span class="p">.</span><span class="na">out</span><span class="p">.</span><span class="na">println</span><span class="p">(</span><span class="s">"线程 "</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="n">id</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="s">" 开始工作"</span><span class="p">);</span>
+<span class="w">                    </span><span class="n">Thread</span><span class="p">.</span><span class="na">sleep</span><span class="p">((</span><span class="kt">long</span><span class="p">)</span><span class="w"> </span><span class="p">(</span><span class="n">Math</span><span class="p">.</span><span class="na">random</span><span class="p">()</span><span class="w"> </span><span class="o">*</span><span class="w"> </span><span class="mi">1000</span><span class="p">));</span>
+<span class="w">                    </span><span class="n">System</span><span class="p">.</span><span class="na">out</span><span class="p">.</span><span class="na">println</span><span class="p">(</span><span class="s">"线程 "</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="n">id</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="s">" 完成"</span><span class="p">);</span>
+<span class="w">                </span><span class="p">}</span><span class="w"> </span><span class="k">catch</span><span class="w"> </span><span class="p">(</span><span class="n">InterruptedException</span><span class="w"> </span><span class="n">e</span><span class="p">)</span><span class="w"> </span><span class="p">{}</span>
+<span class="w">                </span><span class="n">latch</span><span class="p">.</span><span class="na">countDown</span><span class="p">();</span>
+<span class="w">            </span><span class="p">}).</span><span class="na">start</span><span class="p">();</span>
+<span class="w">        </span><span class="p">}</span>
+
+<span class="w">        </span><span class="n">System</span><span class="p">.</span><span class="na">out</span><span class="p">.</span><span class="na">println</span><span class="p">(</span><span class="s">"主线程等待所有任务完成..."</span><span class="p">);</span>
+<span class="w">        </span><span class="n">latch</span><span class="p">.</span><span class="na">await</span><span class="p">();</span><span class="w"> </span><span class="c1">// 阻塞直到计数器归零</span>
+<span class="w">        </span><span class="n">System</span><span class="p">.</span><span class="na">out</span><span class="p">.</span><span class="na">println</span><span class="p">(</span><span class="s">"所有任务完成，主线程继续"</span><span class="p">);</span>
+<span class="w">    </span><span class="p">}</span>
+<span class="p">}</span>
+</code></pre></div>
+
+<h3 id="CyclicBarrier-循环屏障"><code>CyclicBarrier</code> —— 循环屏障</h3>
+<p><strong>作用：</strong> 让一组线程等待彼此达到某个公共屏障点。与 <code>CountDownLatch</code> 区别在于：<code>CyclicBarrier</code> 可以重复使用（循环）。</p>
+<div class="codehilite lang-mermaid"><pre><span></span><code>sequenceDiagram
+    participant T1 as 线程1
+    participant T2 as 线程2
+    participant T3 as 线程3
+
+    T1-&gt;&gt;T1: await()
+    T2-&gt;&gt;T2: await()
+    T3-&gt;&gt;T3: await()
+    Note over T1,T3: 所有线程到达屏障后同时继续
+
+    T1-&gt;&gt;T1: 继续执行
+    T2-&gt;&gt;T2: 继续执行
+    T3-&gt;&gt;T3: 继续执行
+</code></pre></div>
+
+<p><strong>使用示例：</strong></p>
+<div class="codehilite lang-java"><pre><span></span><code><span class="kn">import</span><span class="w"> </span><span class="nn">java.util.concurrent.BrokenBarrierException</span><span class="p">;</span>
+<span class="kn">import</span><span class="w"> </span><span class="nn">java.util.concurrent.CyclicBarrier</span><span class="p">;</span>
+
+<span class="kd">public</span><span class="w"> </span><span class="kd">class</span> <span class="nc">f</span><span class="w"> </span><span class="p">{</span>
+<span class="w">    </span><span class="kd">public</span><span class="w"> </span><span class="kd">static</span><span class="w"> </span><span class="kt">void</span><span class="w"> </span><span class="nf">main</span><span class="p">(</span><span class="n">String</span><span class="o">[]</span><span class="w"> </span><span class="n">args</span><span class="p">)</span><span class="w"> </span><span class="p">{</span>
+<span class="w">        </span><span class="kt">int</span><span class="w"> </span><span class="n">threadCount</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="mi">3</span><span class="p">;</span>
+<span class="w">        </span><span class="n">CyclicBarrier</span><span class="w"> </span><span class="n">barrier</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="k">new</span><span class="w"> </span><span class="n">CyclicBarrier</span><span class="p">(</span><span class="n">threadCount</span><span class="p">,</span><span class="w"> </span><span class="p">()</span><span class="w"> </span><span class="o">-&gt;</span><span class="w"> </span><span class="p">{</span>
+<span class="w">            </span><span class="c1">// 所有线程到达屏障后执行的回调（可选项）</span>
+<span class="w">            </span><span class="n">System</span><span class="p">.</span><span class="na">out</span><span class="p">.</span><span class="na">println</span><span class="p">(</span><span class="s">"所有线程到达屏障，执行回调"</span><span class="p">);</span>
+<span class="w">        </span><span class="p">});</span>
+
+<span class="w">        </span><span class="k">for</span><span class="w"> </span><span class="p">(</span><span class="kt">int</span><span class="w"> </span><span class="n">i</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="mi">0</span><span class="p">;</span><span class="w"> </span><span class="n">i</span><span class="w"> </span><span class="o">&lt;</span><span class="w"> </span><span class="n">threadCount</span><span class="p">;</span><span class="w"> </span><span class="n">i</span><span class="o">++</span><span class="p">)</span><span class="w"> </span><span class="p">{</span>
+<span class="w">            </span><span class="kd">final</span><span class="w"> </span><span class="kt">int</span><span class="w"> </span><span class="n">id</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">i</span><span class="p">;</span>
+<span class="w">            </span><span class="k">new</span><span class="w"> </span><span class="n">Thread</span><span class="p">(()</span><span class="w"> </span><span class="o">-&gt;</span><span class="w"> </span><span class="p">{</span>
+<span class="w">                </span><span class="k">try</span><span class="w"> </span><span class="p">{</span>
+<span class="w">                    </span><span class="n">System</span><span class="p">.</span><span class="na">out</span><span class="p">.</span><span class="na">println</span><span class="p">(</span><span class="s">"线程 "</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="n">id</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="s">" 到达屏障"</span><span class="p">);</span>
+<span class="w">                    </span><span class="n">barrier</span><span class="p">.</span><span class="na">await</span><span class="p">();</span><span class="w"> </span><span class="c1">// 等待其他线程</span>
+<span class="w">                    </span><span class="n">System</span><span class="p">.</span><span class="na">out</span><span class="p">.</span><span class="na">println</span><span class="p">(</span><span class="s">"线程 "</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="n">id</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="s">" 越过屏障，继续执行"</span><span class="p">);</span>
+<span class="w">                </span><span class="p">}</span><span class="w"> </span><span class="k">catch</span><span class="w"> </span><span class="p">(</span><span class="n">InterruptedException</span><span class="w"> </span><span class="o">|</span><span class="w"> </span><span class="n">BrokenBarrierException</span><span class="w"> </span><span class="n">e</span><span class="p">)</span><span class="w"> </span><span class="p">{}</span>
+<span class="w">            </span><span class="p">}).</span><span class="na">start</span><span class="p">();</span>
+<span class="w">        </span><span class="p">}</span>
+<span class="w">    </span><span class="p">}</span>
+<span class="p">}</span>
+</code></pre></div>
+
+<p><strong>特点：</strong></p>
+<ul>
+<li>可以重置（<code>reset()</code>）后重复使用</li>
+<li>支持回调动作（所有线程到达屏障后执行）</li>
+</ul>
+<h3 id="Semaphore-信号量"><code>Semaphore</code> —— 信号量</h3>
+<p><strong>作用：</strong> 控制同时访问特定资源的线程数量，相当于限流器（令牌桶）。</p>
+<div class="codehilite lang-mermaid"><pre><span></span><code>flowchart LR
+    subgraph 许可证池
+        P1[许可证1]
+        P2[许可证2]
+        P3[许可证3]
+    end
+
+    T1[线程1] --&gt;|acquire| P1
+    T2[线程2] --&gt;|acquire| P2
+    T3[线程3] --&gt;|等待| P3
+    T1 --&gt;|release| P1
+</code></pre></div>
+
+<p><strong>常用方法：</strong></p>
+<table>
+<thead>
+<tr>
+<th>方法</th>
+<th>说明</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>acquire()</code></td>
+<td>获取1个许可证（阻塞）</td>
+</tr>
+<tr>
+<td><code>acquire(int permits)</code></td>
+<td>获取指定数量（阻塞）</td>
+</tr>
+<tr>
+<td><code>tryAcquire()</code></td>
+<td>尝试获取（立即返回）</td>
+</tr>
+<tr>
+<td><code>release()</code></td>
+<td>释放1个许可证</td>
+</tr>
+<tr>
+<td><code>availablePermits()</code></td>
+<td>当前可用许可证数</td>
+</tr>
+</tbody>
+</table>
+<p><strong>使用示例：</strong></p>
+<div class="codehilite lang-java"><pre><span></span><code><span class="kn">import</span><span class="w"> </span><span class="nn">java.util.concurrent.Semaphore</span><span class="p">;</span>
+
+<span class="kd">public</span><span class="w"> </span><span class="kd">class</span> <span class="nc">SemaphoreDemo</span><span class="w"> </span><span class="p">{</span>
+<span class="w">    </span><span class="kd">public</span><span class="w"> </span><span class="kd">static</span><span class="w"> </span><span class="kt">void</span><span class="w"> </span><span class="nf">main</span><span class="p">(</span><span class="n">String</span><span class="o">[]</span><span class="w"> </span><span class="n">args</span><span class="p">)</span><span class="w"> </span><span class="p">{</span>
+<span class="w">        </span><span class="n">Semaphore</span><span class="w"> </span><span class="n">semaphore</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="k">new</span><span class="w"> </span><span class="n">Semaphore</span><span class="p">(</span><span class="mi">3</span><span class="p">);</span><span class="w"> </span><span class="c1">// 最多允许3个线程同时访问</span>
+
+<span class="w">        </span><span class="k">for</span><span class="w"> </span><span class="p">(</span><span class="kt">int</span><span class="w"> </span><span class="n">i</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="mi">0</span><span class="p">;</span><span class="w"> </span><span class="n">i</span><span class="w"> </span><span class="o">&lt;</span><span class="w"> </span><span class="mi">10</span><span class="p">;</span><span class="w"> </span><span class="n">i</span><span class="o">++</span><span class="p">)</span><span class="w"> </span><span class="p">{</span>
+<span class="w">            </span><span class="kd">final</span><span class="w"> </span><span class="kt">int</span><span class="w"> </span><span class="n">id</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">i</span><span class="p">;</span>
+<span class="w">            </span><span class="k">new</span><span class="w"> </span><span class="n">Thread</span><span class="p">(()</span><span class="w"> </span><span class="o">-&gt;</span><span class="w"> </span><span class="p">{</span>
+<span class="w">                </span><span class="k">try</span><span class="w"> </span><span class="p">{</span>
+<span class="w">                    </span><span class="n">semaphore</span><span class="p">.</span><span class="na">acquire</span><span class="p">();</span><span class="w"> </span><span class="c1">// 获取许可证</span>
+<span class="w">                    </span><span class="n">System</span><span class="p">.</span><span class="na">out</span><span class="p">.</span><span class="na">println</span><span class="p">(</span><span class="s">"线程 "</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="n">id</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="s">" 获取许可证，开始工作"</span><span class="p">);</span>
+<span class="w">                    </span><span class="n">Thread</span><span class="p">.</span><span class="na">sleep</span><span class="p">((</span><span class="kt">long</span><span class="p">)</span><span class="w"> </span><span class="p">(</span><span class="n">Math</span><span class="p">.</span><span class="na">random</span><span class="p">()</span><span class="w"> </span><span class="o">*</span><span class="w"> </span><span class="mi">2000</span><span class="p">));</span>
+<span class="w">                    </span><span class="n">System</span><span class="p">.</span><span class="na">out</span><span class="p">.</span><span class="na">println</span><span class="p">(</span><span class="s">"线程 "</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="n">id</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="s">" 释放许可证"</span><span class="p">);</span>
+<span class="w">                </span><span class="p">}</span><span class="w"> </span><span class="k">catch</span><span class="w"> </span><span class="p">(</span><span class="n">InterruptedException</span><span class="w"> </span><span class="n">e</span><span class="p">)</span><span class="w"> </span><span class="p">{}</span>
+<span class="w">                </span><span class="n">semaphore</span><span class="p">.</span><span class="na">release</span><span class="p">();</span><span class="w"> </span><span class="c1">// 释放许可证</span>
+<span class="w">            </span><span class="p">}).</span><span class="na">start</span><span class="p">();</span>
+<span class="w">        </span><span class="p">}</span>
+<span class="w">    </span><span class="p">}</span>
+<span class="p">}</span>
+</code></pre></div>
+
+<h2 id="对比总结">对比总结</h2>
+<h3 id="并发集合对比">并发集合对比</h3>
+<table>
+<thead>
+<tr>
+<th>集合</th>
+<th>线程安全</th>
+<th>性能</th>
+<th>适用场景</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>ArrayList</code></td>
+<td>❌</td>
+<td>最高</td>
+<td>单线程</td>
+</tr>
+<tr>
+<td><code>Collections.synchronizedList</code></td>
+<td>✅</td>
+<td>低（全局锁）</td>
+<td>简单多线程</td>
+</tr>
+<tr>
+<td><code>CopyOnWriteArrayList</code></td>
+<td>✅</td>
+<td>读高，写低</td>
+<td>读多写少</td>
+</tr>
+<tr>
+<td><code>ConcurrentHashMap</code></td>
+<td>✅</td>
+<td>高</td>
+<td>高并发读写</td>
+</tr>
+</tbody>
+</table>
+<h3 id="同步工具类对比">同步工具类对比</h3>
+<table>
+<thead>
+<tr>
+<th>工具</th>
+<th>作用</th>
+<th>主要方法</th>
+<th>可重用</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>CountDownLatch</code></td>
+<td>等待多个事件完成</td>
+<td><code>await()</code>, <code>countDown()</code></td>
+<td>❌</td>
+</tr>
+<tr>
+<td><code>CyclicBarrier</code></td>
+<td>等待多个线程到达屏障</td>
+<td><code>await()</code></td>
+<td>✅</td>
+</tr>
+<tr>
+<td><code>Semaphore</code></td>
+<td>控制并发访问数</td>
+<td><code>acquire()</code>, <code>release()</code></td>
+<td>✅</td>
+</tr>
+</tbody>
+</table>
+<h3 id="阻塞队列选择">阻塞队列选择</h3>
+<table>
+<thead>
+<tr>
+<th>队列</th>
+<th>容量</th>
+<th>特点</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>ArrayBlockingQueue</code></td>
+<td>有界（指定大小）</td>
+<td>公平锁可配</td>
+</tr>
+<tr>
+<td><code>LinkedBlockingQueue</code></td>
+<td>有界/无界</td>
+<td>一般用无界</td>
+</tr>
+<tr>
+<td><code>SynchronousQueue</code></td>
+<td>0</td>
+<td>直接传递</td>
+</tr>
+<tr>
+<td><code>PriorityBlockingQueue</code></td>
+<td>无界</td>
+<td>支持优先级</td>
+</tr>
+<tr>
+<td><code>DelayQueue</code></td>
+<td>无界</td>
+<td>延迟元素</td>
+</tr>
+</tbody>
+</table>
+<h3 id="技术选型">技术选型</h3>
+<p>选择并发工具时，先理解具体场景（读多写少、生产者-消费者、限流等），再选择合适的工具</p>
+<ol>
+<li><strong>并发集合</strong>：
+   - <code>ConcurrentHashMap</code>：高并发读写，原子操作丰富。
+   - <code>CopyOnWriteArrayList</code>：读多写少场景，写时复制。
+   - <code>BlockingQueue</code>：线程安全队列，支持阻塞操作（<code>put</code>/<code>take</code>）。</li>
+<li><strong>同步工具类</strong>：
+   - <code>CountDownLatch</code>：等待一组任务完成。
+   - <code>CyclicBarrier</code>：让多个线程等待彼此到达。
+   - <code>Semaphore</code>：控制并发线程数。</li>
+<li><strong>选择原则</strong>：
+   - 高并发读写 → <code>ConcurrentHashMap</code>。
+   - 读多写少 → <code>CopyOnWriteArrayList</code>。
+   - 生产者-消费者 → <code>BlockingQueue</code>。
+   - 等待多个事件 → <code>CountDownLatch</code>。
+   - 线程互相等待 → <code>CyclicBarrier</code>。
+   - 限流 → <code>Semaphore</code>。</li>
+</ol>
+<h2 id="作业">作业</h2>
+<h3 id="作业一代码阅读并发集合使用">作业一：代码阅读——并发集合使用</h3>
+<p>阅读以下代码，写出输出结果并说明原因。</p>
+<div class="codehilite lang-java"><pre><span></span><code><span class="kn">import</span><span class="w"> </span><span class="nn">java.util.concurrent.ConcurrentHashMap</span><span class="p">;</span>
+
+<span class="kd">public</span><span class="w"> </span><span class="kd">class</span> <span class="nc">ConcurrentMapTest</span><span class="w"> </span><span class="p">{</span>
+<span class="w">    </span><span class="kd">public</span><span class="w"> </span><span class="kd">static</span><span class="w"> </span><span class="kt">void</span><span class="w"> </span><span class="nf">main</span><span class="p">(</span><span class="n">String</span><span class="o">[]</span><span class="w"> </span><span class="n">args</span><span class="p">)</span><span class="w"> </span><span class="kd">throws</span><span class="w"> </span><span class="n">InterruptedException</span><span class="w"> </span><span class="p">{</span>
+<span class="w">        </span><span class="n">ConcurrentHashMap</span><span class="o">&lt;</span><span class="n">String</span><span class="p">,</span><span class="w"> </span><span class="n">Integer</span><span class="o">&gt;</span><span class="w"> </span><span class="n">map</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="k">new</span><span class="w"> </span><span class="n">ConcurrentHashMap</span><span class="o">&lt;&gt;</span><span class="p">();</span>
+<span class="w">        </span><span class="n">map</span><span class="p">.</span><span class="na">put</span><span class="p">(</span><span class="s">"key"</span><span class="p">,</span><span class="w"> </span><span class="mi">0</span><span class="p">);</span>
+
+<span class="w">        </span><span class="n">Runnable</span><span class="w"> </span><span class="n">task</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="p">()</span><span class="w"> </span><span class="o">-&gt;</span><span class="w"> </span><span class="p">{</span>
+<span class="w">            </span><span class="k">for</span><span class="w"> </span><span class="p">(</span><span class="kt">int</span><span class="w"> </span><span class="n">i</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="mi">0</span><span class="p">;</span><span class="w"> </span><span class="n">i</span><span class="w"> </span><span class="o">&lt;</span><span class="w"> </span><span class="mi">10000</span><span class="p">;</span><span class="w"> </span><span class="n">i</span><span class="o">++</span><span class="p">)</span><span class="w"> </span><span class="p">{</span>
+<span class="w">                </span><span class="n">map</span><span class="p">.</span><span class="na">merge</span><span class="p">(</span><span class="s">"key"</span><span class="p">,</span><span class="w"> </span><span class="mi">1</span><span class="p">,</span><span class="w"> </span><span class="n">Integer</span><span class="p">::</span><span class="n">sum</span><span class="p">);</span>
+<span class="w">            </span><span class="p">}</span>
+<span class="w">        </span><span class="p">};</span>
+
+<span class="w">        </span><span class="n">Thread</span><span class="w"> </span><span class="n">t1</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="k">new</span><span class="w"> </span><span class="n">Thread</span><span class="p">(</span><span class="n">task</span><span class="p">);</span>
+<span class="w">        </span><span class="n">Thread</span><span class="w"> </span><span class="n">t2</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="k">new</span><span class="w"> </span><span class="n">Thread</span><span class="p">(</span><span class="n">task</span><span class="p">);</span>
+<span class="w">        </span><span class="n">t1</span><span class="p">.</span><span class="na">start</span><span class="p">();</span>
+<span class="w">        </span><span class="n">t2</span><span class="p">.</span><span class="na">start</span><span class="p">();</span>
+<span class="w">        </span><span class="n">t1</span><span class="p">.</span><span class="na">join</span><span class="p">();</span>
+<span class="w">        </span><span class="n">t2</span><span class="p">.</span><span class="na">join</span><span class="p">();</span>
+<span class="w">        </span><span class="n">System</span><span class="p">.</span><span class="na">out</span><span class="p">.</span><span class="na">println</span><span class="p">(</span><span class="s">"最终值: "</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="n">map</span><span class="p">.</span><span class="na">get</span><span class="p">(</span><span class="s">"key"</span><span class="p">));</span>
+<span class="w">    </span><span class="p">}</span>
+<span class="p">}</span>
+</code></pre></div>
+
+<p><strong>问题：</strong></p>
+<ul>
+<li>输出结果是多少？为什么？</li>
+<li>如果使用 <code>HashMap</code> 代替 <code>ConcurrentHashMap</code>，结果会怎样？</li>
+<li>如果使用 <code>map.put("key", map.get("key") + 1)</code> 代替 <code>merge</code>，结果会怎样？</li>
+</ul>
+<hr />
+<h3 id="作业二代码阅读同步工具类">作业二：代码阅读——同步工具类</h3>
+<p>阅读以下代码，写出输出顺序（5 行输出）。</p>
+<div class="codehilite lang-java"><pre><span></span><code><span class="kn">import</span><span class="w"> </span><span class="nn">java.util.concurrent.CountDownLatch</span><span class="p">;</span>
+
+<span class="kd">public</span><span class="w"> </span><span class="kd">class</span> <span class="nc">CountDownLatchTest</span><span class="w"> </span><span class="p">{</span>
+<span class="w">    </span><span class="kd">public</span><span class="w"> </span><span class="kd">static</span><span class="w"> </span><span class="kt">void</span><span class="w"> </span><span class="nf">main</span><span class="p">(</span><span class="n">String</span><span class="o">[]</span><span class="w"> </span><span class="n">args</span><span class="p">)</span><span class="w"> </span><span class="kd">throws</span><span class="w"> </span><span class="n">InterruptedException</span><span class="w"> </span><span class="p">{</span>
+<span class="w">        </span><span class="n">CountDownLatch</span><span class="w"> </span><span class="n">latch</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="k">new</span><span class="w"> </span><span class="n">CountDownLatch</span><span class="p">(</span><span class="mi">2</span><span class="p">);</span>
+<span class="w">        </span><span class="n">System</span><span class="p">.</span><span class="na">out</span><span class="p">.</span><span class="na">println</span><span class="p">(</span><span class="s">"A: 主线程启动"</span><span class="p">);</span>
+
+<span class="w">        </span><span class="k">new</span><span class="w"> </span><span class="n">Thread</span><span class="p">(()</span><span class="w"> </span><span class="o">-&gt;</span><span class="w"> </span><span class="p">{</span>
+<span class="w">            </span><span class="n">System</span><span class="p">.</span><span class="na">out</span><span class="p">.</span><span class="na">println</span><span class="p">(</span><span class="s">"B: 线程1 开始"</span><span class="p">);</span>
+<span class="w">            </span><span class="k">try</span><span class="w"> </span><span class="p">{</span><span class="w"> </span><span class="n">Thread</span><span class="p">.</span><span class="na">sleep</span><span class="p">(</span><span class="mi">500</span><span class="p">);</span><span class="w"> </span><span class="p">}</span><span class="w"> </span><span class="k">catch</span><span class="w"> </span><span class="p">(</span><span class="n">Exception</span><span class="w"> </span><span class="n">e</span><span class="p">)</span><span class="w"> </span><span class="p">{}</span>
+<span class="w">            </span><span class="n">System</span><span class="p">.</span><span class="na">out</span><span class="p">.</span><span class="na">println</span><span class="p">(</span><span class="s">"C: 线程1 完成"</span><span class="p">);</span>
+<span class="w">            </span><span class="n">latch</span><span class="p">.</span><span class="na">countDown</span><span class="p">();</span>
+<span class="w">        </span><span class="p">}).</span><span class="na">start</span><span class="p">();</span>
+
+<span class="w">        </span><span class="k">new</span><span class="w"> </span><span class="n">Thread</span><span class="p">(()</span><span class="w"> </span><span class="o">-&gt;</span><span class="w"> </span><span class="p">{</span>
+<span class="w">            </span><span class="n">System</span><span class="p">.</span><span class="na">out</span><span class="p">.</span><span class="na">println</span><span class="p">(</span><span class="s">"D: 线程2 开始"</span><span class="p">);</span>
+<span class="w">            </span><span class="k">try</span><span class="w"> </span><span class="p">{</span><span class="w"> </span><span class="n">Thread</span><span class="p">.</span><span class="na">sleep</span><span class="p">(</span><span class="mi">300</span><span class="p">);</span><span class="w"> </span><span class="p">}</span><span class="w"> </span><span class="k">catch</span><span class="w"> </span><span class="p">(</span><span class="n">Exception</span><span class="w"> </span><span class="n">e</span><span class="p">)</span><span class="w"> </span><span class="p">{}</span>
+<span class="w">            </span><span class="n">System</span><span class="p">.</span><span class="na">out</span><span class="p">.</span><span class="na">println</span><span class="p">(</span><span class="s">"E: 线程2 完成"</span><span class="p">);</span>
+<span class="w">            </span><span class="n">latch</span><span class="p">.</span><span class="na">countDown</span><span class="p">();</span>
+<span class="w">        </span><span class="p">}).</span><span class="na">start</span><span class="p">();</span>
+
+<span class="w">        </span><span class="n">latch</span><span class="p">.</span><span class="na">await</span><span class="p">();</span>
+<span class="w">        </span><span class="n">System</span><span class="p">.</span><span class="na">out</span><span class="p">.</span><span class="na">println</span><span class="p">(</span><span class="s">"F: 主线程继续"</span><span class="p">);</span>
+<span class="w">    </span><span class="p">}</span>
+<span class="p">}</span>
+</code></pre></div>
+
+<p><strong>问题：</strong></p>
+<ul>
+<li>写出所有可能的输出顺序（至少 3 种）。</li>
+<li>如果 <code>latch.await()</code> 改为 <code>latch.await(1, TimeUnit.SECONDS)</code> 会发生什么？</li>
+</ul>
+<hr />
+<h3 id="作业三使用-ConcurrentHashMap-实现词频统计">作业三：使用 ConcurrentHashMap 实现词频统计</h3>
+<p>编写一个多线程词频统计程序，使用 <code>ConcurrentHashMap</code> 统计文件中单词出现次数（模拟）。</p>
+<p><strong>要求：</strong></p>
+<ul>
+<li>创建 5 个线程，每个线程处理一段文本（可硬编码字符串数组）。</li>
+<li>使用 <code>ConcurrentHashMap</code> 存储统计结果。</li>
+<li>使用 <code>merge</code> 或 <code>compute</code> 原子更新单词计数。</li>
+<li>所有线程完成后，打印所有单词及其出现次数。</li>
+</ul>
+<p><strong>示例数据：</strong> 每个线程处理一段包含多个单词的文本（重复单词需要合并统计）。</p>
+<hr />
+<h3 id="作业四使用-Semaphore-实现资源限流">作业四：使用 Semaphore 实现资源限流</h3>
+<p>编写一个模拟数据库连接池的程序，使用 <code>Semaphore</code> 限制最大并发连接数为 3。</p>
+<p><strong>要求：</strong></p>
+<ul>
+<li>创建 <code>Semaphore</code> 许可证数为 3。</li>
+<li>创建 10 个线程，每个线程模拟获取连接（<code>acquire</code>）、执行业务操作（随机休眠 500~2000ms）、释放连接（<code>release</code>）。</li>
+<li>打印每个线程获取连接和释放连接的时间（或日志），观察并发数不会超过 3。</li>
+</ul>13:["$","article",null,{"className":"doc","id":"content","children":[["$","div",null,{"className":"doc-head-row mb-2 flex items-center justify-between gap-4","children":[["$","p",null,{"className":"kicker","children":[["$","span",null,{"className":"kicker-num","children":"第 21 章"}],["$","span",null,{"className":"kicker-mod","children":"Java语言核心精讲"}]]}],["$","$L15",null,{"progressKey":"java-basic-21"}]]}],["$","h1",null,{"className":"doc-h1","children":"并发集合与同步工具类"}],"$undefined",["$","$L16",null,{"html":"$17"}],"$L18"]}]
+14:["$","$L19",null,{"sections":"$5:1:props:children:0:props:courses:4:modules:0:chapters:20:sections"}]
+1a:I[2619,["619","static/chunks/619-ba102abea3e3d0e4.js","526","static/chunks/app/course/%5Bkey%5D/%5Bch%5D/page-4b7f30b4efe73131.js"],""]
+18:["$","nav",null,{"className":"pager","aria-label":"章节导航","children":[["$","$L1a",null,{"className":"pager-link pager-prev","href":"/course/java-basic/20/","children":[["$","span",null,{"className":"pager-dir","children":"上一章"}],["$","span",null,{"className":"pager-name","children":"线程池与Executor框架"}]]}],["$","$L1a",null,{"className":"pager-link pager-next","href":"/course/java-basic/22/","children":[["$","span",null,{"className":"pager-dir","children":"下一章"}],["$","span",null,{"className":"pager-name","children":"高级并发与最佳实践"}]]}]]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+7:null
+9:{"metadata":[["$","title","0",{"children":"第 21 章  · Java语言核心精讲 · AI大全栈"}],["$","meta","1",{"name":"description","content":"袁进主讲的系列课程手册：Python 语言核心精讲、数据科学工具包、数据库、Python 框架、Agents 底层逻辑、LangGraph、LangChain + DeepAgent、Agent 观测与评估、Agent 基础建设、RAG 知识库。iOS 风格阅读体验，内置可运行的 Python 代码块。"}]],"error":null,"digest":"$undefined"}
+10:"$9:metadata"
