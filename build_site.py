@@ -99,6 +99,10 @@ SIBLINGS: list[dict] = [
         "title": "RAG 知识库",
         "desc": "以飞书知识库为真实数据源，完整实现企业 RAG 链路：文档获取与归一化、图片处理、结构化切片、Embedding、Milvus 索引及稠密与全文混合检索。",
     },
+    # Java 全栈：课件在工程外的 ../../java 目录（相对本工程上级目录）
+    {"key": "java-basic", "dir": "java-basic", "base": "../java", "glyph": "J", "cls": "b-java", "layout": "standard"},
+    {"key": "spring-boot", "dir": "spring-boot", "base": "../java", "glyph": "B", "cls": "b-ds", "layout": "standard"},
+    {"key": "spring-cloud", "dir": "spring-cloud", "base": "../java", "glyph": "C", "cls": "b3", "layout": "standard"},
 ]
 COURSEWARE_NAMES: tuple[str, ...] = ("课件.md", "课件.ipynb", "课件md")
 
@@ -301,8 +305,17 @@ def render_code_cell(cell: dict) -> str:
     return f'<div class="nb-cell">{body}{out_html}</div>'
 
 
+def normalize_asset_paths(text: str) -> str:
+    """统一资源写法：Windows 的 .\\assets\\x.png → ./assets/x.png。
+
+    部分课件在 Typora 里从 Windows 写成反斜杠，直接进 Markdown 会 404。
+    """
+    return re.sub(r"\.?[\\/]+assets[\\/]+", "./assets/", text)
+
+
 def rewrite_local_assets(text: str, prefix: str) -> str:
     """把课件里对本地 assets/ 的引用改写到站点目录（prefix 形如 assets/ch24）。"""
+    text = normalize_asset_paths(text)
     text = re.sub(r"\]\((?:\./)?assets/", f"]({prefix}/", text)
     return re.sub(
         r"""(src=\\?["'])(?:\./)?assets/""",
@@ -313,7 +326,7 @@ def rewrite_local_assets(text: str, prefix: str) -> str:
 
 def asset_refs_in_text(text: str) -> set[str]:
     """收集课件里引用的本地 assets 文件名（Markdown 与 HTML img 均支持）。"""
-    return set(re.findall(r"(?:\./)?assets/([^)\"'\\\s]+)", text or ""))
+    return set(re.findall(r"(?:\./)?assets/([^)\"'\\\s]+)", normalize_asset_paths(text or "")))
 
 
 def copy_referenced_files(src_dir: Path, dest_dir: Path, names: set[str]) -> int:
@@ -374,8 +387,12 @@ def course_source_root(sib: dict) -> Path:
 
     课程仓库同时用于逐章编写，当前工作树可能停在中间分支。站点发布需要
     完整课程，因此按 main 等发布引用取快照，不触碰课程工作树。
+    base 可选：课程目录不在本工程的上级目录时，用相对/绝对路径指定父级。
     """
-    root = ROOT.parent / sib["dir"]
+    base = Path(sib.get("base") or ".")
+    if not base.is_absolute():
+        base = ROOT.parent / base
+    root = base / sib["dir"]
     ref = sib.get("ref")
     if not ref or not (root / ".git").exists():
         return root

@@ -41,18 +41,21 @@ FAMILIES: list[dict] = [
     {
         "key": "dev",
         "name": "编程与工程基础",
-        "courses": ["py", "fw", "db", "dst", "java", "cloud"],
+        "courses": [
+            "py",
+            "fw",
+            "db",
+            "dst",
+            "java-basic",
+            "spring-boot",
+            "spring-cloud",
+            "cloud",
+        ],
     },
 ]
 
 # 占位课程（内容未更新，先建分类空位）
 COMING_SOON: dict[str, dict] = {
-    "java": {
-        "title": "Java",
-        "desc": "Java 语言与 Web 开发课程，内容更新中，敬请期待。",
-        "glyph": "J",
-        "cls": "b-java",
-    },
     "cloud": {
         "title": "云计算",
         "desc": "云计算与运维课程，内容更新中，敬请期待。",
