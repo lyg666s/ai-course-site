@@ -1,7 +1,7 @@
 "use client";
 
 import Link from "next/link";
-import { useEffect, useState, type MouseEvent } from "react";
+import { memo, useCallback, useEffect, useState, type MouseEvent } from "react";
 import { usePathname } from "next/navigation";
 import { getDone, type DoneMap } from "@/lib/progress";
 
@@ -68,13 +68,16 @@ export default function Sidebar({
     document.body.classList.remove("nav-open");
   }, [pathname]);
 
-  const toggle = (id: string) =>
-    setOpen((prev) => {
-      const next = new Set(prev);
-      if (next.has(id)) next.delete(id);
-      else next.add(id);
-      return next;
-    });
+  const toggle = useCallback(
+    (id: string) =>
+      setOpen((prev) => {
+        const next = new Set(prev);
+        if (next.has(id)) next.delete(id);
+        else next.add(id);
+        return next;
+      }),
+    []
+  );
 
   const closeNav = () => document.body.classList.remove("nav-open");
 
@@ -117,44 +120,49 @@ export default function Sidebar({
                     <span className={`badge badge-mini ${course.cls}`} aria-hidden>{course.glyph}</span>
                     <span className="side-cat-name">{course.title}</span>
                   </button>
+                  {/* 折叠分支不渲染内容：整棵目录 800+ 链接会让每页 HTML 多出上百 KB */}
                   <div className="fold-body">
-                    <div className="fold-inner">
-                      {course.coming_soon && (
-                        <p className="coming-pill mx-3 my-2">即将上线</p>
-                      )}
-                      {course.modules.map((mod, mi) => {
-                        const mid = `m-${course.key}-${mod.name}`;
-                        const single = course.modules.length === 1;
-                        const rows = mod.chapters.map((ch) => (
-                          <ChapterRow
-                            key={ch.slug}
-                            ch={ch}
-                            courseKey={course.key}
-                            done={!!done[ch.progress_key]}
-                            open={open.has(`ch-${course.key}-${ch.slug}`)}
-                            toggle={toggle}
-                          />
-                        ));
-                        return single ? (
-                          <div key={mi}>{rows}</div>
-                        ) : (
-                          <div className={`fold ${open.has(mid) ? "open" : ""}`} key={mi}>
-                            <button
-                              type="button"
-                              className="fold-head side-mod-head"
-                              aria-expanded={open.has(mid)}
-                              onClick={() => toggle(mid)}
-                            >
-                              <span className="side-chev" aria-hidden>›</span>
-                              {mod.name}
-                            </button>
-                            <div className="fold-body">
-                              <div className="fold-inner">{rows}</div>
+                    {isOpen && (
+                      <div className="fold-inner">
+                        {course.coming_soon && (
+                          <p className="coming-pill mx-3 my-2">即将上线</p>
+                        )}
+                        {course.modules.map((mod, mi) => {
+                          const mid = `m-${course.key}-${mod.name}`;
+                          const single = course.modules.length === 1;
+                          const rows = mod.chapters.map((ch) => (
+                            <ChapterRow
+                              key={ch.slug}
+                              ch={ch}
+                              courseKey={course.key}
+                              done={!!done[ch.progress_key]}
+                              open={open.has(`ch-${course.key}-${ch.slug}`)}
+                              toggle={toggle}
+                            />
+                          ));
+                          return single ? (
+                            <div key={mi}>{rows}</div>
+                          ) : (
+                            <div className={`fold ${open.has(mid) ? "open" : ""}`} key={mi}>
+                              <button
+                                type="button"
+                                className="fold-head side-mod-head"
+                                aria-expanded={open.has(mid)}
+                                onClick={() => toggle(mid)}
+                              >
+                                <span className="side-chev" aria-hidden>›</span>
+                                {mod.name}
+                              </button>
+                              {open.has(mid) && (
+                                <div className="fold-body">
+                                  <div className="fold-inner">{rows}</div>
+                                </div>
+                              )}
                             </div>
-                          </div>
-                        );
-                      })}
-                    </div>
+                          );
+                        })}
+                      </div>
+                    )}
                   </div>
                 </div>
               </div>
@@ -174,7 +182,7 @@ export default function Sidebar({
   );
 }
 
-function ChapterRow({
+const ChapterRow = memo(function ChapterRow({
   ch,
   courseKey,
   done,
@@ -213,7 +221,7 @@ function ChapterRow({
           </button>
         )}
       </div>
-      {hasSecs && (
+      {hasSecs && open && (
         <div className="fold-body">
           <div className="fold-inner">
             <div className="side-sec">
@@ -228,4 +236,4 @@ function ChapterRow({
       )}
     </div>
   );
-}
+});

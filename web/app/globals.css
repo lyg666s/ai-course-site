@@ -557,6 +557,16 @@ pre[contenteditable="true"] { outline: none; caret-color: var(--blue); -webkit-u
   .codecard-bar { padding: 10px 10px 0 18px; }
   .codecard-out { padding: 12px 18px 14px; }
 
+  /* 手机端性能：模糊和超大投影都会让抽屉滑动掉帧 */
+  .topnav {
+    -webkit-backdrop-filter: none;
+    backdrop-filter: none;
+    background: var(--bg);
+  }
+  body.nav-open .sidebar { transform: none; box-shadow: 0 0 28px rgba(0, 0, 0, 0.22); }
+  .side-nav { overscroll-behavior: contain; }
+  .doc { animation: none; }
+
   /* 手机端放大点击热区：目录小箭头 / 章节行 / 小节链接 */
   .side-link { padding: 10px 12px; }
   .side-fold {
@@ -567,4 +577,7 @@ pre[contenteditable="true"] { outline: none; caret-color: var(--blue); -webkit-u
   .side-sec { padding: 0 6px 6px 40px; }
   .side-sec a { padding: 8px 10px; font-size: 13px; }
   .side-course-head, .side-mod-head { padding-top: 9px; padding-bottom: 9px; }
+
+  .side-link, .side-sec a, .side-fold, .side-course-head, .side-mod-head,
+  .burger-btn, .pager-link { touch-action: manipulation; }
 }
