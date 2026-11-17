@@ -267,6 +267,7 @@ def main() -> None:
                 search_secs = search_secs_for_md(ipynb_markdown_text(ch["src"]))
             else:
                 md = ch["src"].read_text(encoding="utf-8")
+                md = bs.strip_leading_title(md, ch["title"])
                 if prefix:
                     md = bs.rewrite_local_assets(md, prefix)
                 html, toc = bs.convert_md(md, runnable=False)

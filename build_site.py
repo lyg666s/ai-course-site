@@ -158,6 +158,24 @@ def strip_leading_h1(text: str) -> str:
     return re.sub(r"^\s*#\s+[^\n]+\n+", "", text, count=1)
 
 
+def strip_leading_title(text: str, title: str) -> str:
+    """首行一级标题与章节名一致时才去掉，避免与页面标题重复。
+
+    课件里有的写了 `# 章节名`，有的没写；只去掉“确实重复”的那种，
+    其余一级标题原样保留，避免误删正文里的小标题。
+    """
+    m = re.match(r"^\s*#\s+([^\n]+)\n+", text)
+    if not m:
+        return text
+
+    def norm(s: str) -> str:
+        return re.sub(r"[\s:：，,。.、]+", "", s).lower()
+
+    if norm(m.group(1)) == norm(title):
+        return text[m.end() :]
+    return text
+
+
 FENCE_RE = re.compile(r"^```([A-Za-z0-9_+-]*)[ \t]*\n(.*?)^```", re.S | re.M)
 
 
