@@ -10,7 +10,8 @@ const PATH = [
   { step: "03", name: "Python 框架", href: "/course/fw/", desc: "FastAPI · SQLAlchemy · 部署上云" },
   { step: "04", name: "AI · Agent 开发", href: "/agent/", desc: "底层逻辑 · LangGraph · DeepAgent" },
   { step: "05", name: "AI · Agent 工程化", href: "/engineering/", desc: "观测评估 · 基础设施 · RAG 知识库" },
-  { step: "06", name: "Java · 云计算", href: "/course/java/", desc: "即将上线", soon: true },
+  { step: "06", name: "Java 全栈", href: "/course/java-basic/", desc: "语言核心 · Spring Boot · Spring Cloud Alibaba" },
+  { step: "07", name: "云计算", href: "/course/cloud/", desc: "即将上线", soon: true },
 ];
 
 export default function Home() {

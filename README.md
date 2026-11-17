@@ -2,7 +2,7 @@
 
 纯静态课程阅读站，由 [`build_site.py`](build_site.py) 从本地课件（Markdown / Jupyter Notebook）自动生成，通过 GitHub Pages 托管。
 
-收录十门课程：
+收录十四门课程：
 
 1. Python语言核心精讲
 2. 数据库
@@ -14,6 +14,10 @@
 8. Agent观测与评估
 9. Agent基础建设
 10. RAG知识库
+11. Java语言核心精讲
+12. 单体系统和Spring Boot
+13. Spring Cloud Alibaba
+14. 云计算（占位，内容更新中）
 
 **功能**：三级折叠目录 · 全文搜索 · 章节“我的理解” · 分板块面试题库（作答/判分/解析） · 可编辑并运行的 Python 代码块（内置 Pyodide，离线可用）· 学习进度记录 · 每页目录 · 深色模式 · 移动端适配。
 
