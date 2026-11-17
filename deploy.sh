@@ -71,7 +71,8 @@ git worktree remove "$WORKTREE" --force 2>/dev/null || true
 CSS_PATH=$(grep -o '/ai-course-site/_next/static/css/[a-z0-9]*\.css' web/out/index.html | head -1 || true)
 if [ -n "$CSS_PATH" ]; then
   for i in $(seq 1 12); do
-    if curl -sf --max-time 10 "$SITE_URL$CSS_PATH" -o /dev/null; then
+    if curl -sf --max-time 10 --noproxy '*' "$SITE_URL$CSS_PATH" -o /dev/null \
+      || curl -sf --max-time 10 "$SITE_URL$CSS_PATH" -o /dev/null; then
       echo "✓ 部署完成，线上已是本次构建：$SITE_URL/"
       exit 0
     fi
